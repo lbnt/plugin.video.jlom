@@ -88,8 +88,6 @@ def list_folders(folder_list):
         is_folder = True
         # Add our item to the Kodi virtual folder listing.
         xbmcplugin.addDirectoryItem(HANDLE, url, list_item, is_folder)
-    # Add sort methods for the virtual folder items
-    xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_LABEL_IGNORE_THE)
     # Finish creating a virtual folder.
     xbmcplugin.endOfDirectory(HANDLE)
 
