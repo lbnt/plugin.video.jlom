@@ -58,11 +58,11 @@ def list_folders(folder_list):
         return
     
     #get the folders!
-    folders = folder_list["folders"]
+    folders = folder_list['folders']
     
 
-    # Set plugin category
-    xbmcplugin.setPluginCategory(HANDLE, 'List of movies')
+    # Set subtitle
+    xbmcplugin.setPluginCategory(HANDLE, folder_list['title'])
     # Set plugin content
     xbmcplugin.setContent(HANDLE, 'movies')
     xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_UNSORTED)
@@ -74,20 +74,24 @@ def list_folders(folder_list):
 
         # Create a list item with a text label.
         list_item = xbmcgui.ListItem(label=title)
+        
         # Set additional info for the list item using its InfoTag.
         info_tag = list_item.getVideoInfoTag()
-        info_tag.setMediaType('video')
+        info_tag.setMediaType('set')
         info_tag.setTitle(title)
-        #info_tag.setGenres([genre_info['genre']])
+        
         # Create a URL for a plugin recursive call.
         if folder["type"] == "folder_list":
             url = get_url(action='list_folders', id=folder["id"])
         elif folder["type"] == "movie_list":
             url = get_url(action='list_movies', id=folder["id"])
+        
         # is_folder = True means that this item opens a sub-list of lower level items.
         is_folder = True
+        
         # Add our item to the Kodi virtual folder listing.
         xbmcplugin.addDirectoryItem(HANDLE, url, list_item, is_folder)
+    
     # Finish creating a virtual folder.
     xbmcplugin.endOfDirectory(HANDLE)
 
@@ -143,7 +147,8 @@ def list_movies(movie_list):
     movies = movie_list["movies"]
     ordered_by = movie_list["ordered_by"]
 
-    
+    # Set subtitle
+    xbmcplugin.setPluginCategory(HANDLE, movie_list['title'])
     # Set plugin content
     xbmcplugin.setContent(HANDLE, 'movies')
 
@@ -185,12 +190,13 @@ def list_movies(movie_list):
             #without year, abort
             local_id = None
         
-        #if found make it playable
+        #if found, make it playable
         if local_id != None :
             #difference between available and not available item 
             list_item.setProperty('IsPlayable', 'true')
             list_item.setInfo("video", {"overlay": xbmcgui.ICON_OVERLAY_HD})
-            info_tag.setTagLine("Ranked %s\n" % (str(index +1)))
+            if ordered_by == "rank":
+                info_tag.setTagLine("Ranked %s" % (str(index +1)))
             # Create a URL for a plugin recursive call.
             url = get_url(action='play', id=local_id, title=movie['original_title'])
         #if not we will search for it
