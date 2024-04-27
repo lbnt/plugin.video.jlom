@@ -176,7 +176,7 @@ def list_movies(movie_list):
         # Set additional info for the list item via InfoTag.
         info_tag = list_item.getVideoInfoTag()
         info_tag.setMediaType('movie')
-        #info_tag.setTitle(movie['title'])
+        info_tag.setTitle(movie['title'])
         #info_tag.setGenres([genre_info['genre']])
         info_tag.setPlot(movie['overview'])
         if movie['release_date'] != '':
@@ -198,7 +198,11 @@ def list_movies(movie_list):
         #if not we will search for it
         else:
             list_item.setProperty('IsPlayable', 'false')
-            info_tag.setTagLine("Ranked %s\n" % (str(index +1)) + "Movie not in your libray")
+            if ordered_by == "rank":
+                info_tag.setTagLine("Ranked %s\n" % (str(index +1)) + "Not in your libray")
+            else:
+                info_tag.setTagLine("Not in your libray")
+            
             url = get_url(action='play', id="0", title=movie['original_title'])
 
         # Add the list item to a virtual Kodi folder.
@@ -271,9 +275,6 @@ def router(paramstring):
     """
     Router function that calls other functions
     depending on the provided paramstring
-
-    :param paramstring: URL encoded plugin paramstring
-    :type paramstring: str
     """
 
     # Parse a URL-encoded paramstring to the dictionary of
