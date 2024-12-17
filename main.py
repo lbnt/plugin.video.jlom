@@ -135,6 +135,42 @@ def get_media(title, year):
     else:
         return None
 
+def get_movie_details(id):
+    
+    #Construct the JSON-RPC query
+    json_query = {
+        "jsonrpc": "2.0",
+        "method": "VideoLibrary.GetMovieDetails",
+        "params": {"movieid": id,
+        "properties": ["director",
+                        "art",
+                        "fanart",
+                        "file",
+                        "genre",
+                        "imdbnumber",
+                        "lastplayed",
+                        "originaltitle",
+                        "playcount",
+                        "plot",
+                        "plotoutline",
+                        "premiered",
+                        "rating", "runtime", #"resume",
+                        "setid", "sorttitle", "streamdetails",
+                        "thumbnail",
+                        "title",
+                        "userrating",
+                        "votes"]},
+        "id": "1"}
+
+    # Execute the JSON-RPC query
+    response = xbmc.executeJSONRPC(json.dumps(json_query))
+
+    # Parse the response
+    result = json.loads(response)
+
+    return result
+
+
 def list_movies(movie_list):
     """
     Create the list of movies in the Kodi interface.
@@ -192,6 +228,19 @@ def list_movies(movie_list):
         
         #if found, make it playable
         if local_id != None :
+            #get the movie details from the db
+            movie_details = get_movie_details(local_id)
+            
+            #set info from db
+            info_tag.setDbId(local_id)
+            info_tag.setTitle(movie_details["result"]["moviedetails"]["title"])
+            info_tag.setGenres(movie_details["result"]["moviedetails"]["genre"])
+            info_tag.setPlot(movie_details["result"]["moviedetails"]["plot"])
+            info_tag.setDuration(movie_details["result"]["moviedetails"]["runtime"])
+            info_tag.setFilenameAndPath(movie_details["result"]["moviedetails"]["file"])
+            info_tag.setPremiered(movie_details["result"]["moviedetails"]["premiered"])
+            info_tag.setPlaycount(movie_details["result"]["moviedetails"]["playcount"])
+
             #difference between available and not available item 
             list_item.setProperty('IsPlayable', 'true')
             list_item.setInfo("video", {"overlay": xbmcgui.ICON_OVERLAY_HD})
