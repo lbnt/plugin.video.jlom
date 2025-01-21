@@ -103,8 +103,8 @@ def get_media(title, year):
 
     #year are often a problem when searching in the library
     #let's be less strict
-    year_minus_1 = str(int(year)-1)
-    year_plus_1 = str(int(year)+1)
+    year_minus_2 = str(int(year)-2)
+    year_plus_2 = str(int(year)+2)
 
     #Construct the JSON-RPC query
     json_query = {
@@ -115,7 +115,7 @@ def get_media(title, year):
                 "and":
                     [
                         {"field": "originaltitle", "operator": "is", "value": title},
-                        {"field": "year", "operator": "contains", "value": [ year, year_minus_1, year_plus_1 ]} ]
+                        {"field": "year", "operator": "contains", "value": [ year, year_minus_2, year_plus_2 ]} ]
             },
             "properties": ["title","imdbnumber"]
         },
@@ -134,6 +134,27 @@ def get_media(title, year):
         return result["result"]["movies"][0]["movieid"]
     else:
         return None
+
+def play_media(dbid):
+    
+    #Construct the JSON-RPC query
+    json_query = {
+        "jsonrpc": "2.0",
+        "method": "Player.Open",
+        "params": {
+            "item": {
+                "movieid": int(dbid)
+                },
+            "options":{
+                "resume":True
+                }           
+        },
+        "id": 1
+    }
+
+
+    # Execute the JSON-RPC query
+    response = xbmc.executeJSONRPC(json.dumps(json_query))
 
 def get_movie_details(id):
     
@@ -295,19 +316,6 @@ def get_movie_url(database_id):
     
     return None
 
-def play_movie(id):
-    """
-    Play a movie by the provided id.
-    """
-    play_item = xbmcgui.ListItem(offscreen=True)
-
-    movie_path = get_movie_url(id)
-
-    if movie_path :
-        play_item.setPath(movie_path)
-        # Pass the item to the Kodi player.
-        xbmcplugin.setResolvedUrl(HANDLE, True, listitem=play_item)
-
 def get_list(list_type, list_id):
 
     list_url = LIST_SERVER_URL + list_type + "?id=" + list_id
@@ -352,7 +360,7 @@ def router(paramstring):
             if choice == True:
                 xbmc.executebuiltin("RunScript(script.globalsearch,searchstring=%s)"%(params['title']))
         else:
-            play_movie(params['id'])
+            play_media(params['id'])
     else:
         # If the provided paramstring does not contain a supported action
         # we raise an exception. This helps to catch coding errors,
