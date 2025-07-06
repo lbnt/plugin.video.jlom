@@ -136,6 +136,12 @@ def get_media(title, year):
         return None
 
 def play_media(dbid):
+
+    #clear the playlist
+    xbmc.PlayList(xbmc.PLAYLIST_VIDEO).clear()
+
+    #close all dialogs
+    xbmc.executebuiltin('Dialog.Close(all,true)')
     
     #Construct the JSON-RPC query
     json_query = {
@@ -155,6 +161,18 @@ def play_media(dbid):
 
     # Execute the JSON-RPC query
     response = xbmc.executeJSONRPC(json.dumps(json_query))
+
+def play_media2(dbid):
+    #clear the playlist
+    xbmc.PlayList(xbmc.PLAYLIST_VIDEO).clear()
+
+    #close all dialogs
+    xbmc.executebuiltin('Dialog.Close(all,true)')
+    
+    #play
+    play_item = xbmcgui.ListItem(offscreen=True)
+    play_item.setPath(get_movie_url(dbid))
+    xbmcplugin.setResolvedUrl(HANDLE, True, play_item)
 
 def get_movie_details(id):
     
@@ -265,6 +283,8 @@ def list_movies(movie_list):
             #difference between available and not available item 
             list_item.setProperty('IsPlayable', 'true')
             list_item.setInfo("video", {"overlay": xbmcgui.ICON_OVERLAY_HD})
+            
+            
             if ordered_by == "rank":
                 info_tag.setTagLine("Ranked %s" % (str(index +1)))
             # Create a URL for a plugin recursive call.
@@ -360,7 +380,8 @@ def router(paramstring):
             if choice == True:
                 xbmc.executebuiltin("RunScript(script.globalsearch,searchstring=%s)"%(params['title']))
         else:
-            play_media(params['id'])
+            #play_media(params['id'])
+            play_media2(params['id'])
     else:
         # If the provided paramstring does not contain a supported action
         # we raise an exception. This helps to catch coding errors,
