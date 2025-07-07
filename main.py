@@ -103,6 +103,8 @@ def get_media(title, year):
 
     #year are often a problem when searching in the library
     #let's be less strict
+    year_minus_1 = str(int(year)-1)
+    year_plus_1 = str(int(year)+1)
     year_minus_2 = str(int(year)-2)
     year_plus_2 = str(int(year)+2)
 
@@ -115,7 +117,7 @@ def get_media(title, year):
                 "and":
                     [
                         {"field": "originaltitle", "operator": "is", "value": title},
-                        {"field": "year", "operator": "contains", "value": [ year, year_minus_2, year_plus_2 ]} ]
+                        {"field": "year", "operator": "is", "value": [ year, year_minus_1, year_plus_1, year_minus_2, year_plus_2 ]} ]
             },
             "properties": ["title","imdbnumber"]
         },
