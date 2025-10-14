@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.jlom" version="0.0.8" name="Just Lists Of Movies" provider-name="lbnt">
+<addon id="plugin.video.jlom" version="0.1.0" name="Just Lists Of Movies" provider-name="lbnt">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests"/>
@@ -18,6 +18,6 @@
     <fanart>resources/images/fanart.jpg</fanart>
     <screenshot>resources/images/screenshot.jpg</screenshot>
   </assets>
-  <news>First release</news>
+  <news>First stable release</news>
 </extension>
 </addon>

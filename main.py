@@ -145,36 +145,48 @@ def play_media(dbid):
     #close all dialogs
     xbmc.executebuiltin('Dialog.Close(all,true)')
     
-    #Construct the JSON-RPC query
-    json_query = {
-        "jsonrpc": "2.0",
-        "method": "Player.Open",
-        "params": {
-            "item": {
-                "movieid": int(dbid)
-                },
-            "options":{
-                "resume":True
-                }           
-        },
-        "id": 1
-    }
+    #path = get_movie_url(dbid)
+    path = f'videodb://movies/titles/{dbid}'
 
+    #play item
+    play_item = xbmcgui.ListItem(path=path,offscreen=True)
+    play_item.setProperty('IsPlayable', "true")
+    #play_item.setProperty('ForceResolvePlugin', "false")
+    
+    # add a video info tag, so kodi knows it's a video item
+    #play_item_tag = play_item.getVideoInfoTag()
+    #play_item_tag.setMediaType('video')
+    #play_item_tag.setDbId(int(dbid))
+    #play_item_tag.setPath(path)
+    #play_item_tag.setFilenameAndPath(path)
 
-    # Execute the JSON-RPC query
-    response = xbmc.executeJSONRPC(json.dumps(json_query))
+    #not finishing properly with setResolvedUrl, using PlayMedia instead, raise an eror in the log but works
+    xbmc.executebuiltin(f'PlayMedia("{path}")')
 
-def play_media2(dbid):
+def show_info_dialog(dbid):
     #clear the playlist
     xbmc.PlayList(xbmc.PLAYLIST_VIDEO).clear()
 
     #close all dialogs
     xbmc.executebuiltin('Dialog.Close(all,true)')
     
-    #play
-    play_item = xbmcgui.ListItem(offscreen=True)
-    play_item.setPath(get_movie_url(dbid))
-    xbmcplugin.setResolvedUrl(HANDLE, True, play_item)
+    #path = get_movie_url(dbid)
+    path = f'videodb://movies/titles/{dbid}'
+
+    #play item
+    play_item = xbmcgui.ListItem(path=path,offscreen=True)
+    play_item.setProperty('IsPlayable', "true")
+    #play_item.setProperty('ForceResolvePlugin', "false")
+    
+    # add a video info tag, so kodi knows it's a video item
+    #play_item_tag = play_item.getVideoInfoTag()
+    #play_item_tag.setMediaType('video')
+    #play_item_tag.setDbId(int(dbid))
+    #play_item_tag.setPath(path)
+    #play_item_tag.setFilenameAndPath(path)
+    
+    dialog = xbmcgui.Dialog()
+    dialog.info(play_item)
 
 def get_movie_details(id):
     
@@ -273,7 +285,8 @@ def list_movies(movie_list):
             movie_details = get_movie_details(local_id)
             
             #set info from db
-            info_tag.setDbId(local_id)
+            info_tag.setDbId(int(local_id))
+            info_tag.setPath(f'videodb://movies/titles/{local_id}')
             info_tag.setTitle(movie_details["result"]["moviedetails"]["title"])
             info_tag.setGenres(movie_details["result"]["moviedetails"]["genre"])
             info_tag.setPlot(movie_details["result"]["moviedetails"]["plot"])
@@ -284,14 +297,14 @@ def list_movies(movie_list):
 
             #difference between available and not available item 
             list_item.setProperty('IsPlayable', 'true')
-            list_item.setInfo("video", {"overlay": xbmcgui.ICON_OVERLAY_HD})
+            #list_item.setInfo("video", {"overlay": xbmcgui.ICON_OVERLAY_HD}) #does not work anyway
             
             
             if ordered_by == "rank":
                 info_tag.setTagLine("Ranked %s" % (str(index +1)))
             # Create a URL for a plugin recursive call.
             url = get_url(action='play', id=local_id, title=movie['original_title'])
-        #if not we will search for it
+        #if not ...
         else:
             list_item.setProperty('IsPlayable', 'false')
             if ordered_by == "rank":
@@ -382,8 +395,8 @@ def router(paramstring):
             if choice == True:
                 xbmc.executebuiltin("RunScript(script.globalsearch,searchstring=%s)"%(params['title']))
         else:
-            #play_media(params['id'])
-            play_media2(params['id'])
+            play_media(params['id'])
+            #show_info_dialog(params['id'])
     else:
         # If the provided paramstring does not contain a supported action
         # we raise an exception. This helps to catch coding errors,
