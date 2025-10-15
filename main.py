@@ -151,17 +151,9 @@ def play_media(dbid):
     #play item
     play_item = xbmcgui.ListItem(path=path,offscreen=True)
     play_item.setProperty('IsPlayable', "true")
-    #play_item.setProperty('ForceResolvePlugin', "false")
     
-    # add a video info tag, so kodi knows it's a video item
-    #play_item_tag = play_item.getVideoInfoTag()
-    #play_item_tag.setMediaType('video')
-    #play_item_tag.setDbId(int(dbid))
-    #play_item_tag.setPath(path)
-    #play_item_tag.setFilenameAndPath(path)
+    xbmcplugin.setResolvedUrl(HANDLE, True, listitem=play_item)
 
-    #not finishing properly with setResolvedUrl, using PlayMedia instead, raise an eror in the log but works
-    xbmc.executebuiltin(f'PlayMedia("{path}")')
 
 def show_info_dialog(dbid):
     #clear the playlist
@@ -176,14 +168,6 @@ def show_info_dialog(dbid):
     #play item
     play_item = xbmcgui.ListItem(path=path,offscreen=True)
     play_item.setProperty('IsPlayable', "true")
-    #play_item.setProperty('ForceResolvePlugin', "false")
-    
-    # add a video info tag, so kodi knows it's a video item
-    #play_item_tag = play_item.getVideoInfoTag()
-    #play_item_tag.setMediaType('video')
-    #play_item_tag.setDbId(int(dbid))
-    #play_item_tag.setPath(path)
-    #play_item_tag.setFilenameAndPath(path)
     
     dialog = xbmcgui.Dialog()
     dialog.info(play_item)
@@ -302,8 +286,9 @@ def list_movies(movie_list):
             
             if ordered_by == "rank":
                 info_tag.setTagLine("Ranked %s" % (str(index +1)))
-            # Create a URL for a plugin recursive call.
-            url = get_url(action='play', id=local_id, title=movie['original_title'])
+            
+            # Direct play url
+            url = f'videodb://movies/titles/{local_id}'
         #if not ...
         else:
             list_item.setProperty('IsPlayable', 'false')
@@ -311,7 +296,7 @@ def list_movies(movie_list):
                 info_tag.setTagLine("Ranked %s\n" % (str(index +1)) + "Not in your libray")
             else:
                 info_tag.setTagLine("Not in your libray")
-            
+            # recursive call to offer to search using global search addon
             url = get_url(action='play', id="0", title=movie['original_title'])
 
         # Add the list item to a virtual Kodi folder.
@@ -388,13 +373,16 @@ def router(paramstring):
         # display a list of folders        
         list_folders(get_list("folder_list", params['id']))
     elif params['action'] == 'play':
-        # Play a movie from a provided URL.
+        # last stage callback
+
+        # if id is 0, the movie was not found in the library and we propose to search using global search plugin
         if params['id'] == "0":
             #Propose to search using global search plugin
             choice = xbmcgui.Dialog().yesno('Movie not found', 'Search using global search addon?', defaultbutton=xbmcgui.DLG_YESNO_YES_BTN)
             if choice == True:
                 xbmc.executebuiltin("RunScript(script.globalsearch,searchstring=%s)"%(params['title']))
-        else:
+        # should not happen as movie in the db are direct played
+        else: 
             play_media(params['id'])
             #show_info_dialog(params['id'])
     else:
