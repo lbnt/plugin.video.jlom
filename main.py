@@ -145,7 +145,7 @@ def play_media(dbid):
     #close all dialogs
     xbmc.executebuiltin('Dialog.Close(all,true)')
     
-    #path = get_movie_url(dbid)
+    #use videodb path for direct play
     path = f'videodb://movies/titles/{dbid}'
 
     #play item
@@ -153,24 +153,6 @@ def play_media(dbid):
     play_item.setProperty('IsPlayable', "true")
     
     xbmcplugin.setResolvedUrl(HANDLE, True, listitem=play_item)
-
-
-def show_info_dialog(dbid):
-    #clear the playlist
-    xbmc.PlayList(xbmc.PLAYLIST_VIDEO).clear()
-
-    #close all dialogs
-    xbmc.executebuiltin('Dialog.Close(all,true)')
-    
-    #path = get_movie_url(dbid)
-    path = f'videodb://movies/titles/{dbid}'
-
-    #play item
-    play_item = xbmcgui.ListItem(path=path,offscreen=True)
-    play_item.setProperty('IsPlayable', "true")
-    
-    dialog = xbmcgui.Dialog()
-    dialog.info(play_item)
 
 def get_movie_details(id):
     
@@ -297,7 +279,7 @@ def list_movies(movie_list):
             else:
                 info_tag.setTagLine("Not in your libray")
             # recursive call to offer to search using global search addon
-            url = get_url(action='play', id="0", title=movie['original_title'])
+            url = get_url(action='other_action', id=movie['id'], title=movie['original_title'])
 
         # Add the list item to a virtual Kodi folder.
         is_folder = False
@@ -308,42 +290,16 @@ def list_movies(movie_list):
     # Finish creating a virtual folder.
     xbmcplugin.endOfDirectory(HANDLE)
 
-def get_movie_url(database_id):
-    """
-    Try to get the movie path
-    """
-
-    # Prepare JSON-RPC query to get movie information by database ID
-    query = {
-        "jsonrpc": "2.0",
-        "method": "VideoLibrary.GetMovieDetails",
-        "params": {
-            "movieid": int(database_id),
-            "properties": ["file"]
-        },
-        "id": 1
-    }
-    
-    # Execute JSON-RPC query
-    result = xbmc.executeJSONRPC(json.dumps(query))
-    result_dict = json.loads(result)
-    
-    # Check if the query was successful and extract the URL
-    if "result" in result_dict and "moviedetails" in result_dict["result"]:
-        movie_details = result_dict["result"]["moviedetails"]
-        if "file" in movie_details:
-            return movie_details["file"]
-    
-    return None
-
 def get_list(list_type, list_id):
 
-    list_url = LIST_SERVER_URL + list_type + "?id=" + list_id
+    list_url = Addon().getSettingString('general_url')
+    list_url = list_url if list_url.endswith('/') else list_url + '/'
+    list_url += list_type + "?id=" + list_id
 
     try:
         response = requests.get(list_url, timeout=5)
     except requests.exceptions.RequestException as e:
-        print("Error requesting list url")
+        xbmc.log("Error requesting list url")
         raise
     else:
         if response.status_code == 200:
@@ -351,6 +307,229 @@ def get_list(list_type, list_id):
         else:
             return None
 
+def radarr_add_movie(movie_data):
+    """
+    Add a movie to Radarr
+    """
+
+    # Get Radarr URL and API token from addon settings
+    radarr_url = Addon().getSettingString('radarr_url')
+    radarr_token = Addon().getSettingString('radarr_token')
+
+    # Build the API endpoint URL
+    api_url = radarr_url if radarr_url.endswith('/') else radarr_url + '/'
+    api_url += "api/v3/movie"
+
+    # Set request headers with API key
+    headers = {
+        'X-Api-Key': radarr_token
+    }
+
+    try:
+        # Send POST request to Radarr to add the movie
+        response = requests.post(api_url, headers=headers, json=movie_data, timeout=5)
+    except requests.exceptions.RequestException as e:
+        # Log error if request fails
+        xbmc.log("Error adding movie to Radarr : exception")
+        return False
+    else:
+        # Success: movie added (HTTP 200 or 201)
+        if response.status_code in [200, 201]:
+            xbmc.log("Movie added to Radarr")
+            xbmcgui.Dialog().notification('Radarr', 'Movie added successfully', xbmcgui.NOTIFICATION_INFO)
+            return True
+        # Bad request (HTTP 400)
+        elif response.status_code == 400:
+            data = response.json()
+            error_message = data[0].get('errorMessage')
+            # Movie may already exist
+            if error_message == "This movie has already been added":
+                xbmc.log("Movie already exists in Radarr")
+                xbmcgui.Dialog().notification('Radarr', 'Movie already exists in Radarr', xbmcgui.NOTIFICATION_INFO)
+            # Other errors
+            else:
+                xbmcgui.Dialog().notification('Radarr', 'Failed to add movie to Radarr', xbmcgui.NOTIFICATION_ERROR)
+                xbmc.log(f"Failed to add movie to Radarr: {error_message}")
+            return False
+        else:
+            xbmcgui.Dialog().notification('Radarr', 'Failed to add movie to Radarr', xbmcgui.NOTIFICATION_ERROR)
+            xbmc.log(f"Failed to add movie to Radarr: {response.status_code} - {response.text}")
+            return False
+
+def radarr_add_movie_dialogs(id):
+    """
+    Add a movie to Radarr with user dialogs for folder and quality selection.
+    """
+
+    # Check Radarr connection before proceeding
+    if not radarr_check_connection():
+        xbmcgui.Dialog().notification('Radarr', 'Connection failed', xbmcgui.NOTIFICATION_ERROR)
+        return
+    
+    # Ask user to select a root folder for the movie
+    root_folder_path = radarr_root_folders_dialog()
+    if root_folder_path is None:
+        xbmcgui.Dialog().notification('Radarr', 'No root folder selected', xbmcgui.NOTIFICATION_ERROR)
+        return
+    
+    # Ask user to select a quality profile for the movie
+    quality_profile_id = radar_quality_profiles_dialog()
+    if quality_profile_id is None:
+        xbmcgui.Dialog().notification('Radarr', 'No quality profile selected', xbmcgui.NOTIFICATION_ERROR)
+        return
+
+    # Prepare movie data for Radarr API
+    movie_data = {
+        'tmdbId': id,  # The TMDB ID of the movie
+        'rootFolderPath': root_folder_path,  # Selected root folder path
+        'qualityProfileId': str(quality_profile_id),  # Selected quality profile ID
+        'monitored': True,  # Monitor the movie for downloads
+        'addOptions': {'searchForMovie': True}  # Search for the movie after adding
+    }
+    
+    # Send the request to add the movie to Radarr
+    return radarr_add_movie(movie_data)
+
+def radarr_check_connection():
+    """
+    Check Radarr connection by requesting system status endpoint.
+    Returns True if connection is successful, False otherwise.
+    """
+
+    # Get Radarr URL and API token from addon settings
+    radarr_url = Addon().getSettingString('radarr_url')
+    radarr_token = Addon().getSettingString('radarr_token')
+
+    # Build the API endpoint URL for system status
+    api_url = radarr_url if radarr_url.endswith('/') else radarr_url + '/'
+    api_url += "api/v3/system/status"
+
+    # Set request headers with API key
+    headers = {
+        'X-Api-Key': radarr_token
+    }
+
+    try:
+        # Send GET request to Radarr system status endpoint
+        response = requests.get(api_url, headers=headers, timeout=5)
+    except requests.exceptions.RequestException as e:
+        # Log error if request fails
+        xbmc.log("Error requesting Radarr status")
+        return False
+    else:
+        # Return True if status code is 200 (OK), otherwise False
+        if response.status_code == 200:
+            return True
+        else:
+            return False
+
+def radarr_get_root_folders():
+    """
+    Get the list of Radarr root folders from the Radarr API.
+    Returns a list of root folder objects or None if the request fails.
+    """
+    # Get Radarr URL and API token from addon settings
+    radarr_url = Addon().getSettingString('radarr_url')
+    radarr_token = Addon().getSettingString('radarr_token')
+
+    # Build the API endpoint URL for root folders
+    api_url = radarr_url if radarr_url.endswith('/') else radarr_url + '/'
+    api_url += "api/v3/rootfolder"
+
+    # Set request headers with API key
+    headers = {
+        'X-Api-Key': radarr_token
+    }
+
+    try:
+        # Send GET request to Radarr root folders endpoint
+        response = requests.get(api_url, headers=headers, timeout=5)
+    except requests.exceptions.RequestException as e:
+        xbmc.log("Error requesting Radarr root folders")
+        raise
+    else:
+        # Return list of root folders if status code is 200 (OK)
+        if response.status_code == 200:
+            return json.loads(response.text)
+        else:
+            return None
+
+def radarr_root_folders_dialog():
+    """
+    Show a dialog to select a Radarr root folder.
+    Returns the selected folder path or None if cancelled or error.
+    """
+    # Get root folders from Radarr
+    root_folders = radarr_get_root_folders()
+    if root_folders is None:
+        xbmcgui.Dialog().notification('Radarr', 'Error retrieving root folders', xbmcgui.NOTIFICATION_ERROR)
+        return None
+
+    # Extract folder paths for display
+    folder_paths = [folder['path'] for folder in root_folders]
+    dialog = xbmcgui.Dialog()
+    # Show selection dialog
+    selected = dialog.select('Select Root Folder', folder_paths)
+
+    # Return selected folder path or None if cancelled
+    if selected == -1:
+        return None
+    else:
+        return root_folders[selected]['path']
+
+def radarr_get_quality_profiles():
+    """
+    Get the list of Radarr quality profiles from the Radarr API.
+    Returns a list of quality profile objects or None if the request fails.
+    """
+    # Get Radarr URL and API token from addon settings
+    radarr_url = Addon().getSettingString('radarr_url')
+    radarr_token = Addon().getSettingString('radarr_token')
+
+    # Build the API endpoint URL for quality profiles
+    api_url = radarr_url if radarr_url.endswith('/') else radarr_url + '/'
+    api_url += "api/v3/qualityprofile"
+
+    # Set request headers with API key
+    headers = {
+        'X-Api-Key': radarr_token
+    }
+
+    try:
+        # Send GET request to Radarr quality profiles endpoint
+        response = requests.get(api_url, headers=headers, timeout=5)
+    except requests.exceptions.RequestException as e:
+        xbmc.log("Error requesting Radarr quality profiles")
+        raise
+    else:
+        # Return list of quality profiles if status code is 200 (OK)
+        if response.status_code == 200:
+            return json.loads(response.text)
+        else:
+            return None
+
+def radar_quality_profiles_dialog():
+    """
+    Show a dialog to select a Radarr quality profile.
+    Returns the selected profile ID or None if cancelled or error.
+    """
+    # Get quality profiles from Radarr
+    profiles = radarr_get_quality_profiles()
+    if profiles is None:
+        xbmcgui.Dialog().notification('Radarr', 'Error retrieving quality profiles', xbmcgui.NOTIFICATION_ERROR)
+        return None
+
+    # Extract profile names for display
+    profile_names = [profile['name'] for profile in profiles]
+    dialog = xbmcgui.Dialog()
+    # Show selection dialog
+    selected = dialog.select('Select Quality Profile', profile_names)
+
+    # Return selected profile ID or None if cancelled
+    if selected == -1:
+        return None
+    else:
+        return profiles[selected]['id']
 
 def router(paramstring):
     """
@@ -372,19 +551,21 @@ def router(paramstring):
     elif params['action'] == 'list_folders':
         # display a list of folders        
         list_folders(get_list("folder_list", params['id']))
-    elif params['action'] == 'play':
+    elif params['action'] == 'other_action':
         # last stage callback
 
-        # if id is 0, the movie was not found in the library and we propose to search using global search plugin
-        if params['id'] == "0":
-            #Propose to search using global search plugin
-            choice = xbmcgui.Dialog().yesno('Movie not found', 'Search using global search addon?', defaultbutton=xbmcgui.DLG_YESNO_YES_BTN)
-            if choice == True:
-                xbmc.executebuiltin("RunScript(script.globalsearch,searchstring=%s)"%(params['title']))
-        # should not happen as movie in the db are direct played
-        else: 
-            play_media(params['id'])
-            #show_info_dialog(params['id'])
+        # the movie was not found in the library and we propose other actions
+        other_actions = ['Search in library']
+        if Addon().getSettingBool('radarr_enable') == True :
+            other_actions.append('Add to radarr')
+        
+        choice = xbmcgui.Dialog().contextmenu(other_actions)
+        if choice == 0:
+            #search in library
+            xbmc.executebuiltin("RunScript(script.globalsearch,movies=true&searchstring=%s)"%(params['title']))
+        elif choice == 1:
+            #add to Radarr
+            radarr_add_movie_dialogs(params['id'])
     else:
         # If the provided paramstring does not contain a supported action
         # we raise an exception. This helps to catch coding errors,
