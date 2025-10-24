@@ -26,6 +26,7 @@ from xbmcaddon import Addon
 from xbmcvfs import translatePath
 
 import requests
+#import requests_cache
 #import web_pdb;
 
 # Get the plugin url in plugin:// notation.
@@ -40,8 +41,11 @@ FANART_DIR = os.path.join(ADDON_PATH, 'resources', 'images', 'fanart')
 #TMDB url for poster and fanart
 TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
-#lists server url
-LIST_SERVER_URL= "http://jlom.fly.dev/"
+ADDON_USER_DATA_FOLDER = translatePath(Addon().getAddonInfo('profile'))
+CACHE_FILE          = translatePath(os.path.join(ADDON_USER_DATA_FOLDER, 'requests_cache'))
+
+#cache expires after: 86400=1day   604800=7 days
+#requests_cache.install_cache(CACHE_FILE, backend='sqlite', expire_after=604800 )  
 
 def get_url(**kwargs):
     """
@@ -294,12 +298,13 @@ def get_list(list_type, list_id):
 
     list_url = Addon().getSettingString('general_url')
     list_url = list_url if list_url.endswith('/') else list_url + '/'
-    list_url += list_type + "?id=" + list_id
+    #list_url += list_type + "?id=" + list_id
+    list_url += f"{list_type}/{list_id}.json"
 
     try:
         response = requests.get(list_url, timeout=5)
     except requests.exceptions.RequestException as e:
-        xbmc.log("Error requesting list url")
+        xbmc.log("Error requesting list url",level=xbmc.LOGERROR)
         raise
     else:
         if response.status_code == 200:
@@ -330,7 +335,7 @@ def radarr_add_movie(movie_data):
         response = requests.post(api_url, headers=headers, json=movie_data, timeout=5)
     except requests.exceptions.RequestException as e:
         # Log error if request fails
-        xbmc.log("Error adding movie to Radarr : exception")
+        xbmc.log("Error adding movie to Radarr : exception", level=xbmc.LOGERROR)
         return False
     else:
         # Success: movie added (HTTP 200 or 201)
@@ -414,7 +419,7 @@ def radarr_check_connection():
         response = requests.get(api_url, headers=headers, timeout=5)
     except requests.exceptions.RequestException as e:
         # Log error if request fails
-        xbmc.log("Error requesting Radarr status")
+        xbmc.log("Error requesting Radarr status", level=xbmc.LOGERROR)
         return False
     else:
         # Return True if status code is 200 (OK), otherwise False
@@ -445,7 +450,7 @@ def radarr_get_root_folders():
         # Send GET request to Radarr root folders endpoint
         response = requests.get(api_url, headers=headers, timeout=5)
     except requests.exceptions.RequestException as e:
-        xbmc.log("Error requesting Radarr root folders")
+        xbmc.log("Error requesting Radarr root folders", level=xbmc.LOGERROR)
         raise
     else:
         # Return list of root folders if status code is 200 (OK)
@@ -499,7 +504,7 @@ def radarr_get_quality_profiles():
         # Send GET request to Radarr quality profiles endpoint
         response = requests.get(api_url, headers=headers, timeout=5)
     except requests.exceptions.RequestException as e:
-        xbmc.log("Error requesting Radarr quality profiles")
+        xbmc.log("Error requesting Radarr quality profiles", level=xbmc.LOGERROR)
         raise
     else:
         # Return list of quality profiles if status code is 200 (OK)

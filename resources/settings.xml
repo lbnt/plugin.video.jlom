@@ -5,7 +5,7 @@
 			<group id="lists" label="30001">
 				<setting id="general_url" type="string" label="30002" help="">
 					<level>0</level>
-					<default>http://jlom.fly.dev/</default>
+					<default>https://raw.githubusercontent.com/lbnt/jlom_lists/main/</default>
 					<constraints>
 						<allowempty>false</allowempty>
 					</constraints>
