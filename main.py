@@ -16,7 +16,6 @@
 import os
 import sys
 from urllib.parse import urlencode, parse_qsl
-import logging
 import json
 
 import xbmc
@@ -26,7 +25,7 @@ from xbmcaddon import Addon
 from xbmcvfs import translatePath
 
 import requests
-#import requests_cache
+from requests_cache import install_cache
 #import web_pdb;
 
 # Get the plugin url in plugin:// notation.
@@ -42,10 +41,18 @@ FANART_DIR = os.path.join(ADDON_PATH, 'resources', 'images', 'fanart')
 TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
 ADDON_USER_DATA_FOLDER = translatePath(Addon().getAddonInfo('profile'))
-CACHE_FILE          = translatePath(os.path.join(ADDON_USER_DATA_FOLDER, 'requests_cache'))
+CACHE_FILE = translatePath(os.path.join(ADDON_USER_DATA_FOLDER, 'requests_cache'))
 
-#cache expires after: 86400=1day   604800=7 days
-#requests_cache.install_cache(CACHE_FILE, backend='sqlite', expire_after=604800 )  
+#cache responses from github to avoid too many requests
+install_cache(
+    CACHE_FILE,
+    backend='sqlite', 
+    cache_control=True,
+    urls_expire_after={
+        '*.githubusercontent.com': 360,  # Placeholder expiration; should be overridden by Cache-Control
+        '*': 1,  # Fixme: Do_NOT_CACHE not defined in kodi release, so we use 1 second as workaround
+    },
+)
 
 def get_url(**kwargs):
     """
@@ -303,6 +310,9 @@ def get_list(list_type, list_id):
 
     try:
         response = requests.get(list_url, timeout=5)
+        from_cache = getattr(response, 'from_cache', False)
+        xbmc.log(f'Url: {list_url}',level=xbmc.LOGERROR)
+        xbmc.log(f'GitHub requests cached: {from_cache}',level=xbmc.LOGERROR)
     except requests.exceptions.RequestException as e:
         xbmc.log("Error requesting list url",level=xbmc.LOGERROR)
         raise
