@@ -22,7 +22,7 @@ import xbmc
 import xbmcgui
 import xbmcplugin
 from xbmcaddon import Addon
-from xbmcvfs import translatePath
+from xbmcvfs import translatePath, mkdir
 
 import requests
 import requests_cache
@@ -44,6 +44,7 @@ ADDON_USER_DATA_FOLDER = translatePath(Addon().getAddonInfo('profile'))
 CACHE_FILE = translatePath(os.path.join(ADDON_USER_DATA_FOLDER, 'requests_cache'))
 
 #cache responses from github to avoid too many requests
+mkdir(ADDON_USER_DATA_FOLDER)
 requests_cache.install_cache( CACHE_FILE, backend='sqlite', expire_after=3600)  # Default expiration: 1 hour
 
 
