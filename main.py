@@ -17,6 +17,7 @@ import os
 import sys
 from urllib.parse import urlencode, parse_qsl
 import json
+import datetime
 
 import xbmc
 import xbmcgui
@@ -26,6 +27,7 @@ from xbmcvfs import translatePath, mkdir
 
 import requests
 import requests_cache
+import StorageServer
 #import web_pdb;
 
 # Get the plugin url in plugin:// notation.
@@ -40,13 +42,8 @@ FANART_DIR = os.path.join(ADDON_PATH, 'resources', 'images', 'fanart')
 #TMDB url for poster and fanart
 TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
-ADDON_USER_DATA_FOLDER = translatePath(Addon().getAddonInfo('profile'))
-CACHE_FILE = translatePath(os.path.join(ADDON_USER_DATA_FOLDER, 'requests_cache'))
-
-#cache responses from github to avoid too many requests
-mkdir(ADDON_USER_DATA_FOLDER)
-requests_cache.install_cache( CACHE_FILE, backend='sqlite', expire_after=3600)  # Default expiration: 1 hour
-
+#global tmdb to local dbid index
+tmdb_index = {}
 
 def get_url(**kwargs):
     """
@@ -100,35 +97,24 @@ def list_folders(folder_list):
     # Finish creating a virtual folder.
     xbmcplugin.endOfDirectory(HANDLE)
 
-
-def get_media(title, year):
+def build_tmdbid_to_dbid_index():
     """
-    Try to find the movie in the local database
+    Get a mapping of TMDB IDs to local database IDs for all movies in the library.
+    Returns a dictionary where keys are TMDB IDs and values are local database IDs. 
     """
-
-    #year are often a problem when searching in the library
-    #let's be less strict
-    year_minus_1 = str(int(year)-1)
-    year_plus_1 = str(int(year)+1)
-    year_minus_2 = str(int(year)-2)
-    year_plus_2 = str(int(year)+2)
 
     #Construct the JSON-RPC query
     json_query = {
         "jsonrpc": "2.0",
         "method": "VideoLibrary.GetMovies",
         "params": {
-            "filter": {
-                "and":
-                    [
-                        {"field": "originaltitle", "operator": "is", "value": title},
-                        {"field": "year", "operator": "is", "value": [ year, year_minus_1, year_plus_1, year_minus_2, year_plus_2 ]} ]
-            },
-            "properties": ["title","imdbnumber"]
+            "properties": ["uniqueid"]
         },
         "id": "libMovies"
     }
 
+    # Notify user about index building
+    xbmcgui.Dialog().notification('jlom', 'Building movies index...', xbmcgui.NOTIFICATION_INFO)
 
     # Execute the JSON-RPC query
     response = xbmc.executeJSONRPC(json.dumps(json_query))
@@ -136,11 +122,14 @@ def get_media(title, year):
     # Parse the response
     result = json.loads(response)
 
-    # Check if any movies were found
-    if result["result"]["limits"]["total"] >= 1:
-        return result["result"]["movies"][0]["movieid"]
-    else:
-        return None
+    """Build a dict {tmdb: movieid}."""
+    index = {}
+    for movie in result["result"]["movies"]:
+        tmdb = movie["uniqueid"].get("tmdb")
+        if tmdb is not None:
+            index[tmdb] = movie["movieid"]
+
+    return index
 
 def play_media(dbid):
 
@@ -165,26 +154,50 @@ def get_movie_details(id):
     json_query = {
         "jsonrpc": "2.0",
         "method": "VideoLibrary.GetMovieDetails",
-        "params": {"movieid": id,
-        "properties": ["director",
-                        "art",
-                        "fanart",
-                        "file",
-                        "genre",
-                        "imdbnumber",
-                        "lastplayed",
-                        "originaltitle",
-                        "playcount",
-                        "plot",
-                        "plotoutline",
-                        "premiered",
-                        "rating", "runtime", #"resume",
-                        "setid", "sorttitle", "streamdetails",
-                        "thumbnail",
-                        "title",
-                        "userrating",
-                        "votes"]},
-        "id": "1"}
+        "params": {
+            "movieid": id,
+            "properties": [
+                "title",
+                "genre",
+                "year",
+                "rating",
+                "director",
+                "trailer",
+                "tagline",
+                "plot",
+                "plotoutline",
+                "originaltitle",
+                "lastplayed",
+                "playcount",
+                "writer",
+                "studio",
+                "mpaa",
+                "cast",
+                "country",
+                "imdbnumber",
+                "runtime",
+                "set",
+                "showlink",
+                "streamdetails",
+                "top250",
+                "votes",
+                "fanart",
+                "thumbnail",
+                "file",
+                "sorttitle",
+                "resume",
+                "setid",
+                "dateadded",
+                "tag",
+                "art",
+                "userrating",
+                "ratings",
+                "premiered",
+                "uniqueid"
+            ]
+        },
+        "id": "1"
+    }
 
     # Execute the JSON-RPC query
     response = xbmc.executeJSONRPC(json.dumps(json_query))
@@ -213,12 +226,16 @@ def list_movies(movie_list):
     xbmcplugin.setContent(HANDLE, 'movies')
 
     if ordered_by == "":
-        xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_NONE)
+        xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_NONE) #default
         xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_TITLE)
-    elif ordered_by == "rank":
-        xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_UNSORTED)
-    elif ordered_by == "year":
         xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_VIDEO_YEAR)
+    elif ordered_by == "rank":
+        xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_UNSORTED) #default
+        xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_VIDEO_YEAR)
+        xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_TITLE)
+    elif ordered_by == "year":
+        xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_VIDEO_YEAR)#default
+        xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_TITLE)
 
     # Iterate through movies.
     for index, movie in enumerate(movies):
@@ -240,15 +257,13 @@ def list_movies(movie_list):
         info_tag = list_item.getVideoInfoTag()
         info_tag.setMediaType('movie')
         info_tag.setTitle(movie['title'])
+        info_tag.setOriginalTitle(movie['original_title'])
+        info_tag.setYear(int(movie['release_date'][0:4]) if movie['release_date'] != "" else None)
         #info_tag.setGenres([genre_info['genre']])
         info_tag.setPlot(movie['overview'])
-        if movie['release_date'] != '':
-            info_tag.setYear(int(movie['release_date'][0:4]))
-            #get movie id in library
-            local_id = get_media(movie['original_title'],movie['release_date'][0:4])
-        else:
-            #without year, abort
-            local_id = None
+
+        #try to find the movie in the local database using the tmdb index
+        local_id = tmdb_index.get(str(movie['id']))
         
         #if found, make it playable
         if local_id != None :
@@ -258,17 +273,50 @@ def list_movies(movie_list):
             #set info from db
             info_tag.setDbId(int(local_id))
             info_tag.setPath(f'videodb://movies/titles/{local_id}')
+            
             info_tag.setTitle(movie_details["result"]["moviedetails"]["title"])
             info_tag.setGenres(movie_details["result"]["moviedetails"]["genre"])
+            info_tag.setYear(movie_details["result"]["moviedetails"]["year"])
+            info_tag.setRating(movie_details["result"]["moviedetails"]["rating"])
+            info_tag.setDirectors(movie_details["result"]["moviedetails"]["director"])
+            info_tag.setTrailer(movie_details["result"]["moviedetails"]["trailer"])
+            info_tag.setTagLine(movie_details["result"]["moviedetails"]["tagline"])
             info_tag.setPlot(movie_details["result"]["moviedetails"]["plot"])
-            info_tag.setDuration(movie_details["result"]["moviedetails"]["runtime"])
-            info_tag.setFilenameAndPath(movie_details["result"]["moviedetails"]["file"])
-            info_tag.setPremiered(movie_details["result"]["moviedetails"]["premiered"])
+            info_tag.setPlotOutline(movie_details["result"]["moviedetails"]["plotoutline"])
+            info_tag.setOriginalTitle(movie_details["result"]["moviedetails"]["originaltitle"])
+            info_tag.setLastPlayed(movie_details["result"]["moviedetails"]["lastplayed"])
             info_tag.setPlaycount(movie_details["result"]["moviedetails"]["playcount"])
-
+            info_tag.setWriters(movie_details["result"]["moviedetails"]["writer"])
+            info_tag.setStudios(movie_details["result"]["moviedetails"]["studio"])
+            info_tag.setMpaa(movie_details["result"]["moviedetails"]["mpaa"])
+            actors = []
+            for actor in movie_details["result"]["moviedetails"]["cast"]:
+                actors.append(xbmc.Actor(actor.get("name"), actor.get("role"), actor.get("order"), actor.get("thumbnail")))
+            info_tag.setCast(actors)
+            info_tag.setCountries(movie_details["result"]["moviedetails"]["country"])
+            info_tag.setIMDBNumber(movie_details["result"]["moviedetails"]["imdbnumber"])
+            info_tag.setDuration(movie_details["result"]["moviedetails"]["runtime"])
+            info_tag.setSet(movie_details["result"]["moviedetails"]["set"])
+            info_tag.setShowLinks(movie_details["result"]["moviedetails"]["showlink"])
+            #stream details
+            info_tag.setTop250(movie_details["result"]["moviedetails"]["top250"])
+            info_tag.setVotes(int(movie_details["result"]["moviedetails"]["votes"]))
+            #fanart and thumbnail
+            info_tag.setFilenameAndPath(movie_details["result"]["moviedetails"]["file"])
+            info_tag.setSortTitle(movie_details["result"]["moviedetails"]["sorttitle"])
+            info_tag.setResumePoint(movie_details["result"]["moviedetails"]["resume"]["position"], movie_details["result"]["moviedetails"]["resume"]["total"])
+            info_tag.setSetId(movie_details["result"]["moviedetails"]["setid"])
+            info_tag.setDateAdded(movie_details["result"]["moviedetails"]["dateadded"])
+            info_tag.setTags(movie_details["result"]["moviedetails"]["tag"])
+            #art
+            info_tag.setUserRating(movie_details["result"]["moviedetails"]["userrating"])
+            #info_tag.setRatings(...) # todo: implement
+            info_tag.setPremiered(movie_details["result"]["moviedetails"]["premiered"])
+            info_tag.setUniqueIDs(movie_details["result"]["moviedetails"]["uniqueid"])
+            
             #difference between available and not available item 
             list_item.setProperty('IsPlayable', 'true')
-            #list_item.setInfo("video", {"overlay": xbmcgui.ICON_OVERLAY_HD}) #does not work anyway
+            #list_item.setInfo(type="video", infoLabels={"overlay": xbmcgui.ICON_OVERLAY_WATCHED}) #does not work anyway
             
             
             if ordered_by == "rank":
@@ -296,6 +344,9 @@ def list_movies(movie_list):
     xbmcplugin.endOfDirectory(HANDLE)
 
 def get_list(list_type, list_id):
+    """
+    Get a list from the configured URL
+    """
 
     list_url = Addon().getSettingString('general_url')
     list_url = list_url if list_url.endswith('/') else list_url + '/'
@@ -570,7 +621,7 @@ def router(paramstring):
         # the movie was not found in the library and we propose other actions
         other_actions = ['Search in library']
         if Addon().getSettingBool('radarr_enable') == True :
-            other_actions.append('Add to radarr')
+            other_actions.append('Add to Radarr')
         
         choice = xbmcgui.Dialog().contextmenu(other_actions)
         if choice == 0:
@@ -586,10 +637,23 @@ def router(paramstring):
         raise ValueError(f'Invalid paramstring: {paramstring}!')
 
 if __name__ == '__main__':
-    # Call the router function and pass the plugin call parameters to it.
-    # We use string slicing to trim the leading '?' from the plugin call paramstring
     #logging.basicConfig(level=logging.DEBUG)
-
     #web_pdb.set_trace()
 
+    #initialize requests cache
+    ADDON_USER_DATA_FOLDER = translatePath(Addon().getAddonInfo('profile'))
+    CACHE_FILE = translatePath(os.path.join(ADDON_USER_DATA_FOLDER, 'requests_cache'))
+
+    mkdir(ADDON_USER_DATA_FOLDER) #make sure the folder exists
+    requests_cache.install_cache( CACHE_FILE, backend='sqlite', expire_after=3600)  # Default expiration: 1 hour
+
+
+    # instantiate the cache for the tmdb index
+    cache = StorageServer.StorageServer("jlom", 1)
+
+    # get data from cache or build it if not present
+    tmdb_index = cache.cacheFunction(build_tmdbid_to_dbid_index)
+    
+    # Call the router function and pass the plugin call parameters to it.
+    # We use string slicing to trim the leading '?' from the plugin call paramstring
     router(sys.argv[2][1:])
