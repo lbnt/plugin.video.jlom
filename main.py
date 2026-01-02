@@ -123,11 +123,25 @@ def build_tmdbid_to_dbid_index():
     result = json.loads(response)
 
     """Build a dict {tmdb: movieid}."""
+    nbmissingids = 0
     index = {}
-    for movie in result["result"]["movies"]:
-        tmdb = movie["uniqueid"].get("tmdb")
-        if tmdb is not None:
-            index[tmdb] = movie["movieid"]
+    for movie in result.get("result", {}).get("movies", []):
+        uniqueid = movie.get("uniqueid")
+        if not isinstance(uniqueid, dict): # uniqueid is missing or not a dict
+            nbmissingids += 1
+            continue
+
+        tmdbid = uniqueid.get("tmdb")
+        if tmdbid is None: # tmdb id is missing
+            nbmissingids += 1
+            continue
+
+        movieid = movie.get("movieid")
+        if movieid is not None:
+            index[tmdbid] = movieid
+
+    if nbmissingids > 0:
+        xbmcgui.Dialog().notification('jlom', f'{nbmissingids} movies don\'t have a tmdb id\n and won\'t be found in the lists!', xbmcgui.NOTIFICATION_WARNING, 10000)
 
     return index
 
