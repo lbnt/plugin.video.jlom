@@ -282,56 +282,54 @@ def list_movies(movie_list):
         #if found, make it playable
         if local_id != None :
             #get the movie details from the db
-            movie_details = get_movie_details(local_id)
+            movie_details = get_movie_details(local_id).get("result", {}).get("moviedetails", {})
             
             #set info from db
             info_tag.setDbId(int(local_id))
             info_tag.setPath(f'videodb://movies/titles/{local_id}')
             
-            info_tag.setTitle(movie_details["result"]["moviedetails"]["title"])
-            info_tag.setGenres(movie_details["result"]["moviedetails"]["genre"])
-            info_tag.setYear(movie_details["result"]["moviedetails"]["year"])
-            info_tag.setRating(movie_details["result"]["moviedetails"]["rating"])
-            info_tag.setDirectors(movie_details["result"]["moviedetails"]["director"])
-            info_tag.setTrailer(movie_details["result"]["moviedetails"]["trailer"])
-            info_tag.setTagLine(movie_details["result"]["moviedetails"]["tagline"])
-            info_tag.setPlot(movie_details["result"]["moviedetails"]["plot"])
-            info_tag.setPlotOutline(movie_details["result"]["moviedetails"]["plotoutline"])
-            info_tag.setOriginalTitle(movie_details["result"]["moviedetails"]["originaltitle"])
-            info_tag.setLastPlayed(movie_details["result"]["moviedetails"]["lastplayed"])
-            info_tag.setPlaycount(movie_details["result"]["moviedetails"]["playcount"])
-            info_tag.setWriters(movie_details["result"]["moviedetails"]["writer"])
-            info_tag.setStudios(movie_details["result"]["moviedetails"]["studio"])
-            info_tag.setMpaa(movie_details["result"]["moviedetails"]["mpaa"])
+            info_tag.setTitle(movie_details.get("title"))
+            info_tag.setGenres(movie_details.get("genre"))
+            info_tag.setYear(movie_details.get("year"))
+            info_tag.setRating(movie_details.get("rating"))
+            info_tag.setDirectors(movie_details.get("director"))
+            info_tag.setTrailer(movie_details.get("trailer"))
+            info_tag.setTagLine(movie_details.get("tagline"))
+            info_tag.setPlot(movie_details.get("plot"))
+            info_tag.setPlotOutline(movie_details.get("plotoutline"))
+            info_tag.setOriginalTitle(movie_details.get("originaltitle"))
+            info_tag.setLastPlayed(movie_details.get("lastplayed"))
+            info_tag.setPlaycount(movie_details.get("playcount"))
+            info_tag.setWriters(movie_details.get("writer"))
+            info_tag.setStudios(movie_details.get("studio"))
+            info_tag.setMpaa(movie_details.get("mpaa"))
             actors = []
-            for actor in movie_details["result"]["moviedetails"]["cast"]:
+            for actor in movie_details.get("cast"):
                 actors.append(xbmc.Actor(actor.get("name"), actor.get("role"), actor.get("order"), actor.get("thumbnail")))
             info_tag.setCast(actors)
-            info_tag.setCountries(movie_details["result"]["moviedetails"]["country"])
-            info_tag.setIMDBNumber(movie_details["result"]["moviedetails"]["imdbnumber"])
-            info_tag.setDuration(movie_details["result"]["moviedetails"]["runtime"])
-            info_tag.setSet(movie_details["result"]["moviedetails"]["set"])
-            info_tag.setShowLinks(movie_details["result"]["moviedetails"]["showlink"])
+            info_tag.setCountries(movie_details.get("country"))
+            info_tag.setIMDBNumber(movie_details.get("imdbnumber"))
+            info_tag.setDuration(movie_details.get("runtime"))
+            info_tag.setSet(movie_details.get("set"))
+            info_tag.setShowLinks(movie_details.get("showlink"))
             #stream details
-            info_tag.setTop250(movie_details["result"]["moviedetails"]["top250"])
-            info_tag.setVotes(int(movie_details["result"]["moviedetails"]["votes"]))
+            info_tag.setTop250(movie_details.get("top250"))
+            info_tag.setVotes(int(movie_details.get("votes")))
             #fanart and thumbnail
-            info_tag.setFilenameAndPath(movie_details["result"]["moviedetails"]["file"])
-            info_tag.setSortTitle(movie_details["result"]["moviedetails"]["sorttitle"])
-            info_tag.setResumePoint(movie_details["result"]["moviedetails"]["resume"]["position"], movie_details["result"]["moviedetails"]["resume"]["total"])
-            info_tag.setSetId(movie_details["result"]["moviedetails"]["setid"])
-            info_tag.setDateAdded(movie_details["result"]["moviedetails"]["dateadded"])
-            info_tag.setTags(movie_details["result"]["moviedetails"]["tag"])
+            info_tag.setFilenameAndPath(movie_details.get("file"))
+            info_tag.setSortTitle(movie_details.get("sorttitle"))
+            info_tag.setResumePoint(movie_details.get("resume").get("position"), movie_details.get("resume").get("total"))
+            info_tag.setSetId(movie_details.get("setid"))
+            info_tag.setDateAdded(movie_details.get("dateadded"))
+            info_tag.setTags(movie_details.get("tag"))
             #art
-            info_tag.setUserRating(movie_details["result"]["moviedetails"]["userrating"])
+            info_tag.setUserRating(movie_details.get("userrating"))
             #info_tag.setRatings(...) # todo: implement
-            info_tag.setPremiered(movie_details["result"]["moviedetails"]["premiered"])
-            info_tag.setUniqueIDs(movie_details["result"]["moviedetails"]["uniqueid"])
+            info_tag.setPremiered(movie_details.get("premiered"))
+            info_tag.setUniqueIDs(movie_details.get("uniqueid"))
             
             #difference between available and not available item 
-            list_item.setProperty('IsPlayable', 'true')
-            #list_item.setInfo(type="video", infoLabels={"overlay": xbmcgui.ICON_OVERLAY_WATCHED}) #does not work anyway
-            
+            list_item.setProperty('IsPlayable', 'true')            
             
             if ordered_by == "rank":
                 info_tag.setTagLine("Ranked %s" % (str(index +1)))
@@ -345,6 +343,9 @@ def list_movies(movie_list):
                 info_tag.setTagLine("Ranked %s\n" % (str(index +1)) + "Not in your libray")
             else:
                 info_tag.setTagLine("Not in your libray")
+            #set unique id, useful for other addons
+            info_tag.setUniqueIDs("{\"tmdb\": %s}" % (str(movie['id'])))
+
             # recursive call to offer to search using global search addon
             url = get_url(action='other_action', id=movie['id'], title=movie['original_title'])
 
