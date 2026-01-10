@@ -344,7 +344,7 @@ def list_movies(movie_list):
             else:
                 info_tag.setTagLine("Not in your libray")
             #set unique id, useful for other addons
-            info_tag.setUniqueIDs("{\"tmdb\": %s}" % (str(movie['id'])))
+            info_tag.setUniqueIDs({'tmdb': str(movie['id'])})
 
             # recursive call to offer to search using global search addon
             url = get_url(action='other_action', id=movie['id'], title=movie['original_title'])

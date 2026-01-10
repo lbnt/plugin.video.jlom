@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.jlom" version="0.1.10" name="Just Lists Of Movies" provider-name="lbnt">
+<addon id="plugin.video.jlom" version="0.1.11" name="Just Lists Of Movies" provider-name="lbnt">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests"/>
@@ -19,6 +19,6 @@
     <icon>resources/images/icon.png</icon>
     <screenshot>resources/images/screenshot.jpg</screenshot>
   </assets>
-  <news>0.1.10 Improve robustness. Set tmdb id for not in local db movies </news>
+  <news>0.1.11 Bug fix </news>
 </extension>
 </addon>
