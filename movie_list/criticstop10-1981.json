@@ -1,0 +1,711 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1981",
+    "source": "https://criticstop10.com/best-movies-of-1981/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/4BmsXQCxkBZMA2EOrqvz1atVrwS.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 23954,
+            "original_language": "en",
+            "original_title": "Atlantic City",
+            "overview": "In a corrupt city, a small-time gangster and the estranged wife of a pot dealer find themselves thrown together in an escapade of love, money, drugs and danger.",
+            "popularity": 0.934,
+            "poster_path": "/t7COhy9HkznR0gcdhTNwtHmBN31.jpg",
+            "release_date": "1980-09-03",
+            "title": "Atlantic City",
+            "video": false,
+            "vote_average": 6.787,
+            "vote_count": 279
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cDdB8JBflT4vBYlftoopSdTf4Wz.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 18254,
+            "original_language": "en",
+            "original_title": "Reds",
+            "overview": "An account of the revolutionary years of the legendary American journalist John Reed, who shared his adventurous professional life with his radical commitment to the socialist revolution in Russia, his dream of spreading its principles among the members of the American working class, and his troubled romantic relationship with the writer Louise Bryant.",
+            "popularity": 1.0717,
+            "poster_path": "/3XqGKUuqFxX9X61sXhe0T6ayAHa.jpg",
+            "release_date": "1981-12-25",
+            "title": "Reds",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 85,
+            "original_language": "en",
+            "original_title": "Raiders of the Lost Ark",
+            "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+            "popularity": 15.6562,
+            "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+            "release_date": "1981-06-12",
+            "title": "Raiders of the Lost Ark",
+            "video": false,
+            "vote_average": 7.925,
+            "vote_count": 12974
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sGaUzT2oHRyeuNTLc5rzP2O52Aa.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 32047,
+            "original_language": "en",
+            "original_title": "Prince of the City",
+            "overview": "New York City detective Daniel Ciello agrees to help the United States Department of Justice help eliminate corruption in the police department, as long as he will not have to turn in any close friends. In doing so, Ciello uncovers a conspiracy within the force to smuggle drugs to street informants.",
+            "popularity": 0.8779,
+            "poster_path": "/tdERW77zecB5pkKWWeqbSkns0t4.jpg",
+            "release_date": "1981-08-19",
+            "title": "Prince of the City",
+            "video": false,
+            "vote_average": 7.031,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AgrbZP4rPyeCs6cxXep1xBjaOqk.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 14412,
+            "original_language": "en",
+            "original_title": "Body Heat",
+            "overview": "In the midst of a searing Florida heat wave, a woman convinces her lover, a small-town lawyer, to murder her rich husband.",
+            "popularity": 2.1706,
+            "poster_path": "/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+            "release_date": "1981-08-28",
+            "title": "Body Heat",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 636
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/crj0IrGt5ifSdzPVZ2VCIIrExUo.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                36
+            ],
+            "id": 12537,
+            "original_language": "en",
+            "original_title": "The French Lieutenant's Woman",
+            "overview": "In this story-within-a-story, Anna is an actress starring opposite Mike in a period piece about the forbidden love between their respective characters, Sarah and Charles. Both actors are involved in serious relationships, but the passionate nature of the script leads to an off-camera love affair as well. While attempting to maintain their composure and professionalism, Anna and Mike struggle to come to terms with their infidelity.",
+            "popularity": 2.7631,
+            "poster_path": "/zqpeqPjziAH3VXMqwQ0Ds3Ffx9b.jpg",
+            "release_date": "1981-08-28",
+            "title": "The French Lieutenant's Woman",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qgPYU8xDYiZPKapK0sOvfIEKRtH.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 9443,
+            "original_language": "en",
+            "original_title": "Chariots of Fire",
+            "overview": "In the class-obsessed and religiously divided UK of the early 1920s, two determined young runners train for the 1924 Paris Olympics. Eric Liddell, a devout Christian born to Scottish missionaries in China, sees running as part of his worship of God's glory and refuses to train or compete on the Sabbath. Harold Abrahams overcomes anti-Semitism and class bias, but neglects his beloved sweetheart in his single-minded quest.",
+            "popularity": 2.1545,
+            "poster_path": "/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+            "release_date": "1981-05-15",
+            "title": "Chariots of Fire",
+            "video": false,
+            "vote_average": 6.786,
+            "vote_count": 959
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kcK6wlt4TT1ETgr8mJhXgUg3HYE.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18
+            ],
+            "id": 11646,
+            "original_language": "en",
+            "original_title": "Gallipoli",
+            "overview": "As World War I rages, brave and youthful Australians Archy and Frank\u2014both agile runners\u2014become friends and enlist in the Australian and New Zealand Army Corps together. They later find themselves part of the Dardanelles Campaign on the Gallipoli peninsula, a brutal eight-month conflict which pit the British and their allies against the Ottoman Empire and left over 500,000 men dead.",
+            "popularity": 0.7525,
+            "poster_path": "/un7VCqTmjrq3u75mQ204a8tofD4.jpg",
+            "release_date": "1981-08-13",
+            "title": "Gallipoli",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 501
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/affAxDjzMZnQvXmq2zBrsjTxkRI.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 25566,
+            "original_language": "en",
+            "original_title": "Ragtime",
+            "overview": "A young black pianist becomes embroiled in the lives of an upper-class white family set among the racial tensions, infidelity, violence, and other nostalgic events in early 1900s New York City.",
+            "popularity": 0.9476,
+            "poster_path": "/vRjyakxRrMfj6sgyUJte9mVI1D9.jpg",
+            "release_date": "1981-11-20",
+            "title": "Ragtime",
+            "video": false,
+            "vote_average": 7.012,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qrnNj4lCPcBzmeOaHb7pLV9JKyg.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 11527,
+            "original_language": "en",
+            "original_title": "Excalibur",
+            "overview": "A surreal adaptation of Sir Thomas Malory's \"Le Morte d'Arthur\" chronicling Arthur Pendragon's conception, his rise to the throne, the search by his Knights of the Round Table for the Holy Grail, and ultimately, his death.",
+            "popularity": 2.522,
+            "poster_path": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+            "release_date": "1981-04-10",
+            "title": "Excalibur",
+            "video": false,
+            "vote_average": 6.961,
+            "vote_count": 1054
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j5cE2YUjyzEeRgWHuO2ccDL5Wps.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11816,
+            "original_language": "en",
+            "original_title": "On Golden Pond",
+            "overview": "For Norman and Ethel Thayer, this summer on golden pond is filled with conflict and resolution. When their daughter Chelsea arrives, the family is forced to renew the bonds of love and overcome the generational friction that has existed for years.",
+            "popularity": 1.7012,
+            "poster_path": "/ic4f03J6pnf9cpQmVDABFhUpbCU.jpg",
+            "release_date": "1981-12-04",
+            "title": "On Golden Pond",
+            "video": false,
+            "vote_average": 7.243,
+            "vote_count": 481
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r3zwnGMmRb7LaDNQluHVXAkZNoY.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25468,
+            "original_language": "en",
+            "original_title": "My Dinner with Andre",
+            "overview": "Wally, a struggling playwright and actor, reluctantly agrees to catch up with his old friend Andre, a theater director who disappeared several years prior in order to travel the world. Meeting at a posh Manhattan restaurant, the two share life stories, anecdotes and philosophical musings over the course of an evening meal.",
+            "popularity": 1.3024,
+            "poster_path": "/u2KB70Xlzwg920mYWlGb18YIatd.jpg",
+            "release_date": "1981-10-11",
+            "title": "My Dinner with Andre",
+            "video": false,
+            "vote_average": 7.49,
+            "vote_count": 416
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zb2l9iPzBRAYIngSslK6nNj2A4T.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 32077,
+            "original_language": "en",
+            "original_title": "True Confessions",
+            "overview": "A cop clashes with his priest brother while investigating the brutal murder of a young prostitute.",
+            "popularity": 0.6424,
+            "poster_path": "/qwTwHKesH4QcvSBkS1dE89AIFst.jpg",
+            "release_date": "1981-09-25",
+            "title": "True Confessions",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 8536,
+            "original_language": "en",
+            "original_title": "Superman II",
+            "overview": "Three Kryptonian criminals led by General Zod team up with Lex Luthor to conquer Earth, forcing a depowered Superman to regain his strength and stop them.",
+            "popularity": 7.0661,
+            "poster_path": "/6XjwM5SbvrrfYPfs6LHAuGO9cOY.jpg",
+            "release_date": "1980-12-12",
+            "title": "Superman II",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cw6g3LTu9DrMezcVkVYyfKI02J7.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                37
+            ],
+            "id": 49427,
+            "original_language": "en",
+            "original_title": "Heartland",
+            "overview": "Widowed Elinor Randall and her young daughter Jerrine arrive in a barren stretch of Wyoming in 1910 after Elinor's application for work as a housekeeper is accepted by Clyde Stewart, a rancher. The work is back-breaking and the isolation is brutal, particularly as winter arrives. Elinor begins to think about homesteading her own property near Stewart's ranch, but Stewart tries to dissuade her with explanations about the killing conditions and poor rewards, especially for a woman with no man to help her ranch. Although their temperaments are different and little affection exists, Elinor and Stewart agree to marry and combine homesteads. What lies ahead is the severest test of all.",
+            "popularity": 2.3671,
+            "poster_path": "/nP87kxdQ2bZoWikDcdc2Ygum18F.jpg",
+            "release_date": "1979-09-22",
+            "title": "Heartland",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qrnNj4lCPcBzmeOaHb7pLV9JKyg.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 11527,
+            "original_language": "en",
+            "original_title": "Excalibur",
+            "overview": "A surreal adaptation of Sir Thomas Malory's \"Le Morte d'Arthur\" chronicling Arthur Pendragon's conception, his rise to the throne, the search by his Knights of the Round Table for the Holy Grail, and ultimately, his death.",
+            "popularity": 2.522,
+            "poster_path": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+            "release_date": "1981-04-10",
+            "title": "Excalibur",
+            "video": false,
+            "vote_average": 6.961,
+            "vote_count": 1054
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zHT9SYhezDVOXHsRftdqq7PjrTh.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 25113,
+            "original_language": "en",
+            "original_title": "The Four Seasons",
+            "overview": "Three middle-aged wealthy couples take vacations together in Spring, Summer, Autumn and Winter. Along the way we are treated to mid-life, marital, parental and other crises.",
+            "popularity": 0.9028,
+            "poster_path": "/7xKPkL7kHdgq3YI08tXISCQwRJH.jpg",
+            "release_date": "1981-05-22",
+            "title": "The Four Seasons",
+            "video": false,
+            "vote_average": 6.327,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/88SnnUEY4CmUJTjzhqYfY3zffEC.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 42148,
+            "original_language": "pt",
+            "original_title": "Pixote: A Lei do Mais Fraco",
+            "overview": "10-year-old Pixote endures torture, degradation, and corruption at a local youth detention center where two of its members are murdered by policemen who frame Lilica, a 17-year-old trans hustler. Pixote helps Lilica and three other boys escape and they start to make their living by a life of crime which only escalates to more violence and death.",
+            "popularity": 0.804,
+            "poster_path": "/zaBtclnYKv2JkgRDQ7OiFtWHm4e.jpg",
+            "release_date": "1980-09-26",
+            "title": "Pixote",
+            "video": false,
+            "vote_average": 7.962,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6BW5JJ9XMXfbG5x4gTuv6MGrKlN.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53,
+                80
+            ],
+            "id": 31593,
+            "original_language": "en",
+            "original_title": "Cutter's Way",
+            "overview": "Alex Cutter is a boozy, belligerent and deeply cynical Vietnam veteran whose encounter with a landmine during the war has left him minus an eye, a leg and an arm. When his drifter playboy friend Richard Bone is falsely accused of murder, Cutter sets out for revenge in his own inimitable style.",
+            "popularity": 0.8854,
+            "poster_path": "/4Qsy3teeaBv3uH3vCVZPkbhyYih.jpg",
+            "release_date": "1981-03-19",
+            "title": "Cutter's Way",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 11524,
+            "original_language": "en",
+            "original_title": "Thief",
+            "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+            "popularity": 2.8778,
+            "poster_path": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+            "release_date": "1981-03-27",
+            "title": "Thief",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 751
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                80
+            ],
+            "id": 11644,
+            "original_language": "en",
+            "original_title": "Blow Out",
+            "overview": "While recording sound effects for a slasher flick, Jack Terry stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally from the car, but the other passenger is already dead \u2014 a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
+            "popularity": 2.2956,
+            "poster_path": "/weMW1wLzeagP3tw6BfmYf1iL7dz.jpg",
+            "release_date": "1981-07-24",
+            "title": "Blow Out",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yujtsvYA9dVc8qdUvQtBntfEqnD.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 19429,
+            "original_language": "en",
+            "original_title": "Absence of Malice",
+            "overview": "Megan Carter is a reporter duped into running an untrue story on Michael Gallagher, a suspected racketeer. He has an alibi for the time his crime was allegedly committed\u2014but it involves an innocent party. When he tells Carter the truth and the newspaper runs it, tragedy follows, forcing Carter to face up to the responsibilities of her job when she is confronted by Gallagher.",
+            "popularity": 1.13,
+            "poster_path": "/sEmQFj17MUEWyqU1xa6yQ0VW5CA.jpg",
+            "release_date": "1981-11-19",
+            "title": "Absence of Malice",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ESZCvqWnHRDJ4xorwQZ37RbXPb.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 17450,
+            "original_language": "en",
+            "original_title": "Pennies from Heaven",
+            "overview": "During the Great Depression, a sheet music salesman seeks to escape his dreary life through popular music and a love affair with an innocent school teacher.",
+            "popularity": 0.5559,
+            "poster_path": "/7dlangnB2vOcviHEwWy1IRGHLtk.jpg",
+            "release_date": "1981-12-11",
+            "title": "Pennies from Heaven",
+            "video": false,
+            "vote_average": 6.052,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tIwD1x5ihVEaUIOsA583UaCkkjq.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 27225,
+            "original_language": "en",
+            "original_title": "S.O.B.",
+            "overview": "A movie producer who made a huge flop tries to salvage his career by revamping his film as an erotic production, where its family-friendly star takes her top off.",
+            "popularity": 0.4981,
+            "poster_path": "/6irq1xZdQ8rC4AuxPDlA9NkPyYs.jpg",
+            "release_date": "1981-07-01",
+            "title": "S.O.B.",
+            "video": false,
+            "vote_average": 5.927,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9osI0Zd8MAXlsD60XBJAMjIFSEK.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 31695,
+            "original_language": "en",
+            "original_title": "Whose Life Is It Anyway?",
+            "overview": "Ken Harrison is an artist that lives to make sculptures. One day he is involved in a car accident, and is paralyzed from his neck down. All he can do is talk and move his head, and he wants to die. Whilst he is in hospital he makes friends with some of the staff, and they support him when he goes to trial to be allowed to die.",
+            "popularity": 0.3948,
+            "poster_path": "/qutLxh74RsoGEWfrI205yvwAlnr.jpg",
+            "release_date": "1981-12-02",
+            "title": "Whose Life Is It Anyway?",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1pXco8EiCGtYyBZuNSQIu6980lf.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 12528,
+            "original_language": "en",
+            "original_title": "Southern Comfort",
+            "overview": "A squad of National Guards on an isolated weekend exercise in the Louisiana swamp must fight for their lives when they anger local Cajuns by stealing their canoes. Without live ammunition and in a strange country, their experience begins to mirror the Vietnam experience.",
+            "popularity": 1.2678,
+            "poster_path": "/v6kSjAHiaHza6r27LF36YpEGz8j.jpg",
+            "release_date": "1981-09-24",
+            "title": "Southern Comfort",
+            "video": false,
+            "vote_average": 6.924,
+            "vote_count": 329
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cbLYibOrmYfA4xyDrPcZlun2IWW.jpg",
+            "genre_ids": [
+                10751,
+                14,
+                878,
+                12,
+                35
+            ],
+            "id": 36819,
+            "original_language": "en",
+            "original_title": "Time Bandits",
+            "overview": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
+            "popularity": 1.7886,
+            "poster_path": "/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
+            "release_date": "1981-07-13",
+            "title": "Time Bandits",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1067
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u97pGlftKRNbUn0jOoQgIobSBvb.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 1716,
+            "original_language": "fr",
+            "original_title": "Le Dernier M\u00e9tro",
+            "overview": "In occupied Paris, an actress married to a Jewish theater owner must keep him hidden from the Nazis while doing both of their jobs.",
+            "popularity": 0.9225,
+            "poster_path": "/yJbA6jjuj9h8x2tZSgTkzpQ8PzS.jpg",
+            "release_date": "1980-09-17",
+            "title": "The Last Metro",
+            "video": false,
+            "vote_average": 7.23,
+            "vote_count": 497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/row4sMw5mVzKCWRbyrAQ39zvyLX.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 225,
+            "original_language": "pl",
+            "original_title": "Cz\u0142owiek z \u017celaza",
+            "overview": "In Warsaw in 1980, the Communist Party sends disgruntled radio reporter Winkel to Gda\u0144sk to dig up dirt on the shipyard strikers - particularly on Maciek Tomczyk, an independent labour union leader whose father was killed in the December 1970 protests. Posing as sympathetic, Winkel interviews the people surrounding Tomczyk, including his detained wife, Agnieszka.",
+            "popularity": 0.6027,
+            "poster_path": "/22wNUqKyz2m6wzAt31f26H8Y433.jpg",
+            "release_date": "1981-07-27",
+            "title": "Man of Iron",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 814,
+            "original_language": "en",
+            "original_title": "An American Werewolf in London",
+            "overview": "American tourists David and Jack are savaged by an unidentified vicious animal whilst hiking on the Yorkshire Moors. Retiring to the home of a beautiful nurse to recuperate, David soon experiences disturbing changes to his mind and body.",
+            "popularity": 3.423,
+            "poster_path": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+            "release_date": "1981-08-21",
+            "title": "An American Werewolf in London",
+            "video": false,
+            "vote_average": 7.406,
+            "vote_count": 2525
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/36zif7dloaMlMUzrIW5xf1ymqV2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 224,
+            "original_language": "pl",
+            "original_title": "Cz\u0142owiek z marmuru",
+            "overview": "A young Polish filmmaker sets out to find out what happened to Mateusz Birkut, a bricklayer who became a propaganda hero in the 1950s but later fell out of favor and disappeared.",
+            "popularity": 0.283,
+            "poster_path": "/6rJekdaaRSnuz86BsWPHGKs3fhI.jpg",
+            "release_date": "1977-02-25",
+            "title": "Man of Marble",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5JcZug3AYCzlFRS3NC72pP8wXWm.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 10863,
+            "original_language": "en",
+            "original_title": "Eye of the Needle",
+            "overview": "Great Britain, 1944, during World War II. Relentlessly pursued by several MI5 agents, Henry Faber the Needle, a ruthless German spy in possession of vital information about D-Day, takes refuge on Storm Island, an inhospitable, sparsely inhabited island off the coast of northern Scotland.",
+            "popularity": 1.3046,
+            "poster_path": "/nDPnfXCuh280WHPk7xTfG7cDlAh.jpg",
+            "release_date": "1981-07-24",
+            "title": "Eye of the Needle",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 237
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hCJ3xGMyzwpBcUlBGJGyUwDgQ4d.jpg",
+            "genre_ids": [
+                878,
+                28,
+                53
+            ],
+            "id": 10540,
+            "original_language": "en",
+            "original_title": "Outland",
+            "overview": "On the sunless moon Io, Marshall William T. O\u2019Niel goes toe-to-toe with the corrupt manager of a mining colony and his gang of roughnecks while investigating a rash of worker suicides.",
+            "popularity": 1.2203,
+            "poster_path": "/Hi5d267wgfU1O8EqL7ZxRWKRDM.jpg",
+            "release_date": "1981-05-22",
+            "title": "Outland",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 634
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lkS9SAwibcNK3CUYmtVk1cuOsg0.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 27145,
+            "original_language": "fr",
+            "original_title": "La Femme de l'aviateur",
+            "overview": "A student is devastated when he finds that his girlfriend is cheating on him. In order to find out why she did it, he decides to spy on her and her airline pilot lover. Then he sees the pilot with a blonde woman and he begins to follow them\u2026",
+            "popularity": 0.3065,
+            "poster_path": "/xgXj1Fcgq1nHjhj9i7BiqvZarn5.jpg",
+            "release_date": "1981-03-04",
+            "title": "The Aviator's Wife",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2J2E0KsJbJjkGw06nLDkWBXII4F.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 70971,
+            "original_language": "en",
+            "original_title": "Four Friends",
+            "overview": "A young immigrant comes to America in the 60s and is caught up in the counterculture movement which tests his bonds of friendship and love.",
+            "popularity": 0.3929,
+            "poster_path": "/4qWB2CtUOOvmlBNc0KTZQno0Edj.jpg",
+            "release_date": "1981-12-11",
+            "title": "Four Friends",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/OUsYvkuqmGuE63IE5a2QQqW426.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 12579,
+            "original_language": "fr",
+            "original_title": "La Femme d'\u00e0 c\u00f4t\u00e9",
+            "overview": "Madame Jouve, the narrator, tells the tragedy of Bernard and Mathilde. Bernard was living happily with his wife Arlette and his son Thomas. One day, a couple, Philippe and Mathilde Bauchard, moves into the next house. This is the accidental reunion of Bernard and Mathilde, who had a passionate love affair years ago. The relationship revives... A somber study of human feelings.",
+            "popularity": 0.6246,
+            "poster_path": "/nxBf3Y7Q9XVuKvUl0df8MW2IsQ7.jpg",
+            "release_date": "1981-09-30",
+            "title": "The Woman Next Door",
+            "video": false,
+            "vote_average": 7.084,
+            "vote_count": 323
+        }
+    ]
+}

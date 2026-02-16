@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "Other criteria",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "By box-office",
+            "id" : "by_box-office",
+            "type" : "folder_list"
+        }
+    ]
+}

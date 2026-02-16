@@ -1,0 +1,965 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1952",
+    "source": "https://criticstop10.com/best-movies-of-1952/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 288,
+            "original_language": "en",
+            "original_title": "High Noon",
+            "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+            "popularity": 3.543,
+            "poster_path": "/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+            "release_date": "1952-06-09",
+            "title": "High Noon",
+            "video": false,
+            "vote_average": 7.673,
+            "vote_count": 1494
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5vuQnRJURp6rZoEEnhW0HC7DBQc.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 3109,
+            "original_language": "en",
+            "original_title": "The Quiet Man",
+            "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+            "popularity": 3.148,
+            "poster_path": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+            "release_date": "1952-07-21",
+            "title": "The Quiet Man",
+            "video": false,
+            "vote_average": 7.316,
+            "vote_count": 560
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tJ2b4rWJeuSM728JTtoXZL0EFbf.jpg",
+            "genre_ids": [
+                12,
+                10749,
+                36
+            ],
+            "id": 26175,
+            "original_language": "en",
+            "original_title": "Ivanhoe",
+            "overview": "Sir Walter Scott's classic story of the chivalrous Ivanhoe who joins with Robin of Locksley in the fight against Prince John and for the return of King Richard the Lionheart.",
+            "popularity": 1.0782,
+            "poster_path": "/bH2cat7MemIGLevYqCUrXkBCDiC.jpg",
+            "release_date": "1952-07-31",
+            "title": "Ivanhoe",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y22C1YyK8YXjU8LHoyA06MclOs6.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 27191,
+            "original_language": "en",
+            "original_title": "The Greatest Show on Earth",
+            "overview": "To ensure a full profitable season, circus manager Brad Braden engages The Great Sebastian, though this moves his girlfriend Holly from her hard-won center trapeze spot. Holly and Sebastian begin a dangerous one-upmanship duel in the ring, while he pursues her on the ground.",
+            "popularity": 0.811,
+            "poster_path": "/cKI0yGPRh1IlvRKKJRoMZruior8.jpg",
+            "release_date": "1952-02-16",
+            "title": "The Greatest Show on Earth",
+            "video": false,
+            "vote_average": 6.317,
+            "vote_count": 257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/buWnLrkfAEOEo85CcfBWrS0ykY9.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10910,
+            "original_language": "en",
+            "original_title": "Moulin Rouge",
+            "overview": "In 1890 Paris, Moulin Rouge is a nightclub where crippled artist Toulouse-Lautrec feels like he fits in. In the following years, he meets two women who provide an opportunity for him to find true love.",
+            "popularity": 1.7009,
+            "poster_path": "/eNly1s5DXQUTyjvfmopJPwwPiMH.jpg",
+            "release_date": "1952-12-23",
+            "title": "Moulin Rouge",
+            "video": false,
+            "vote_average": 6.691,
+            "vote_count": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3PxDpjjKqFCrSLhiZQujyXEqjDU.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 84214,
+            "original_language": "en",
+            "original_title": "Come Back, Little Sheba",
+            "overview": "A mismatched couple's marital problems come to the surface when the husband develops an interest in their pretty boarder.",
+            "popularity": 0.3508,
+            "poster_path": "/g26npVWGZLLp67vDd7q5aiSFXCE.jpg",
+            "release_date": "1953-03-06",
+            "title": "Come Back, Little Sheba",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q5vgDhmDS4EoYWrk9f9nqYZGDOw.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                10402
+            ],
+            "id": 28971,
+            "original_language": "en",
+            "original_title": "Limelight",
+            "overview": "A fading music hall comedian tries to help a despondent ballet dancer learn to walk and to again feel confident about life.",
+            "popularity": 1.2592,
+            "poster_path": "/tDD11x3ZWCXXXwdpbGEU9uU4kh1.jpg",
+            "release_date": "1952-10-16",
+            "title": "Limelight",
+            "video": false,
+            "vote_average": 7.908,
+            "vote_count": 557
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 872,
+            "original_language": "en",
+            "original_title": "Singin' in the Rain",
+            "overview": "In 1927 Hollywood, a silent film production company and cast make a difficult transition to sound.",
+            "popularity": 3.5888,
+            "poster_path": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+            "release_date": "1952-04-10",
+            "title": "Singin' in the Rain",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 3286
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jVyVSD0w4Bg3r67geP0LvkizfC5.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 32499,
+            "original_language": "en",
+            "original_title": "The Bad and the Beautiful",
+            "overview": "Told in flashback form, the film traces the rise and fall of a tough, ambitious Hollywood producer, Jonathan Shields, as seen through the eyes of various acquaintances, including a writer, James Lee Bartlow; a star, Georgia Lorrison; and a director, Fred Amiel. He is a hard-driving, ambitious man who ruthlessly uses everyone on the way to becoming one of Hollywood's top movie makers.",
+            "popularity": 0.7756,
+            "poster_path": "/ajAXzTiPkL7JxeCRw5lQBqrKNGx.jpg",
+            "release_date": "1952-12-25",
+            "title": "The Bad and the Beautiful",
+            "video": false,
+            "vote_average": 7.339,
+            "vote_count": 265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jliwdbenSCvfkAJiXmNGJ25NRpa.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 65787,
+            "original_language": "en",
+            "original_title": "With a Song in My Heart",
+            "overview": "Jane Froman (Susan Hayward), an aspiring songstress, lands a job in radio with help from pianist Don Ross (David Wayne), whom she later marries. Jane's popularity soars, and she leaves on a European tour... but her plane crashes in Lisbon, and she is partially crippled. Unable to walk without crutches, Jane nevertheless goes on to entertain the Allied troops in World War II.",
+            "popularity": 0.2561,
+            "poster_path": "/ukUDE4agso8WDjGeTKkjH6FqS6V.jpg",
+            "release_date": "1952-04-03",
+            "title": "With a Song in My Heart",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b7JozC8zQE9P5Uj485EuqwhAics.jpg",
+            "genre_ids": [
+                10402,
+                10751,
+                35
+            ],
+            "id": 16618,
+            "original_language": "en",
+            "original_title": "Hans Christian Andersen",
+            "overview": "A small-town shoemaker with a knack for spinning yarns, Hans encounters happiness and heartbreak on his road to becoming a full-fledged writer.",
+            "popularity": 0.7102,
+            "poster_path": "/auHA8xsD452GDCY2KdHGgYPmDPf.jpg",
+            "release_date": "1952-12-19",
+            "title": "Hans Christian Andersen",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e0MsKelKuPRh4kSTmmnrsxRk1iT.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 59087,
+            "original_language": "en",
+            "original_title": "5 Fingers",
+            "overview": "During WWII, the valet to the British Ambassador to Ankara sells British secrets to the Germans while trying to romance a refugee Polish countess.",
+            "popularity": 0.5225,
+            "poster_path": "/bjD5qcUGjQIZUAeyMJBnXDuN6SW.jpg",
+            "release_date": "1952-02-22",
+            "title": "5 Fingers",
+            "video": false,
+            "vote_average": 7.571,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x8Y3b2Ic18P8FkKI8uGLVaS0xHq.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 43365,
+            "original_language": "en",
+            "original_title": "Stars and Stripes Forever",
+            "overview": "A film biography of the composer John Philip Sousa, from his early days in the Marine Corps Band through the Spanish-American War in 1898.",
+            "popularity": 0.1554,
+            "poster_path": "/byREllT3EHmAqWd1Jk1jRFWb0Jx.jpg",
+            "release_date": "1952-12-22",
+            "title": "Stars and Stripes Forever",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eSxcby3f435Dq5yE3kPdLLj0oi7.jpg",
+            "genre_ids": [
+                35,
+                878
+            ],
+            "id": 32568,
+            "original_language": "en",
+            "original_title": "The Man in the White Suit",
+            "overview": "The unassuming, nebbishy inventor Sidney Stratton creates a miraculous fabric that will never be dirty or worn out. Clearly he can make a fortune selling clothes made of the material, but may cause a crisis in the process. After all, once someone buys one of his suits they won't ever have to fix them or buy another one, and the clothing industry will collapse overnight. Nevertheless, Sidney is determined to put his invention on the market, forcing the clothing factory bigwigs to resort to more desperate measures...",
+            "popularity": 1.2758,
+            "poster_path": "/laTLoNZB7Ar3ZDoQmspBDVa5mbC.jpg",
+            "release_date": "1951-08-07",
+            "title": "The Man in the White Suit",
+            "video": false,
+            "vote_average": 6.864,
+            "vote_count": 191
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ycw1LTBimIrYIKegutP0SGULZG8.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 51619,
+            "original_language": "en",
+            "original_title": "The Sound Barrier",
+            "overview": "Fictionalized story of British aerospace engineers solving the problem of supersonic flight.",
+            "popularity": 0.4516,
+            "poster_path": "/mRnvfT0GFUwQS2rK8pCrOeWOuzQ.jpg",
+            "release_date": "1952-10-10",
+            "title": "The Sound Barrier",
+            "video": false,
+            "vote_average": 6.482,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xbOOFeRfhsFwjSpKVQnyxciIuy0.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 38417,
+            "original_language": "en",
+            "original_title": "The Thief",
+            "overview": "A chance accident causes a nuclear physicist, who's selling top secret material to the Russians, to fall under FBI scrutiny and go on the run.",
+            "popularity": 0.4113,
+            "poster_path": "/1jXvDY9pqIQu2Y986PoVFm2sDDj.jpg",
+            "release_date": "1952-10-15",
+            "title": "The Thief",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pi5ncUoTT77jJ3Hiu70tmIvQuDf.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 99906,
+            "original_language": "en",
+            "original_title": "The Story of Will Rogers",
+            "overview": "Biography of humorist and movie star Will Rogers",
+            "popularity": 0.0945,
+            "poster_path": "/tuSBhjdHPT6PBhN5OrL9yFioU42.jpg",
+            "release_date": "1952-07-17",
+            "title": "The Story of Will Rogers",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i2kunv539oNBMXN5bVCwDBHNwEy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 93775,
+            "original_language": "en",
+            "original_title": "The Member of the Wedding",
+            "overview": "Tomboy, Frances 'Frankie' Addams, dreams of running away with her brother and new fianc\u00e9e away from the Deep South.",
+            "popularity": 0.3332,
+            "poster_path": "/i1QymzFHXx9ZKbqqNayuzmUHRIo.jpg",
+            "release_date": "1952-12-25",
+            "title": "The Member of the Wedding",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVUYec9iv4rwmHgGS2NIVBQtoZ0.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 178587,
+            "original_language": "en",
+            "original_title": "The Happy Time",
+            "overview": "A violinist and his brother guide one's son through his crush on the family maid in 1920s Ottawa.",
+            "popularity": 0.228,
+            "poster_path": "/2051X5uGk207R1D9oRoch43LHeq.jpg",
+            "release_date": "1952-10-30",
+            "title": "The Happy Time",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8BcJ0bMK5Lvox9SHQmlaDKEaTBw.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 44611,
+            "original_language": "en",
+            "original_title": "My Six Convicts",
+            "overview": "A psychologist takes on the daunting task of getting into the mind of prisoners. He must gain the trust and cooperation from a group of men who have no reason to help him and who might enjoy killing him.",
+            "popularity": 0.2427,
+            "poster_path": "/gAbPvReDcfyIikKzgkDLNmF2ZKg.jpg",
+            "release_date": "1952-03-20",
+            "title": "My Six Convicts",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7aX2mfTcQArKS9PufnngjexnaQY.jpg",
+            "genre_ids": [
+                36,
+                18,
+                37
+            ],
+            "id": 1810,
+            "original_language": "en",
+            "original_title": "Viva Zapata!",
+            "overview": "The story of Mexican revolutionary Emiliano Zapata, who led a rebellion against the corrupt, oppressive dictatorship of president Porfirio D\u00edaz in the early 20th century.",
+            "popularity": 0.8048,
+            "poster_path": "/vfarxn9ddiaZpRDml8FGhB46Qrc.jpg",
+            "release_date": "1952-02-07",
+            "title": "Viva Zapata!",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 220
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8A7Xmpsaph7xOlcsqtXs53ieYWM.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43358,
+            "original_language": "en",
+            "original_title": "Carrie",
+            "overview": "Carrie's dreams of adventure in the big city are quickly squashed as she discovers all that awaits her there is a bleak life of grueling and poorly paid factory work\u2014that is, until a traveling salesman named Drouet steps into her life and changes her outlook.",
+            "popularity": 0.5499,
+            "poster_path": "/7tKovivkaBigBG4Q39gKoQ6199e.jpg",
+            "release_date": "1952-07-17",
+            "title": "Carrie",
+            "video": false,
+            "vote_average": 6.423,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cvvgW32yPZbVSsZmQgVxyULEpHe.jpg",
+            "genre_ids": [
+                12,
+                10749
+            ],
+            "id": 33454,
+            "original_language": "en",
+            "original_title": "Scaramouche",
+            "overview": "In 18th-century France, a young man masquerades as an actor to avenge his friend's murder.",
+            "popularity": 1.0517,
+            "poster_path": "/yALSC7jqOsmMtfSPp6ThCuNGjiR.jpg",
+            "release_date": "1952-05-08",
+            "title": "Scaramouche",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7KN8wJbBylX6tB8E8DFYYYOJdhF.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 33575,
+            "original_language": "en",
+            "original_title": "Pat and Mike",
+            "overview": "Pat Pemberton is a brilliant athlete, except when her domineering fianc\u00e9 is around. The ladies golf championship is in her reach until she gets flustered by his presence at the final holes. He wants them to get married and forget the whole thing, but she cannot give up on herself that easily. She enlists the help of Mike Conovan, a slightly shady sports promoter. Together they face mobsters, a jealous boxer, and a growing mutual attraction.",
+            "popularity": 0.3428,
+            "poster_path": "/6hSJWY1ygsOVAtPEz9Nb5q5FeyA.jpg",
+            "release_date": "1952-06-13",
+            "title": "Pat and Mike",
+            "video": false,
+            "vote_average": 6.284,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2dQPQ6MXsVUkFNR0iVoHEZajBDN.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 49616,
+            "original_language": "en",
+            "original_title": "The Miracle of Our Lady of Fatima",
+            "overview": "In 1917, three shepherd children living just outside Fatima, Portugal have visions of a lovely lady in a cloud. The anticlerical government wishes to squelch the Church; reports of religious experiences are cause for serious concern. Yet the children stand by their story, and the message of peace and hope the Lady brings. In the last vision, attended by thousands of people, the Lady proves her reality with a spectacular miracle that is seen by everyone present. Based on actual events at Fatima in the summer of 1917.",
+            "popularity": 0.4047,
+            "poster_path": "/sIAnF7FtMpiSZXTZhS9W5e6Zb0t.jpg",
+            "release_date": "1952-08-20",
+            "title": "The Miracle of Our Lady of Fatima",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9dRmnUEVqzWx1CGXO49Xcif5MJY.jpg",
+            "genre_ids": [
+                18,
+                12,
+                36
+            ],
+            "id": 90968,
+            "original_language": "en",
+            "original_title": "Plymouth Adventure",
+            "overview": "During the Mayflower pilgrims' long voyage across the Atlantic Ocean on their way to America, Captain Christopher Jones falls in love with William Bradford's wife Dorothy.",
+            "popularity": 0.3741,
+            "poster_path": "/p1bBvxJ4hD8MnLRlpH11wIOYyvA.jpg",
+            "release_date": "1952-11-28",
+            "title": "Plymouth Adventure",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cQu11Tf0ge2MlDQr7gPSvGcOr4L.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 173893,
+            "original_language": "en",
+            "original_title": "Cry, the Beloved Country",
+            "overview": "In the back country of South Africa, black minister Stephen Kumalo journeys to the city to search for his missing son, only to find his people living in squalor and his son a criminal. Reverend Misimangu is a young South African clergyman who helps find his missing son-turned-thief and sister-turned-prostitute in the slums of Johannesburg.",
+            "popularity": 0.1982,
+            "poster_path": "/8inNsImz4yRfjGUkBzO6urIBM5A.jpg",
+            "release_date": "1951-11-16",
+            "title": "Cry, the Beloved Country",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oMGRbIKScyQkxXa2PcmgRuJUamX.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 24006,
+            "original_language": "en",
+            "original_title": "O. Henry's Full House",
+            "overview": "Five O. Henry stories, each separate. The primary one from the critics' acclaim was \"The Cop and the Anthem\". Soapy tells fellow bum Horace that he is going to get arrested so he can spend the winter in a nice jail cell. He fails. He can't even accost a woman; she turns out to be a streetwalker. The other stories are \"The Clarion Call\", \"The Last Leaf\", \"The Ransom of Red Chief\", and \"The Gift of the Magi\".",
+            "popularity": 0.7118,
+            "poster_path": "/vznk8LPE5nRRbNjeTG20P42yy2l.jpg",
+            "release_date": "1952-08-07",
+            "title": "O. Henry's Full House",
+            "video": false,
+            "vote_average": 6.541,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kW9aJeFTMv5GfQ2SFjnFOelg4j1.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 48627,
+            "original_language": "en",
+            "original_title": "Room for One More",
+            "overview": "Anne and \"Poppy\" Rose have three quirky kids. Anne has a generous heart and the belief in the innocence of children. To the unhappy surprise of her husband she takes in the orphan Jane, a problem child who already tried to kill herself once.",
+            "popularity": 0.1168,
+            "poster_path": "/2VJg810IoARDJDtZFGePRciXcsV.jpg",
+            "release_date": "1952-01-10",
+            "title": "Room for One More",
+            "video": false,
+            "vote_average": 6.415,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3TIiSKToO2z1iMdmDk5rsAFnobx.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 424215,
+            "original_language": "en",
+            "original_title": "Because of You",
+            "overview": "A female ex-con falls in love and hesitates to reveal her past.",
+            "popularity": 0.1894,
+            "poster_path": "/oCnv3z50odKiKG2DCp21XuCcQUk.jpg",
+            "release_date": "1952-12-04",
+            "title": "Because of You",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8PAxMsjXf5Ma3c7Sado0VVsUdRr.jpg",
+            "genre_ids": [
+                12
+            ],
+            "id": 28431,
+            "original_language": "en",
+            "original_title": "The Prisoner of Zenda",
+            "overview": "A kingdom's ascending heir, marked for assassination, switches identities with a lookalike, who takes his place at the coronation. When the real king is kidnapped, his followers try to find him, while the stand-in falls in love with the king's intended bride, the beautiful Princess Flavia.",
+            "popularity": 0.4868,
+            "poster_path": "/9F4WrZfZjg6JqRLIBo6koFoDHjq.jpg",
+            "release_date": "1952-11-04",
+            "title": "The Prisoner of Zenda",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qiL8TkEUcKwZExd9UHO5rp3woYD.jpg",
+            "genre_ids": [
+                37,
+                12
+            ],
+            "id": 38732,
+            "original_language": "en",
+            "original_title": "Bend of the River",
+            "overview": "Two men with questionable pasts, Glyn McLyntock and his friend Cole, lead a wagon-train load of homesteaders from Missouri to the Oregon territory...",
+            "popularity": 0.971,
+            "poster_path": "/pffOvEVDt6XRWDwBkmQ6zWITakJ.jpg",
+            "release_date": "1952-01-23",
+            "title": "Bend of the River",
+            "video": false,
+            "vote_average": 6.931,
+            "vote_count": 189
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 111611,
+            "original_language": "en",
+            "original_title": "Where's Charley?",
+            "overview": "Musical version of the comedy, \"Charley's Aunt,\" by Brandon Thomas. As part of a simple enough ruse, a Cambridge student poses as his aunt but his scheme goes wrong, first when someone falls for the aunt, and then when the real aunt turns up.",
+            "popularity": 0.0617,
+            "poster_path": "/2UVsSucmAscRx3hZqjALeKzkMnJ.jpg",
+            "release_date": "1952-05-20",
+            "title": "Where's Charley?",
+            "video": false,
+            "vote_average": 10.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5EzrKQuog3aEHlPAEM9GWpZoUon.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 87381,
+            "original_language": "en",
+            "original_title": "Walk East on Beacon",
+            "overview": "An FBI agent works with a refugee scientist and the Coast Guard to crack a Soviet spy ring in Boston.",
+            "popularity": 0.1719,
+            "poster_path": "/nLcqWrBWDHeETduRqz13H3FbFJp.jpg",
+            "release_date": "1952-06-01",
+            "title": "Walk East on Beacon",
+            "video": false,
+            "vote_average": 5.158,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jphPKUCRufc1eHyFc3Wz3T4eqc2.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 197647,
+            "original_language": "en",
+            "original_title": "Encore",
+            "overview": "Encore is a 1951 anthology film composed of adaptations of three short stories by W. Somerset Maugham:  \"The Ant and the Grasshopper\", directed by Pat Jackson and adapted by T. E. B. Clarke;  \"Winter Cruise\", helmed by Anthony Pelissier, screenplay by Arthur Macrae;  \"Gigolo and Gigolette\", directed by Harold French, written by Eric Ambler.  It is the last film in a Maugham trilogy, preceded by Quartet and Trio.",
+            "popularity": 0.1832,
+            "poster_path": "/ilDf6iBTsRpiBjFY8d7viCwcOx7.jpg",
+            "release_date": "1951-06-11",
+            "title": "Encore",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h4XiCfGZAM6ZBB6mcJ7KwsVzvu3.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 204294,
+            "original_language": "en",
+            "original_title": "The Four Poster",
+            "overview": "In turn-of-the-century New York, the marriage of John and Abby Edwards unfolds over the years.",
+            "popularity": 0.1336,
+            "poster_path": "/nOEt54CiY9Ba7q7z6FRvzAGabnD.jpg",
+            "release_date": "1952-10-08",
+            "title": "The Four Poster",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iCKefEXisZ9WDscdSHvGWuLacWQ.jpg",
+            "genre_ids": [
+                12,
+                10749,
+                18
+            ],
+            "id": 4460,
+            "original_language": "en",
+            "original_title": "The Snows of Kilimanjaro",
+            "overview": "Writer Harry Street reflects on his life as he lies dying from an infection while on safari in the shadow of Mount Kilimanjaro.",
+            "popularity": 2.4282,
+            "poster_path": "/xIdEt2rycY6h3QAKGqWrIGqhviD.jpg",
+            "release_date": "1952-10-08",
+            "title": "The Snows of Kilimanjaro",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rDFLrc1XHWT0biaCa3hmK8taYAd.jpg",
+            "genre_ids": [
+                35,
+                12,
+                10402,
+                10749
+            ],
+            "id": 34082,
+            "original_language": "en",
+            "original_title": "Road to Bali",
+            "overview": "Having to leave Melbourne in a hurry to avoid various marriage proposals, two song-and-dance men sign on for work as divers. This takes them to an idyllic island on the way to Bali where they vie with each other for the favours of Princess Lala. The hazardous dive produces a chest of priceless jewels which arouses the less romantic interest of some shady locals.",
+            "popularity": 2.895,
+            "poster_path": "/qGMKGeTbf610pKsAQ15AB2cVuet.jpg",
+            "release_date": "1953-01-29",
+            "title": "Road to Bali",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wWO1oD6O1ytXKNQEBOsjRGyscvu.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 43189,
+            "original_language": "en",
+            "original_title": "Million Dollar Mermaid",
+            "overview": "After overcoming polio, Annette Kellerman achieves fame and creates a scandal when her one-piece bathing suit is considered indecent.",
+            "popularity": 0.3166,
+            "poster_path": "/waLcgBcXbwKPWqyyIMjgE33BVIR.jpg",
+            "release_date": "1952-12-04",
+            "title": "Million Dollar Mermaid",
+            "video": false,
+            "vote_average": 6.375,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5WlgDRzprXdjSOq4QxOsVDpM2Nq.jpg",
+            "genre_ids": [
+                12,
+                10749
+            ],
+            "id": 74436,
+            "original_language": "en",
+            "original_title": "The World in His Arms",
+            "overview": "A boisterous sea captain in the Pacific Coast, circa 1850, has a plan to buy Alaska from the Russians\u2026 if they don\u2019t kill him first.",
+            "popularity": 0.6179,
+            "poster_path": "/dxqGT4lJ3wolbNAASncbtphbL5g.jpg",
+            "release_date": "1952-10-09",
+            "title": "The World in His Arms",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ijva9b9zL3f0sQyTqPY0DgMTXph.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 24004,
+            "original_language": "en",
+            "original_title": "We're Not Married!",
+            "overview": "A Justice of the Peace performed weddings a few days before his license was valid. A few years later five couples learn they have never been legally married.",
+            "popularity": 0.3092,
+            "poster_path": "/sxgqy0ZdpZ1cWjHFIO4DH8TRaLD.jpg",
+            "release_date": "1952-07-11",
+            "title": "We're Not Married!",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mTk6HYIKbrikhXJsJme189LcCJq.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 87349,
+            "original_language": "en",
+            "original_title": "Outcast of the Islands",
+            "overview": "After financial improprieties are discovered at the Eastern trading company where he works, Peter Willems flees the resulting disgrace and criminal charges. He persuades the man who gave him his start in life, the merchant ship captain Lingard, to bring him to a trading post on a remote Indonesian island where he can hide out.",
+            "popularity": 0.221,
+            "poster_path": "/fiDzvW8g2w3anqhFvl9KwBOgG8T.jpg",
+            "release_date": "1951-11-15",
+            "title": "Outcast of the Islands",
+            "video": false,
+            "vote_average": 5.774,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJiU2HeLU4ZyeD79Go35xLbLwpF.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 43961,
+            "original_language": "en",
+            "original_title": "Carbine Williams",
+            "overview": "David Marshall Williams is sent to a prison farm where he works in the tool shop and eventually develops the precursor of the famous M-1 Carbine automatic rifle used in World War II.",
+            "popularity": 0.3866,
+            "poster_path": "/cxD7BIOWcmmxflBiymKimyQBhrC.jpg",
+            "release_date": "1952-05-01",
+            "title": "Carbine Williams",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sdiSlc86WlzhozqkWnQn73Wq5UW.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 19171,
+            "original_language": "en",
+            "original_title": "Sudden Fear",
+            "overview": "Actor Lester Blaine has all but landed the lead in Myra Hudson's new play when Myra vetoes him because, to her, he doesn't look like a romantic leading man. On a train from New York to San Francisco, Blaine sets out to prove Myra wrong...by romancing her. Is he sincere, or does he have a dark ulterior motive?",
+            "popularity": 0.6884,
+            "poster_path": "/xDDRhGX99c7smveM3UelCVmi6xi.jpg",
+            "release_date": "1952-08-07",
+            "title": "Sudden Fear",
+            "video": false,
+            "vote_average": 7.281,
+            "vote_count": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/clio53Iv7OdBEo5agDOZlsMrKLQ.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 185197,
+            "original_language": "en",
+            "original_title": "The Merry Widow",
+            "overview": "Marshovia, a small European kingdom, is on the brink of bankruptcy but the country may be saved if the wealthy American Crystal Radek, widow of a Marshovian, can be convinced to part with her money and marry the king's nephew count Danilo. Arriving to Marshovia on a visit, Crystal Radek change places with her secretary Kitty. Following them to Paris, Danilo has a hard time wooing the widow after meeting an attractive young woman at a nightclub, the same Crystal Radek who presents herself as Fifi the chorus girl. Plot by Mattias Thuresson.",
+            "popularity": 0.4333,
+            "poster_path": "/7Uu7F30ZnQVY6f6JuotYLjFhyPh.jpg",
+            "release_date": "1952-09-05",
+            "title": "The Merry Widow",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lGtsQY8f4INRLy9baNKIfkkMAtR.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 84903,
+            "original_language": "en",
+            "original_title": "The Marrying Kind",
+            "overview": "Florence and Chet Keefer have had a troublesome marriage. Whilst in the middle of a divorce hearing the judge encourages them to remember the good times they have had hoping that the marriage can be saved.",
+            "popularity": 0.3433,
+            "poster_path": "/bf7MKkF2izIZ6B3W3kOUDFq8Kox.jpg",
+            "release_date": "1952-02-01",
+            "title": "The Marrying Kind",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dLzwQw2MZghH1B1ztx19Op9Z0v4.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 43375,
+            "original_language": "en",
+            "original_title": "I'll See You in My Dreams",
+            "overview": "Songwriter Gus Kahn fights to make his name, then has to fight again to survive the Depression.",
+            "popularity": 0.3069,
+            "poster_path": "/l7qBmXPwXUZRa17RI2M3MLbTnTV.jpg",
+            "release_date": "1951-12-06",
+            "title": "I'll See You in My Dreams",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tny9NXQGi84BeXuo6Ms1bN9icav.jpg",
+            "genre_ids": [
+                9648,
+                10749,
+                18
+            ],
+            "id": 94529,
+            "original_language": "en",
+            "original_title": "My Cousin Rachel",
+            "overview": "A young man plots revenge against the woman he believes murdered his cousin, but his plans are shaken when he comes face to face with the enigmatic beauty.",
+            "popularity": 0.5368,
+            "poster_path": "/2Ki5RsrRByusjYOBFM6cK6SAo12.jpg",
+            "release_date": "1952-12-25",
+            "title": "My Cousin Rachel",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bJ77lq5x7SDzzh4SvA9tiTYZqRH.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 43369,
+            "original_language": "en",
+            "original_title": "The Card",
+            "overview": "A charming and ambitious young man finds many ways to raise himself through the ranks in business and social standing - some honest, some not quite so. If he can just manage to avoid a certain very predatory woman.",
+            "popularity": 0.41,
+            "poster_path": "/lFK9EPjJAxSCQcx9jDeF7HplEUx.jpg",
+            "release_date": "1952-02-25",
+            "title": "The Card",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iJOudjwnlORgldcGYsVNqNDwv8I.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 94618,
+            "original_language": "en",
+            "original_title": "Dreamboat",
+            "overview": "Thornton Sayre, a respected college professor - secretly formerly a silent films romantic action hero - is disturbed, feeling his privacy has been violated, and his professional credibility as a scholar jeopardized, when he learns his old movies have been resurrected and are being aired on TV. He sets out to demand this cease. However, his former co-star is the hostess of the TV show playing the films, and she has other plans.",
+            "popularity": 0.2631,
+            "poster_path": "/oyL6IXcePuDo7jCbb2Ts85tilUy.jpg",
+            "release_date": "1952-07-26",
+            "title": "Dreamboat",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 15
+        }
+    ]
+}

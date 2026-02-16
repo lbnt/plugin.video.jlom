@@ -1,0 +1,987 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1940",
+    "source": "https://criticstop10.com/best-movies-of-1940/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/i8fiqKaQklF02VmQYhSxmwa8KOH.jpg",
+            "genre_ids": [
+                9648,
+                10749,
+                53
+            ],
+            "id": 223,
+            "original_language": "en",
+            "original_title": "Rebecca",
+            "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+            "popularity": 2.6794,
+            "poster_path": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+            "release_date": "1940-03-23",
+            "title": "Rebecca",
+            "video": false,
+            "vote_average": 7.897,
+            "vote_count": 1849
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eMgflonfRY89Zj4LZykJKPpG4wg.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 596,
+            "original_language": "en",
+            "original_title": "The Grapes of Wrath",
+            "overview": "Tom Joad returns to his home after a jail sentence to find his family kicked out of their farm due to foreclosure. He catches up with them on his Uncle\u2019s farm, and joins them the next day as they head for California and a new life... Hopefully.",
+            "popularity": 1.2047,
+            "poster_path": "/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+            "release_date": "1940-03-15",
+            "title": "The Grapes of Wrath",
+            "video": false,
+            "vote_average": 7.819,
+            "vote_count": 1036
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iItypZVpdnxTFgA0iv345AzMUqk.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 981,
+            "original_language": "en",
+            "original_title": "The Philadelphia Story",
+            "overview": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+            "popularity": 1.1692,
+            "poster_path": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+            "release_date": "1940-12-05",
+            "title": "The Philadelphia Story",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 901
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2VK5l8wfRCCrR8AF0oFtG6ty6fO.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                28
+            ],
+            "id": 25670,
+            "original_language": "en",
+            "original_title": "Foreign Correspondent",
+            "overview": "American crime reporter John Jones is reassigned to Europe as a foreign correspondent to cover the imminent war. When he walks into the middle of an assassination and stumbles on a spy ring, he seeks help from a beautiful politician\u2019s daughter and an urbane English journalist to uncover the truth.",
+            "popularity": 0.8328,
+            "poster_path": "/n0WX6eIdIliKB66MI2MWZ3wHsoJ.jpg",
+            "release_date": "1940-08-16",
+            "title": "Foreign Correspondent",
+            "video": false,
+            "vote_average": 6.979,
+            "vote_count": 405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qu13TuRt8PUlgXElKTaaVz2V1UO.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 77744,
+            "original_language": "en",
+            "original_title": "Kitty Foyle",
+            "overview": "A hard-working, white-collar girl falls in love with a young socialite, but meets with his family's disapproval.",
+            "popularity": 0.3913,
+            "poster_path": "/3c5yyi6ULsz5V0Ayv0o90BbmgJj.jpg",
+            "release_date": "1940-12-27",
+            "title": "Kitty Foyle",
+            "video": false,
+            "vote_average": 6.556,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ANzUVLtf2iAgemBPz61xnA3M1I.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43807,
+            "original_language": "en",
+            "original_title": "All This, and Heaven Too",
+            "overview": "When lovely and virtuous governess Henriette Deluzy comes to educate the children of the debonair Duc de Praslin, a royal subject to King Louis-Philippe and the husband of the volatile and obsessive Duchesse de Praslin, she instantly incurs the wrath of her mistress, who is insanely jealous of anyone who comes near her estranged husband. Though she saves the duchess's little son from a near-death illness and warms herself to all the children, she is nevertheless dismissed by the vengeful duchess. Meanwhile, the attraction between the duke and Henriette continues to grow, eventually leading to tragedy.",
+            "popularity": 0.3915,
+            "poster_path": "/j4KbLsCLnJVALXuV3djKOI8sUfc.jpg",
+            "release_date": "1940-07-05",
+            "title": "All This, and Heaven Too",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 914,
+            "original_language": "en",
+            "original_title": "The Great Dictator",
+            "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+            "popularity": 3.1006,
+            "poster_path": "/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+            "release_date": "1940-10-15",
+            "title": "The Great Dictator",
+            "video": false,
+            "vote_average": 8.294,
+            "vote_count": 3496
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mh1v8vYCo3kkPc2bg8ugdOa3G6E.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 43806,
+            "original_language": "en",
+            "original_title": "Abe Lincoln in Illinois",
+            "overview": "Abe Lincoln in Illinois is a 1940 biographical film which tells the story of the life of Abraham Lincoln from his departure from Kentucky until his election as President of the United States.",
+            "popularity": 0.2632,
+            "poster_path": "/xKI8TOiOL5Emt2GAOIOckmlisF1.jpg",
+            "release_date": "1940-02-22",
+            "title": "Abe Lincoln in Illinois",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bPeWQCyLtAWGyjtJ9mdfPcvhRTe.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10749,
+                37
+            ],
+            "id": 55604,
+            "original_language": "en",
+            "original_title": "Boom Town",
+            "overview": "Two buddies who rise from fly-by-night wildcatters to oil tycoons over a twenty year period both love the same woman. McMasters and Sand come to oil towns to get rich. Betsy comes West intending to marry Sand but marries McMasters instead. Getting rich and losing it all teaches McMasters and Sand the value of personal ties.",
+            "popularity": 0.5226,
+            "poster_path": "/upPOcyAhnL0tDPL8MsTRrOJquiJ.jpg",
+            "release_date": "1940-08-30",
+            "title": "Boom Town",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a8J5yD3jXLAfMyF1OuxpXmDG1YT.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 23283,
+            "original_language": "en",
+            "original_title": "Our Town",
+            "overview": "Change comes slowly to a small New Hampshire town in the early 20th century. We see birth, life and death in this small community.",
+            "popularity": 1.764,
+            "poster_path": "/tXYWSUIUfiG06XzgSSkd4sQFOru.jpg",
+            "release_date": "1940-05-24",
+            "title": "Our Town",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3X7dEi4izSFpktnjO9GkrUcEVVd.jpg",
+            "genre_ids": [
+                12,
+                36,
+                10752,
+                18
+            ],
+            "id": 43805,
+            "original_language": "en",
+            "original_title": "Northwest Passage",
+            "overview": "Based on the Kenneth Roberts novel of the same name, this film tells the story of two friends who join Rogers' Rangers, as the legendary elite force engages the enemy during the French and Indian War. The film focuses on their famous raid at Fort St. Francis and their marches before and after the battle.",
+            "popularity": 0.6096,
+            "poster_path": "/d1J3K23jhEEt2uezEvYY0YtatWi.jpg",
+            "release_date": "1940-02-23",
+            "title": "Northwest Passage",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zqgzF9zkDlLqVARJGgoMSugb1at.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 989,
+            "original_language": "en",
+            "original_title": "The Mortal Storm",
+            "overview": "The Roth family leads a quiet life in a small village in the German Alps during the early 1930s. After the Nazis come to power, the family is divided and Martin Breitner, a family friend, is caught up in the turmoil.",
+            "popularity": 0.4509,
+            "poster_path": "/xPvS7UVrJuCyE5NsiDkW39ABLGX.jpg",
+            "release_date": "1940-06-20",
+            "title": "The Mortal Storm",
+            "video": false,
+            "vote_average": 7.25,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 10895,
+            "original_language": "en",
+            "original_title": "Pinocchio",
+            "overview": "A little wooden puppet yearns to become a real boy.",
+            "popularity": 5.3698,
+            "poster_path": "/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+            "release_date": "1940-02-23",
+            "title": "Pinocchio",
+            "video": false,
+            "vote_average": 7.102,
+            "vote_count": 6018
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 756,
+            "original_language": "en",
+            "original_title": "Fantasia",
+            "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+            "popularity": 3.3725,
+            "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+            "release_date": "1940-11-13",
+            "title": "Fantasia",
+            "video": false,
+            "vote_average": 7.358,
+            "vote_count": 3157
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 52859,
+            "original_language": "en",
+            "original_title": "The Long Voyage Home",
+            "overview": "The crew of the merchant ship Glencairn hope to survive a transatlantic crossing during World War II. Adapted from four Eugene O'Neill one-act plays.",
+            "popularity": 4.0135,
+            "poster_path": "/vZifqG5wSSAoCGl7r3ESFW46Opl.jpg",
+            "release_date": "1940-11-16",
+            "title": "The Long Voyage Home",
+            "video": false,
+            "vote_average": 6.622,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xHkb33IVsJBlW8bJmHNsMzJKc6g.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 43811,
+            "original_language": "en",
+            "original_title": "Edison, the Man",
+            "overview": "In flashback, fifty years after inventing the light bulb, an 82-year-old Edison tells his story starting at age twenty-two with his arrival in New York. He's on his way with the invention of an early form of the stock market ticker.",
+            "popularity": 0.2038,
+            "poster_path": "/zSWK3tOYDnCe2YEnQRpcV7R9bTn.jpg",
+            "release_date": "1940-05-10",
+            "title": "Edison, the Man",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nd5WhA0BzylVBbXldnxs0Xx21Vp.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 43812,
+            "original_language": "en",
+            "original_title": "Knute Rockne All American",
+            "overview": "The story of legendary Notre Dame football player and coach Knute Rockne.",
+            "popularity": 0.2264,
+            "poster_path": "/b4WaxrxDa2AK4ydo7BaHidwHjMq.jpg",
+            "release_date": "1940-10-05",
+            "title": "Knute Rockne All American",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dLAgQQfiqDxPZZOoHYoA0RHXVNf.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43818,
+            "original_language": "en",
+            "original_title": "Pride and Prejudice",
+            "overview": "Mrs. Bennet wishes to wed her five unmarried daughters and is overjoyed when a wealthy bachelor begins living nearby, but misunderstandings make happiness difficult.",
+            "popularity": 1.1827,
+            "poster_path": "/yoWwsLkuY5tMxUqkKMOHAJlImTs.jpg",
+            "release_date": "1940-07-26",
+            "title": "Pride and Prejudice",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1KhMREOLVTemliXbhbyR6IPAJwi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 88192,
+            "original_language": "en",
+            "original_title": "Dr. Ehrlich's Magic Bullet",
+            "overview": "True story of the doctor who considered it was not immoral to search for a drug that would cure syphilis.",
+            "popularity": 0.1217,
+            "poster_path": "/nLQGolem6LY02jmRu9dpkInKrW3.jpg",
+            "release_date": "1940-02-23",
+            "title": "Dr. Ehrlich's Magic Bullet",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8lWbcydL0imbHJAO0IcnuXtvOKg.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 36495,
+            "original_language": "en",
+            "original_title": "The Great McGinty",
+            "overview": "Told in flashback, Depression-era bum Dan McGinty is recruited by the city's political machine to help with vote fraud. His great aptitude for this brings rapid promotion from \"the boss,\" who finally decides he'd be ideal as a new, nominally \"reform\" mayor; but this candidacy requires marriage. His in-name-only marriage to honest Catherine proves the beginning of the end for dishonest Dan...",
+            "popularity": 0.1963,
+            "poster_path": "/2Lrt9YthfN9Iay4QyiLz4pdp2k0.jpg",
+            "release_date": "1940-08-01",
+            "title": "The Great McGinty",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7hVg5V8SVIRNyAkivKkOC5LbKIG.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43824,
+            "original_language": "en",
+            "original_title": "Waterloo Bridge",
+            "overview": "On the eve of World War II, a British officer revisits Waterloo Bridge and recalls the young man he was at the beginning of World War I and the young ballerina he met just before he left for the front.",
+            "popularity": 1.0001,
+            "poster_path": "/2XgYKd5tr5b9W5Yfq80yTZqf3hy.jpg",
+            "release_date": "1940-05-17",
+            "title": "Waterloo Bridge",
+            "video": false,
+            "vote_average": 7.488,
+            "vote_count": 160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 17801,
+            "original_language": "en",
+            "original_title": "The Letter",
+            "overview": "After a woman shoots a man to death, a damning letter she wrote raises suspicions.",
+            "popularity": 0.4858,
+            "poster_path": "/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+            "release_date": "1940-11-21",
+            "title": "The Letter",
+            "video": false,
+            "vote_average": 7.299,
+            "vote_count": 226
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 20334,
+            "original_language": "en",
+            "original_title": "The Shop Around the Corner",
+            "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
+            "popularity": 1.1356,
+            "poster_path": "/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+            "release_date": "1940-01-12",
+            "title": "The Shop Around the Corner",
+            "video": false,
+            "vote_average": 8.129,
+            "vote_count": 762
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mTbdsq8Z2ETmBI9rvskK19gCQpf.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 56154,
+            "original_language": "en",
+            "original_title": "Young Tom Edison",
+            "overview": "Inventor Thomas Edison's boyhood is chronicled and shows him as a lad whose early inventions and scientific experiments usually end up causing disastrous results. As a result, the towns folk all think Tom is crazy, and creating a strained relationship between Tom and his father. Tom's only solace is his understanding mother who believes he's headed to do great things.",
+            "popularity": 0.2131,
+            "poster_path": "/b5SpgdQkz5QpoiGVUHSc5eoa7hG.jpg",
+            "release_date": "1940-03-15",
+            "title": "Young Tom Edison",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oQwRVbeJ6Y6vsb52ON9w8SNUd6h.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 109008,
+            "original_language": "en",
+            "original_title": "Escape",
+            "overview": "An American goes to pre-war Germany to find his mother and discovers her in a concentration camp. With the help of an American-born widowed countess he seeks to engineer her escape.",
+            "popularity": 0.2102,
+            "poster_path": "/hQWrCUM3JnTrDT4Iz9l173JjAHh.jpg",
+            "release_date": "1940-11-01",
+            "title": "Escape",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tak5aFvZ9c8DPFJ2dQlWKawQAU7.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 41463,
+            "original_language": "en",
+            "original_title": "My Favorite Wife",
+            "overview": "Years after she was presumed dead in a shipwreck, Ellen Arden returns home to the surprise of her husband recently remarrying. But he too gets a shock when he learns that Ellen spent her time alone on an island with another man.",
+            "popularity": 1.4205,
+            "poster_path": "/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg",
+            "release_date": "1940-05-17",
+            "title": "My Favorite Wife",
+            "video": false,
+            "vote_average": 6.978,
+            "vote_count": 160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bcOZB2QQkJseteknFPOfL09A2To.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 52360,
+            "original_language": "en",
+            "original_title": "The Howards of Virginia",
+            "overview": "Beautiful young Virginian Jane steps down from her proper aristocratic upbringing when she marries down-to-earth surveyor Matt Howard. Matt joins the Colonial forces in their fight for freedom against England. Matt will meet Jane's father in the battlefield.",
+            "popularity": 0.1966,
+            "poster_path": "/yngj5fihIRXufFqzH0MVhC1HdPd.jpg",
+            "release_date": "1940-09-19",
+            "title": "The Howards of Virginia",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 3085,
+            "original_language": "en",
+            "original_title": "His Girl Friday",
+            "overview": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper\u2019s star reporter, who also happens to be his estranged wife. She\u2019s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can\u2019t resist a juicy scoop.",
+            "popularity": 1.9474,
+            "poster_path": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+            "release_date": "1940-01-18",
+            "title": "His Girl Friday",
+            "video": false,
+            "vote_average": 7.407,
+            "vote_count": 875
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1dBqETKIFCR145t1urF7Tj5MMoX.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 218317,
+            "original_language": "en",
+            "original_title": "My Son, My Son!",
+            "overview": "A self-made success is determined to give his son the lavish upbringing he himself was denied. Not surprisingly, the son grows up to be spoiled rotten, causing grief and pain to everyone who loves him.",
+            "popularity": 0.1826,
+            "poster_path": "/lODlaffftQ2XFLBOYdPsG7QEeUD.jpg",
+            "release_date": "1940-03-21",
+            "title": "My Son, My Son!",
+            "video": false,
+            "vote_average": 4.75,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8kB3hOnvjfK0FS1epGinNUB0DTm.jpg",
+            "genre_ids": [
+                28,
+                37,
+                12,
+                10749
+            ],
+            "id": 83360,
+            "original_language": "en",
+            "original_title": "North West Mounted Police",
+            "overview": "Texas Ranger Dusty Rivers (\"Isn't that a contradiction in terms?\", another character asks him) travels to Canada in the 1880s in search of Jacques Corbeau, who is wanted for murder. He wanders into the midst of the Riel Rebellion, in which M\u00e9tis (people of French and Native heritage) and Natives want a separate nation. Dusty falls for nurse April Logan, who is also loved by Mountie Jim Brett. April's brother is involved with Courbeau's daughter Louvette, which leads to trouble during the battles between the rebels and the Mounties. Through it all Dusty is determined to bring Corbeau back to Texas (and April, too, if he can manage it.)",
+            "popularity": 4.0897,
+            "poster_path": "/qM5Ld0eL4sRHEt84nf8VV1QGGth.jpg",
+            "release_date": "1940-10-22",
+            "title": "North West Mounted Police",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cp1QQPnRsPxzUbdAWURD1U0b0mv.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 14710,
+            "original_language": "en",
+            "original_title": "The Westerner",
+            "overview": "Drifter Cole Harden is accused of stealing a horse and faces hanging by self-appointed Judge Roy Bean, but Harden manages to talk his way out of it by claiming to be a friend of stage star Lillie Langtry, with whom the judge is obsessed, even though he has never met her. Tensions rise when Harden comes to the defense of a group of struggling homesteaders who Judge Bean is trying to drive away.",
+            "popularity": 0.9249,
+            "poster_path": "/5DpDg1GYiqAKoCozbunCqPYvRPD.jpg",
+            "release_date": "1940-09-18",
+            "title": "The Westerner",
+            "video": false,
+            "vote_average": 7.043,
+            "vote_count": 117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7RxMF2Y4nFJlnH5Y41zqx0BUaAR.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10752
+            ],
+            "id": 72638,
+            "original_language": "en",
+            "original_title": "The Fighting 69th",
+            "overview": "Although loudmouthed braggart Jerry Plunkett alienates his comrades and officers, Father Duffy, the regimental chaplain, has faith that he'll prove himself in the end.",
+            "popularity": 0.2142,
+            "poster_path": "/9GeoiU8nO01Cgr20Ls8DbJUoWIP.jpg",
+            "release_date": "1940-01-27",
+            "title": "The Fighting 69th",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 423915,
+            "original_language": "en",
+            "original_title": "The Ramparts We Watch",
+            "overview": "The film used no professional actors, instead relying on residents of the town where most of the filming took place: New London, Connecticut.",
+            "popularity": 0.1953,
+            "poster_path": "/uA1bbigZ9zU2sNjYwdhHjw0OgwU.jpg",
+            "release_date": "1940-09-19",
+            "title": "The Ramparts We Watch",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ishvkb7T721yRDFEwkP5znQgbT5.jpg",
+            "genre_ids": [
+                12,
+                36,
+                10749
+            ],
+            "id": 26201,
+            "original_language": "en",
+            "original_title": "The Sea Hawk",
+            "overview": "Dashing pirate Geoffrey Thorpe plunders Spanish ships for Queen Elizabeth I and falls in love with Dona Maria, a beautiful Spanish royal he captures.",
+            "popularity": 0.5978,
+            "poster_path": "/mBJhR84lKoScUPSUfC9mO4yEhjf.jpg",
+            "release_date": "1940-08-10",
+            "title": "The Sea Hawk",
+            "video": false,
+            "vote_average": 7.099,
+            "vote_count": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zvyIX4i10c5Njkqmf0ADRKfWJCN.jpg",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "id": 121001,
+            "original_language": "en",
+            "original_title": "The Biscuit Eater",
+            "overview": "Two little boys have faith in a dog they name Promise, so much faith that they enter him in the championship trials for bird dogs. The favorite is Georgia Boy bred and trained by the boys' fathers. And if Georgia Boy doesn't win, the fathers may both lose their jobs.",
+            "popularity": 0.0969,
+            "poster_path": "/u6uJ8y6R6wWURt9bIU1fP24qwEt.jpg",
+            "release_date": "1940-05-24",
+            "title": "The Biscuit Eater",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g4AuPfmRnl8MWsZ6L8RtzDxkVCi.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 95046,
+            "original_language": "en",
+            "original_title": "They Knew What They Wanted",
+            "overview": "While courting a young woman by mail, a rich farmer sends a photograph of his foreman instead of his own, which leads to complications when she accepts his marriage proposal.",
+            "popularity": 0.2595,
+            "poster_path": "/vwjPDeGNUUregEgqT6Y4lqZBPJw.jpg",
+            "release_date": "1940-10-19",
+            "title": "They Knew What They Wanted",
+            "video": false,
+            "vote_average": 5.55,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wudRKHhBiUyNY56v60lgHSdQscT.jpg",
+            "genre_ids": [
+                36,
+                10749,
+                37
+            ],
+            "id": 56152,
+            "original_language": "en",
+            "original_title": "Brigham Young",
+            "overview": "Based on the story of the famous Mormon leader, it follows Brigham Young and his challenge to transport his people across the Rocky mountains to settle in Salt Lake City. The plot focuses on two fictitious characters, Jonathan Kent and Zina Webb and the hardships they have to face along the way.",
+            "popularity": 0.372,
+            "poster_path": "/oEw9oe3e0rWcLxc1L0kp56Big8n.jpg",
+            "release_date": "1940-09-27",
+            "title": "Brigham Young",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6iqcaM3HLeOi6AdIpLeaZ2KHU8O.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 20643,
+            "original_language": "en",
+            "original_title": "I Love You Again",
+            "overview": "Boring businessman Larry Wilson recovers from amnesia and discovers he's really a con man...and loves his soon-to-be-ex wife.",
+            "popularity": 0.3007,
+            "poster_path": "/vOqMLBf3AcTqjM1PFcYDDAgye23.jpg",
+            "release_date": "1940-08-09",
+            "title": "I Love You Again",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b9chZQwkHPjFnWBmw6Bw4JMzacP.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 131770,
+            "original_language": "en",
+            "original_title": "Arise, My Love",
+            "overview": "A dashing pilot and a vivacious reporter have romantic and dramatic adventures in Europe as World War II begins.",
+            "popularity": 0.223,
+            "poster_path": "/depZFXpKyOw7aeIGWa42A30H64L.jpg",
+            "release_date": "1940-11-08",
+            "title": "Arise, My Love",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n2GD2vrcq9RSqMMqYmH60r5XZXl.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 204604,
+            "original_language": "en",
+            "original_title": "Lillian Russell",
+            "overview": "Alice Faye plays the title role in this 1940 film biography of the early-20th-century stage star.",
+            "popularity": 0.2141,
+            "poster_path": "/3zHQRm8vig16p6KjKPQRAQGG7t0.jpg",
+            "release_date": "1940-05-24",
+            "title": "Lillian Russell",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cTG7EnKvDdmTaZUGEkRvxgdCOXA.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 43820,
+            "original_language": "en",
+            "original_title": "Susan and God",
+            "overview": "A flighty socialite neglects her family to promote a new religious group.",
+            "popularity": 0.257,
+            "poster_path": "/8CPkM6xKdEpL2niWIVDny0BSjdX.jpg",
+            "release_date": "1940-06-07",
+            "title": "Susan and God",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kIGfEkETCQUU94ougWCYwem4CV2.jpg",
+            "genre_ids": [
+                12,
+                14,
+                10749
+            ],
+            "id": 12232,
+            "original_language": "en",
+            "original_title": "The Thief of Bagdad",
+            "overview": "When Prince Ahmad is blinded and cast out of Bagdad by the nefarious Jaffar, he joins forces with the scrappy thief Abu to win back his royal place, as well as the heart of a beautiful princess.",
+            "popularity": 0.8724,
+            "poster_path": "/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
+            "release_date": "1940-02-19",
+            "title": "The Thief of Bagdad",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 281
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wIMo27spQSnAqBU6Nt9K1CqGMsJ.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 117113,
+            "original_language": "en",
+            "original_title": "He Stayed for Breakfast",
+            "overview": "Set in Paris, this romantic comedy revolves around the beautiful estranged wife of a wealthy banker who hides a handsome and fiery Communist fugitive in her apartment.",
+            "popularity": 0.0979,
+            "poster_path": "/dtOvArttYfX5zHXPXcZxOQAGAC2.jpg",
+            "release_date": "1940-08-31",
+            "title": "He Stayed for Breakfast",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8gsnNAA3ViqtRQrGcfrndcsaVHY.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 80054,
+            "original_language": "en",
+            "original_title": "Primrose Path",
+            "overview": "Ellie Mae lives on Primrose Hill with her good-hearted and fancy free mother, her drunken father, her younger sister and a mean-spirited grandmother. The Hill is not a good part of town, however. When she meets and falls for a hard-working man, they marry and she hides her past from him. When he discovers the truth it jeopardizes their marriage.",
+            "popularity": 0.5034,
+            "poster_path": "/2yrimUM6qpPlRTByQLB5YQLdSGH.jpg",
+            "release_date": "1940-03-22",
+            "title": "Primrose Path",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gQkGOE0AG5SEvszhtqEqVob3He1.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 256094,
+            "original_language": "en",
+            "original_title": "Pastor Hall",
+            "overview": "The village of Altdorf has to come to terms with Chancellor Hitler and the arrival of a platoon of Stormtroopers. The Stormtroopers go about teaching and enforcing \"The New Order\", but Pastor Hall, a kind and gentle man, won't be cowed. Some villagers join the Nazi party avidly, and some just go along with things, hoping for a quiet life, but Pastor Hall takes his convictions to the pulpit.",
+            "popularity": 0.2018,
+            "poster_path": "/9R6Eb6Hjb7cKST2yM2D2zNxJJXZ.jpg",
+            "release_date": "1940-05-28",
+            "title": "Pastor Hall",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 116007,
+            "original_language": "en",
+            "original_title": "The Earl of Chicago",
+            "overview": "A behind the times Chicago bootlegger goes to England with his lawyer to claim his estate as the Earl of Gorley.",
+            "popularity": 0.1496,
+            "poster_path": "/e1gHpQlqfGTRfCpn2qP2bzUHQt1.jpg",
+            "release_date": "1940-01-05",
+            "title": "The Earl of Chicago",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xIxEbgF1Ta7xzQPqLpfhKrMuIw1.jpg",
+            "genre_ids": [
+                35,
+                27,
+                9648
+            ],
+            "id": 14605,
+            "original_language": "en",
+            "original_title": "The Ghost Breakers",
+            "overview": "After intrepid working girl Mary Carter becomes the new owner of a reputedly haunted mansion located off the Cuban coast, a stranger phones warning her to stay away from the castle. Undaunted, Mary sets sail for Cuba with a stowaway in her trunk\u2014wise-cracking Larry Lawrence, a radio announcer who helps Mary get to the bottom of the voodoo magic, zombies and ghosts that supposedly curse the spooky estate.",
+            "popularity": 1.2695,
+            "poster_path": "/zytHhgTgPuHNdKFxeyznHa6BkA.jpg",
+            "release_date": "1940-06-21",
+            "title": "The Ghost Breakers",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4rd9SUlamdxZlLkCBl6A1z24L4e.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 16933,
+            "original_language": "en",
+            "original_title": "They Drive by Night",
+            "overview": "Joe and Paul Fabrini are Wildcat, or independent, truck drivers who have their own small one-truck business. The Fabrini boys constantly battle distributors, rivals and loan collectors, while trying to make a success of their transport company.",
+            "popularity": 0.5898,
+            "poster_path": "/uF0X3IMhPIFgbwzlbayUsj4I6Tc.jpg",
+            "release_date": "1940-07-26",
+            "title": "They Drive by Night",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rc1bQzU565L4RD4t6nUZ0IwSXvq.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                80
+            ],
+            "id": 31148,
+            "original_language": "en",
+            "original_title": "City for Conquest",
+            "overview": "The heartbreaking but hopeful tale of Danny Kenny and Peggy Nash, two sweethearts who meet and struggle through their impoverished lives in New York City. When Peggy, hoping for something better in life for both of them, breaks off her engagement to Danny, he sets out to be a championship boxer, while she becomes a dancer paired with a sleazy partner. Will tragedy reunite the former lovers?",
+            "popularity": 0.3242,
+            "poster_path": "/pwWBxZMFfgSEvi82PjR8099lcl9.jpg",
+            "release_date": "1940-09-21",
+            "title": "City for Conquest",
+            "video": false,
+            "vote_average": 6.833,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/povPlpYKpZRL5CQMp2UsogYoLF3.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 67368,
+            "original_language": "en",
+            "original_title": "Third Finger, Left Hand",
+            "overview": "Magazine editor Margot Merrick pretends to be married in order to avoid advances from male colleagues. Unfortunately, things don't go to plan when Jeff Thompson, a potential suitor, uncovers the deception and decides to show up at Margot's family home posing as her husband!",
+            "popularity": 0.1099,
+            "poster_path": "/nj2sNIvSVEKvrcAlA61sYlNPHfe.jpg",
+            "release_date": "1940-10-11",
+            "title": "Third Finger, Left Hand",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xdin9zkEh2g73kZIZGjlT6k2HOZ.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                12
+            ],
+            "id": 50271,
+            "original_language": "en",
+            "original_title": "Strange Cargo",
+            "overview": "Convicts escaping from Devil's Island come under the influence of a strange Christ-like figure.",
+            "popularity": 0.3454,
+            "poster_path": "/gquGUJwVw2emUu8I4RprKcRpWTO.jpg",
+            "release_date": "1940-03-01",
+            "title": "Strange Cargo",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 52
+        }
+    ]
+}

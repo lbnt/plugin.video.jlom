@@ -1,0 +1,33 @@
+{
+    "type" : "folder_list",
+    "title" : "2020s",
+    "added" : "29/07/25",
+    "modified" : "29/07/25",
+    "folders" : [
+        {
+            "title" : "Critics' Top 10 - 2020",
+            "id" : "criticstop10-2020",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Critics' Top 10 - 2021",
+            "id" : "criticstop10-2021",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Critics' Top 10 - 2022",
+            "id" : "criticstop10-2022",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Critics' Top 10 - 2023",
+            "id" : "criticstop10-2023",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Critics' Top 10 - 2024",
+            "id" : "criticstop10-2024",
+            "type" : "movie_list"
+        }
+    ]
+}

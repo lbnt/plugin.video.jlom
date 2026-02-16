@@ -1,0 +1,2744 @@
+{
+    "type": "movie_list",
+    "title": "Rotten Tomatoes - 100 Best War Movies Of All Time",
+    "source": "https://editorial.rottentomatoes.com/guide/best-war-movies-of-all-time/",
+    "created_by": "lbnt",
+    "added": "10/10/24",
+    "modified": "10/10/24",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/gwj4R8Uy1GwejKqfofREKI9Jh7L.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10752
+            ],
+            "id": 12477,
+            "original_language": "ja",
+            "original_title": "\u706b\u5782\u308b\u306e\u5893",
+            "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+            "popularity": 0.064,
+            "poster_path": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+            "release_date": "1988-04-16",
+            "title": "Grave of the Fireflies",
+            "video": false,
+            "vote_average": 8.455,
+            "vote_count": 5471
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yEbJs6ZLURFgAFvS8EeNrYovYHa.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 15244,
+            "original_language": "fr",
+            "original_title": "Un condamn\u00e9 \u00e0 mort s'est \u00e9chapp\u00e9",
+            "overview": "A captured French Resistance fighter during World War II engineers a daunting escape from prison.",
+            "popularity": 11.868,
+            "poster_path": "/17UxgBJMzcOCyjk0LzfCUvYaSxK.jpg",
+            "release_date": "1956-11-11",
+            "title": "A Man Escaped",
+            "video": false,
+            "vote_average": 7.95,
+            "vote_count": 516
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rrsG3xYrWifoduZtsIZ4ntoDfBY.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 289,
+            "original_language": "en",
+            "original_title": "Casablanca",
+            "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+            "popularity": 29.134,
+            "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+            "release_date": "1943-01-15",
+            "title": "Casablanca",
+            "video": false,
+            "vote_average": 8.159,
+            "vote_count": 5366
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A5sZ1OxIH5StZgqBE9MslgsWjK6.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                36
+            ],
+            "id": 17295,
+            "original_language": "it",
+            "original_title": "La battaglia di Algeri",
+            "overview": "Tracing the struggle of the Algerian Front de Liberation Nationale to gain freedom from French colonial rule as seen through the eyes of Ali from his start as a petty thief to his rise to prominence in the organisation and capture by the French in 1957. The film traces the rebels' struggle and the increasingly extreme measures taken by the French government to quell the revolt.",
+            "popularity": 12.47,
+            "poster_path": "/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+            "release_date": "1966-09-08",
+            "title": "The Battle of Algiers",
+            "video": false,
+            "vote_average": 7.88,
+            "vote_count": 752
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/usbfKNeqx5FrHByBf7Fzf9WDuIl.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 10705,
+            "original_language": "en",
+            "original_title": "Henry V",
+            "overview": "Gritty adaption of William Shakespeare's play about the English King's bloody conquest of France.",
+            "popularity": 13.317,
+            "poster_path": "/w9R2HsYNnfF3m9uEo2UAmPNJr8a.jpg",
+            "release_date": "1989-10-05",
+            "title": "Henry V",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 362
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 424,
+            "original_language": "en",
+            "original_title": "Schindler's List",
+            "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "popularity": 78.572,
+            "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_date": "1993-12-15",
+            "title": "Schindler's List",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 15739
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 28,
+            "original_language": "en",
+            "original_title": "Apocalypse Now",
+            "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+            "popularity": 60.881,
+            "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+            "release_date": "1979-08-15",
+            "title": "Apocalypse Now",
+            "video": false,
+            "vote_average": 8.279,
+            "vote_count": 8137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 935,
+            "original_language": "en",
+            "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike.",
+            "popularity": 33.412,
+            "poster_path": "/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
+            "release_date": "1964-01-29",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "video": false,
+            "vote_average": 8.12,
+            "vote_count": 5555
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 143,
+            "original_language": "en",
+            "original_title": "All Quiet on the Western Front",
+            "overview": "When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.",
+            "popularity": 20.568,
+            "poster_path": "/1wZUB08igw8iLUgF1r4T6aJD65b.jpg",
+            "release_date": "1930-04-29",
+            "title": "All Quiet on the Western Front",
+            "video": false,
+            "vote_average": 7.758,
+            "vote_count": 783
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tRI6Csmw4rKzMYDrfUx5xtyBSVE.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 387,
+            "original_language": "de",
+            "original_title": "Das Boot",
+            "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+            "popularity": 38.66,
+            "poster_path": "/hNfAYNCMRthp9iruF5Q6S1z4bVA.jpg",
+            "release_date": "1981-09-17",
+            "title": "Das Boot",
+            "video": false,
+            "vote_average": 8.091,
+            "vote_count": 2184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9UAhRDffrWkOwxqzqAF6ls1iEZ8.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 12162,
+            "original_language": "en",
+            "original_title": "The Hurt Locker",
+            "overview": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+            "popularity": 24.95,
+            "poster_path": "/cL0GuOU6SILvXyAuyB671e2r1E8.jpg",
+            "release_date": "2008-10-10",
+            "title": "The Hurt Locker",
+            "video": false,
+            "vote_average": 7.257,
+            "vote_count": 5540
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 887,
+            "original_language": "en",
+            "original_title": "The Best Years of Our Lives",
+            "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+            "popularity": 15.298,
+            "poster_path": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+            "release_date": "1946-12-25",
+            "title": "The Best Years of Our Lives",
+            "video": false,
+            "vote_average": 7.781,
+            "vote_count": 636
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yxsFDcFeF39IaMCT6wbG9Ydh2Le.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                53
+            ],
+            "id": 15383,
+            "original_language": "fr",
+            "original_title": "L'Arm\u00e9e des ombres",
+            "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
+            "popularity": 12.131,
+            "poster_path": "/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg",
+            "release_date": "1969-09-10",
+            "title": "Army of Shadows",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 631
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yNraM35Vsga5x54whRh7BvQ9afm.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 777,
+            "original_language": "fr",
+            "original_title": "La Grande Illusion",
+            "overview": "A group of French soldiers, including the patrician Captain de Boeldieu and the working-class Lieutenant Mar\u00e9chal, grapple with their own class differences after being captured and held in a World War I German prison camp. When the men are transferred to a high-security fortress, they must concoct a plan to escape beneath the watchful eye of aristocratic German officer von Rauffenstein, who has formed an unexpected bond with de Boeldieu.",
+            "popularity": 9.076,
+            "poster_path": "/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg",
+            "release_date": "1937-06-04",
+            "title": "Grand Illusion",
+            "video": false,
+            "vote_average": 7.847,
+            "vote_count": 676
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5ymJuqUWwQZ7yq63UE8DNpFBELr.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                53
+            ],
+            "id": 336050,
+            "original_language": "hu",
+            "original_title": "Saul fia",
+            "overview": "In the horror of 1944 Auschwitz, a prisoner forced to burn the corpses of his own people finds moral survival trying to save from the flames the body of a boy he takes for his son, seeking to give him a proper jewish burial.",
+            "popularity": 13.241,
+            "poster_path": "/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg",
+            "release_date": "2015-06-11",
+            "title": "Son of Saul",
+            "video": false,
+            "vote_average": 7.153,
+            "vote_count": 1045
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oTclC89GNdGQ25XjowvMlCpLyMi.jpg",
+            "genre_ids": [
+                18,
+                16,
+                10752,
+                99
+            ],
+            "id": 8885,
+            "original_language": "he",
+            "original_title": "Vals Im Bashir",
+            "overview": "An Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.",
+            "popularity": 15.185,
+            "poster_path": "/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg",
+            "release_date": "2008-06-12",
+            "title": "Waltz with Bashir",
+            "video": false,
+            "vote_average": 7.696,
+            "vote_count": 942
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aTloiKdNs2c8vlstbx3wBWD6Thi.jpg",
+            "genre_ids": [
+                53,
+                28,
+                18,
+                10752
+            ],
+            "id": 252178,
+            "original_language": "en",
+            "original_title": "'71",
+            "overview": "A young British soldier must find his way back to safety after his unit accidentally abandons him during a riot in the streets of Belfast.",
+            "popularity": 23.036,
+            "poster_path": "/xjorsS84euahsmGlnEEeE3LFSVZ.jpg",
+            "release_date": "2014-10-10",
+            "title": "'71",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 826,
+            "original_language": "en",
+            "original_title": "The Bridge on the River Kwai",
+            "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+            "popularity": 16.902,
+            "poster_path": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+            "release_date": "1957-10-11",
+            "title": "The Bridge on the River Kwai",
+            "video": false,
+            "vote_average": 7.831,
+            "vote_count": 2060
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8wdxa4JgiAXvITgqkra1W0Dpii5.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 11645,
+            "original_language": "ja",
+            "original_title": "\u4e71",
+            "overview": "With Ran, legendary director Akira Kurosawa reimagines Shakespeare's King Lear as a singular historical epic set in sixteenth-century Japan. Majestic in scope, the film is Kurosawa's late-life masterpiece, a profound examination of the folly of war and the crumbling of one family under the weight of betrayal, greed, and the insatiable thirst for power.",
+            "popularity": 21.607,
+            "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+            "release_date": "1985-06-01",
+            "title": "Ran",
+            "video": false,
+            "vote_average": 8.071,
+            "vote_count": 1516
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 975,
+            "original_language": "en",
+            "original_title": "Paths of Glory",
+            "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+            "popularity": 28.928,
+            "poster_path": "/p7OHwomA8UOhe3EhckF2IetBTh9.jpg",
+            "release_date": "1957-10-25",
+            "title": "Paths of Glory",
+            "video": false,
+            "vote_average": 8.271,
+            "vote_count": 2866
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p69ybBV94wSmyCGE2y2pH9U86l0.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 198,
+            "original_language": "en",
+            "original_title": "To Be or Not to Be",
+            "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+            "popularity": 19.54,
+            "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+            "release_date": "1942-03-05",
+            "title": "To Be or Not to Be",
+            "video": false,
+            "vote_average": 7.836,
+            "vote_count": 705
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/puL7PZVbpOs2xWK06VRUqJb6U1z.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 333352,
+            "original_language": "en",
+            "original_title": "Eye in the Sky",
+            "overview": "A UK-based military officer in command of a top secret drone operation to capture terrorists in Kenya discovers the targets are planning a suicide bombing and the mission escalates from \u201ccapture\u201d to \u201ckill.\u201d As American pilot Steve Watts is about to engage, a nine-year old girl enters the kill zone, triggering an international dispute reaching the highest levels of US and British government over the moral, political, and personal implications of modern warfare.",
+            "popularity": 21.055,
+            "poster_path": "/xMY2XbaRtmto9LXwo83wnYRKN2U.jpg",
+            "release_date": "2015-09-07",
+            "title": "Eye in the Sky",
+            "video": false,
+            "vote_average": 7.027,
+            "vote_count": 1544
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hchJ0PTREmXveasCBsT4SdPY3JF.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 423,
+            "original_language": "en",
+            "original_title": "The Pianist",
+            "overview": "The true story of pianist W\u0142adys\u0142aw Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a caf\u00e9; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+            "popularity": 36.333,
+            "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+            "release_date": "2002-09-17",
+            "title": "The Pianist",
+            "video": false,
+            "vote_average": 8.381,
+            "vote_count": 9091
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 857,
+            "original_language": "en",
+            "original_title": "Saving Private Ryan",
+            "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+            "popularity": 65.465,
+            "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+            "release_date": "1998-07-24",
+            "title": "Saving Private Ryan",
+            "video": false,
+            "vote_average": 8.216,
+            "vote_count": 15695
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6wmemKdbkOIaWfzz607K21R6qOh.jpg",
+            "genre_ids": [
+                12,
+                36,
+                10752
+            ],
+            "id": 947,
+            "original_language": "en",
+            "original_title": "Lawrence of Arabia",
+            "overview": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+            "popularity": 22.439,
+            "poster_path": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+            "release_date": "1962-12-11",
+            "title": "Lawrence of Arabia",
+            "video": false,
+            "vote_average": 8.005,
+            "vote_count": 2965
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gysZn2XnFlDDQROXdBPiku4Aujg.jpg",
+            "genre_ids": [
+                28,
+                35,
+                10752
+            ],
+            "id": 6415,
+            "original_language": "en",
+            "original_title": "Three Kings",
+            "overview": "A group of American soldiers stationed in Iraq at the end of the Gulf War find a map they believe will take them to a huge cache of stolen Kuwaiti gold hidden near their base, and they embark on a secret mission that's destined to change everything.",
+            "popularity": 33.13,
+            "poster_path": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+            "release_date": "1999-09-27",
+            "title": "Three Kings",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2022
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
+            "genre_ids": [
+                36,
+                10752,
+                18,
+                12
+            ],
+            "id": 967,
+            "original_language": "en",
+            "original_title": "Spartacus",
+            "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+            "popularity": 27.281,
+            "poster_path": "/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+            "release_date": "1960-10-13",
+            "title": "Spartacus",
+            "video": false,
+            "vote_average": 7.55,
+            "vote_count": 2108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ih30cG9OGlJ7zyzhG3G5Bd3YGa9.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10752
+            ],
+            "id": 5925,
+            "original_language": "en",
+            "original_title": "The Great Escape",
+            "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+            "popularity": 31.281,
+            "poster_path": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+            "release_date": "1963-07-03",
+            "title": "The Great Escape",
+            "video": false,
+            "vote_average": 7.95,
+            "vote_count": 2507
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eW8c4u3WhOVkPMnfe294lXggO3i.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 9665,
+            "original_language": "en",
+            "original_title": "Glory",
+            "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+            "popularity": 18.456,
+            "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+            "release_date": "1989-12-15",
+            "title": "Glory",
+            "video": false,
+            "vote_average": 7.467,
+            "vote_count": 1584
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+            "genre_ids": [
+                28,
+                36,
+                10752
+            ],
+            "id": 8342,
+            "original_language": "bs",
+            "original_title": "No Man's Land",
+            "overview": "Two soldiers from opposite sites get stuck between the front lines in the same trench. The UN is asked to free them and both sides agree on a ceasefire, but will they stick to it?",
+            "popularity": 7.689,
+            "poster_path": "/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+            "release_date": "2001-05-12",
+            "title": "No Man's Land",
+            "video": false,
+            "vote_average": 7.494,
+            "vote_count": 429
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6iUNJZymJBMXXriQyFZfLAKnjO6.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 297762,
+            "original_language": "en",
+            "original_title": "Wonder Woman",
+            "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+            "popularity": 73.112,
+            "poster_path": "/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg",
+            "release_date": "2017-05-30",
+            "title": "Wonder Woman",
+            "video": false,
+            "vote_average": 7.225,
+            "vote_count": 19800
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/soJGAjMOnvHaWZvAZm7r5OMTpM4.jpg",
+            "genre_ids": [
+                18,
+                28,
+                10752,
+                10749
+            ],
+            "id": 28966,
+            "original_language": "en",
+            "original_title": "Wings",
+            "overview": "Two young men, one rich, one middle class, both in love with the same woman, become US Air Corps fighter pilots and, eventually, heroic flying aces during World War I. Devoted best friends, their mutual love of the girl eventually threatens their bond. Meanwhile, a hometown girl who's the lovestruck lifelong next door neighbor of one of them pines away.",
+            "popularity": 10.449,
+            "poster_path": "/kEl6KCBgdmT1Nex3ka0EIWAOmtm.jpg",
+            "release_date": "1927-08-12",
+            "title": "Wings",
+            "video": false,
+            "vote_average": 7.223,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/45gDIbrGytpKjzRvQ6TGUor6RGy.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                36,
+                10749,
+                10752
+            ],
+            "id": 9361,
+            "original_language": "en",
+            "original_title": "The Last of the Mohicans",
+            "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+            "popularity": 37.8,
+            "poster_path": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+            "release_date": "1992-08-26",
+            "title": "The Last of the Mohicans",
+            "video": false,
+            "vote_average": 7.387,
+            "vote_count": 3024
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c7OeJd34rc9bI1DXqd4ucb1wVrf.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 625,
+            "original_language": "en",
+            "original_title": "The Killing Fields",
+            "overview": "New York Times reporter Sydney Schanberg is on assignment covering the Cambodian Civil War, with the help of local interpreter Dith Pran and American photojournalist Al Rockoff. When the U.S. Army pulls out amid escalating violence, Schanberg makes exit arrangements for Pran and his family. Pran, however, tells Schanberg he intends to stay in Cambodia to help cover the unfolding story \u2014 a decision he may regret as the Khmer Rouge rebels move in.",
+            "popularity": 19.325,
+            "poster_path": "/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg",
+            "release_date": "1984-11-23",
+            "title": "The Killing Fields",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 724
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 374720,
+            "original_language": "en",
+            "original_title": "Dunkirk",
+            "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+            "popularity": 51.078,
+            "poster_path": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+            "release_date": "2017-07-19",
+            "title": "Dunkirk",
+            "video": false,
+            "vote_average": 7.456,
+            "vote_count": 16341
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 335578,
+            "original_language": "da",
+            "original_title": "Under sandet",
+            "overview": "In the days following the surrender of Germany in May 1945, a group of young German prisoners of war is handed over to the Danish authorities and subsequently sent to the West Coast, where they are ordered to remove the more than two million mines that the Germans had placed in the sand along the coast. With their bare hands, crawling around in the sand, the boys are forced to perform the dangerous work under the leadership of a Danish sergeant.",
+            "popularity": 10.87,
+            "poster_path": "/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+            "release_date": "2015-12-03",
+            "title": "Land of Mine",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/evPzxMacNWsjkUKQO4NXKe5Rl6a.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 97630,
+            "original_language": "en",
+            "original_title": "Zero Dark Thirty",
+            "overview": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L. Team 6 in May, 2011.",
+            "popularity": 23.742,
+            "poster_path": "/coeTvXKAYZlrcIfsCfYV5Hw1npu.jpg",
+            "release_date": "2012-12-19",
+            "title": "Zero Dark Thirty",
+            "video": false,
+            "vote_average": 6.992,
+            "vote_count": 4437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p9V3vD1Ye2zRNfTsE8oY58Fe81S.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10752
+            ],
+            "id": 1251,
+            "original_language": "en",
+            "original_title": "Letters from Iwo Jima",
+            "overview": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.",
+            "popularity": 37.636,
+            "poster_path": "/kZokxQtzMPURvijWYFuvh1fAvnv.jpg",
+            "release_date": "2006-12-09",
+            "title": "Letters from Iwo Jima",
+            "video": false,
+            "vote_average": 7.473,
+            "vote_count": 2021
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rM3C9s0b9oiOQDdrfLSOoE0sjWl.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 632,
+            "original_language": "en",
+            "original_title": "Stalag 17",
+            "overview": "It's a dreary Christmas 1944 for the American POWs in Stalag 17 and the men in Barracks 4, all sergeants, have to deal with a grave problem\u2014there seems to be a security leak.",
+            "popularity": 10.279,
+            "poster_path": "/lfve9FDKjT7JPbWI9NCs5340F79.jpg",
+            "release_date": "1953-05-29",
+            "title": "Stalag 17",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 590
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mKEmuB7diOa7Ef0tJSGQ3fYJnNe.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 600,
+            "original_language": "en",
+            "original_title": "Full Metal Jacket",
+            "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "popularity": 42.287,
+            "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+            "release_date": "1987-06-26",
+            "title": "Full Metal Jacket",
+            "video": false,
+            "vote_average": 8.131,
+            "vote_count": 10361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vGW80WruxhWoAWsgE4t1ZHc15rV.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18
+            ],
+            "id": 11646,
+            "original_language": "en",
+            "original_title": "Gallipoli",
+            "overview": "As World War I rages, brave and youthful Australians Archy and Frank\u2014both agile runners\u2014become friends and enlist in the Australian and New Zealand Army Corps together. They later find themselves part of the Dardanelles Campaign on the Gallipoli peninsula, a brutal eight-month conflict which pit the British and their allies against the Ottoman Empire and left over 500,000 men dead.",
+            "popularity": 10.455,
+            "poster_path": "/un7VCqTmjrq3u75mQ204a8tofD4.jpg",
+            "release_date": "1981-08-13",
+            "title": "Gallipoli",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 469
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sRnfZo5QuWo63khQsdEbd4oEvcJ.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                28
+            ],
+            "id": 49046,
+            "original_language": "de",
+            "original_title": "Im Westen nichts Neues",
+            "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+            "popularity": 50.654,
+            "poster_path": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+            "release_date": "2022-10-07",
+            "title": "All Quiet on the Western Front",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 3785
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+            "genre_ids": [
+                36,
+                18,
+                53,
+                10752
+            ],
+            "id": 205596,
+            "original_language": "en",
+            "original_title": "The Imitation Game",
+            "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+            "popularity": 156.239,
+            "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+            "release_date": "2014-11-14",
+            "title": "The Imitation Game",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 16871
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6paWQM4CiMHfWjVeUJu6alwGZzt.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10752
+            ],
+            "id": 9952,
+            "original_language": "en",
+            "original_title": "Rescue Dawn",
+            "overview": "A US Fighter pilot's epic struggle of survival after being shot down on a mission over Laos during the Vietnam War.",
+            "popularity": 15.367,
+            "poster_path": "/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg",
+            "release_date": "2006-09-09",
+            "title": "Rescue Dawn",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/grRV8O63Ee3e6NmFO2SqQfqV2nT.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 613,
+            "original_language": "de",
+            "original_title": "Der Untergang",
+            "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+            "popularity": 21.465,
+            "poster_path": "/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+            "release_date": "2004-09-16",
+            "title": "Downfall",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 3788
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fKrFGB96kVeJ9uE83Jc4fIWBgqO.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 1116,
+            "original_language": "en",
+            "original_title": "The Wind That Shakes the Barley",
+            "overview": "In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job in a London hospital. As he says his goodbyes at a friend's farm, British Black and Tans arrive, and a young man is killed. Damien joins his brother Teddy in the Irish Republican Army, but political events are soon set in motion that tear the brothers apart.",
+            "popularity": 18.003,
+            "poster_path": "/yCb4LweL6U7KTgSda3Wb7vHiA9J.jpg",
+            "release_date": "2006-06-23",
+            "title": "The Wind That Shakes the Barley",
+            "video": false,
+            "vote_average": 7.365,
+            "vote_count": 792
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zOWYsIZxJ0PfJIA4aobry05bMOk.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 32084,
+            "original_language": "he",
+            "original_title": "Lebanon",
+            "overview": "During the First Lebanon War in 1982, a lone tank and a paratroopers platoon are dispatched to search a hostile town.",
+            "popularity": 9.066,
+            "poster_path": "/ulWjW1KhMLHwWJ97593reBhnXlv.jpg",
+            "release_date": "2009-09-24",
+            "title": "Lebanon",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AfK1tyoO0i47mzKhA9BJVNGq1vg.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10749
+            ],
+            "id": 770,
+            "original_language": "en",
+            "original_title": "Gone with the Wind",
+            "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+            "popularity": 56.934,
+            "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+            "release_date": "1939-03-12",
+            "title": "Gone with the Wind",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 3978
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3oa1aBgFEfm5d1fbSwafo9a4RG4.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 11202,
+            "original_language": "en",
+            "original_title": "Patton",
+            "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+            "popularity": 30.092,
+            "poster_path": "/8IRufbzhMJSdlmD0cnTWERCtTN2.jpg",
+            "release_date": "1970-01-25",
+            "title": "Patton",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1074
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mpRSzmUX0Lsimgg0M8hZRS2xrDC.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 16121,
+            "original_language": "en",
+            "original_title": "The Big Red One",
+            "overview": "A veteran sergeant of World War I leads a squad in World War II, always in the company of the survivor Pvt. Griff, the writer Pvt. Zab, the Sicilian Pvt. Vinci and Pvt. Johnson, in Vichy French Africa, Sicily, D-Day at Omaha Beach, Belgium and France, and ending in a concentration camp in Czechoslovakia where they face the true horror of war.",
+            "popularity": 11.134,
+            "poster_path": "/h0VcqQ3z1RroKk7WtiW0E6DDho2.jpg",
+            "release_date": "1980-01-22",
+            "title": "The Big Red One",
+            "video": false,
+            "vote_average": 6.706,
+            "vote_count": 304
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1Jpkm9qZcsT0mSyVXgs4VlGjPNI.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 16869,
+            "original_language": "en",
+            "original_title": "Inglourious Basterds",
+            "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+            "popularity": 59.894,
+            "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+            "release_date": "2009-08-02",
+            "title": "Inglourious Basterds",
+            "video": false,
+            "vote_average": 8.219,
+            "vote_count": 22081
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 72976,
+            "original_language": "en",
+            "original_title": "Lincoln",
+            "overview": "The revealing story of the 16th US President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.",
+            "popularity": 18.973,
+            "poster_path": "/oOo905cttAIkHERDBya5sX6HbIV.jpg",
+            "release_date": "2012-11-09",
+            "title": "Lincoln",
+            "video": false,
+            "vote_average": 6.857,
+            "vote_count": 3727
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wjt1dwtabVm9vujAteDTnXnpHfZ.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                28
+            ],
+            "id": 792,
+            "original_language": "en",
+            "original_title": "Platoon",
+            "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+            "popularity": 23.619,
+            "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+            "release_date": "1986-12-19",
+            "title": "Platoon",
+            "video": false,
+            "vote_average": 7.742,
+            "vote_count": 4477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l04cyHUP6PCAozc2GMEHPguu7AN.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 801,
+            "original_language": "en",
+            "original_title": "Good Morning, Vietnam",
+            "overview": "A disk jockey goes to Vietnam to work for the Armed Forces Radio Service. While he becomes popular among the troops, his superiors disapprove of his humour.",
+            "popularity": 13.348,
+            "poster_path": "/rcod81d34X1avhRIKBOQ4BsHtYZ.jpg",
+            "release_date": "1987-12-23",
+            "title": "Good Morning, Vietnam",
+            "video": false,
+            "vote_average": 7.305,
+            "vote_count": 2655
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/938lqhAQaO3hmLg44VbUR7OqlMs.jpg",
+            "genre_ids": [
+                18,
+                16,
+                10749,
+                10752,
+                36
+            ],
+            "id": 149870,
+            "original_language": "ja",
+            "original_title": "\u98a8\u7acb\u3061\u306c",
+            "overview": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane.",
+            "popularity": 33.589,
+            "poster_path": "/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg",
+            "release_date": "2013-07-20",
+            "title": "The Wind Rises",
+            "video": false,
+            "vote_average": 7.788,
+            "vote_count": 2967
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tbEFMCBOZphuXXKnaCe8OjcHizt.jpg",
+            "genre_ids": [
+                10752,
+                10749,
+                18
+            ],
+            "id": 11426,
+            "original_language": "en",
+            "original_title": "From Here to Eternity",
+            "overview": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second in command are falling in love.",
+            "popularity": 11.606,
+            "poster_path": "/25Rm1YJSyhXAEu8abonZvW83aPL.jpg",
+            "release_date": "1953-08-28",
+            "title": "From Here to Eternity",
+            "video": false,
+            "vote_average": 7.289,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6nPbmf5ctz3xFDWEMNokV4vUpyt.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 238628,
+            "original_language": "et",
+            "original_title": "Mandariinid",
+            "overview": "War in Abkhazia, 1992. An Estonian man Ivo has stayed behind to harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo is forced to take him in.",
+            "popularity": 12.859,
+            "poster_path": "/jNKUXcwZr1vpgq7sGTCEqdngo4Z.jpg",
+            "release_date": "2013-10-16",
+            "title": "Tangerines",
+            "video": false,
+            "vote_average": 7.688,
+            "vote_count": 503
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rop1hL6sCQZy3vqBOqrmHLRPBt.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 261825,
+            "original_language": "he",
+            "original_title": "\u05d0\u05e4\u05e1 \u05d1\u05d9\u05d7\u05e1\u05d9 \u05d0\u05e0\u05d5\u05e9",
+            "overview": "Filmmaker Talya Lavie steps into the spotlight with a dark comedy about everyday life for a unit of young female Israeli soldiers. The human resources office at a remote desert base serves as the setting for this cast of characters, who bide their time pushing paper, battling for the top score in Minesweeper, and counting down the minutes until they can return to civilian life. Amidst their boredom and clashing personalities, issues of commitment\u2014from friendship to love and country\u2014are handled with humor and sharp-edged wit.",
+            "popularity": 5.47,
+            "poster_path": "/o47GwtgXRD6k8qxcJseQK2Fa9C0.jpg",
+            "release_date": "2014-06-26",
+            "title": "Zero Motivation",
+            "video": false,
+            "vote_average": 6.516,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qDDaOIwlahViQMFMOnPeBYcUp3X.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                36
+            ],
+            "id": 23908,
+            "original_language": "en",
+            "original_title": "A Midnight Clear",
+            "overview": "In 1944 France, an American Intelligence Squad locates a German Platoon wishing to surrender rather than die in Germany's final war offensive. The two groups of men, isolated from the war at present, put aside their differences and spend Christmas together before the surrender plan turns bad and both sides are forced to fight the other.",
+            "popularity": 17.354,
+            "poster_path": "/cOLBAnK2PvHxwjdEHQl4n3pZI14.jpg",
+            "release_date": "1992-04-24",
+            "title": "A Midnight Clear",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 11778,
+            "original_language": "en",
+            "original_title": "The Deer Hunter",
+            "overview": "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+            "popularity": 25.691,
+            "poster_path": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+            "release_date": "1978-12-08",
+            "title": "The Deer Hunter",
+            "video": false,
+            "vote_average": 8.005,
+            "vote_count": 3756
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v6Xxo34CHXKRmqMwjNknBTDo8Oz.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 409,
+            "original_language": "en",
+            "original_title": "The English Patient",
+            "overview": "In the 1930s, Count Alm\u00e1sy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Alm\u00e1sy enters into a world of love, betrayal, and politics.",
+            "popularity": 15.253,
+            "poster_path": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+            "release_date": "1996-11-14",
+            "title": "The English Patient",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 2154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/51Mr7maI9JaE3pY2CeUSZHTdRas.jpg",
+            "genre_ids": [
+                18,
+                53,
+                9648,
+                10752
+            ],
+            "id": 10684,
+            "original_language": "en",
+            "original_title": "Courage Under Fire",
+            "overview": "A US Army officer, who made a \"friendly fire\" mistake that was covered up, has been reassigned to a desk job. He is tasked to investigate a female chopper commander's worthiness to be awarded the Medal of Honor. At first all seems in order. But then he begins to notice inconsistencies between the testimonies of the witnesses...",
+            "popularity": 21.524,
+            "poster_path": "/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg",
+            "release_date": "1996-07-04",
+            "title": "Courage Under Fire",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 904
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gjZFMKtoJdpEDt3T0dnoiMfXYof.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 2604,
+            "original_language": "en",
+            "original_title": "Born on the Fourth of July",
+            "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+            "popularity": 16.472,
+            "poster_path": "/k5HfnMgaREHDNA7CugiETCb9ItM.jpg",
+            "release_date": "1989-12-20",
+            "title": "Born on the Fourth of July",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1669
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10752
+            ],
+            "id": 8619,
+            "original_language": "en",
+            "original_title": "Master and Commander: The Far Side of the World",
+            "overview": "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend.",
+            "popularity": 30.291,
+            "poster_path": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
+            "release_date": "2003-11-14",
+            "title": "Master and Commander: The Far Side of the World",
+            "video": false,
+            "vote_average": 7.155,
+            "vote_count": 3110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yQIBS8B9l2qXoPoPtxSXvH7CfoT.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 324786,
+            "original_language": "en",
+            "original_title": "Hacksaw Ridge",
+            "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+            "popularity": 89.891,
+            "poster_path": "/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+            "release_date": "2016-10-07",
+            "title": "Hacksaw Ridge",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 13607
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u4u4c5I12Vt6lZI3j6e8CAbOMnW.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 651,
+            "original_language": "en",
+            "original_title": "M*A*S*H",
+            "overview": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.  Preserved by the Academy Film Archive in partnership with Twentieth Century Fox Film Corporation in 2000.",
+            "popularity": 29.043,
+            "poster_path": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+            "release_date": "1970-02-18",
+            "title": "M*A*S*H",
+            "video": false,
+            "vote_average": 6.971,
+            "vote_count": 1012
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 907,
+            "original_language": "en",
+            "original_title": "Doctor Zhivago",
+            "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+            "popularity": 28.027,
+            "poster_path": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+            "release_date": "1965-12-22",
+            "title": "Doctor Zhivago",
+            "video": false,
+            "vote_average": 7.535,
+            "vote_count": 1127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oZtoyj3rhOST8FUtIXUqblIYmCv.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18
+            ],
+            "id": 661231,
+            "original_language": "en",
+            "original_title": "Operation Mincemeat",
+            "overview": "In 1943, two British intelligence officers concoct Operation Mincemeat, wherein their plan to drop a corpse with false papers off the coast of Spain would fool Nazi spies into believing the Allied forces were planning to attack by way of Greece rather than Sicily.",
+            "popularity": 23.355,
+            "poster_path": "/tfdfh1mK24VujxT5z11732asxdR.jpg",
+            "release_date": "2022-04-01",
+            "title": "Operation Mincemeat",
+            "video": false,
+            "vote_average": 6.53,
+            "vote_count": 657
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sCDWoyRutBPVHzVGB2nmXE8oxaX.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 4347,
+            "original_language": "en",
+            "original_title": "Atonement",
+            "overview": "As a 13-year-old, fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+            "popularity": 25.952,
+            "poster_path": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+            "release_date": "2007-02-27",
+            "title": "Atonement",
+            "video": false,
+            "vote_average": 7.648,
+            "vote_count": 4136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aQFBJPlPv8wAe4qUWDMQC7CN9Za.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 10142,
+            "original_language": "en",
+            "original_title": "Casualties of War",
+            "overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager.",
+            "popularity": 20.084,
+            "poster_path": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+            "release_date": "1989-08-18",
+            "title": "Casualties of War",
+            "video": false,
+            "vote_average": 7.133,
+            "vote_count": 870
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10752
+            ],
+            "id": 1654,
+            "original_language": "en",
+            "original_title": "The Dirty Dozen",
+            "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy ch\u00e2teau and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+            "popularity": 22.254,
+            "poster_path": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+            "release_date": "1967-06-15",
+            "title": "The Dirty Dozen",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 1771,
+            "original_language": "en",
+            "original_title": "Captain America: The First Avenger",
+            "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull \u2013 Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+            "popularity": 44.607,
+            "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+            "release_date": "2011-07-22",
+            "title": "Captain America: The First Avenger",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 21248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/olBwD91mtuymlvz34nZONb9yDcn.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 8741,
+            "original_language": "en",
+            "original_title": "The Thin Red Line",
+            "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+            "popularity": 27.077,
+            "poster_path": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+            "release_date": "1998-12-23",
+            "title": "The Thin Red Line",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2955
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 637,
+            "original_language": "it",
+            "original_title": "La vita \u00e8 bella",
+            "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+            "popularity": 61.57,
+            "poster_path": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+            "release_date": "1997-12-20",
+            "title": "Life Is Beautiful",
+            "video": false,
+            "vote_average": 8.448,
+            "vote_count": 12946
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5pMy5LF2JAleBNBtuzizfCMWM7k.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                28
+            ],
+            "id": 653851,
+            "original_language": "en",
+            "original_title": "Devotion",
+            "overview": "The harrowing true story of two elite US Navy fighter pilots during the Korean War. Their heroic sacrifices would ultimately make them the Navy's most celebrated wingmen.",
+            "popularity": 46.228,
+            "poster_path": "/26yQPXymbWeCLKwcmyL8dRjAzth.jpg",
+            "release_date": "2022-11-23",
+            "title": "Devotion",
+            "video": false,
+            "vote_average": 7.13,
+            "vote_count": 681
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d752ELVYYWdfqFpyq6tJmHfPKMk.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 8880,
+            "original_language": "en",
+            "original_title": "Che: Part Two",
+            "overview": "After the Cuban Revolution, Che is at the height of his fame and power. Then he disappears, re-emerging incognito in Bolivia, where he organizes a small group of Cuban comrades and Bolivian recruits to start the great Latin American Revolution. Through this story, we come to understand how Che remains a symbol of idealism and heroism that lives in the hearts of people around the world.",
+            "popularity": 13.566,
+            "poster_path": "/fKQwwWXYQNkrZa59VbnfVy2kfoF.jpg",
+            "release_date": "2008-12-12",
+            "title": "Che: Part Two",
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 606
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXBnM6uSTk6qqCf0SRZKXcga9Ba.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 516486,
+            "original_language": "en",
+            "original_title": "Greyhound",
+            "overview": "A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the \"Black Pit\" to the front lines of WWII. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.",
+            "popularity": 22.616,
+            "poster_path": "/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",
+            "release_date": "2020-07-09",
+            "title": "Greyhound",
+            "video": false,
+            "vote_average": 7.413,
+            "vote_count": 2846
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yqVHlvlYPsbJ1XqmbfnCwTvOFSw.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 2841,
+            "original_language": "fr",
+            "original_title": "Un long dimanche de fian\u00e7ailles",
+            "overview": "Young Frenchwoman Mathilde searches for the truth about her missing fianc\u00e9, lost during World War I, and learns many unexpected things along the way. The love of her life is gone. But she refuses to believe he's gone forever \u2014 and she needs to know for sure.",
+            "popularity": 11.594,
+            "poster_path": "/t73m7lX0eFYDjlB1Gcb7r3S5Yt.jpg",
+            "release_date": "2004-10-27",
+            "title": "A Very Long Engagement",
+            "video": false,
+            "vote_average": 7.332,
+            "vote_count": 1185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A4Ikk4bR7R16rMFrDUsbUrurEHM.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                53,
+                36
+            ],
+            "id": 1770,
+            "original_language": "en",
+            "original_title": "Michael Collins",
+            "overview": "Michael Collins plays a crucial role in the establishment of the Irish Free State in the 1920s, but becomes vilified by those hoping to create a completely independent Irish republic.",
+            "popularity": 10.19,
+            "poster_path": "/baEsjm8fMi51hDOFwwDQRekY9Xw.jpg",
+            "release_date": "1996-10-25",
+            "title": "Michael Collins",
+            "video": false,
+            "vote_average": 6.899,
+            "vote_count": 462
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o6f1sJ0ZYg6TA2tMgoHdupB68QB.jpg",
+            "genre_ids": [
+                28,
+                10752,
+                36
+            ],
+            "id": 855,
+            "original_language": "en",
+            "original_title": "Black Hawk Down",
+            "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+            "popularity": 39.346,
+            "poster_path": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+            "release_date": "2001-12-28",
+            "title": "Black Hawk Down",
+            "video": false,
+            "vote_average": 7.386,
+            "vote_count": 5660
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kdbLf3aTQsEXqYlH9vA4fzmnSFz.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                28
+            ],
+            "id": 228150,
+            "original_language": "en",
+            "original_title": "Fury",
+            "overview": "In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+            "popularity": 247.846,
+            "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+            "release_date": "2014-10-15",
+            "title": "Fury",
+            "video": false,
+            "vote_average": 7.538,
+            "vote_count": 11834
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1OK9voMZPeeXZ9OFcT7sUJJxmSw.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 9075,
+            "original_language": "nl",
+            "original_title": "Zwartboek",
+            "overview": "In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.",
+            "popularity": 31.811,
+            "poster_path": "/fKBeM6vjMD79G3wAXSpw3pBHsit.jpg",
+            "release_date": "2006-09-14",
+            "title": "Black Book",
+            "video": false,
+            "vote_average": 7.467,
+            "vote_count": 1123
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ghhzg8fFDVPJoB8ImahndG0wwL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 253626,
+            "original_language": "en",
+            "original_title": "Good Kill",
+            "overview": "In the shadowy world of drone warfare, combat unfolds like a video game\u2013only with real lives at stake. After six tours of duty, Air Force pilot Tom Egan now fights the Taliban from an air-conditioned bunker in the Nevada desert. But as he yearns to get back in the cockpit of a real plane and becomes increasingly troubled by the collateral damage he causes each time he pushes a button, Egan\u2019s nerves\u2014and his relationship with his wife\u2014begin to unravel.",
+            "popularity": 16.75,
+            "poster_path": "/pm1KzNEeJ88uN9vXKAFWnneeum9.jpg",
+            "release_date": "2015-04-09",
+            "title": "Good Kill",
+            "video": false,
+            "vote_average": 5.981,
+            "vote_count": 536
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2xgkmeZguTknkKJiojzK0uJbYcG.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 10110,
+            "original_language": "en",
+            "original_title": "Empire of the Sun",
+            "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
+            "popularity": 24.363,
+            "poster_path": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+            "release_date": "1987-12-09",
+            "title": "Empire of the Sun",
+            "video": false,
+            "vote_average": 7.518,
+            "vote_count": 1886
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/64YOcrslrijllDRCpQvXkSKvXQV.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                12
+            ],
+            "id": 57212,
+            "original_language": "en",
+            "original_title": "War Horse",
+            "overview": "On the brink of the First World War, Albert's beloved horse Joey is sold to the Cavalry by his father. Against the backdrop of the Great War, Joey begins an odyssey full of danger, joy, and sorrow, and he transforms everyone he meets along the way. Meanwhile, Albert, unable to forget his equine friend, searches the battlefields of France to find Joey and bring him home.",
+            "popularity": 16.918,
+            "poster_path": "/nF66DU2zPLFb9CxDQNSNX2RgNaq.jpg",
+            "release_date": "2011-12-25",
+            "title": "War Horse",
+            "video": false,
+            "vote_average": 7.312,
+            "vote_count": 3367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 193756,
+            "original_language": "en",
+            "original_title": "Lone Survivor",
+            "overview": "Four Navy SEALs on a covert mission to neutralize a high-level Taliban operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.",
+            "popularity": 43.462,
+            "poster_path": "/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",
+            "release_date": "2013-12-24",
+            "title": "Lone Survivor",
+            "video": false,
+            "vote_average": 7.44,
+            "vote_count": 4250
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "id": 197,
+            "original_language": "en",
+            "original_title": "Braveheart",
+            "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+            "popularity": 53.447,
+            "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+            "release_date": "1995-05-24",
+            "title": "Braveheart",
+            "video": false,
+            "vote_average": 7.941,
+            "vote_count": 10028
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 776877,
+            "original_language": "lv",
+            "original_title": "Daudz laimes!",
+            "overview": "A short Christmas tale about happiness that might be passing right by you. And that's when you realise you've just missed. Who's fault is that? Is it fear, is it inability to fight, or is it just a matter of luck?",
+            "popularity": 0.212,
+            "poster_path": "/6xdwnPxpROBz6cOGQStrY9KxLbZ.jpg",
+            "release_date": "2005-01-25",
+            "title": "Merry Christmas!",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vscsDExaKK0oKqrYBze9Tm2oitf.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 3683,
+            "original_language": "en",
+            "original_title": "Flags of Our Fathers",
+            "overview": "There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen - John 'Doc' Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes - who fought in the battle to take Iwo Jima from the Japanese.",
+            "popularity": 20.509,
+            "poster_path": "/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
+            "release_date": "2006-10-18",
+            "title": "Flags of Our Fathers",
+            "video": false,
+            "vote_average": 6.862,
+            "vote_count": 1811
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nrpivVyJjRQqVDhRTZWVPWqYwQp.jpg",
+            "genre_ids": [
+                10752,
+                28
+            ],
+            "id": 190859,
+            "original_language": "en",
+            "original_title": "American Sniper",
+            "overview": "U.S. Navy SEAL Chris Kyle takes his sole mission\u2014protect his comrades\u2014to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+            "popularity": 76.696,
+            "poster_path": "/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+            "release_date": "2014-12-25",
+            "title": "American Sniper",
+            "video": false,
+            "vote_average": 7.429,
+            "vote_count": 12728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zNca9BKPRMC1WtQYVJ619bqdaOZ.jpg",
+            "genre_ids": [
+                36,
+                18,
+                10752
+            ],
+            "id": 22638,
+            "original_language": "en",
+            "original_title": "The Chronicle History of King Henry the Fifth with His Battell Fought at Agincourt in France",
+            "overview": "In the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France in 1415.",
+            "popularity": 26.089,
+            "poster_path": "/eAisr20DvaKJeHvjDN0oHSx0l7u.jpg",
+            "release_date": "1944-11-24",
+            "title": "Henry V",
+            "video": false,
+            "vote_average": 6.578,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jOulpNwtoJP5fF1LJX1ojw6BxBq.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 31442,
+            "original_language": "ru",
+            "original_title": "\u0418\u0432\u0430\u043d\u043e\u0432\u043e \u0434\u0435\u0442\u0441\u0442\u0432\u043e",
+            "overview": "In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.",
+            "popularity": 9.894,
+            "poster_path": "/e4eTlrRSEkmCXKos5ZFD1hpz5qR.jpg",
+            "release_date": "1962-05-09",
+            "title": "Ivan's Childhood",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 714
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8h2Ok2eo4YrQLoDfsOZF3TM7aJp.jpg",
+            "genre_ids": [
+                28,
+                10752,
+                12,
+                36,
+                18
+            ],
+            "id": 633515,
+            "original_language": "nl",
+            "original_title": "De Slag om de Schelde",
+            "overview": "In WWII's final years, a soldier in the German army, a British glider pilot, and a Dutch resistance fighter's paths intertwine. Their choices shape destinies, impacting not only their freedom but also that of others.",
+            "popularity": 17.9,
+            "poster_path": "/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg",
+            "release_date": "2021-06-05",
+            "title": "The Forgotten Battle",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 657
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ogFIG0fNXEYRQKrpnoRJcXQNX9n.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36,
+                28
+            ],
+            "id": 619930,
+            "original_language": "no",
+            "original_title": "Kampen om Narvik",
+            "overview": "April, 1940. The eyes of the world are on Narvik, a small town in northern Norway, a source of the iron ore needed for Hitler's war machine. Through two months of fierce winter warfare, the German leader is dealt with his first defeat.",
+            "popularity": 21.479,
+            "poster_path": "/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",
+            "release_date": "2022-12-25",
+            "title": "Narvik",
+            "video": true,
+            "vote_average": 6.777,
+            "vote_count": 374
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oIQMt3Q6Qa37YD0JOdYkrIAPYDk.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 25237,
+            "original_language": "ru",
+            "original_title": "\u0418\u0434\u0438 \u0438 \u0441\u043c\u043e\u0442\u0440\u0438",
+            "overview": "The invasion of a village in Byelorussia by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+            "popularity": 26.264,
+            "poster_path": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+            "release_date": "1985-10-17",
+            "title": "Come and See",
+            "video": false,
+            "vote_average": 8.254,
+            "vote_count": 1458
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jO2RzwksrbrlwxHnDkXjtoH2mvc.jpg",
+            "genre_ids": [
+                37,
+                10752
+            ],
+            "id": 29715,
+            "original_language": "en",
+            "original_title": "Major Dundee",
+            "overview": "During the last winter of the Civil War, cavalry officer Amos Dundee leads a contentious troop of Army regulars, Confederate prisoners and scouts on an expedition into Mexico to destroy a band of Apaches who have been raiding U.S. bases in Texas.",
+            "popularity": 15.151,
+            "poster_path": "/afdhdupMyfn3tDoL3XosgQF82gX.jpg",
+            "release_date": "1965-04-07",
+            "title": "Major Dundee",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/diR9qmgQGzY4VjG07YPoaVY2A1e.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                10749,
+                35
+            ],
+            "id": 25037,
+            "original_language": "en",
+            "original_title": "The Life and Death of Colonel Blimp",
+            "overview": "General Candy, who's overseeing an English squad in 1943, is a veteran leader who doesn't have the respect of the men he's training and is considered out-of-touch with what's needed to win the war. But it wasn't always this way. Flashing back to his early career in the Boer War and World War I, we see a dashing young officer whose life has been shaped by three different women, and by a lasting friendship with a German soldier.",
+            "popularity": 15.372,
+            "poster_path": "/4kwNf6hxVUqNWhQ9FGDHptRauM5.jpg",
+            "release_date": "1943-07-26",
+            "title": "The Life and Death of Colonel Blimp",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vIOqw0OBXpSeAxBVYwWqCMrcda8.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "id": 14433,
+            "original_language": "en",
+            "original_title": "Zulu",
+            "overview": "In 1879, during the Anglo-Zulu War, man-of-the-people Lt. Chard and snooty Lt. Bromhead are in charge of defending the isolated and vastly outnumbered Natal outpost of Rorke's Drift from tribal hordes.",
+            "popularity": 17.167,
+            "poster_path": "/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
+            "release_date": "1964-01-22",
+            "title": "Zulu",
+            "video": false,
+            "vote_average": 7.383,
+            "vote_count": 506
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fVnphXrYJTH8xPKvJCtzSwZycFC.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 15497,
+            "original_language": "en",
+            "original_title": "Twelve O'Clock High",
+            "overview": "In the early days of daylight bombing raids over Germany, General Frank Savage must take command of a 'hard luck' bomber group. Much of the story deals with his struggle to whip his group into a disciplined fighting unit in spite of heavy losses, and withering attacks by German fighters over their targets.",
+            "popularity": 10.776,
+            "poster_path": "/g9VeQUobhofLwxSIbKM4ia5biAX.jpg",
+            "release_date": "1949-12-21",
+            "title": "Twelve O'Clock High",
+            "video": false,
+            "vote_average": 7.104,
+            "vote_count": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e2bbVKWvsci9ZvIA773EozFkEHd.jpg",
+            "genre_ids": [
+                12,
+                10752,
+                28,
+                35
+            ],
+            "id": 24965,
+            "original_language": "en",
+            "original_title": "Gunga Din",
+            "overview": "British army sergeants Ballantine, Cutter and MacChesney serve in India during the 1880s, along with their native water-bearer, Gunga Din. While completing a dangerous telegraph-repair mission, they unearth evidence of the suppressed Thuggee cult. When Gunga Din tells the sergeants about a secret temple made of gold, the fortune-hunting Cutter is captured by the Thuggees, and it's up to his friends to rescue him.",
+            "popularity": 10.998,
+            "poster_path": "/sORSoVVed7MuKUmebUbQv6AxMUx.jpg",
+            "release_date": "1939-01-26",
+            "title": "Gunga Din",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+            "genre_ids": [
+                10752,
+                12,
+                53,
+                28
+            ],
+            "id": 10911,
+            "original_language": "en",
+            "original_title": "The Guns of Navarone",
+            "overview": "A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+            "popularity": 24.46,
+            "poster_path": "/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+            "release_date": "1961-04-27",
+            "title": "The Guns of Navarone",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 774
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                53
+            ],
+            "id": 6106,
+            "original_language": "en",
+            "original_title": "Salvador",
+            "overview": "In 1980, an American journalist covering the Salvadoran Civil War becomes entangled with both the leftist guerrilla groups and the right-wing military dictatorship while trying to rescue his girlfriend and her children.",
+            "popularity": 10.043,
+            "poster_path": "/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg",
+            "release_date": "1986-04-23",
+            "title": "Salvador",
+            "video": false,
+            "vote_average": 7.016,
+            "vote_count": 345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 16442,
+            "original_language": "en",
+            "original_title": "Sergeant York",
+            "overview": "Alvin York a hillbilly sharpshooter transforms himself from ruffian to religious pacifist. He is then called to serve his country and despite deep religious and moral objections to fighting becomes one of the most celebrated American heroes of WWI.",
+            "popularity": 10.992,
+            "poster_path": "/54LTgyRHSixyeeFhLtCFj0SMAQ3.jpg",
+            "release_date": "1941-09-27",
+            "title": "Sergeant York",
+            "video": false,
+            "vote_average": 7.212,
+            "vote_count": 203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sAPnp1Ddgp1YgLTi3kcSuYgldjf.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10752
+            ],
+            "id": 11046,
+            "original_language": "en",
+            "original_title": "Where Eagles Dare",
+            "overview": "World War II is raging, and an American general has been captured and is being held hostage in the Schloss Adler, a Bavarian castle that's nearly impossible to breach. It's up to a group of skilled Allied soldiers to liberate the general before it's too late.",
+            "popularity": 29.329,
+            "poster_path": "/dnyiVS4Ad4w4rfS4Bm1YalEdonx.jpg",
+            "release_date": "1968-12-04",
+            "title": "Where Eagles Dare",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 864
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mYnU5LqkCjWJLGSp9Oabbdq1GlI.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 9289,
+            "original_language": "en",
+            "original_title": "The Longest Day",
+            "overview": "The retelling of June 6, 1944, from the perspectives of the Germans, US, British, Canadians, and the Free French. Marshall Erwin Rommel, touring the defenses being established as part of the Reich's Atlantic Wall, notes to his officers that when the Allied invasion comes they must be stopped on the beach. \"For the Allies as well as the Germans, it will be the longest day\"",
+            "popularity": 22.29,
+            "poster_path": "/5zmvEofdIlgXrQl9A7e5IOzlnFU.jpg",
+            "release_date": "1962-09-25",
+            "title": "The Longest Day",
+            "video": false,
+            "vote_average": 7.584,
+            "vote_count": 916
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qhv8bDsB2U1C6R4DAntuAfelOiE.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 31657,
+            "original_language": "en",
+            "original_title": "Coming Home",
+            "overview": "In 1968 California, a Marine officer's wife falls in love with a former high school classmate who suffered a paralyzing combat injury in the war.",
+            "popularity": 9.247,
+            "poster_path": "/2sMXGBrQ8lDtSVoymyQLZWjIzdZ.jpg",
+            "release_date": "1978-02-15",
+            "title": "Coming Home",
+            "video": false,
+            "vote_average": 7.033,
+            "vote_count": 181
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uZJjc4hMgckb3H3tVkTmbmcBhIT.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 659,
+            "original_language": "de",
+            "original_title": "Die Blechtrommel",
+            "overview": "Oskar Matzerath is a very unusual boy. Refusing to leave the womb until promised a tin drum by his mother, Agnes, Oskar is reluctant to enter a world he sees as filled with hypocrisy and injustice, and vows on his third birthday to never grow up. Miraculously, he gets his wish. As the Nazis rise to power in Danzig, Oskar wills himself to remain a child, beating his tin drum incessantly and screaming in protest at the chaos surrounding him.",
+            "popularity": 29.441,
+            "poster_path": "/tm408GMyQqfqFJ7MKCkwc5uQ3wi.jpg",
+            "release_date": "1979-05-02",
+            "title": "The Tin Drum",
+            "video": false,
+            "vote_average": 6.929,
+            "vote_count": 460
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aucOJvfpmoqDPYZsvdAGR8WwJMC.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 11948,
+            "original_language": "ja",
+            "original_title": "\u6226\u5834\u306e\u30e1\u30ea\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
+            "overview": "Island of Java, 1942, during World War II. British Major Jack Celliers arrives at a Japanese prison camp, run by the strict Captain Yonoi. Colonel John Lawrence, who has a profound knowledge of Japanese culture, and Sergeant Hara, brutal and simpleton, will witness the struggle of wills between two men from very different backgrounds who are tragically destined to clash.",
+            "popularity": 16.317,
+            "poster_path": "/qxlu6aiWxD16gkOUyGkcWDzrfwV.jpg",
+            "release_date": "1983-05-28",
+            "title": "Merry Christmas, Mr. Lawrence",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 447
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bMWO0HQwfIe85CmXbWSI8Q6cCC2.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 10765,
+            "original_language": "en",
+            "original_title": "Private Benjamin",
+            "overview": "A sheltered young high society woman joins the US Army on a whim and finds herself in a more difficult situation than she ever expected.",
+            "popularity": 8.945,
+            "poster_path": "/maIiPNXddZXKHQCi0HyULd5kces.jpg",
+            "release_date": "1980-10-06",
+            "title": "Private Benjamin",
+            "video": false,
+            "vote_average": 5.936,
+            "vote_count": 370
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/90H58Povv5fRxuJxN0OhVRs0ghC.jpg",
+            "genre_ids": [
+                10752,
+                35
+            ],
+            "id": 10364,
+            "original_language": "en",
+            "original_title": "Catch-22",
+            "overview": "A bombardier in World War II tries desperately to escape the insanity of the war. However, sometimes insanity is the only sane way to cope with a crazy situation.",
+            "popularity": 9.715,
+            "poster_path": "/t4PJdZneQn1dWEp9dYpg1Kx98Rq.jpg",
+            "release_date": "1970-06-24",
+            "title": "Catch-22",
+            "video": false,
+            "vote_average": 6.668,
+            "vote_count": 300
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tGWzoyRGygQQiFLExpX6hdDa2se.jpg",
+            "genre_ids": [
+                12,
+                35,
+                10752
+            ],
+            "id": 11589,
+            "original_language": "en",
+            "original_title": "Kelly's Heroes",
+            "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+            "popularity": 17.651,
+            "poster_path": "/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+            "release_date": "1970-06-22",
+            "title": "Kelly's Heroes",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 707
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0KR5pXjoMuyNP9xnScGEE5zdX9.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 10655,
+            "original_language": "en",
+            "original_title": "Gettysburg",
+            "overview": "In the summer of 1863, General Robert E. Lee leads the Confederate Army of Northern Virginia into Gettysburg, Pennsylvania with the goal of marching through to Washington, D.C. The Union Army of the Potomac, under the command of General George G. Meade, forms a defensive position to confront the rebel forces in what will prove to be the decisive battle of the American Civil War.",
+            "popularity": 12.794,
+            "poster_path": "/k0XKdT3QbycMB8f2H7CEZVx2t4m.jpg",
+            "release_date": "1993-10-08",
+            "title": "Gettysburg",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h02PKNxjnklbZhK8sqhNvO2Yg3q.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10752,
+                80,
+                53
+            ],
+            "id": 9104,
+            "original_language": "en",
+            "original_title": "Buffalo Soldiers",
+            "overview": "A criminal subculture operates among U.S. soldiers stationed in West Germany just before the fall of the Berlin wall.",
+            "popularity": 10.958,
+            "poster_path": "/qNl4T8xxC0xDeX8JFJVCBzH4Kg8.jpg",
+            "release_date": "2002-10-31",
+            "title": "Buffalo Soldiers",
+            "video": false,
+            "vote_average": 6.254,
+            "vote_count": 305
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/HOTnl9cnRR6cUFlJ5cSGSmvhDh.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 19601,
+            "original_language": "en",
+            "original_title": "Bent",
+            "overview": "Max is a handsome young man who, after a fateful tryst with a German soldier, is forced to run for his life. Eventually Max is placed in a concentration camp where he pretends to be Jewish because in the eyes of the Nazis, gays are the lowest form of human being. But it takes a relationship with an openly gay prisoner to teach Max that without the love of another, life is not worth living.",
+            "popularity": 11.901,
+            "poster_path": "/mTRIVPmRK01rgLlE6XJPGbbRdXb.jpg",
+            "release_date": "1997-11-26",
+            "title": "Bent",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/urwWVsciRiNSmhtMJcck0noWAXr.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 504949,
+            "original_language": "en",
+            "original_title": "The King",
+            "overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
+            "popularity": 15.487,
+            "poster_path": "/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+            "release_date": "2019-10-11",
+            "title": "The King",
+            "video": false,
+            "vote_average": 7.155,
+            "vote_count": 3173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                36,
+                12,
+                10749
+            ],
+            "id": 2289,
+            "original_language": "en",
+            "original_title": "Cold Mountain",
+            "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+            "popularity": 40.243,
+            "poster_path": "/32MsALfK6shuSopCrFjSNoxDc5p.jpg",
+            "release_date": "2003-12-24",
+            "title": "Cold Mountain",
+            "video": false,
+            "vote_average": 6.922,
+            "vote_count": 1739
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mbkRfz30Ywyck2dWrjOlNmxXgVw.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                36
+            ],
+            "id": 15192,
+            "original_language": "en",
+            "original_title": "The Grey Zone",
+            "overview": "The story of Auschwitz's twelfth Sonderkommando \u2014 one of the thirteen consecutive \"Special Squads\" of Jewish prisoners placed by the Nazis in the excruciating moral dilemma of assisting in the extermination of fellow Jews in exchange for a few more months of life.",
+            "popularity": 12.959,
+            "poster_path": "/8jRsWnpciWHRy0MC7K5eMDKKqPw.jpg",
+            "release_date": "2001-09-13",
+            "title": "The Grey Zone",
+            "video": false,
+            "vote_average": 6.628,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7295GnkwMbNcHLEXkQkLNIWNa39.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 279641,
+            "original_language": "en",
+            "original_title": "Whiskey Tango Foxtrot",
+            "overview": "In 2002, cable news producer Kim Barker decides to shake up her routine by taking a daring new assignment in Kabul, Afghanistan. Dislodged from her comfortable American lifestyle, Barker finds herself in the middle of an out-of-control war zone. Luckily, she meets Tanya Vanderpoel, a fellow journalist who takes the shell-shocked reporter under her wing. Amid the militants, warlords and nighttime partying, Barker discovers the key to becoming a successful correspondent.",
+            "popularity": 11.574,
+            "poster_path": "/xaLpB1dhUWkmpJSsJ41vFVpeHf2.jpg",
+            "release_date": "2016-03-04",
+            "title": "Whiskey Tango Foxtrot",
+            "video": false,
+            "vote_average": 6.295,
+            "vote_count": 950
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wWschc3KS0Fe2Rk01KR2tbFWmmL.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 8881,
+            "original_language": "en",
+            "original_title": "Che: Part One",
+            "overview": "The Argentine, begins as Che and a band of Cuban exiles (led by Fidel Castro) reach the Cuban shore from Mexico in 1956. Within two years, they mobilized popular support and an army and toppled the U.S.-friendly regime of dictator Fulgencio Batista.",
+            "popularity": 14.323,
+            "poster_path": "/2VvYA5fgnvjAz11dCNWS68uL2CU.jpg",
+            "release_date": "2008-09-05",
+            "title": "Che: Part One",
+            "video": false,
+            "vote_average": 6.81,
+            "vote_count": 726
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sgBwmYh13Jhdcd3HynnMVv1ek8m.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                12
+            ],
+            "id": 3536,
+            "original_language": "en",
+            "original_title": "U-571",
+            "overview": "In the midst of World War II, the battle under the sea rages and the Nazis have the upper hand as the Allies are unable to crack their war codes. However, after a wrecked U-boat sends out an SOS signal, the Allies realise this is their chance to seize the 'enigma coding machine'.",
+            "popularity": 15.828,
+            "poster_path": "/yeUhRSrlFcXhsuUai2ozWH6rNnK.jpg",
+            "release_date": "2000-04-20",
+            "title": "U-571",
+            "video": false,
+            "vote_average": 6.491,
+            "vote_count": 1206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8KWoRH1PMmZLNJk0z0jr8X3JOfH.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                28
+            ],
+            "id": 12651,
+            "original_language": "en",
+            "original_title": "Memphis Belle",
+            "overview": "The \"Memphis Belle\" is a World War II bomber, piloted by a young crew on dangerous bombing raids into Europe. The crew only have to make one more bombing raid before they have finished their duty and can go home. In the briefing before their last flight, the crew discover that the target for the day is Dresden, a heavily-defended city that invariably causes many Allied casualties",
+            "popularity": 19.957,
+            "poster_path": "/epsraI4swsSu9Fyefj7vPPhsOHK.jpg",
+            "release_date": "1990-09-07",
+            "title": "Memphis Belle",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 370
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lTjRJ18JzsSfpwIdhCjv5BAMs03.jpg",
+            "genre_ids": [
+                36,
+                53,
+                10752
+            ],
+            "id": 351339,
+            "original_language": "en",
+            "original_title": "Anthropoid",
+            "overview": "In December 1941, Czech soldiers Jozef Gab\u010d\u00edk and Jan Kubi\u0161 parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich.",
+            "popularity": 12.634,
+            "poster_path": "/5hUghRVVkBYufftfNQkGevY5AmE.jpg",
+            "release_date": "2016-08-12",
+            "title": "Anthropoid",
+            "video": false,
+            "vote_average": 7.14,
+            "vote_count": 994
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kk1EDdwnERVB89VRuqlJjPGHexu.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                53,
+                10752
+            ],
+            "id": 11372,
+            "original_language": "en",
+            "original_title": "The Eagle Has Landed",
+            "overview": "When the Nazi high command learns in late 1943 that Winston Churchill will be spending time at a country estate in Norfolk, it hatches an audacious scheme to kidnap the prime minister and spirit him to Germany for enforced negotiations with Hitler.",
+            "popularity": 19.109,
+            "poster_path": "/dxLuj7VIv0ZRdvaIB6eY5fApONF.jpg",
+            "release_date": "1976-12-24",
+            "title": "The Eagle Has Landed",
+            "video": false,
+            "vote_average": 6.591,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sIZQA3FrXdVR5E6M3ctrAqitiQS.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                36
+            ],
+            "id": 14574,
+            "original_language": "en",
+            "original_title": "The Boy in the Striped Pyjamas",
+            "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+            "popularity": 48.33,
+            "poster_path": "/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
+            "release_date": "2008-05-07",
+            "title": "The Boy in the Striped Pyjamas",
+            "video": false,
+            "vote_average": 7.841,
+            "vote_count": 7061
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bMkwq0BYNHgdU9zhOFGr3Q4V85s.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 8988,
+            "original_language": "en",
+            "original_title": "Stop-Loss",
+            "overview": "A veteran soldier returns from his completed tour of duty in Iraq, only to find his life turned upside down when he is arbitrarily ordered to return to field duty by the Army.",
+            "popularity": 16.33,
+            "poster_path": "/hsmZcNzPGnZwRgCKAfIr1JngYu5.jpg",
+            "release_date": "2008-03-28",
+            "title": "Stop-Loss",
+            "video": false,
+            "vote_average": 6.115,
+            "vote_count": 244
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eDw3ydtUpCE541mBFnEnSHyYuaH.jpg",
+            "genre_ids": [
+                10752,
+                53,
+                18
+            ],
+            "id": 405775,
+            "original_language": "en",
+            "original_title": "The Wall",
+            "overview": "An American sniper and his spotter engage in a deadly cat-and-mouse game with an Iraqi sniper.",
+            "popularity": 18.284,
+            "poster_path": "/8POAZwZpp24l1IgKKM8ZRAQ2kid.jpg",
+            "release_date": "2017-05-12",
+            "title": "The Wall",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 937
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gg3cTP8AzphuvbpsIiO8cqoLuJi.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 289222,
+            "original_language": "en",
+            "original_title": "The Zookeeper's Wife",
+            "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+            "popularity": 24.343,
+            "poster_path": "/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+            "release_date": "2017-03-24",
+            "title": "The Zookeeper's Wife",
+            "video": false,
+            "vote_average": 7.346,
+            "vote_count": 1486
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
+            "genre_ids": [
+                28,
+                36,
+                10752
+            ],
+            "id": 10590,
+            "original_language": "en",
+            "original_title": "We Were Soldiers",
+            "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+            "popularity": 20.123,
+            "poster_path": "/q2LeLzw4q9HTelkKx29dyTMf5zK.jpg",
+            "release_date": "2002-03-01",
+            "title": "We Were Soldiers",
+            "video": false,
+            "vote_average": 7.145,
+            "vote_count": 2021
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xERofiEyzGekTNi3oIppQvdLDZB.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 7445,
+            "original_language": "en",
+            "original_title": "Brothers",
+            "overview": "When his helicopter goes down during his fourth tour of duty in Afghanistan, Marine Sam Cahill is presumed dead. Back home, brother Tommy steps in to look over Sam\u2019s wife, Grace, and two children. Sam\u2019s surprise homecoming triggers domestic mayhem.",
+            "popularity": 57.257,
+            "poster_path": "/skHqceAFYee0JZuYd9MVk2IQggi.jpg",
+            "release_date": "2009-12-02",
+            "title": "Brothers",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3546
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3vGik9ZJWaH7izTwqeZ3PhPLInV.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 8055,
+            "original_language": "en",
+            "original_title": "The Reader",
+            "overview": "The story of Michael Berg, a German lawyer who, as a teenager in the late 1950s, had an affair with an older woman, Hanna, who then disappeared only to resurface years later as one of the defendants in a war crimes trial stemming from her actions as a concentration camp guard late in the war. He alone realizes that Hanna is illiterate and may be concealing that fact at the expense of her freedom.",
+            "popularity": 22.078,
+            "poster_path": "/r0WURbmnhgKeBpHcpDULBgRedQM.jpg",
+            "release_date": "2008-12-10",
+            "title": "The Reader",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3028
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 5902,
+            "original_language": "en",
+            "original_title": "A Bridge Too Far",
+            "overview": "The story of Operation Market Garden\u2014a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+            "popularity": 19.123,
+            "poster_path": "/twPQYBNDTAmOa9x8fNdKYMFSxQD.jpg",
+            "release_date": "1977-06-15",
+            "title": "A Bridge Too Far",
+            "video": false,
+            "vote_average": 7.213,
+            "vote_count": 801
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h1bNQ2MZzKLuKa7N0nOuSXlgMwT.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 2253,
+            "original_language": "en",
+            "original_title": "Valkyrie",
+            "overview": "Wounded in Africa during World War II, Nazi Col. Claus von Stauffenberg returns to his native Germany and joins the Resistance in a daring plan to create a shadow government and assassinate Adolf Hitler. When events unfold so that he becomes a central player, he finds himself tasked with both leading the coup and personally killing the F\u00fchrer.",
+            "popularity": 55.434,
+            "poster_path": "/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg",
+            "release_date": "2008-12-25",
+            "title": "Valkyrie",
+            "video": false,
+            "vote_average": 6.934,
+            "vote_count": 3648
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752,
+                28
+            ],
+            "id": 2024,
+            "original_language": "en",
+            "original_title": "The Patriot",
+            "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+            "popularity": 59.987,
+            "poster_path": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+            "release_date": "2000-06-28",
+            "title": "The Patriot",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 3877
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fPg31FANBYhrV2z0vZB4nIonKbI.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10752
+            ],
+            "id": 1271,
+            "original_language": "en",
+            "original_title": "300",
+            "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+            "popularity": 55.073,
+            "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+            "release_date": "2007-03-07",
+            "title": "300",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 13563
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bQ8fRUaitJvi54O2lUT6Ta7FVHK.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 25,
+            "original_language": "en",
+            "original_title": "Jarhead",
+            "overview": "Jarhead is a film about a US Marine Anthony Swofford\u2019s experience in the Gulf War. After putting up with an arduous boot camp, Swofford and his unit are sent to the Persian Gulf where they are eager to fight, but are forced to stay back from the action. Swofford struggles with the possibility of his girlfriend cheating on him, and as his mental state deteriorates, his desire to kill increases.",
+            "popularity": 39.834,
+            "poster_path": "/4rCzaZy5Qkvxh5xaVpHriXSLTgC.jpg",
+            "release_date": "2005-11-04",
+            "title": "Jarhead",
+            "video": false,
+            "vote_average": 6.666,
+            "vote_count": 2840
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mGR157HpQommDbU0MYQFkHLpvtj.jpg",
+            "genre_ids": [
+                18,
+                36,
+                53
+            ],
+            "id": 493551,
+            "original_language": "en",
+            "original_title": "Operation Finale",
+            "overview": "In 1960, a team of Israeli secret agents is deployed to find Adolf Eichmann, the infamous Nazi architect of the Holocaust, supposedly hidden in Argentina, and get him to Israel to be judged.",
+            "popularity": 14.54,
+            "poster_path": "/nlIdPeH5IrR1qRErschnVQeZAQu.jpg",
+            "release_date": "2018-08-29",
+            "title": "Operation Finale",
+            "video": false,
+            "vote_average": 6.71,
+            "vote_count": 970
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cdR0qwyaMfuZRfTYEixUmRnmdop.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10752,
+                10749,
+                53
+            ],
+            "id": 369885,
+            "original_language": "en",
+            "original_title": "Allied",
+            "overview": "In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+            "popularity": 41.419,
+            "poster_path": "/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+            "release_date": "2016-02-12",
+            "title": "Allied",
+            "video": false,
+            "vote_average": 6.792,
+            "vote_count": 4483
+        }
+    ]
+}

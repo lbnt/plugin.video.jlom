@@ -1,0 +1,971 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2012",
+    "source": "https://criticstop10.com/best-movies-of-2012/",
+    "created_by": "lbnt",
+    "added": "07/18/25",
+    "modified": "07/18/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/evPzxMacNWsjkUKQO4NXKe5Rl6a.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 97630,
+            "original_language": "en",
+            "original_title": "Zero Dark Thirty",
+            "overview": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L. Team 6 in May, 2011.",
+            "popularity": 6.0613,
+            "poster_path": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+            "release_date": "2012-12-19",
+            "title": "Zero Dark Thirty",
+            "video": false,
+            "vote_average": 6.989,
+            "vote_count": 4645
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 83666,
+            "original_language": "en",
+            "original_title": "Moonrise Kingdom",
+            "overview": "Set on an island off the coast of New England in the summer of 1965, Moonrise Kingdom tells the story of two twelve-year-olds who fall in love, make a secret pact, and run away together into the wilderness. As various authorities try to hunt them down, a violent storm is brewing off-shore \u2013 and the peaceful island community is turned upside down in more ways than anyone can handle.",
+            "popularity": 3.5098,
+            "poster_path": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+            "release_date": "2012-05-16",
+            "title": "Moonrise Kingdom",
+            "video": false,
+            "vote_average": 7.681,
+            "vote_count": 6034
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bwgjIlMoSyU1Iw0IhNIFUeSbNDy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 68722,
+            "original_language": "en",
+            "original_title": "The Master",
+            "overview": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
+            "popularity": 2.9542,
+            "poster_path": "/jjVGdNt4fYb3T2hjISGZ2qnCuaV.jpg",
+            "release_date": "2012-09-14",
+            "title": "The Master",
+            "video": false,
+            "vote_average": 7.112,
+            "vote_count": 3063
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 68734,
+            "original_language": "en",
+            "original_title": "Argo",
+            "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+            "popularity": 6.7943,
+            "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+            "release_date": "2012-10-11",
+            "title": "Argo",
+            "video": false,
+            "vote_average": 7.281,
+            "vote_count": 8517
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hwOFrwHladQ8FktYn3aJNAt8KA1.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 72976,
+            "original_language": "en",
+            "original_title": "Lincoln",
+            "overview": "The revealing story of the 16th US President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.",
+            "popularity": 3.5881,
+            "poster_path": "/5KeUqW6DpVtf8G9VMuI2l0XIPCo.jpg",
+            "release_date": "2012-11-09",
+            "title": "Lincoln",
+            "video": false,
+            "vote_average": 6.858,
+            "vote_count": 3877
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dCuwNZp2DLOWr8qV0GDBHINhVZM.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 103328,
+            "original_language": "fr",
+            "original_title": "Holy Motors",
+            "overview": "We follow 24 hours in the life of a being moving from life to life like a cold and solitary assassin moving from hit to hit. In each of these interwoven lives, the being possesses an entirely distinct identity: sometimes a man, sometimes a woman, sometimes youthful, sometimes old. By turns murderer, beggar, company chairman, monstrous creature, worker, family man.",
+            "popularity": 1.0966,
+            "poster_path": "/4ZuTrrDQhCS9f6KzIX6HfsjjyMd.jpg",
+            "release_date": "2012-07-02",
+            "title": "Holy Motors",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 68718,
+            "original_language": "en",
+            "original_title": "Django Unchained",
+            "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+            "popularity": 13.6946,
+            "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+            "release_date": "2012-12-25",
+            "title": "Django Unchained",
+            "video": false,
+            "vote_average": 8.183,
+            "vote_count": 26892
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7LWLPvyfLSb2oOlgWwAwUqA8uKo.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 84175,
+            "original_language": "en",
+            "original_title": "Beasts of the Southern Wild",
+            "overview": "Hushpuppy, an intrepid six-year-old girl, lives with her father, Wink, in 'the Bathtub', a southern Delta community at the edge of the world. Wink\u2019s tough love prepares her for the unraveling of the universe\u2014for a time when he\u2019s no longer there to protect her. When Wink contracts a mysterious illness, nature flies out of whack\u2014temperatures rise and the ice caps melt, unleashing an army of prehistoric creatures called aurochs. With the waters rising, the aurochs coming, and Wink\u2019s health fading, Hushpuppy goes in search of her lost mother.",
+            "popularity": 1.6218,
+            "poster_path": "/nQJmWekGYlXhezGUb21xFfEfwhH.jpg",
+            "release_date": "2012-06-29",
+            "title": "Beasts of the Southern Wild",
+            "video": false,
+            "vote_average": 6.811,
+            "vote_count": 1079
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 86837,
+            "original_language": "fr",
+            "original_title": "Amour",
+            "overview": "Georges and Anne are in their eighties. They are cultivated, retired music teachers. Their daughter, who is also a musician, lives abroad with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+            "popularity": 1.7293,
+            "poster_path": "/19hyCudualHxCD0GrEngqsi0wBF.jpg",
+            "release_date": "2012-09-20",
+            "title": "Amour",
+            "video": false,
+            "vote_average": 7.755,
+            "vote_count": 1673
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/92Ppi99LkZFHUgpxwYRxcKZVZNH.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 82693,
+            "original_language": "en",
+            "original_title": "Silver Linings Playbook",
+            "overview": "After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange.",
+            "popularity": 5.2718,
+            "poster_path": "/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+            "release_date": "2012-11-16",
+            "title": "Silver Linings Playbook",
+            "video": false,
+            "vote_average": 7.146,
+            "vote_count": 12207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mgcbG1w3lgj9lajGBXVUjLQti8P.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 37724,
+            "original_language": "en",
+            "original_title": "Skyfall",
+            "overview": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+            "popularity": 8.2783,
+            "poster_path": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+            "release_date": "2012-10-24",
+            "title": "Skyfall",
+            "video": false,
+            "vote_average": 7.25,
+            "vote_count": 15510
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4GPCnwvTbsDleH5QIOyDLMsK8a2.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 59967,
+            "original_language": "en",
+            "original_title": "Looper",
+            "overview": "In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.",
+            "popularity": 4.8159,
+            "poster_path": "/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+            "release_date": "2012-09-26",
+            "title": "Looper",
+            "video": false,
+            "vote_average": 6.892,
+            "vote_count": 10406
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7H01zprUY67n7bdcFg6VMvrkNjs.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 87827,
+            "original_language": "en",
+            "original_title": "Life of Pi",
+            "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+            "popularity": 8.0707,
+            "poster_path": "/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+            "release_date": "2012-11-20",
+            "title": "Life of Pi",
+            "video": false,
+            "vote_average": 7.406,
+            "vote_count": 13328
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "id": 49026,
+            "original_language": "en",
+            "original_title": "The Dark Knight Rises",
+            "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+            "popularity": 17.6176,
+            "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+            "release_date": "2012-07-17",
+            "title": "The Dark Knight Rises",
+            "video": false,
+            "vote_average": 7.786,
+            "vote_count": 23354
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dWLoSzvw52y1gt7ni9gZXdy693e.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 22970,
+            "original_language": "en",
+            "original_title": "The Cabin in the Woods",
+            "overview": "A group of teens journey to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a worldwide conspiracy where all horror movie clich\u00e9s are revealed to be part of an elaborate sacrifice ritual.",
+            "popularity": 6.0838,
+            "poster_path": "/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+            "release_date": "2012-04-12",
+            "title": "The Cabin in the Woods",
+            "video": false,
+            "vote_average": 6.637,
+            "vote_count": 8093
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/213Gdu9zjGsVeWQl6p5gJrBq8n8.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 74879,
+            "original_language": "tr",
+            "original_title": "Bir Zamanlar Anadolu'da",
+            "overview": "A group of men lead a search for a victim of a murder to whom a suspect named Kenan and his mentally challenged brother confessed. However, the search is proving more difficult than expected as Kenan is fuzzy as to the body's location. As the group continues looking, its members can't help but chat among themselves about everyday life, which ultimately leads to conversations about their deepest existential concerns and secrets.",
+            "popularity": 1.0581,
+            "poster_path": "/o08n2xyXGTkzKy122TTNat57SHb.jpg",
+            "release_date": "2011-09-23",
+            "title": "Once Upon a Time in Anatolia",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 24428,
+            "original_language": "en",
+            "original_title": "The Avengers",
+            "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+            "popularity": 32.4122,
+            "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "release_date": "2012-04-25",
+            "title": "The Avengers",
+            "video": false,
+            "vote_average": 7.775,
+            "vote_count": 32392
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uyvYZTJGPWlluDjI5aD72GaDqIx.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 83552,
+            "original_language": "fa",
+            "original_title": "\u0627\u06cc\u0646 \u0641\u06cc\u0644\u0645 \u0646\u06cc\u0633\u062a",
+            "overview": "Renowned Iranian director Jafar Panahi received a 6-year prison sentence and a 20-year ban from filmmaking and conducting interviews with foreign press due to his open support for the opposition party in Iran's 2009 election. In this film, which was shot secretly by Panahi's close friend Mojtaba Mirtahmasb and smuggled into France on a USB stick concealed inside a cake for a last-minute submission to Cannes, Panahi documents his daily life under house arrest as he awaits a decision on his appeal.",
+            "popularity": 0.2811,
+            "poster_path": "/qRkxx6lIOUei4PxbFWH6UfWfUib.jpg",
+            "release_date": "2011-09-27",
+            "title": "This Is Not a Film",
+            "video": false,
+            "vote_average": 6.984,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/59ur074TVZ13QuQvRcubrEB3Izf.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 84892,
+            "original_language": "en",
+            "original_title": "The Perks of Being a Wallflower",
+            "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+            "popularity": 8.8068,
+            "poster_path": "/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+            "release_date": "2012-09-20",
+            "title": "The Perks of Being a Wallflower",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 10724
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iAyzpvldbIxLdDIjRMOJoBORola.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 51994,
+            "original_language": "en",
+            "original_title": "The Deep Blue Sea",
+            "overview": "The wife of a British Judge is caught in a self-destructive love affair with a Royal Air Force pilot.",
+            "popularity": 0.8318,
+            "poster_path": "/tZAXsFxxYWWSpEy5XQtdBaETYoc.jpg",
+            "release_date": "2011-11-25",
+            "title": "The Deep Blue Sea",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 295
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 81401,
+            "original_language": "hu",
+            "original_title": "A torin\u00f3i l\u00f3",
+            "overview": "A monumental windstorm and an abused horse's refusal to work or eat signal the beginning of the end for a poor farmer and his daughter.",
+            "popularity": 1.2419,
+            "poster_path": "/2kSElneXSKmMsGL55k0CbPGqLbu.jpg",
+            "release_date": "2011-03-31",
+            "title": "The Turin Horse",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 380
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jd3Z2sAPDavjRxFhfOak6kCrUIG.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 82695,
+            "original_language": "en",
+            "original_title": "Les Mis\u00e9rables",
+            "overview": "An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+            "popularity": 5.8326,
+            "poster_path": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+            "release_date": "2012-12-18",
+            "title": "Les Mis\u00e9rables",
+            "video": false,
+            "vote_average": 7.319,
+            "vote_count": 5384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tNhgMd1A3L39e4V3Ha5Qr4oVNzb.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 93858,
+            "original_language": "pt",
+            "original_title": "Tabu",
+            "overview": "Lisbon, Portugal, 2010. Pilar, a pious woman devoted to social causes, maintains a peculiar relationship with her neighbor Aurora, a temperamental old woman obsessed with gambling who lives tormented by a mysterious past.",
+            "popularity": 1.0181,
+            "poster_path": "/mtr1ztUkJs6jsYdzK3gBLsuffr4.jpg",
+            "release_date": "2012-04-05",
+            "title": "Tabu",
+            "video": false,
+            "vote_average": 7.062,
+            "vote_count": 170
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qPGeDzrMIgWkx3dA8uLQLoVLK5I.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 63831,
+            "original_language": "fr",
+            "original_title": "Le Gamin au v\u00e9lo",
+            "overview": "Abandoned by his father, a young boy is left in the hands of an unqualified childcare provider.",
+            "popularity": 1.0381,
+            "poster_path": "/5uRiWyYSAYYScTRe9HP7BHpOQvr.jpg",
+            "release_date": "2011-05-18",
+            "title": "The Kid with a Bike",
+            "video": false,
+            "vote_average": 7.06,
+            "vote_count": 431
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 83542,
+            "original_language": "en",
+            "original_title": "Cloud Atlas",
+            "overview": "A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future.  Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.",
+            "popularity": 4.7544,
+            "poster_path": "/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
+            "release_date": "2012-10-26",
+            "title": "Cloud Atlas",
+            "video": false,
+            "vote_average": 6.888,
+            "vote_count": 7220
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/roCQcDKrrFjXEMDDMxEKpeL6h0F.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 75233,
+            "original_language": "no",
+            "original_title": "Oslo, 31. august",
+            "overview": "One day in the life of Anders, a young recovering drug addict, who takes a brief leave from his treatment center to interview for a job and catch up with old friends in Oslo.",
+            "popularity": 0.9797,
+            "poster_path": "/4lddePs5fHvj8ieVe6whe1qJMo5.jpg",
+            "release_date": "2011-08-31",
+            "title": "Oslo, August 31st",
+            "video": false,
+            "vote_average": 7.478,
+            "vote_count": 457
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gLr8DBGveOCJAS469GnWTRSXsP9.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 92591,
+            "original_language": "en",
+            "original_title": "Bernie",
+            "overview": "In small-town Texas, affable and popular mortician Bernie Tiede strikes up a friendship with Marjorie Nugent, a wealthy widow well known for her sour attitude. When she becomes controlling and abusive, Bernie goes to great lengths to remove himself from her grasp.",
+            "popularity": 2.2227,
+            "poster_path": "/rW5CetooG545jpkPNpD4FjFAXfe.jpg",
+            "release_date": "2012-04-27",
+            "title": "Bernie",
+            "video": false,
+            "vote_average": 6.589,
+            "vote_count": 956
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g2MHMRGMqBMHAdDmnB2QFynT0WN.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 49014,
+            "original_language": "en",
+            "original_title": "Cosmopolis",
+            "overview": "Riding across Manhattan in a stretch limo during a riot in order to get a haircut, a 28-year-old billionaire asset manager's life begins to crumble.",
+            "popularity": 2.0622,
+            "poster_path": "/94m7J9YeO0W7IEbfsOtFbweGgcu.jpg",
+            "release_date": "2012-05-25",
+            "title": "Cosmopolis",
+            "video": false,
+            "vote_average": 5.694,
+            "vote_count": 1281
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/20LDgpq7CzqRDEBa4WBlbon2J8.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 73567,
+            "original_language": "en",
+            "original_title": "Killer Joe",
+            "overview": "A cop who moonlights as a hit man agrees to kill the hated mother of a desperate drug dealer in exchange for a tumble with the young man's virginal sister.",
+            "popularity": 1.3246,
+            "poster_path": "/6Tt1TQeOI4TpXu1cBUgNGNGeznW.jpg",
+            "release_date": "2012-06-07",
+            "title": "Killer Joe",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dmj6rictIMGfDbTv6pxeifyqs3I.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 97365,
+            "original_language": "fr",
+            "original_title": "De rouille et d'os",
+            "overview": "Put in charge of his young son, Ali leaves Belgium for Antibes to live with his sister and her husband as a family. Ali's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
+            "popularity": 1.302,
+            "poster_path": "/6bcerd7CeQ5y5Dilym1O2C8c8Gl.jpg",
+            "release_date": "2012-05-17",
+            "title": "Rust and Bone",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1404
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7DWGkbncSGb3nG6MAd2ZqxDvwEt.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 77930,
+            "original_language": "en",
+            "original_title": "Magic Mike",
+            "overview": "Mike, an experienced stripper, takes a younger performer called The Kid under his wing and schools him in the arts of partying, picking up women, and making easy money.",
+            "popularity": 2.4576,
+            "poster_path": "/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+            "release_date": "2012-06-28",
+            "title": "Magic Mike",
+            "video": false,
+            "vote_average": 6.168,
+            "vote_count": 2987
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6P6YdvJsAZlUZKipA86rbfjfKzD.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 113947,
+            "original_language": "en",
+            "original_title": "The Sessions",
+            "overview": "Though a childhood bout with polio left him dependent on an iron lung, Mark O'Brien maintains a career as a journalist and poet. A writing assignment dealing with sex and the disabled piques Mark's curiosity, and he decides to investigate the possibility of experiencing sex himself. When his overtures toward a caregiver scare her away, he books an appointment with sex surrogate Cheryl Cohen-Greene to lose his virginity.",
+            "popularity": 2.203,
+            "poster_path": "/57o1DBc5DfJXVc8wArAblSbZ8sD.jpg",
+            "release_date": "2012-05-02",
+            "title": "The Sessions",
+            "video": false,
+            "vote_average": 6.895,
+            "vote_count": 572
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1qXwGPLvlLVod4EFN6X5Mm3ZiaS.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                53
+            ],
+            "id": 75174,
+            "original_language": "en",
+            "original_title": "The Grey",
+            "overview": "Following a grueling five-week shift at an Alaskan oil refinery, workers led by sharpshooter John Ottway are flying home for a much-needed vacation. But a brutal storm causes their plane to crash in the frozen wilderness, and only eight men, including Ottway, survive. As they trek southward toward civilization and safety, Ottway and his companions must battle mortal injuries, the icy elements, and a pack of hungry wolves.",
+            "popularity": 4.6313,
+            "poster_path": "/oWI24NRJQK41qdkQ6zhvSviJp5y.jpg",
+            "release_date": "2012-01-26",
+            "title": "The Grey",
+            "video": false,
+            "vote_average": 6.567,
+            "vote_count": 3922
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/92MsvjpGoaiujgg6prkwmFvggoP.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 110398,
+            "original_language": "es",
+            "original_title": "No",
+            "overview": "In 1988, Chilean military dictator Augusto Pinochet, due to international pressure, is forced to call a plebiscite on his presidency. The country will vote \u2018Yes\u2019 or \u2018No\u2019 to Pinochet extending his rule for another eight years. Opposition leaders for the \u2018No\u2019 vote persuade a brash young advertising executive, Ren\u00e9 Saavedra, to spearhead their campaign. Against all odds, with scant resources and while under scrutiny by the despot\u2019s minions, Saavedra and his team devise an audacious plan to win the election and set Chile free.",
+            "popularity": 1.2328,
+            "poster_path": "/Aqp4PH27zI4Uqqag41y2gXwmXma.jpg",
+            "release_date": "2012-08-09",
+            "title": "No",
+            "video": false,
+            "vote_average": 7.184,
+            "vote_count": 446
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3wf5wV222vqTmz10y1vbrPgrGDf.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 94329,
+            "original_language": "id",
+            "original_title": "Serbuan Maut",
+            "overview": "Deep in the heart of Jakarta's slums lies an impenetrable safe house for the world's most dangerous killers and gangsters. Until now, the run-down apartment block has been considered untouchable to even the bravest of police. Cloaked under the cover of pre-dawn darkness and silence, an elite swat team is tasked with raiding the safe house in order to take down the notorious drug lord that runs it.  But when a chance encounter with a spotter blows their cover and news of their assault reaches the drug lord, the building's lights are cut and all the exits blocked. Stranded on the sixth floor with no way out, the unit must fight their way through the city's worst to survive their mission. Starring Indonesian martial arts sensation Iko Uwais.",
+            "popularity": 4.0176,
+            "poster_path": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+            "release_date": "2012-03-22",
+            "title": "The Raid",
+            "video": false,
+            "vote_average": 7.401,
+            "vote_count": 3603
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wpl3g17Ucjh30hUBv4Ng57ERWA6.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                36
+            ],
+            "id": 96724,
+            "original_language": "en",
+            "original_title": "Anna Karenina",
+            "overview": "In Imperial Russia, Anna, the wife of the officer Karenin, goes to Moscow to visit her brother. On the way, she meets the charming cavalry officer Vronsky to whom she is immediately attracted. But in St. Petersburg\u2019s high society, a relationship like this could destroy a woman\u2019s reputation.",
+            "popularity": 2.9258,
+            "poster_path": "/2DvjkCbmlg8sbBHZKUZvYPgsT5V.jpg",
+            "release_date": "2012-09-06",
+            "title": "Anna Karenina",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2322
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8RafTGqYqAN9FJzvC75USKmJCso.jpg",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "id": 84334,
+            "original_language": "en",
+            "original_title": "Searching for Sugar Man",
+            "overview": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock 'n' roller, Rodriguez.",
+            "popularity": 1.0731,
+            "poster_path": "/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+            "release_date": "2012-06-30",
+            "title": "Searching for Sugar Man",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 950
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xGuNyCX46pwEpdQISRYiaBXEN7.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 64689,
+            "original_language": "en",
+            "original_title": "Killing Them Softly",
+            "overview": "Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a Mob protected card game, causing the local criminal economy to collapse.",
+            "popularity": 2.3095,
+            "poster_path": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+            "release_date": "2012-07-30",
+            "title": "Killing Them Softly",
+            "video": false,
+            "vote_average": 6.021,
+            "vote_count": 2264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2RDNAPa6EW0aW725Gj4V7Sj6vBj.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 86555,
+            "original_language": "en",
+            "original_title": "Take This Waltz",
+            "overview": "Twenty-eight-year-old Margot is happily married to Lou, a good-natured cookbook author. But when Margot meets Daniel, a handsome artist who lives across the street, their mutual attraction is undeniable.",
+            "popularity": 0.7902,
+            "poster_path": "/tjE6XUPNNaG6VGPyq1SdCghoMos.jpg",
+            "release_date": "2011-11-25",
+            "title": "Take This Waltz",
+            "video": false,
+            "vote_average": 6.346,
+            "vote_count": 367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bQMRePvke0SruzXuDmx9v8vqNWW.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 87502,
+            "original_language": "en",
+            "original_title": "Flight",
+            "overview": "Commercial airline pilot Whip Whitaker has a problem with drugs and alcohol, though so far he's managed to complete his flights safely. His luck runs out when a disastrous mechanical malfunction sends his plane hurtling toward the ground. Whip pulls off a miraculous crash-landing that results in only six lives lost. Shaken to the core, Whip vows to get sober -- but when the crash investigation exposes his addiction, he finds himself in an even worse situation.",
+            "popularity": 7.0842,
+            "poster_path": "/1AjXgBM2lkpG3FLQO0f6AK3Bi1e.jpg",
+            "release_date": "2012-11-02",
+            "title": "Flight",
+            "video": false,
+            "vote_average": 6.847,
+            "vote_count": 6158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u71Y8A7BnJbjnFlt6zKHx8i60bZ.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 84188,
+            "original_language": "en",
+            "original_title": "Compliance",
+            "overview": "On a particularly busy day at a suburban Ohio fast food restaurant, manager Sandra receives a phone call from a police officer saying that an employee has stolen money from a customer.",
+            "popularity": 1.7559,
+            "poster_path": "/bLdu28fr9txYlHLmEOyGplDT3nH.jpg",
+            "release_date": "2012-08-23",
+            "title": "Compliance",
+            "video": false,
+            "vote_average": 6.356,
+            "vote_count": 720
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m85Ns8BthzdQYlUPEjwy8KOvvtG.jpg",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "id": 84286,
+            "original_language": "en",
+            "original_title": "How to Survive a Plague",
+            "overview": "A story of two coalitions \u2013 ACT UP and TAG (Treatment Action Group) \u2013 whose activism and innovation turned AIDS from a death sentence into a manageable condition. Despite having no scientific training, these self-made activists infiltrated the pharmaceutical industry and helped identify promising new drugs, moving them from experimental trials to patients in record time.",
+            "popularity": 0.2589,
+            "poster_path": "/azlN2LO5OtJVeSokkK408xMtt1n.jpg",
+            "release_date": "2012-09-21",
+            "title": "How to Survive a Plague",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xJQsDKD6ZfQ9nJGtuKB4N878REq.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 97989,
+            "original_language": "pt",
+            "original_title": "O Som ao Redor",
+            "overview": "An independent private security firm arrives at a middle-class neighborhood in Recife, Brazil.",
+            "popularity": 0.5244,
+            "poster_path": "/gX5bvUtJZaBjWwq8lSwGOIJN5jM.jpg",
+            "release_date": "2012-11-19",
+            "title": "Neighboring Sounds",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 224
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sDK2DMOHfqIeS5EFFAt9stFcTWu.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 82321,
+            "original_language": "en",
+            "original_title": "The Loneliest Planet",
+            "overview": "Backpacking in the Caucasus Mountains, walking for hours, an engaged couple and their tour guide trade anecdotes and play games to pass the time, until a momentary misstep, that takes only two or three seconds, changes everything.",
+            "popularity": 0.4959,
+            "poster_path": "/9ZWKbwa9eZvqJJhh5BJQRZRMGTs.jpg",
+            "release_date": "2012-05-25",
+            "title": "The Loneliest Planet",
+            "video": false,
+            "vote_average": 5.644,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gwxItUSR8qvaKlNqsQCRVNNZAAF.jpg",
+            "genre_ids": [
+                99,
+                9648,
+                80
+            ],
+            "id": 84287,
+            "original_language": "en",
+            "original_title": "The Imposter",
+            "overview": "In 1994 a 13-year-old boy disappeared without a trace from his home in San Antonio, Texas. Three-and-a-half years later he is found alive thousands of miles away in a village in southern Spain with a horrifying story of kidnap and torture. His family is overjoyed to bring him home. But all is not quite as it seems.",
+            "popularity": 0.8985,
+            "poster_path": "/fq1MMkiKjCLUO0rZf8FL1JdjHAw.jpg",
+            "release_date": "2012-07-13",
+            "title": "The Imposter",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 743
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3NfM0sRwVLnsQkCd5YBPGvM9a5v.jpg",
+            "genre_ids": [
+                18,
+                53,
+                36
+            ],
+            "id": 80278,
+            "original_language": "en",
+            "original_title": "The Impossible",
+            "overview": "In December 2004, close-knit family Maria, Henry and their three sons begin their winter vacation in Thailand. But the day after Christmas, the idyllic holiday turns into an incomprehensible nightmare when a terrifying roar rises from the depths of the sea, followed by a wall of black water that devours everything in its path. Though Maria and her family face their darkest hour, unexpected displays of kindness and courage ameliorate their terror.",
+            "popularity": 5.8534,
+            "poster_path": "/k0DLCiDbnYywOHiISALbl2EH2NE.jpg",
+            "release_date": "2012-09-09",
+            "title": "The Impossible",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 6422
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zQ6jbZKqfNMeqFjEzNhDV4EZinG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 88284,
+            "original_language": "de",
+            "original_title": "Barbara",
+            "overview": "In 1980s East Germany, Barbara is a Berlin doctor banished to a country medical clinic for applying for an exit visa. Deeply unhappy with her reassignment and fearful of her co-workers as possible Stasi informants, Barbara stays aloof, especially from the good natured clinic head, Andre.",
+            "popularity": 1.0704,
+            "poster_path": "/i7yjITqgz5zSW1jJWzxfwQsyDeo.jpg",
+            "release_date": "2012-03-08",
+            "title": "Barbara",
+            "video": false,
+            "vote_average": 7.182,
+            "vote_count": 335
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hOVZHM2ZEaWdytcptRhfzk0fJBv.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                878
+            ],
+            "id": 84332,
+            "original_language": "en",
+            "original_title": "Safety Not Guaranteed",
+            "overview": "Three magazine employees head out on an assignment to interview a guy who placed a classified ad seeking a companion for time travel.",
+            "popularity": 1.2324,
+            "poster_path": "/gH0l9kiaK1Ulalbq07nqR7jtin5.jpg",
+            "release_date": "2012-06-08",
+            "title": "Safety Not Guaranteed",
+            "video": false,
+            "vote_average": 6.769,
+            "vote_count": 1507
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p2i9vE7mu2ZTmwYbEiimgHeKpq5.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 70160,
+            "original_language": "en",
+            "original_title": "The Hunger Games",
+            "overview": "Every year in the ruins of what was once North America, the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games.  Part twisted entertainment, part government intimidation tactic, the Hunger Games are a nationally televised event in which \u201cTributes\u201d must fight with one another until one survivor remains.  Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy.  If she\u2019s ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love. The world will be watching.",
+            "popularity": 6.9031,
+            "poster_path": "/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+            "release_date": "2012-03-12",
+            "title": "The Hunger Games",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 22481
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9kjM8bRLcMRhOgX3z6MVw24n5Al.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 84327,
+            "original_language": "en",
+            "original_title": "The Queen of Versailles",
+            "overview": "With the epic dimensions of a Shakespearean tragedy, The Queen of Versailles follows billionaires Jackie and David\u2019s rags-to-riches story to uncover the innate virtues and flaws of their American dream. We open on the triumphant construction of the biggest house in America, a sprawling, 90,000-square-foot mansion inspired by Versailles. Since a booming time-share business built on the real-estate bubble is financing it, the economic crisis brings progress to a halt and seals the fate of its owners. We witness the impact of this turn of fortune over the next two years in a riveting film fraught with delusion, denial, and self-effacing humor.",
+            "popularity": 0.4392,
+            "poster_path": "/9VxMIPT3nGusKhr8084m26vdeTj.jpg",
+            "release_date": "2012-07-06",
+            "title": "The Queen of Versailles",
+            "video": false,
+            "vote_average": 6.898,
+            "vote_count": 205
+        }
+    ]
+}

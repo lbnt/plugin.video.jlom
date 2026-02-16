@@ -1,0 +1,201 @@
+{
+    "type": "movie_list",
+    "title": "Time - The 100 best movies of the past 10 decades - 2010s",
+    "source": "https://time.com/collection/100-best-movies/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "04/26/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/595brdDzszMJmqe8e76jMGXg3Qw.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 103328,
+            "original_language": "fr",
+            "original_title": "Holy Motors",
+            "overview": "We follow 24 hours in the life of a being moving from life to life like a cold and solitary assassin moving from hit to hit. In each of these interwoven lives, the being possesses an entirely distinct identity: sometimes a man, sometimes a woman, sometimes youthful, sometimes old. By turns murderer, beggar, company chairman, monstrous creature, worker, family man.",
+            "popularity": 24.898,
+            "poster_path": "/4Rs81LASk8MambcydxQvQGRojFO.jpg",
+            "release_date": "2012-07-02",
+            "title": "Holy Motors",
+            "video": false,
+            "vote_average": 7.013,
+            "vote_count": 1090
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2nYm0TrH00uJJKS020k1mNhNpUz.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 152603,
+            "original_language": "en",
+            "original_title": "Only Lovers Left Alive",
+            "overview": "A depressed musician reunites with his lover in the desolate streets of Detroit. Though their romance has endured several centuries, it is tested by the arrival of her capricious and unpredictable younger sister.",
+            "popularity": 28.083,
+            "poster_path": "/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg",
+            "release_date": "2013-12-12",
+            "title": "Only Lovers Left Alive",
+            "video": false,
+            "vote_average": 7.241,
+            "vote_count": 2096
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sfqnvsK7sG0id3MLNg0FQIgyogu.jpg",
+            "genre_ids": [
+                53,
+                878,
+                18
+            ],
+            "id": 97370,
+            "original_language": "en",
+            "original_title": "Under the Skin",
+            "overview": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
+            "popularity": 28.998,
+            "poster_path": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+            "release_date": "2014-03-14",
+            "title": "Under the Skin",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 3284
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gFFs5F3nb1CRoWQ57sEA816bce0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 254578,
+            "original_language": "de",
+            "original_title": "Phoenix",
+            "overview": "German-Jewish cabaret singer Nelly survived Auschwitz but had to undergo reconstructive surgery as her face was disfigured. Without recognizing Nelly, her former husband Johnny asks her to help him claim his wife\u2019s inheritance. To see if he betrayed her, she agrees, becoming her own doppelganger.",
+            "popularity": 25.892,
+            "poster_path": "/AucV9Srp4eX3BmPLcQLx7AtRIQj.jpg",
+            "release_date": "2014-09-25",
+            "title": "Phoenix",
+            "video": false,
+            "vote_average": 6.828,
+            "vote_count": 412
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kVGUdR1CXKAyCFj5Tt4uyR2bpFx.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 273895,
+            "original_language": "en",
+            "original_title": "Selma",
+            "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+            "popularity": 44.972,
+            "poster_path": "/wq4lhMc4BuOyQqe1ZGzhxLyy3Uk.jpg",
+            "release_date": "2014-12-25",
+            "title": "Selma",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 2127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1uecj8izDDjvZ4syzJQCOKRBjaa.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 411019,
+            "original_language": "en",
+            "original_title": "I Am Not Your Negro",
+            "overview": "Working from the text of James Baldwin\u2019s unfinished final novel, director Raoul Peck creates a meditation on what it means to be Black in the United States.",
+            "popularity": 16.46,
+            "poster_path": "/zwd0Zti7BvY1mO0mTPzM0fRrtc6.jpg",
+            "release_date": "2017-02-03",
+            "title": "I Am Not Your Negro",
+            "video": false,
+            "vote_average": 7.717,
+            "vote_count": 453
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7DC049qHSz7QzARksTGHXPCuich.jpg",
+            "genre_ids": [
+                12,
+                18,
+                36
+            ],
+            "id": 314095,
+            "original_language": "en",
+            "original_title": "The Lost City of Z",
+            "overview": "A true-life drama in the 1920s, centering on British explorer Col. Percy Fawcett, who discovered evidence of a previously unknown, advanced civilization in the Amazon and disappeared whilst searching for it.",
+            "popularity": 28.821,
+            "poster_path": "/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg",
+            "release_date": "2017-03-15",
+            "title": "The Lost City of Z",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2764
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 376867,
+            "original_language": "en",
+            "original_title": "Moonlight",
+            "overview": "The tender, heartbreaking story of a young man\u2019s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+            "popularity": 48.447,
+            "poster_path": "/4911T5FbJ9eD2Faz5Z8cT3SUhU3.jpg",
+            "release_date": "2016-10-21",
+            "title": "Moonlight",
+            "video": false,
+            "vote_average": 7.39,
+            "vote_count": 6835
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 331482,
+            "original_language": "en",
+            "original_title": "Little Women",
+            "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+            "popularity": 84.869,
+            "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+            "release_date": "2019-12-25",
+            "title": "Little Women",
+            "video": false,
+            "vote_average": 7.886,
+            "vote_count": 6016
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+            "genre_ids": [
+                35,
+                18,
+                53
+            ],
+            "id": 466272,
+            "original_language": "en",
+            "original_title": "Once Upon a Time... in Hollywood",
+            "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+            "popularity": 78.917,
+            "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+            "release_date": "2019-07-24",
+            "title": "Once Upon a Time... in Hollywood",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 12871
+        }
+    ]
+}

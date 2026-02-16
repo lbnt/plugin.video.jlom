@@ -1,0 +1,975 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1999",
+    "source": "https://criticstop10.com/best-movies-of-1999/",
+    "created_by": "lbnt",
+    "added": "07/28/25",
+    "modified": "07/28/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/1Nyjb7aeRKynWgmOl8he5ZcvWLm.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "id": 492,
+            "original_language": "en",
+            "original_title": "Being John Malkovich",
+            "overview": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+            "popularity": 3.6655,
+            "poster_path": "/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg",
+            "release_date": "1999-10-29",
+            "title": "Being John Malkovich",
+            "video": false,
+            "vote_average": 7.412,
+            "vote_count": 4532
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kEA3iOrV1DpHQ3Z01Q28y2Qoc89.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 14,
+            "original_language": "en",
+            "original_title": "American Beauty",
+            "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+            "popularity": 7.9732,
+            "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+            "release_date": "1999-09-15",
+            "title": "American Beauty",
+            "video": false,
+            "vote_average": 8.007,
+            "vote_count": 12466
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lNPPNnYM3j0cb8IZ9CsJiDt0BK9.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9451,
+            "original_language": "en",
+            "original_title": "Election",
+            "overview": "Tracy Flick is running unopposed for this year\u2019s high school student election. But Jim McAllister has a different plan. Partly to establish a more democratic election, and partly to satisfy some deep personal anger toward Tracy, Jim talks football player Paul Metzler to run for president as well.",
+            "popularity": 2.2881,
+            "poster_path": "/5gPOFU6IPvDrx50XaPCK4twNw79.jpg",
+            "release_date": "1999-04-23",
+            "title": "Election",
+            "video": false,
+            "vote_average": 6.867,
+            "vote_count": 1112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/veiWT3UYVvEOGCfGZLGDJtjJvdV.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 404,
+            "original_language": "en",
+            "original_title": "The Straight Story",
+            "overview": "A retired farmer and widower in his 70s, Alvin Straight learns one day that his distant brother Lyle has suffered a stroke and may not recover. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. Then he hits on the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+            "popularity": 2.4176,
+            "poster_path": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+            "release_date": "1999-10-15",
+            "title": "The Straight Story",
+            "video": false,
+            "vote_average": 7.719,
+            "vote_count": 1658
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 9008,
+            "original_language": "en",
+            "original_title": "The Insider",
+            "overview": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes expos\u00e9 on Big Tobacco.",
+            "popularity": 2.2219,
+            "poster_path": "/jJCyIBPfvk41uETq6K6u4upyGO8.jpg",
+            "release_date": "1999-10-28",
+            "title": "The Insider",
+            "video": false,
+            "vote_average": 7.458,
+            "vote_count": 1900
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 863,
+            "original_language": "en",
+            "original_title": "Toy Story 2",
+            "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+            "popularity": 18.4553,
+            "poster_path": "/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
+            "release_date": "1999-10-30",
+            "title": "Toy Story 2",
+            "video": false,
+            "vote_average": 7.602,
+            "vote_count": 14265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yV1s91RyHJIMIJ7KeyHsWJ0ayUv.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 226,
+            "original_language": "en",
+            "original_title": "Boys Don't Cry",
+            "overview": "A young transgender man explores his gender identity and searches for love in rural Nebraska.",
+            "popularity": 2.2211,
+            "poster_path": "/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+            "release_date": "1999-09-02",
+            "title": "Boys Don't Cry",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1373
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gysZn2XnFlDDQROXdBPiku4Aujg.jpg",
+            "genre_ids": [
+                28,
+                35,
+                10752
+            ],
+            "id": 6415,
+            "original_language": "en",
+            "original_title": "Three Kings",
+            "overview": "A group of American soldiers stationed in Iraq at the end of the Gulf War find a map they believe will take them to a huge cache of stolen Kuwaiti gold hidden near their base, and they embark on a secret mission that's destined to change everything.",
+            "popularity": 1.3944,
+            "poster_path": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+            "release_date": "1999-09-27",
+            "title": "Three Kings",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mFfyE5DPFDqoes4HIcElHc2a15y.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 334,
+            "original_language": "en",
+            "original_title": "Magnolia",
+            "overview": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+            "popularity": 4.5632,
+            "poster_path": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+            "release_date": "1999-12-17",
+            "title": "Magnolia",
+            "video": false,
+            "vote_average": 7.731,
+            "vote_count": 3706
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                18
+            ],
+            "id": 745,
+            "original_language": "en",
+            "original_title": "The Sixth Sense",
+            "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+            "popularity": 9.9378,
+            "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+            "release_date": "1999-08-06",
+            "title": "The Sixth Sense",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 12147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wRcm3iwi4BeMN59U4fjO7u3dOVI.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 104,
+            "original_language": "de",
+            "original_title": "Lola rennt",
+            "overview": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
+            "popularity": 2.7802,
+            "poster_path": "/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+            "release_date": "1998-08-20",
+            "title": "Run Lola Run",
+            "video": false,
+            "vote_average": 7.289,
+            "vote_count": 2385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 99,
+            "original_language": "es",
+            "original_title": "Todo sobre mi madre",
+            "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
+            "popularity": 2.0063,
+            "poster_path": "/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+            "release_date": "1999-04-16",
+            "title": "All About My Mother",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1953
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lBk6VjaqbjU2T8wxiXW1zUh6M9r.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402,
+                36
+            ],
+            "id": 46435,
+            "original_language": "en",
+            "original_title": "Topsy-Turvy",
+            "overview": "After their latest production, \"Princess Ida\", meets with less-than-stunning reception, Gilbert and Sullivan's relationship is strained to the breaking point. Their friends and associates attempt to get the two to work together again, which bares the path to \"The Mikado\", one of the duo's greatest successes.",
+            "popularity": 0.6771,
+            "poster_path": "/mW7uANe68vhmk2j6Q74jPICmrEk.jpg",
+            "release_date": "1999-12-15",
+            "title": "Topsy-Turvy",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 603,
+            "original_language": "en",
+            "original_title": "The Matrix",
+            "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "popularity": 21.1458,
+            "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+            "release_date": "1999-03-31",
+            "title": "The Matrix",
+            "video": false,
+            "vote_average": 8.229,
+            "vote_count": 26603
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xRyINp9KfMLVjRiO5nCsoRDdvvF.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 550,
+            "original_language": "en",
+            "original_title": "Fight Club",
+            "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+            "popularity": 23.9655,
+            "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+            "release_date": "1999-10-15",
+            "title": "Fight Club",
+            "video": false,
+            "vote_average": 8.437,
+            "vote_count": 30514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mKm56aTBr34ciZTpTWX6WoPubUY.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53,
+                9648
+            ],
+            "id": 10388,
+            "original_language": "en",
+            "original_title": "The Limey",
+            "overview": "The Limey follows Wilson, a tough English ex-con who travels to Los Angeles to avenge his daughter's death. Upon arrival, Wilson goes to task battling Valentine and an army of L.A.'s toughest criminals, hoping to find clues and piece together what happened. After surviving a near-death beating, getting thrown from a building and being chased down a dangerous mountain road, the Englishman decides to dole out some bodily harm of his own.",
+            "popularity": 1.37,
+            "poster_path": "/efAnFInZYrenNvBlLIXN2oLYyNc.jpg",
+            "release_date": "1999-10-08",
+            "title": "The Limey",
+            "video": false,
+            "vote_average": 6.539,
+            "vote_count": 459
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xpTHHojJnJQgavgMw5OQYUzuNIU.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 2667,
+            "original_language": "en",
+            "original_title": "The Blair Witch Project",
+            "overview": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
+            "popularity": 5.0743,
+            "poster_path": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+            "release_date": "1999-07-14",
+            "title": "The Blair Witch Project",
+            "video": false,
+            "vote_average": 6.359,
+            "vote_count": 5078
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2q3B90h2hZ6xJTvna9CIFDNaIr4.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 9473,
+            "original_language": "en",
+            "original_title": "South Park: Bigger, Longer & Uncut",
+            "overview": "In this feature film based on the hit animated series, the third graders of South Park sneak into an R-rated film by ultra-vulgar Canadian television personalities Terrance and Phillip, and emerge with expanded vocabularies that leave their parents and teachers scandalized. When outraged Americans try to censor the film, the controversy spirals into a call to wage war on Canada and Terrance and Phillip end up on death row, with the kids their only hope of rescue.",
+            "popularity": 4.6381,
+            "poster_path": "/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg",
+            "release_date": "1999-06-30",
+            "title": "South Park: Bigger, Longer & Uncut",
+            "video": false,
+            "vote_average": 7.273,
+            "vote_count": 2787
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vYA4qUPWY0EbjpcIXAL4h4pVmTC.jpg",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "id": 345,
+            "original_language": "en",
+            "original_title": "Eyes Wide Shut",
+            "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+            "popularity": 9.8373,
+            "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+            "release_date": "1999-07-16",
+            "title": "Eyes Wide Shut",
+            "video": false,
+            "vote_average": 7.481,
+            "vote_count": 6506
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/51UDa3IuGyiKGe2MgMcLGvJE2Fm.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "id": 1213,
+            "original_language": "en",
+            "original_title": "The Talented Mr. Ripley",
+            "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+            "popularity": 3.8341,
+            "poster_path": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+            "release_date": "1999-12-25",
+            "title": "The Talented Mr. Ripley",
+            "video": false,
+            "vote_average": 7.194,
+            "vote_count": 3898
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                878,
+                12
+            ],
+            "id": 10386,
+            "original_language": "en",
+            "original_title": "The Iron Giant",
+            "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+            "popularity": 6.9587,
+            "poster_path": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+            "release_date": "1999-08-06",
+            "title": "The Iron Giant",
+            "video": false,
+            "vote_average": 7.95,
+            "vote_count": 5826
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j0wlDzErOlU4NFOIhrKl5qmFmGi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 9840,
+            "original_language": "fr",
+            "original_title": "La Vie r\u00eav\u00e9e des anges",
+            "overview": "Isa and Marie bond while working in a French sweatshop and soon begin sharing an apartment that Marie is watching for a hospitalized mother and daughter. Marie, hoping to avoid a life of struggle and poverty, takes up with Chriss, a nightclub owner whose most attractive asset is his money. Isa recognizes the ultimate futility of the relationship and tries to keep Marie away from him, but her interference puts their friendship at risk.",
+            "popularity": 0.7133,
+            "poster_path": "/1yxr5KJHJk5aPCbapJaBS8Znx8V.jpg",
+            "release_date": "1998-10-16",
+            "title": "The Dreamlife of Angels",
+            "video": false,
+            "vote_average": 6.958,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 769,
+            "original_language": "en",
+            "original_title": "GoodFellas",
+            "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+            "popularity": 15.6433,
+            "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+            "release_date": "1990-09-12",
+            "title": "GoodFellas",
+            "video": false,
+            "vote_average": 8.455,
+            "vote_count": 13498
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uydYoYfnCbPWxNAG6VFbYwso3bB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11489,
+            "original_language": "fr",
+            "original_title": "Rosetta",
+            "overview": "Young, impulsive Rosetta lives a hard and stressful life as she struggles to support herself and her alcoholic mother. Refusing all charity, she is desperate to maintain a dignified job.",
+            "popularity": 0.8143,
+            "poster_path": "/buwLjQPPA9FaATvKzeAppLXiGMB.jpg",
+            "release_date": "1999-09-29",
+            "title": "Rosetta",
+            "video": false,
+            "vote_average": 7.191,
+            "vote_count": 314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pXOsdvH4xuprxGmZMiCJsRAowi7.jpg",
+            "genre_ids": [
+                14,
+                18
+            ],
+            "id": 17962,
+            "original_language": "ja",
+            "original_title": "\u30ef\u30f3\u30c0\u30d5\u30eb\u30e9\u30a4\u30d5",
+            "overview": "On a cold Monday morning, a group of counselors clock in at an old-fashioned social services office. Their task is to interview the recently deceased, record their personal details, then, over the course of the week, assist them in choosing a single memory to keep for eternity.",
+            "popularity": 0.9749,
+            "poster_path": "/bs2M1hqAQl5LeAOPPRV4drwouZS.jpg",
+            "release_date": "1999-04-17",
+            "title": "After Life",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hacrWBeOLhFNK8YxuMCTUB3rdZ5.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 10239,
+            "original_language": "fr",
+            "original_title": "Conte d'automne",
+            "overview": "Magali, forty-something, is a winemaker and a widow: she loves her work but feels lonely. Her friends Rosine  and Isabelle both want secretly to find a husband for Magali.",
+            "popularity": 0.527,
+            "poster_path": "/1DQYFB5DENLWKUYdz5ttaVbDYnk.jpg",
+            "release_date": "1998-09-07",
+            "title": "A Tale of Autumn",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 11779,
+            "original_language": "en",
+            "original_title": "Buena Vista Social Club",
+            "overview": "In this fascinating Oscar-nominated documentary, American guitarist Ry Cooder brings together a group of legendary Cuban folk musicians (some in their 90s) to record a Grammy-winning CD in their native city of Havana. The result is a spectacular compilation of concert footage from the group's gigs in Amsterdam and New York City's famed Carnegie Hall, with director Wim Wenders capturing not only the music -- but also the musicians' life stories.",
+            "popularity": 1.1912,
+            "poster_path": "/b203Z3qwCRMLOY00XZh4qNQCwM4.jpg",
+            "release_date": "1999-06-04",
+            "title": "Buena Vista Social Club",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+            "genre_ids": [
+                14,
+                18,
+                80
+            ],
+            "id": 497,
+            "original_language": "en",
+            "original_title": "The Green Mile",
+            "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+            "popularity": 24.1063,
+            "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+            "release_date": "1999-12-10",
+            "title": "The Green Mile",
+            "video": false,
+            "vote_average": 8.504,
+            "vote_count": 18231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bdSZ5SutGPvFPpRKZNcF1au6owe.jpg",
+            "genre_ids": [
+                99,
+                35
+            ],
+            "id": 14242,
+            "original_language": "en",
+            "original_title": "American Movie",
+            "overview": "American Movie documents the story of filmmaker Mark Borchardt, his mission, and his dream. Spanning over two years of intense struggle with his film, his family, financial decline, and spiritual crisis, American Movie is a portrayal of ambition, obsession, excess, and one man's quest for the American Dream.",
+            "popularity": 0.5674,
+            "poster_path": "/qAoIbQDnbGgiLDBUtOh7JUe5XQX.jpg",
+            "release_date": "1999-11-05",
+            "title": "American Movie",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r9843pYwbf2NtyeJfqnlra19cTt.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 44297,
+            "original_language": "it",
+            "original_title": "L'assedio",
+            "overview": "While in exile in Italy, an African woman finds herself trying to get back home and free her imprisoned husband. But the only man that can help her do so is in love with her.",
+            "popularity": 0.2956,
+            "poster_path": "/ZV18CMRVkUT119mmkGCz6mj6AD.jpg",
+            "release_date": "1998-02-05",
+            "title": "Besieged",
+            "video": false,
+            "vote_average": 6.718,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aH5QhlVu7uMnLO9P432IcP8FyCI.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1850,
+            "original_language": "en",
+            "original_title": "Man on the Moon",
+            "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+            "popularity": 1.8638,
+            "poster_path": "/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+            "release_date": "1999-12-22",
+            "title": "Man on the Moon",
+            "video": false,
+            "vote_average": 7.247,
+            "vote_count": 1856
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wXzdoMyLYvz7AoXPGx5STZ1XZDd.jpg",
+            "genre_ids": [
+                14,
+                35,
+                12
+            ],
+            "id": 1832,
+            "original_language": "en",
+            "original_title": "Dogma",
+            "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+            "popularity": 3.3154,
+            "poster_path": "/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+            "release_date": "1999-10-04",
+            "title": "Dogma",
+            "video": false,
+            "vote_average": 6.929,
+            "vote_count": 2629
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6uIPrMgvDzhEGSKuZc8aw6NfC.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 13466,
+            "original_language": "en",
+            "original_title": "October Sky",
+            "overview": "Homer Hickam is a kid with only one future in sight, to work in the local coal mine like his father. However, in October 1957 everything changes when the first artificial satellite, Sputnik, goes into orbit. When Homer sees the Soviet satellite streak overhead, he becomes inspired to learn how to build rockets. With the help of his friends, and the local nerd, Homer sets to do just that by trial and a lot of error. Unfortunately, most of the town, and especially Homer's father, thinks that they are wasting their time. Only one teacher understands their efforts and lets them know that they could become contenders in the national science fair with college scholarships being the prize. Now the gang must learn to perfect their craft and overcome the many problems facing them as they shoot for the stars.",
+            "popularity": 2.4522,
+            "poster_path": "/1weUnrWqESWoLzMgSs64jd4GEwY.jpg",
+            "release_date": "1999-02-19",
+            "title": "October Sky",
+            "video": false,
+            "vote_average": 7.672,
+            "vote_count": 1302
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/NmCB4DLe4OZWPeO6aixh3xE3OC.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 1946,
+            "original_language": "en",
+            "original_title": "eXistenZ",
+            "overview": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+            "popularity": 3.1108,
+            "poster_path": "/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+            "release_date": "1999-04-14",
+            "title": "eXistenZ",
+            "video": false,
+            "vote_average": 6.798,
+            "vote_count": 2022
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hO1UwCPxI5tpz21hzITij3DPwFY.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 20024,
+            "original_language": "en",
+            "original_title": "The End of the Affair",
+            "overview": "On a rainy London night in 1946, novelist Maurice Bendrix has a chance meeting with Henry Miles, husband of his ex-mistress Sarah, who abruptly ended their affair two years before. Bendrix's obsession with Sarah is rekindled; he succumbs to his own jealousy and arranges to have her followed.",
+            "popularity": 1.1808,
+            "poster_path": "/xTp5cyp6qG0YTdI4AEz4ytjODOQ.jpg",
+            "release_date": "1999-12-03",
+            "title": "The End of the Affair",
+            "video": false,
+            "vote_average": 6.591,
+            "vote_count": 254
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10400,
+            "original_language": "en",
+            "original_title": "The Hurricane",
+            "overview": "The story of Rubin \"Hurricane\" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+            "popularity": 1.9845,
+            "poster_path": "/eOzbt7KsqTC8gcjJMxcQnr89cxJ.jpg",
+            "release_date": "1999-09-17",
+            "title": "The Hurricane",
+            "video": false,
+            "vote_average": 7.437,
+            "vote_count": 1450
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gYeqZJOnBN89uwA7bDdawey8tES.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 28216,
+            "original_language": "en",
+            "original_title": "Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.",
+            "overview": "A portrait of the life and career of the infamous American execution device designer Fred A. Leuchter, Jr. Mr. Leuchter was an engineer who became an expert on execution devices and was later hired by holocaust revisionist historian Ernst Zundel to \"prove\" that there were no gas chambers at Auschwitz. Leuchter published a controversial report confirming Zundel's position, which ultimately ruined his own career. Most of the footage is of Leuchter, working in and around execution facilities or chipping away at the walls of Auschwitz, but Morris also interviews various historians, associates, and neighbors.",
+            "popularity": 0.4263,
+            "poster_path": "/buoMN4p95mvB2JgyglMb5gKxurV.jpg",
+            "release_date": "1999-12-29",
+            "title": "Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oRJDlTmdYToqJotGsehhdfejVy.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9465,
+            "original_language": "en",
+            "original_title": "Cookie's Fortune",
+            "overview": "Conflict arises in the small town of Holly Springs when an old woman's death causes a variety of reactions among family and friends.",
+            "popularity": 0.4791,
+            "poster_path": "/tskbsm57aWqU4wsf8sX4ClM77Kf.jpg",
+            "release_date": "1999-03-24",
+            "title": "Cookie's Fortune",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 100,
+            "original_language": "en",
+            "original_title": "Lock, Stock and Two Smoking Barrels",
+            "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+            "popularity": 2.8461,
+            "poster_path": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+            "release_date": "1998-08-28",
+            "title": "Lock, Stock and Two Smoking Barrels",
+            "video": false,
+            "vote_average": 8.111,
+            "vote_count": 6817
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aSvcjbrk7hryhsSUzJv5O9I3d9I.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28519,
+            "original_language": "en",
+            "original_title": "The Winslow Boy",
+            "overview": "Early 20th century England: while toasting his daughter Catherine's engagement, Arthur Winslow learns the royal naval academy expelled his 14-year-old son, Ronnie, for stealing five shillings. Father asks son if it is true; when the lad denies it, Arthur risks fortune, health, domestic peace, and Catherine's prospects to pursue justice.",
+            "popularity": 0.3993,
+            "poster_path": "/qKUUT3QKsShXloZiF88IdT5g64N.jpg",
+            "release_date": "1999-03-18",
+            "title": "The Winslow Boy",
+            "video": false,
+            "vote_average": 6.687,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+            "genre_ids": [
+                12,
+                14,
+                16
+            ],
+            "id": 128,
+            "original_language": "ja",
+            "original_title": "\u3082\u306e\u306e\u3051\u59eb",
+            "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+            "popularity": 8.4009,
+            "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+            "release_date": "1997-07-12",
+            "title": "Princess Mononoke",
+            "video": false,
+            "vote_average": 8.326,
+            "vote_count": 8446
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
+            "genre_ids": [
+                10751,
+                12,
+                16,
+                18
+            ],
+            "id": 37135,
+            "original_language": "en",
+            "original_title": "Tarzan",
+            "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+            "popularity": 9.0916,
+            "poster_path": "/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+            "release_date": "1999-06-18",
+            "title": "Tarzan",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 6998
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yBkZyxzIl46PVgFEDsTCtoGd5F4.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10749,
+                37
+            ],
+            "id": 22267,
+            "original_language": "en",
+            "original_title": "Ride with the Devil",
+            "overview": "Ride with the Devil follows four people who are fighting for truth and justice amidst the turmoil of the American Civil War. Director Ang Lee takes us to a no man's land on the Missouri/Kansas border where a staunch loyalist, an immigrant's son, a freed slave, and a young widow form an unlikely friendship as they learn how to survive in an uncertain time. In a place without rules and redefine the meaning of bravery and honor.",
+            "popularity": 0.8849,
+            "poster_path": "/pH3J5IUzho4ZVaRuTuErzqHHovb.jpg",
+            "release_date": "1999-11-24",
+            "title": "Ride with the Devil",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 194
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ndLjV5KWeilKXtFMCMsq5W9q7mo.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 8129,
+            "original_language": "en",
+            "original_title": "My Name Is Joe",
+            "overview": "Two thirtysomethings, unemployed former alcoholic Joe and community health worker Sarah, start a romantic relationship in one of the toughest Glasgow neighbourhoods.",
+            "popularity": 0.6019,
+            "poster_path": "/e9awu6tsCyWPAUA2eEoelFSTbcb.jpg",
+            "release_date": "1998-05-15",
+            "title": "My Name Is Joe",
+            "video": false,
+            "vote_average": 7.245,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iM1yVDHn22U1DZ45SVjhKPLrCBW.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 78568,
+            "original_language": "fr",
+            "original_title": "Fin ao\u00fbt, d\u00e9but septembre",
+            "overview": "A book editor juggles relationships with two women while coping with his best friend's terminal illness.",
+            "popularity": 0.5732,
+            "poster_path": "/pBIcJIwqKl9DpStlg5rL33yYTQe.jpg",
+            "release_date": "1999-02-10",
+            "title": "Late August, Early September",
+            "video": false,
+            "vote_average": 5.966,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ZJ8caqGFoqSclAfRueyU85udQD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1715,
+            "original_language": "en",
+            "original_title": "The Cider House Rules",
+            "overview": "Homer is an orphan who was never adopted, becoming the favorite of orphanage director Dr. Larch. Dr. Larch imparts his full medical knowledge on Homer, who becomes a skilled, albeit unlicensed, physician. But Homer yearns for a self-chosen life outside the orphanage. What will Homer learn about life and love in the cider house? What of the destiny that Dr. Larch has planned for him?",
+            "popularity": 3.0628,
+            "poster_path": "/qAECAgqjSFRVZzEEGbFAZqZNiDh.jpg",
+            "release_date": "1999-12-17",
+            "title": "The Cider House Rules",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1213
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/npFK2ywM4Bs96768eLeNLBmKktb.jpg",
+            "genre_ids": [
+                14,
+                53,
+                9648,
+                27
+            ],
+            "id": 2668,
+            "original_language": "en",
+            "original_title": "Sleepy Hollow",
+            "overview": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people \u2013 murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
+            "popularity": 6.8585,
+            "poster_path": "/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg",
+            "release_date": "1999-11-19",
+            "title": "Sleepy Hollow",
+            "video": false,
+            "vote_average": 7.186,
+            "vote_count": 7003
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5WLdmRWfTpohU3aSbBgvF4zljfM.jpg",
+            "genre_ids": [
+                35,
+                12
+            ],
+            "id": 16406,
+            "original_language": "en",
+            "original_title": "Dick",
+            "overview": "Two high school girls wander off during a class trip to the White House and meet President Richard Nixon. They become the official dog walkers for Nixon's dog Checkers, and become his secret advisors during the Watergate scandal.",
+            "popularity": 1.1328,
+            "poster_path": "/aBG4XoK5xkujl4crloPs6bStl4m.jpg",
+            "release_date": "1999-08-04",
+            "title": "Dick",
+            "video": false,
+            "vote_average": 5.915,
+            "vote_count": 282
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/egyi9TQjLhNEQuEsK1dXovdHOHL.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 509,
+            "original_language": "en",
+            "original_title": "Notting Hill",
+            "overview": "London bookstore owner William Thacker's quiet life turns upside down when a chance encounter with famous actress Anna Scott sparks an unlikely romance challenged by their vastly different worlds.",
+            "popularity": 8.3811,
+            "poster_path": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+            "release_date": "1999-05-21",
+            "title": "Notting Hill",
+            "video": false,
+            "vote_average": 7.266,
+            "vote_count": 6370
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rOvXN8m3l4qNKCdNscLUjxK6I9I.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                80
+            ],
+            "id": 1389,
+            "original_language": "en",
+            "original_title": "Out of Sight",
+            "overview": "Meet Jack Foley, a smooth criminal who bends the law and is determined to make one last heist. Karen Sisco is a federal marshal who chooses all the right moves \u2026 and all the wrong guys. Now they're willing to risk it all to find out if there's more between them than just the law.",
+            "popularity": 2.2959,
+            "poster_path": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+            "release_date": "1998-06-26",
+            "title": "Out of Sight",
+            "video": false,
+            "vote_average": 6.672,
+            "vote_count": 1327
+        }
+    ]
+}

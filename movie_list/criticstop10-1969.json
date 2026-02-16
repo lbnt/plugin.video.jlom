@@ -1,0 +1,407 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1969",
+    "source": "https://criticstop10.com/best-movies-of-1969/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/cQv1NptKgJNN7x40YUt0FFacO2C.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 3116,
+            "original_language": "en",
+            "original_title": "Midnight Cowboy",
+            "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+            "popularity": 3.2521,
+            "poster_path": "/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+            "release_date": "1969-05-25",
+            "title": "Midnight Cowboy",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1493
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+            "genre_ids": [
+                37,
+                12,
+                80,
+                18,
+                36
+            ],
+            "id": 642,
+            "original_language": "en",
+            "original_title": "Butch Cassidy and the Sundance Kid",
+            "overview": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+            "popularity": 3.4679,
+            "poster_path": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+            "release_date": "1969-09-23",
+            "title": "Butch Cassidy and the Sundance Kid",
+            "video": false,
+            "vote_average": 7.61,
+            "vote_count": 2294
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 624,
+            "original_language": "en",
+            "original_title": "Easy Rider",
+            "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+            "popularity": 2.5989,
+            "poster_path": "/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
+            "release_date": "1969-06-26",
+            "title": "Easy Rider",
+            "video": false,
+            "vote_average": 7.06,
+            "vote_count": 2038
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 17529,
+            "original_language": "en",
+            "original_title": "True Grit",
+            "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+            "popularity": 2.6809,
+            "poster_path": "/9TjGjAD2deCtIG4ebi8LhIyFK6j.jpg",
+            "release_date": "1969-06-11",
+            "title": "True Grit",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 813
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/51CGGUbTzs5lRxmPRNLOHeC3GPB.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 54494,
+            "original_language": "en",
+            "original_title": "The Sterile Cuckoo",
+            "overview": "Uptight college freshman Jerry Payne finds a carefree friend in zany Pookie. After an awkward meeting on the bus, Pookie quickly works her way into Jerry's life. She makes an unannounced visit to Jerry's campus, and before long annoyance turns to affection, and friendship turns to romance. But with Pookie's increasingly neurotic behavior, how long can this love affair last?",
+            "popularity": 0.3487,
+            "poster_path": "/8IP6hkHhmyVvgKPL8V37yjDMiAp.jpg",
+            "release_date": "1969-10-22",
+            "title": "The Sterile Cuckoo",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gSxBpt9YVANM9NdLoVeAfZCIot6.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 5638,
+            "original_language": "en",
+            "original_title": "Alice's Restaurant",
+            "overview": "After getting kicked out of college, Arlo decides to visit his friend Alice for Thanksgiving dinner. After dinner is over, Arlo volunteers to take the trash to the dump but finds it closed for the holiday, so he dumps the trash in the bottom of a ravine. This act of littering gets him arrested and sends him on a bizarre journey.",
+            "popularity": 0.4761,
+            "poster_path": "/m3xifcmDpyuYfrm1tHuACBaLjlZ.jpg",
+            "release_date": "1969-08-20",
+            "title": "Alice's Restaurant",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aiiWgt80uOVvW72eXOYAurZ79RR.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 42604,
+            "original_language": "en",
+            "original_title": "Goodbye, Columbus",
+            "overview": "A Jewish man and a Jewish woman meet, and while attracted to each other, find that their worlds are very different. She is the archetypal Jewish American Princess \u2014 very emotionally involved with her parents' world and the world they have created for her, while he is much less dependent on his family. They begin an affair which brings more differences to the surface.",
+            "popularity": 0.3997,
+            "poster_path": "/yEfA6HiXipVZdHvxiagV6MxuDNS.jpg",
+            "release_date": "1969-04-03",
+            "title": "Goodbye, Columbus",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/plMHzh9Mas5cfZZkmHGPQEaoN1I.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42612,
+            "original_language": "en",
+            "original_title": "Medium Cool",
+            "overview": "John Cassellis is the toughest TV news reporter around. After extensively reporting about violence and racial tensions in poor communities, he discovers that his network is helping the FBI by granting them access to his footage to find suspects.",
+            "popularity": 0.2521,
+            "poster_path": "/uiRU2wJQh5x7q0HU3oBN0VbRMnt.jpg",
+            "release_date": "1969-08-27",
+            "title": "Medium Cool",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ybi3LVVyXVRQUDz9xos2YM24Gnj.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 14030,
+            "original_language": "en",
+            "original_title": "Hello, Dolly!",
+            "overview": "Dolly Levi is a strong-willed matchmaker who travels to Yonkers, New York in order to see the miserly \"well-known unmarried half-a-millionaire\" Horace Vandergelder. In doing so, she convinces his niece, his niece's intended, and Horace's two clerks to travel to New York City.",
+            "popularity": 1.2906,
+            "poster_path": "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg",
+            "release_date": "1969-12-12",
+            "title": "Hello, Dolly!",
+            "video": false,
+            "vote_average": 6.973,
+            "vote_count": 364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/abWke008aC7M7nAUrij9JTWPEXk.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 26520,
+            "original_language": "en",
+            "original_title": "Bob & Carol & Ted & Alice",
+            "overview": "After returning to Los Angeles from a group therapy session, documentary filmmaker Bob Sanders and his wife, Carol, find themselves becoming vigilante couples counselors, offering unsolicited advice to their best friends, Ted and Alice Henderson. Not wanting to be rude, the Hendersons play along, but some latent sexual tension among the four soon comes bubbling to the surface, and long-buried desires don't stay buried for long.",
+            "popularity": 0.7368,
+            "poster_path": "/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg",
+            "release_date": "1969-09-17",
+            "title": "Bob & Carol & Ted & Alice",
+            "video": false,
+            "vote_average": 6.175,
+            "vote_count": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28145,
+            "original_language": "en",
+            "original_title": "They Shoot Horses, Don't They?",
+            "overview": "In the midst of the Great Depression, manipulative emcee Rocky enlists contestants for a dance marathon offering a $1,500 cash prize. Among them are a failed actress, a middle-aged sailor, a delusional blonde and a pregnant girl.",
+            "popularity": 1.0819,
+            "poster_path": "/7wVLBgriOQpT5RrufAFCdCSUp7M.jpg",
+            "release_date": "1969-12-10",
+            "title": "They Shoot Horses, Don't They?",
+            "video": false,
+            "vote_average": 7.597,
+            "vote_count": 335
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oIoRJIWrYFuJUL5CYlAmkJAIRql.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 38096,
+            "original_language": "en",
+            "original_title": "Last Summer",
+            "overview": "During summer vacation on Fire Island, three young people become very close. When an uncool girl tries to infiltrate the trio's newly found relationship, they construct an elaborate plot that has violent results.",
+            "popularity": 0.4079,
+            "poster_path": "/aOiX3V0N6JLJNlq0L7j25ZHUCxF.jpg",
+            "release_date": "1969-06-10",
+            "title": "Last Summer",
+            "video": false,
+            "vote_average": 6.317,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b5OqjAne0vAV08V43QvXpmlfvSg.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 14794,
+            "original_language": "en",
+            "original_title": "if....",
+            "overview": "In an English boys' boarding school, social hierarchy reigns supreme and power remains in the hands of distanced and ineffectual teachers and callously vicious prefects in the Upper Sixth. Three Lower Sixth students, Wallace, Johnny and leader Mick Travis decide on a shocking course of action to redress the balance of privilege once and for all.",
+            "popularity": 1.5865,
+            "poster_path": "/3yOtehzchZobaMVth4gutUHmKc6.jpg",
+            "release_date": "1968-12-19",
+            "title": "if....",
+            "video": false,
+            "vote_average": 7.069,
+            "vote_count": 384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cSHie9qJvujqN4tYq6gx88WDf7o.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 576,
+            "original_language": "en",
+            "original_title": "The Wild Bunch",
+            "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+            "popularity": 1.956,
+            "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+            "release_date": "1969-06-19",
+            "title": "The Wild Bunch",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2pEegRXaVCdRYFp0b2CucFhILDn.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 41876,
+            "original_language": "it",
+            "original_title": "La caduta degli dei",
+            "overview": "In the early days of Nazi Germany, a powerful noble family must adjust to life under the new dictatorship regime.",
+            "popularity": 0.9515,
+            "poster_path": "/hgUw52rwePsQ5oU7ahbYZySGrrO.jpg",
+            "release_date": "1969-10-30",
+            "title": "The Damned",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 213
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5oRRWumsuTrvMlBc6Mx9fChx3t2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 33166,
+            "original_language": "en",
+            "original_title": "Downhill Racer",
+            "overview": "An ambitious young skier, determined to break all existing records, is contemptuous of the teamwork advocated by the US coach when they go to Europe for the Olympics.",
+            "popularity": 0.5836,
+            "poster_path": "/fJDQDmJDiEzRROph0T1ace8oyNK.jpg",
+            "release_date": "1969-11-06",
+            "title": "Downhill Racer",
+            "video": false,
+            "vote_average": 5.89,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hBSQbL2VZV8BmH8wbzbFn3x8PFg.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 5179,
+            "original_language": "en",
+            "original_title": "The Prime of Miss Jean Brodie",
+            "overview": "A headstrong young teacher in a private school in 1930s Edinburgh ignores the curriculum and influences her impressionable 12-year-old charges with her over-romanticized worldview.",
+            "popularity": 0.6091,
+            "poster_path": "/lEZdKL17yneFK4dbbWPKcbkRbqM.jpg",
+            "release_date": "1969-02-24",
+            "title": "The Prime of Miss Jean Brodie",
+            "video": false,
+            "vote_average": 6.862,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 22522,
+            "original_language": "en",
+            "original_title": "Anne of the Thousand Days",
+            "overview": "Henry VIII of England discards his wife, Katharine of Aragon, who has failed to produce a male heir, in favor of the young and beautiful Anne Boleyn.",
+            "popularity": 2.302,
+            "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+            "release_date": "1969-12-18",
+            "title": "Anne of the Thousand Days",
+            "video": false,
+            "vote_average": 7.088,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kmgjlZbGeiRzb5kW60yFBFCjp6E.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 5928,
+            "original_language": "en",
+            "original_title": "The Reivers",
+            "overview": "In turn-of-the-century Mississippi, an 11-year-old boy comes of age as two mischievous adult friends talk him into sneaking the family car out for a trip to Memphis and a series of adventures.",
+            "popularity": 0.5704,
+            "poster_path": "/s0XZmvjbS4meN86Jf1Retbo7GlB.jpg",
+            "release_date": "1969-12-20",
+            "title": "The Reivers",
+            "video": false,
+            "vote_average": 6.415,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/89CYP8nIIk9v9UAPFYgef8KXDOw.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10752
+            ],
+            "id": 21335,
+            "original_language": "en",
+            "original_title": "Oh! What a Lovely War",
+            "overview": "The working-class Smiths change their initially sunny views on World War I after the three boys of the family witness the harsh reality of trench warfare.",
+            "popularity": 0.3486,
+            "poster_path": "/zLAYzMNOos506tcKYXxIDvupY5S.jpg",
+            "release_date": "1969-03-10",
+            "title": "Oh! What a Lovely War",
+            "video": false,
+            "vote_average": 6.75,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mFqcNHXIUFCSrBoT4gedzP9c4dL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 94608,
+            "original_language": "en",
+            "original_title": "The Happy Ending",
+            "overview": "When Fred asked for Mary's hand in marriage, she thought she had the happy ending she only read about in fairy tales. Now it's 16 years later; Fred has had an affair, and Mary drowns her sorrows in pills and booze, a dangerous combination that nearly resulted in her death the year before. As Mary rushes off to the Bahamas for a relaxing escape from her crumbling marriage, she reflects on the past and wonders just where it all went wrong.",
+            "popularity": 0.2916,
+            "poster_path": "/9kATt9l7UimdbLQldEx7BxaM6GH.jpg",
+            "release_date": "1969-12-21",
+            "title": "The Happy Ending",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 24
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "type" : "folder_list",
+    "title" : "Cannes Film Festival",
+    "added" : "31/01/26",
+    "modified" : "31/01/26",
+    "folders" : [
+        {
+            "title" : "Venice Film Festival - Golden Lion",
+            "id" : "venice_film_festival-golden_lion",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Venice Film Festival - Grand Jury Prize",
+            "id" : "venice_film_festival-grand_jury_prize",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Venice Film Festival - Silver Lion",
+            "id" : "venice_film_festival-silver_lion",
+            "type" : "movie_list"
+        }
+    ]
+}

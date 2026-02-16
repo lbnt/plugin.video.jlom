@@ -1,0 +1,614 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1968",
+    "source": "https://criticstop10.com/best-movies-of-1968/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 18988,
+            "original_language": "en",
+            "original_title": "The Lion in Winter",
+            "overview": "Henry II and his estranged queen, Eleanor of Aquitaine, battle over the choice of an heir.",
+            "popularity": 1.837,
+            "poster_path": "/yMgJnZADJObzfjA70ygXJkjnrFX.jpg",
+            "release_date": "1968-08-20",
+            "title": "The Lion in Winter",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 373
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1FiUOiDDzsGnoGZdbhq80Nb3n8S.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 805,
+            "original_language": "en",
+            "original_title": "Rosemary's Baby",
+            "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+            "popularity": 3.6962,
+            "poster_path": "/nclYFGpVzfbiORO5ELVVdxzt9Vg.jpg",
+            "release_date": "1968-06-12",
+            "title": "Rosemary's Baby",
+            "video": false,
+            "vote_average": 7.824,
+            "vote_count": 4088
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/agPJ2Snxm9PWEyR2uabc0ncN8T3.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 42635,
+            "original_language": "en",
+            "original_title": "Rachel, Rachel",
+            "overview": "Rachel is a 35-year-old school teacher who has no man in her life and lives with her mother. When a man from the big city returns and asks her out, she begins to have to make decisions about her life and where she wants it to go.",
+            "popularity": 1.0207,
+            "poster_path": "/67flKS1FKxIiYUjXPqRc39hb9LX.jpg",
+            "release_date": "1968-08-26",
+            "title": "Rachel, Rachel",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+            "genre_ids": [
+                878,
+                9648,
+                12
+            ],
+            "id": 62,
+            "original_language": "en",
+            "original_title": "2001: A Space Odyssey",
+            "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+            "popularity": 9.7049,
+            "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+            "release_date": "1968-04-02",
+            "title": "2001: A Space Odyssey",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 11947
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bvXUe1KBYOAl3Eh2jT6c1sQwmTf.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 11356,
+            "original_language": "en",
+            "original_title": "The Odd Couple",
+            "overview": "In New York, Felix, a neurotic news writer who just broke up with his wife, is urged by his chaotic friend Oscar, a sports journalist, to move in with him, but their lifestyles are as different as night and day are, so Felix's ideas about housekeeping soon begin to irritate Oscar.",
+            "popularity": 1.2135,
+            "poster_path": "/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+            "release_date": "1968-05-16",
+            "title": "The Odd Couple",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 604
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zQyNGzYD144sbFKrfBP8mFwqDxn.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 6003,
+            "original_language": "en",
+            "original_title": "Romeo and Juliet",
+            "overview": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+            "popularity": 2.4322,
+            "poster_path": "/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+            "release_date": "1968-04-02",
+            "title": "Romeo and Juliet",
+            "video": false,
+            "vote_average": 7.414,
+            "vote_count": 692
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/DWRcfNaWioQwfPMG028LjHsrRq.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 17917,
+            "original_language": "en",
+            "original_title": "Oliver!",
+            "overview": "Musical adaptation of Charles Dickens' Oliver Twist, a classic tale of an orphan who runs away from the workhouse and joins up with a group of boys headed by the Artful Dodger and trained to be pickpockets by master thief Fagin.",
+            "popularity": 2.0795,
+            "poster_path": "/1XJgoaOWKrqxkKeBKWLKSigqG8c.jpg",
+            "release_date": "1968-09-26",
+            "title": "Oliver!",
+            "video": false,
+            "vote_average": 7.033,
+            "vote_count": 448
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rAQuStVXiQSMQSDRuSzApElHEPQ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 118872,
+            "original_language": "en",
+            "original_title": "The Subject Was Roses",
+            "overview": "Timmy Cleary returns to his Bronx home at the end of World War II and is soon disillusioned to find his parents' marriage filled with discord, quarreling, and recriminations.",
+            "popularity": 0.1841,
+            "poster_path": "/2mjvVqEXb5Ii64NQWgjsgKDeFlU.jpg",
+            "release_date": "1968-10-13",
+            "title": "The Subject Was Roses",
+            "video": false,
+            "vote_average": 6.263,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6VuGhV3iv3CHF2mTRDMa6fTu4Vn.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 16085,
+            "original_language": "en",
+            "original_title": "Funny Girl",
+            "overview": "The life of famed 1930s comedienne Fanny Brice, from her early days in the Jewish slums of New York, to the height of her career with the Ziegfeld Follies, as well as her marriage to the rakish gambler Nick Arnstein.",
+            "popularity": 1.7566,
+            "poster_path": "/fg7tnjd4dBeIDvEO80CGq958CCt.jpg",
+            "release_date": "1968-09-19",
+            "title": "Funny Girl",
+            "video": false,
+            "vote_average": 7.192,
+            "vote_count": 401
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7gH1lRzboLTBxiqTwscrkOeaaau.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                10749,
+                18
+            ],
+            "id": 916,
+            "original_language": "en",
+            "original_title": "Bullitt",
+            "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed.",
+            "popularity": 2.8376,
+            "poster_path": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+            "release_date": "1968-10-17",
+            "title": "Bullitt",
+            "video": false,
+            "vote_average": 7.153,
+            "vote_count": 1203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gQYsE1Zu89fbi3yUL4bubxoRjbh.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53,
+                36
+            ],
+            "id": 18900,
+            "original_language": "en",
+            "original_title": "In Cold Blood",
+            "overview": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
+            "popularity": 1.2246,
+            "poster_path": "/f4zGKntOVVJUk9X0wCcw1DJPdQe.jpg",
+            "release_date": "1967-12-15",
+            "title": "In Cold Blood",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rW0zvmvdjKTrYz50I1j5XjSweiy.jpg",
+            "genre_ids": [
+                10402,
+                16,
+                12,
+                35,
+                14
+            ],
+            "id": 12105,
+            "original_language": "en",
+            "original_title": "Yellow Submarine",
+            "overview": "The wicked Blue Meanies take over Pepperland, eliminating all color and music. As the only survivor, the Lord Admiral escapes in the yellow submarine and journeys to Liverpool to enlist the help of the Beatles.",
+            "popularity": 0.8028,
+            "poster_path": "/cjrGM2QYlwzV6vXz2yF7y6fdTRu.jpg",
+            "release_date": "1968-07-17",
+            "title": "Yellow Submarine",
+            "video": false,
+            "vote_average": 7.142,
+            "vote_count": 523
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3IxF5ea5Zj4e6AvS8ibIwX243iH.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 17665,
+            "original_language": "en",
+            "original_title": "The Shoes of the Fisherman",
+            "overview": "Ukrainian bishop Kiril Lakota, a political prisoner in a Soviet gulag for twenty years, is unexpectedly released and sent to the Vatican, where, upon the sudden death of the Pope, leader of the Catholic Church, he must face a challenging destiny that will put the future of the entire world in his hands.",
+            "popularity": 0.6752,
+            "poster_path": "/m9HqMSaDz7Peo0ufCaBUP8gG5gf.jpg",
+            "release_date": "1968-11-14",
+            "title": "The Shoes of the Fisherman",
+            "video": false,
+            "vote_average": 6.769,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+            "genre_ids": [
+                878,
+                12,
+                18,
+                28
+            ],
+            "id": 871,
+            "original_language": "en",
+            "original_title": "Planet of the Apes",
+            "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+            "popularity": 5.0476,
+            "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+            "release_date": "1968-02-07",
+            "title": "Planet of the Apes",
+            "video": false,
+            "vote_average": 7.647,
+            "vote_count": 3714
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sURKVV4auOpRWaS6lRIdcTPtlee.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                878
+            ],
+            "id": 29146,
+            "original_language": "en",
+            "original_title": "Charly",
+            "overview": "An experiment on a simpleton turns him into a genius. When he discovers what has been done to him he struggles with whether or not what was done to him was right.",
+            "popularity": 0.4974,
+            "poster_path": "/uxGt80D4hxEEwGwdOJ5tdVvjXEC.jpg",
+            "release_date": "1968-09-23",
+            "title": "Charly",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wVpZAFqzcXKlHw3Dx85EpnG9vvW.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 753,
+            "original_language": "en",
+            "original_title": "Faces",
+            "overview": "Middle-aged suburban husband Richard abruptly tells his wife, Maria, that he wants a divorce. As Richard takes up with a younger woman, Maria enjoys a night on the town with her friends and meets a younger man. As the couple and those around them confront a seemingly futile search for what they've lost -- love, excitement, passion -- this classic American independent film explores themes of aging and alienation.",
+            "popularity": 0.842,
+            "poster_path": "/qTkhxFQ0o6DEtTtPXkv4IA5M90J.jpg",
+            "release_date": "1968-11-24",
+            "title": "Faces",
+            "video": false,
+            "vote_average": 7.093,
+            "vote_count": 205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ul3EMzo5LbMANuooOvRGvjmhUZc.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 62570,
+            "original_language": "fr",
+            "original_title": "Le Vieil Homme et l'Enfant",
+            "overview": "A story of the caring friendship formed between a crusty, old anti-Semite and an eight-year-old Jewish boy who goes to live with him during World War II.",
+            "popularity": 0.3934,
+            "poster_path": "/3OEIEFEkhC2CqFKhrBQNep49ism.jpg",
+            "release_date": "1967-03-08",
+            "title": "The Two of Us",
+            "video": false,
+            "vote_average": 7.563,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i86KGfhcshYh44WU6C4eHVpkXme.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 42634,
+            "original_language": "en",
+            "original_title": "Petulia",
+            "overview": "Dr. Archie Bollen is having a midlife crisis. He's just divorced his wife and is establishing a new life for himself. One night, he catches the eye of Petulia Danner, a charming, free-spirited young woman. Petulia's vibrant personality hides her fear of her abusive husband, David, whose father is a powerful society figure. As Petulia and Archie's feelings for each other grow, they must decide what it is they truly want.",
+            "popularity": 0.432,
+            "poster_path": "/i0r0HPm4PEPNZL93lwE1fCGvL0b.jpg",
+            "release_date": "1968-06-10",
+            "title": "Petulia",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eOezHJhtwK0sFaOKmTI2IvC8cNn.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 26690,
+            "original_language": "en",
+            "original_title": "The Boston Strangler",
+            "overview": "Boston is being terrorized by a series of seemingly random murders of women. Based on the true story, the film follows the investigators path through several leads before introducing the Strangler as a character. It is seen almost exclusively from the point of view of the investigators who have very few clues to build a case upon.",
+            "popularity": 2.3297,
+            "poster_path": "/hIVMUQf80zT4PyTMmXA1LXUzmBF.jpg",
+            "release_date": "1968-10-08",
+            "title": "The Boston Strangler",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 226
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Zc7ja5d4eGTT0rpx1pOCVLiRgW.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 649,
+            "original_language": "fr",
+            "original_title": "Belle de jour",
+            "overview": "Beautiful young housewife S\u00e9verine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, S\u00e9verine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+            "popularity": 2.4736,
+            "poster_path": "/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+            "release_date": "1967-05-24",
+            "title": "Belle de Jour",
+            "video": false,
+            "vote_average": 7.324,
+            "vote_count": 954
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bmlr5Rj1ZHkezjm6f06vUXGTRI1.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 74896,
+            "original_language": "en",
+            "original_title": "The Fox",
+            "overview": "Jill Banford and Ellen March have built a good life together on a hardscrabble Canadian farm. Then handsome Paul Grenfell enters their isolated world, and sets friend against friend. But is Paul the real trouble between Jill and Ellen? Or has his presence merely awakened the unspoken, unexplored sexual tension that always existed between the women?",
+            "popularity": 0.196,
+            "poster_path": "/jzme3QqBk2gbVBOwpffupF3y4Ip.jpg",
+            "release_date": "1967-12-13",
+            "title": "The Fox",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u6QeHLm3NNAYwVzFnIiHtjqXowQ.jpg",
+            "genre_ids": [
+                37,
+                10749
+            ],
+            "id": 1676,
+            "original_language": "en",
+            "original_title": "Will Penny",
+            "overview": "Will Penny, an aging cowpoke, takes a job on a ranch which requires him to ride the line of the property looking for trespassers or, worse, squatters. He finds that his cabin in the high mountains has been appropriated by a woman whose guide to Oregon has deserted her and her son. Too ashamed to kick mother and child out just as the bitter winter of the mountains sets in, he agrees to share the cabin until the spring thaw. But it isn't just the snow that slowly thaws; the lonely man and woman soon forget their mutual hostility and start developing a deep love for one another.",
+            "popularity": 0.8225,
+            "poster_path": "/v3RcNrqutEPGsiTLd31J3U735kB.jpg",
+            "release_date": "1967-12-19",
+            "title": "Will Penny",
+            "video": false,
+            "vote_average": 6.581,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mrNcpvWWJn1p9E8CRUzLe1d75R4.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 27983,
+            "original_language": "en",
+            "original_title": "Yours, Mine and Ours",
+            "overview": "When a widower with ten children marries a widow with eight, can the twenty of them ever come together as one big happy family?",
+            "popularity": 1.4972,
+            "poster_path": "/sL6uuFSapJNAGYcA4SrUHO5X4gs.jpg",
+            "release_date": "1968-04-24",
+            "title": "Yours, Mine and Ours",
+            "video": false,
+            "vote_average": 6.809,
+            "vote_count": 141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xFQplpuurEfyJsYg0v2REYYI16s.jpg",
+            "genre_ids": [
+                36,
+                18,
+                10752,
+                10749
+            ],
+            "id": 29266,
+            "original_language": "ru",
+            "original_title": "\u0412\u043e\u0439\u043d\u0430 \u0438 \u043c\u0438\u0440",
+            "overview": "A seven-hour epic adaptation of the novel by Leo Tolstoy. The love story of young Countess Natasha Rostova and Count Pierre Bezukhov is interwoven with  the Great Patriotic War of 1812 against Napoleon's invading army.",
+            "popularity": 0.7953,
+            "poster_path": "/tvMJ84g2lx2XusA29wvOeaanwWZ.jpg",
+            "release_date": "1968-04-28",
+            "title": "War and Peace",
+            "video": false,
+            "vote_average": 7.566,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l1wcKPBvB4FKXpvG6rD8FbpjvPT.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 52959,
+            "original_language": "en",
+            "original_title": "Star!",
+            "overview": "Gertrude Lawrence rises to stage stardom at the cost of happiness.",
+            "popularity": 0.3206,
+            "poster_path": "/xMyOm5hLWeuoWBea1DJrcJy8bU6.jpg",
+            "release_date": "1968-07-18",
+            "title": "Star!",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tRyPuhThCFVWaE4JkPOBdFl5a5s.jpg",
+            "genre_ids": [
+                14,
+                10749,
+                10751
+            ],
+            "id": 42622,
+            "original_language": "en",
+            "original_title": "Finian's Rainbow",
+            "overview": "An Irish immigrant and his daughter arrive in Kentucky with a magical piece of gold that alters the course of several lives, including those of a struggling farmer and an African American community facing persecution from a bigoted politician.",
+            "popularity": 0.3409,
+            "poster_path": "/7vPJBLw9GL0FlJXXTgZqWnwMzK9.jpg",
+            "release_date": "1968-10-09",
+            "title": "Finian's Rainbow",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBbpIEh4hZCUrlhJwMPMi485YJw.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 26186,
+            "original_language": "en",
+            "original_title": "Hot Millions",
+            "overview": "A con artist gains employment at an insurance company in order to embezzle money by re-programming their \"new\" wonder computer.",
+            "popularity": 0.2761,
+            "poster_path": "/tP8QEV55HvxXaNI2rHdIllBzg3s.jpg",
+            "release_date": "1968-09-19",
+            "title": "Hot Millions",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9tg0OSfvyU4sZ0QXc8w0pk0ONpI.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 87267,
+            "original_language": "en",
+            "original_title": "The Fixer",
+            "overview": "Set in tsarist Russia around the turn of the century and based on a true story of a Russian Jewish peasant Yakov Bog who was wrongly imprisoned for a most unlikely crime - the \u201critual murder\u201d of a Gentile child in Kyiv. We witness the unrelenting detail of the peasant handyman's life in prison and see him gain in dignity as the efforts to humiliate him and make him confess fail.",
+            "popularity": 0.3469,
+            "poster_path": "/pLcke8F7THAxtEHtN8Tg6IaZ9if.jpg",
+            "release_date": "1968-12-08",
+            "title": "The Fixer",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dmNg4IfF8vNBSVO1GzJXqTZhBm5.jpg",
+            "genre_ids": [
+                80,
+                10749
+            ],
+            "id": 912,
+            "original_language": "en",
+            "original_title": "The Thomas Crown Affair",
+            "overview": "Young businessman Thomas Crown is bored and decides to plan a robbery and assigns a professional agent with the right information to the job. However, Crown is soon betrayed yet cannot blow his cover because he\u2019s in love.",
+            "popularity": 2.3327,
+            "poster_path": "/oODAwa2AK3fXvK93GCbq7dFLZPi.jpg",
+            "release_date": "1968-06-26",
+            "title": "The Thomas Crown Affair",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 533
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rdQC1fukA2aEoOYMrXPspF2ItcC.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 70591,
+            "original_language": "en",
+            "original_title": "For Love of Ivy",
+            "overview": "A white family has had the same Black maid for many years. When she tells them she wants to go back to school and will be leaving soon, the 20ish year old son decides what she needs is a change and begins searching for a man to wine and dine her, but who won't marry her, thinking that this will distract her from her plans. The man he finds doesn't entirely cooperate.",
+            "popularity": 0.2677,
+            "poster_path": "/5tjt2rkR03yDg6lSr9DtEmNfx1c.jpg",
+            "release_date": "1968-07-17",
+            "title": "For Love of Ivy",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2DkUiZlSBa4RDiVpRXniN446yEn.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749,
+                53
+            ],
+            "id": 32969,
+            "original_language": "en",
+            "original_title": "Pretty Poison",
+            "overview": "A troubled arsonist spins a tale of espionage to a captivating girl, who becomes enthralled and entangled in his dangerous fantasies, leading to unexpected murder and chaos that change their lives forever.",
+            "popularity": 0.4871,
+            "poster_path": "/bUwIOxAfHWr7TdzXGYfVOPNQWGa.jpg",
+            "release_date": "1968-07-18",
+            "title": "Pretty Poison",
+            "video": false,
+            "vote_average": 6.794,
+            "vote_count": 85
+        }
+    ]
+}

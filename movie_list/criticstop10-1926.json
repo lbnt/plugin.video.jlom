@@ -1,0 +1,792 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1926",
+    "source": "https://criticstop10.com/best-movies-of-1926/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/sSjrJiqmdcFZbE0biKHSbpgV9LO.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "id": 189621,
+            "original_language": "en",
+            "original_title": "Beau Geste",
+            "overview": "Michael \"Beau\" Geste leaves England in disgrace and joins the infamous French Foreign Legion. He is reunited with his two brothers in North Africa, where they face greater danger from their own sadistic commander than from the rebellious Arabs.",
+            "popularity": 0.1636,
+            "poster_path": "/o5hMiPxW2paWBfDCRCD7hugBzSp.jpg",
+            "release_date": "1926-08-24",
+            "title": "Beau Geste",
+            "video": false,
+            "vote_average": 6.077,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/chdyIJCJ4WY1tY6KTWUn2dfqPTU.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 111607,
+            "original_language": "en",
+            "original_title": "What Price Glory",
+            "overview": "U.S. Marine sergeants Quirt and Flagg are inveterate romantic rivals on peacetime assignments in China and the Philippines. In 1917, W.W. I brings them to France, where Flagg, now a captain, takes up with flirtatious Charmaine, inn-keeper's daughter. Of course, Quirt has to arrive and spoil his fun. But the harsh realities of war and the threat of a shotgun marriage give the two men a common cause...",
+            "popularity": 0.1092,
+            "poster_path": "/o3lBQwevDWzKCKynKKCLLM8h7F4.jpg",
+            "release_date": "1926-11-23",
+            "title": "What Price Glory",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qOHv2xgyyJUNiItZgYlWe5BEStM.jpg",
+            "genre_ids": [
+                18,
+                80,
+                10749
+            ],
+            "id": 94803,
+            "original_language": "de",
+            "original_title": "Variet\u00e9",
+            "overview": "The murderer \u201cBoss\u201d Huller \u2013 after having spent ten years in prison \u2013 breaks his silence to tell the warden his story.",
+            "popularity": 0.1855,
+            "poster_path": "/rcpMbxYrYLngdyQrt1lK4QkpV06.jpg",
+            "release_date": "1925-11-16",
+            "title": "Variety",
+            "video": false,
+            "vote_average": 6.792,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ezeFFebkb8MX33IRQ2LYwegLNit.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28
+            ],
+            "id": 50075,
+            "original_language": "en",
+            "original_title": "The Black Pirate",
+            "overview": "A nobleman vows to avenge the death of his father by the hands of pirates. To this end, he infiltrates the pirate band; Acting in character, he single-handedly captures a merchant vessel, but things are complicated when he finds that there is a beautiful young woman of royal blood aboard.",
+            "popularity": 2.643,
+            "poster_path": "/841WLSvTRN3TQKxiUjD1TY9dc42.jpg",
+            "release_date": "1926-03-08",
+            "title": "The Black Pirate",
+            "video": false,
+            "vote_average": 6.663,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6m7gtJjkhnx4au41K0g6cTzzEJ6.jpg",
+            "genre_ids": [
+                12,
+                10749
+            ],
+            "id": 89059,
+            "original_language": "en",
+            "original_title": "Don Juan",
+            "overview": "If there was one thing that Don Juan de Marana learned from his father Don Jose, it was that women gave you three things - life, disillusionment and death. In his father's case it was his wife, Donna Isobel, and Donna Elvira who supplied the latter. Don Juan settled in Rome after attending the University of Pisa. Rome was run by the tyrannical Borgia family consisting of Caesar, Lucrezia and the Count Donati. Juan has his way with and was pursued by many women, but it is the one that he could not have that haunts him. It will be for her that he suffers the wrath of Borgia for ignoring Lucrezia and then killing Count Donati in a duel. For Adriana, they will both be condemned to death in the prison on the river Tigre.",
+            "popularity": 0.4323,
+            "poster_path": "/lgG2uNEvdmgVs9k8RlTA9JqxsQs.jpg",
+            "release_date": "1926-08-06",
+            "title": "Don Juan",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A7MPKLHucxdu1dUhzCjcx16z05H.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 44209,
+            "original_language": "en",
+            "original_title": "The Volga Boatman",
+            "overview": "During the Russian Revolution Princess Vera, though betrothed to Prince Dimitri, is attracted to the peasant Feodor.",
+            "popularity": 0.1157,
+            "poster_path": "/5tvXqb2DSnSR8AIkPKOqVWVICAK.jpg",
+            "release_date": "1926-05-23",
+            "title": "The Volga Boatman",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g1noJvv5f6HPIJdrLWpEGJeJo2N.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 190163,
+            "original_language": "en",
+            "original_title": "Old Ironsides",
+            "overview": "An embellished account of the 1803 expedition by famed frigate U.S.S. Constitution--a.k.a. \"Old Ironsides\"--against the Barbary pirates then terrorizing American shipping, focusing on the crew and passengers of a fictional merchant ship, The Esther, who fall afoul of the same pirates and thus become involved with the Constitution's mission.",
+            "popularity": 0.1725,
+            "poster_path": "/9hmuwRtktkXsK2u0hGuMuEprHQM.jpg",
+            "release_date": "1926-12-06",
+            "title": "Old Ironsides",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xNWNl46sdN32uM3lVaC3FmHggOo.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 225112,
+            "original_language": "en",
+            "original_title": "The Better 'Ole",
+            "overview": "The adventures of Old Bill and his friends Bert and Alf in the trenches of the first World War.",
+            "popularity": 0.0884,
+            "poster_path": "/rWeCPTOziMZfHKqkijZaO1VXsAO.jpg",
+            "release_date": "1926-10-23",
+            "title": "The Better 'Ole",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vBOKLF3nhdaKRiCvmdoIUTikG2X.jpg",
+            "genre_ids": [
+                14,
+                18,
+                27
+            ],
+            "id": 10728,
+            "original_language": "de",
+            "original_title": "Faust - Eine deutsche Volkssage",
+            "overview": "God and Satan war over earth; to settle things, they wager on the soul of Faust, a learned and prayerful alchemist.",
+            "popularity": 1.5131,
+            "poster_path": "/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg",
+            "release_date": "1926-10-13",
+            "title": "Faust",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 371
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pxZOCgdcwNgR5gf1GvKTnYEPvhp.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 85638,
+            "original_language": "en",
+            "original_title": "The Scarlet Letter",
+            "overview": "In Puritan Boston, seamstress Hester Prynne and kindly Reverend Arthur Dimmesdale fall in love. After Dimmesdale must go away for a time to England, he returns to discover that Hester has given birth to their child and is the focus of local censure.",
+            "popularity": 0.3148,
+            "poster_path": "/8CztyNeSyaYVoNiOqjgPYTqkPyc.jpg",
+            "release_date": "1927-01-08",
+            "title": "The Scarlet Letter",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iSHXAMwmUZSL8zxX1HEDQFF39t5.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 177219,
+            "original_language": "en",
+            "original_title": "The Sea Beast",
+            "overview": "Based on Herman Melville's novel \"Moby Dick.\"",
+            "popularity": 0.1579,
+            "poster_path": "/xldEnir1q5gAXIj5BxP1yLKvJoS.jpg",
+            "release_date": "1926-01-15",
+            "title": "The Sea Beast",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9TBXfjP7JMAVBVrE8VUq8dbVXAP.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 38687,
+            "original_language": "en",
+            "original_title": "Flesh and the Devil",
+            "overview": "When lifelong best friends Leo and Ulrich return home after completing their military training, Leo meets the stunning Felicitas at a railway station and is mesmerized by her beauty. A scandal follows, for which Leo is sent away. Returning home three years later, he discovers that much has changed.",
+            "popularity": 0.864,
+            "poster_path": "/crbsj3275H5Q0accBiql7GyKTQW.jpg",
+            "release_date": "1926-12-25",
+            "title": "Flesh and the Devil",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l1biocqKm6B2myckxj9wIa0Z3Kd.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 110253,
+            "original_language": "en",
+            "original_title": "La Boh\u00e8me",
+            "overview": "A group of starving artists try to survive in 1830s Paris, including a seamstress and the would-be playwright she loves.",
+            "popularity": 0.4252,
+            "poster_path": "/7fLAxBNFb0CUTe5Nd8qsWeMX2Fr.jpg",
+            "release_date": "1926-03-13",
+            "title": "La Boh\u00e8me",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lTTb2mGPRQImECSJGVCjVIi4QQ0.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 316858,
+            "original_language": "en",
+            "original_title": "Behind the Front",
+            "overview": "During World War I a young man joins the army and winds up befriending another young recruit, not knowing that it's the same pickpocket who stole his watch. After finishing basic training, the two are sent to the front lines in France, where they wind up in trouble with the MPs, getting involved with some cute French girls and \"volunteering\" for a dangerous front-line mission, and their antics result in their endangering the armistice.",
+            "popularity": 0.56,
+            "poster_path": "/l02OijHcr8bzcy7ZUcTQfFYNsxQ.jpg",
+            "release_date": "1926-02-22",
+            "title": "Behind the Front",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5ZNGKiunqaM2jWdC00DTxD6fHqc.jpg",
+            "genre_ids": [
+                28,
+                35,
+                18
+            ],
+            "id": 111305,
+            "original_language": "en",
+            "original_title": "Tell It to the Marines",
+            "overview": "U.S. Marine Sergeant O'Hara has his hands full training raw recruits, one of whom, 'Skeets' Burns, is a particular thorn in his side. If Burns's lackadaisical approach to the military were not bad enough, he also makes advances on nurse Nora Dale, whom Sergeant O'Hara secretly loves. Nora is oblivious to O'Hara's feelings and is attracted to the handsome 'Skeet.' But an indiscretion turns her against him, and it takes an expedition to China and a battle with a warlord's bandit brigade to sort things out among the nurse and her two Marines.",
+            "popularity": 0.1742,
+            "poster_path": "/wX8Q8otMiIHGRDETwFLMqZaGVCL.jpg",
+            "release_date": "1926-12-23",
+            "title": "Tell It to the Marines",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rRsXk4KPz9NTdrBDTIR5oIV0Sum.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 183932,
+            "original_language": "en",
+            "original_title": "Mare Nostrum",
+            "overview": "The story of a female German spy who willingly sacrifices her life for her country.",
+            "popularity": 0.1374,
+            "poster_path": "/dGt9PgBINq7UMsUPReXUGdvinuX.jpg",
+            "release_date": "1926-02-15",
+            "title": "Mare Nostrum",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/XmtWf2ngVDUffANumk9sXPQgkz.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 269249,
+            "original_language": "en",
+            "original_title": "The Grand Duchess and the Waiter",
+            "overview": "Albert Durant, a young millionaire, poses as a waiter in order to woo an exiled and financially hard up Grand Duchess. She finds him impertinent and clumsy, but also quite fascinating. She takes him into her employ insisting he does everything she asks.",
+            "popularity": 0.1001,
+            "poster_path": "/n8jtjOwp1RZV8RPAofPlWeF8gqD.jpg",
+            "release_date": "1926-02-21",
+            "title": "The Grand Duchess and the Waiter",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 297584,
+            "original_language": "de",
+            "original_title": "Ein Walzertraum",
+            "overview": "Austrian actress Mady Christians stars alongside German matinee idol Willy Fritsch in this adaptation of the Oscar Straus operetta about a Prince who, after falling for a Viennese girl, becomes obsessed with the city and its customs.",
+            "popularity": 0.0404,
+            "poster_path": null,
+            "release_date": "1926-03-14",
+            "title": "The Waltz Dream",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rXhfyKbDtYfRe8Qk7lheIpcw0gV.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 316856,
+            "original_language": "en",
+            "original_title": "We're in the Navy Now",
+            "overview": "\"Stinky\" Smith makes off with the prize money when his buddy, \"Knockout\" Hansen loses a fight with Percival \"Sailor\" Scruggs. Hansen pursues him him a U.S. Navt recruiting office, and, the next thing they know, both are in the Navy and aboard an overseas transport ship. Madelyn Phillips is on board and Scruggs is the the ship's Master-of-Arms. They overhear a mysterious conversation between Madelyn and the ship's radio officer. Later, Madelun induces the pair to take her off the ship and into a row boat. She disappears and they are picked up by a French ship, which sinks a German U-Boat. When the war ends they learn that Madelyn was an operative of the U.S. Secret Service.",
+            "popularity": 0.1485,
+            "poster_path": "/jXQcdZprNZJdm5tORQ1puz27GTd.jpg",
+            "release_date": "1926-11-06",
+            "title": "We're in the Navy Now",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/saGGq0K3lX4k9FSwUxrMR7Dcfx5.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 51263,
+            "original_language": "en",
+            "original_title": "The Strong Man",
+            "overview": "A meek Belgian soldier (Harry Langdon) fighting in World War I receives penpal letters and a photo from \"Mary Brown\", an American girl he has never met. He becomes infatuated with her by long distance. After the war, the young Belgian journeys to America as assistant to a theatrical \"strong man\", Zandow the Great (Arthur Thalasso). While in America, he searches for Mary Brown... and he finds her, just as word comes that Zandow is incapacitated and the little nebbish must go on stage in his place.",
+            "popularity": 0.4595,
+            "poster_path": "/64J8XyG7mNMQlMDeW1xYoBY7xnw.jpg",
+            "release_date": "1926-11-19",
+            "title": "The Strong Man",
+            "video": false,
+            "vote_average": 6.296,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qBCySj9arqJPixLUStI4aIw67VB.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 94727,
+            "original_language": "en",
+            "original_title": "Moana",
+            "overview": "Robert J. Flaherty's South Seas follow-up to Nanook of the North is a Gauguin idyll moved by \"pride of beauty... pride of strength.\"",
+            "popularity": 2.3234,
+            "poster_path": "/dkSM2bfwYaqY0k6cEFwej1LRWAk.jpg",
+            "release_date": "1926-01-07",
+            "title": "Moana",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fnjR8BIR9Jgocme2Ymcb5NmSsKE.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 188066,
+            "original_language": "en",
+            "original_title": "Kiki",
+            "overview": "Kiki, a poor young woman who sells newspapers on the street corners of Paris, is able to land a job singing and dancing at a nearby theater. While she is there, she invites herself into the life of the revue's manager, with whom she has fallen in love.",
+            "popularity": 0.1665,
+            "poster_path": "/bm0wm6YBkQ24lF0SLfyJU4ILsJN.jpg",
+            "release_date": "1926-04-04",
+            "title": "Kiki",
+            "video": false,
+            "vote_average": 7.333,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lXcaTbbsFLOSIp5u1hPT4u2WE8o.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10749
+            ],
+            "id": 128899,
+            "original_language": "en",
+            "original_title": "Bardelys the Magnificent",
+            "overview": "Rafael Sabatini's story of the swashbuckling era and of Bardeleys, the handsome courtier who could win any woman he set his mind to...and was not above boasting about it to all who would listen.",
+            "popularity": 0.1128,
+            "poster_path": "/1NHq8P83XPor8iU2rXk37J1OSc4.jpg",
+            "release_date": "1926-09-30",
+            "title": "Bardelys the Magnificent",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kmjkRLZ0buMUFQF9ztxJRylij2F.jpg",
+            "genre_ids": [
+                10749,
+                37
+            ],
+            "id": 32716,
+            "original_language": "en",
+            "original_title": "3 Bad Men",
+            "overview": "Three outlaws come to the aid of a young girl after her father is killed.",
+            "popularity": 0.5072,
+            "poster_path": "/4x1vv1O0QMgE2sSbtSbrV68Zscr.jpg",
+            "release_date": "1926-08-28",
+            "title": "3 Bad Men",
+            "video": false,
+            "vote_average": 6.829,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/628ZM39XXgdi6SSdCG334yYVSYF.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 423713,
+            "original_language": "en",
+            "original_title": "The Quarterback",
+            "overview": "Elmer Stone, quarterback of the 1899 Colton College football team vows to remain a student until Colton beats its biggest rival, State University. Twenty-seven years later, Elmer is still in school and is a classmate of his son, Jack. Other than driving a milk wagon in his spare time, Jack is also the quarterback of the football team. A matter of his eligibility comes up but he is cleared and goes out to do-or-die for Colton against State University. Maybe they will win The Big Game, and Jack's father can get a life...and a job.",
+            "popularity": 0.0546,
+            "poster_path": "/rJjLKeLhLsiubdpC6tlNF9DGwuE.jpg",
+            "release_date": "1926-10-11",
+            "title": "The Quarterback",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lp4ORYpcRdB0A6puyLlaE2mtNbH.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 95956,
+            "original_language": "en",
+            "original_title": "The Temptress",
+            "overview": "A seductive woman forsakes her husband and lover to pursue a young engineer.",
+            "popularity": 0.2045,
+            "poster_path": "/rTCP9cY2VxjU4zSDuSNqCTxDfZT.jpg",
+            "release_date": "1926-10-03",
+            "title": "The Temptress",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wsnkhRCiOAEF9xFElkEb7CHPuMh.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 117211,
+            "original_language": "en",
+            "original_title": "Brown of Harvard",
+            "overview": "Tom Brown shows up at Harvard, confident and a bit arrogant. He becomes a rival of Bob McAndrew, not only in football and rowing crew, but also for the affections of Mary Abbott, a professor's daughter.",
+            "popularity": 0.1191,
+            "poster_path": "/4p55sMwwDD8LBhHilcVqJa05ZrV.jpg",
+            "release_date": "1926-05-02",
+            "title": "Brown of Harvard",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Wgqq9UE5VtW7XHQ3siWtn6NumA.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                10749
+            ],
+            "id": 85689,
+            "original_language": "en",
+            "original_title": "The Son of the Sheik",
+            "overview": "Ahmed, son of Diana and Sheik Ahmed Ben Hassan, falls in love with Yasmin, a dancing girl who fronts her father's gang of mountebanks. She and Ahmed meet secretly until one night when her father and the gang capture the son of the sheik, torture him, and hold him for ransom.",
+            "popularity": 1.6566,
+            "poster_path": "/yZib8tHbOHrSTSszif728VwU2L6.jpg",
+            "release_date": "1926-09-05",
+            "title": "The Son of the Sheik",
+            "video": false,
+            "vote_average": 6.143,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7co64HQ4XDx9s2pITpe9xW8NfTR.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 643,
+            "original_language": "ru",
+            "original_title": "\u0411\u0440\u043e\u043d\u0435\u043d\u043e\u0441\u0435\u0446 \u041f\u043e\u0442\u0451\u043c\u043a\u0438\u043d",
+            "overview": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre. The film had an incredible impact on the development of cinema and is a masterful example of montage editing.",
+            "popularity": 2.8918,
+            "poster_path": "/hZmsRLsCnE9Zshf1YJONUpCOhds.jpg",
+            "release_date": "1925-12-24",
+            "title": "Battleship Potemkin",
+            "video": false,
+            "vote_average": 7.614,
+            "vote_count": 1214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o9GIx92ir5bpTE8Cc3DxICoOBs8.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 73575,
+            "original_language": "en",
+            "original_title": "Sparrows",
+            "overview": "Molly, the eldest child of a group of orphans being used as slaves on a farm hidden deep in a swamp, must rescue the others when their cruel master decides that one of them will be disposed of.",
+            "popularity": 0.8367,
+            "poster_path": "/3ZPfhlwZ9HIYViUCgoZusCszohT.jpg",
+            "release_date": "1926-09-19",
+            "title": "Sparrows",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pcGoB22ACO8Hbzlg74bIuJpiFZF.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 423715,
+            "original_language": "en",
+            "original_title": "Men of Steel",
+            "overview": "Jan Bokak is a self-educated steelworker who finds himself in the middle of a romantic triangle. Two different girls -- wealthy socialite Claire Pitt  and blue-collar worker Mary Berwick -- simultaneously fall for Bokak. It later develops that Claire and Mary are actually sisters, the first of a series of surprising plot twists leading to Bokak being accused of a murder he didn't commit.",
+            "popularity": 0.1438,
+            "poster_path": "/oxqyhvjljtbN7cP6KCFtgtb7aaY.jpg",
+            "release_date": "1926-07-11",
+            "title": "Men of Steel",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 50330,
+            "original_language": "en",
+            "original_title": "The Road to Mandalay",
+            "overview": "Joe, a former sea captain whose wife died during the birth of their child at sea, is now a pockmarked, disreputable divekeeper in Singapore where he indulges in shady operations with Herrick, known as The Admiral. They ship for Mandalay, where Joe's daughter lives with a priest, Father James, and tends a curio shop, unaware that her father regularly sends money to Father James for her support. Although his daughter clearly finds him abhorrent, Joe determines to take her away until he learns that The Admiral has fallen in love with her and plans to marry her. He persuades Father James (actually his brother) not to perform the ceremony, and The Admiral is shanghaied by Joe's men. The girl, suspecting Joe, goes to his brothel in Singapore and is about to be assaulted by Charlie, a lecherous Chinaman, when Joe intervenes and is stabbed. The Admiral comes to her rescue and escapes with her on a boat.",
+            "popularity": 0.1049,
+            "poster_path": "/oVUHJPjwjS1AAjpjQnhVuovfWUL.jpg",
+            "release_date": "1926-06-26",
+            "title": "The Road to Mandalay",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Ztq49qcwnXSC9JFmTuaLNYEGKX.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 67319,
+            "original_language": "en",
+            "original_title": "So This Is Paris",
+            "overview": "Paul and Suzanne Giraud are happily married and living in a quiet neighborhood. When Suzanne notices that their new neighbors are expressive dancers in revealing outfits, she demands Paul speak to them about their lack of morality. Paul discovers that the woman is Georgette Lalle, an old flame.",
+            "popularity": 1.2312,
+            "poster_path": "/bVcYRrzmA95SIlPVd1RGGrd17XA.jpg",
+            "release_date": "1926-07-31",
+            "title": "So This Is Paris",
+            "video": false,
+            "vote_average": 6.333,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRpYhORZdEYMwSbSUlCQsPDnTfn.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 423717,
+            "original_language": "en",
+            "original_title": "Silence",
+            "overview": "Jim Warren, a crook, is married to Norma, but there was a flaw in their marriage papers and he must marry her again to protect their unborn child. He returns home and gives her some money but it has been stolen and she is sent to jail as an accomplice. To get her out, he is forced to marry another woman and Norma, thinking Jim has deserted her marries Phil Powers, and gives birth to Jim's daughter. Years later, Jim meets his daughter in the midst of a blackmail scheme against Norma over her earlier imprisonment. The daughter shoots the blackmailer, and Jim takes the blame.",
+            "popularity": 0.1459,
+            "poster_path": "/dSIIN0ddcgUnapGGEDac5iOWgz7.jpg",
+            "release_date": "1926-04-25",
+            "title": "Silence",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j36vbygc3wg8Ov9ERCacbKye2vN.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 285418,
+            "original_language": "en",
+            "original_title": "Nell Gwyn",
+            "overview": "An actress becomes the king's mistress and persuades him to convert the palace to a serviceman's home.",
+            "popularity": 0.0862,
+            "poster_path": "/3YnzFtdFOieEB4XwKDGszbEVpzj.jpg",
+            "release_date": "1926-01-02",
+            "title": "Nell Gwyn",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qxCLVj1J1BfG1qd36rxnVZIGvKu.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                12
+            ],
+            "id": 111602,
+            "original_language": "en",
+            "original_title": "Tramp, Tramp, Tramp",
+            "overview": "A poor cobbler's son enters a $25,000 cross-country hiking contest sponsored by the footwear company that has nearly bankrupted his father. He also has fallen in love with the girl on the company's billboards, the competition's daughter, and her sweet inspiration keeps him tramping along.",
+            "popularity": 0.1695,
+            "poster_path": "/mukQvjHZ2uqCLiYx6Z5hXDv6v9n.jpg",
+            "release_date": "1926-03-21",
+            "title": "Tramp, Tramp, Tramp",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tDWX2JyjNMTaOUfdsl8fYfXdxuo.jpg",
+            "genre_ids": [
+                14
+            ],
+            "id": 316292,
+            "original_language": "en",
+            "original_title": "The Return of Peter Grimm",
+            "overview": "\"Old Peter Grimm makes his ward Katie promise to marry his nephew Frederik [ sic ] and then dies. Frederik proves to be a scapegrace and Peter's spirit returns to right matters and finally succeeds in doing so by communicating with Jimmie who is in a delirium.\" ( Moving Picture World, 20 Nov 1926, p164.) Peter thus thwarts selfishness and greed and rewards virtue.",
+            "popularity": 0.1015,
+            "poster_path": "/bxtKhMXf5QPIPk5vvrsDpxUQLer.jpg",
+            "release_date": "1926-12-07",
+            "title": "The Return of Peter Grimm",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3xsegydjSaDmF2AYtmiqVjXDMDY.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 322885,
+            "original_language": "en",
+            "original_title": "Beverly of Graustark",
+            "overview": "Beverly Calhoun impersonates the Prince of Graustark to claim his birthright while he recovers from a skiing injury. In the meantime, she falls for her bodyguard Dantan.",
+            "popularity": 0.0512,
+            "poster_path": "/eMHKZpiukzs3fWDVZmJcyGX6rob.jpg",
+            "release_date": "1926-04-18",
+            "title": "Beverly of Graustark",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o6ClhY08psKBAvi2X5huPQ2RyyN.jpg",
+            "genre_ids": [
+                12
+            ],
+            "id": 282335,
+            "original_language": "fr",
+            "original_title": "Michel Strogoff",
+            "overview": "Adapted from Jules Verne's 1876 novel Michael Strogoff, the film tells the tale of a Russian courier named Michael Strogoff who has to dash across Russia with a vital message for the tsar's brother, wrestling with bears and fighting off ferocious Tatar rebels along the way. Captured by the Tatars, he is brought before their leader and blinded with a red hot sword by the executioner.",
+            "popularity": 0.1175,
+            "poster_path": "/pkz1eTuWc9HqqKcLEJFc7RMWczL.jpg",
+            "release_date": "1926-06-30",
+            "title": "Michel Strogoff",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3NgZbsFpVhdeutSPctQneMvx74U.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 423724,
+            "original_language": "en",
+            "original_title": "God Gave Me Twenty Cents",
+            "overview": "The story concerns the misadventures of sailor Steve Doren, who tries his best to support his wife Mary on his piddling income. But like seafaring men everywhere, Steve is constitutionally unreliable, especially when hip-swinging temptress Cassie Lang sashays into view.",
+            "popularity": 0.0898,
+            "poster_path": "/jSFRbo5FhqpV85KdjmheuD3Mgkw.jpg",
+            "release_date": "1926-11-20",
+            "title": "God Gave Me Twenty Cents",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ffHXIWg4gaRJQRPcJy5kOB9P6MU.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 160661,
+            "original_language": "ru",
+            "original_title": "\u041a\u0440\u044b\u043b\u044c\u044f \u0445\u043e\u043b\u043e\u043f\u0430",
+            "overview": "This SovKino production was a major early experiment in Soviet historical film about the oprichnina period of Muscovite history, combining the costumed drama and Gothic thrills of the genre with historical materialist commentary on the dialectical collision of scientific progress and patriarchal religious tyranny under Tsar Ivan the Terrible. It follows a self-taught inventor from the serf class Nikishka, whose efforts to build a flying machine incite accusations of witchcraft. Nikishka and his beloved Fima are persecuted by the feudal lord Kurlyatev, who took their village in a petty land squabble. They\u2019re rescued when Kurlyatev\u2019s lands are taken by the Tsar in his autocratic campaign against the feudal system. Ivan puts Nikishka to work in his linen mill, where the young serf is coveted by Tsarina Maria Temryukovna, who the Tsar\u2019s been ignoring in favor of his cupbearer Feodor. A series of harrowing intrigues wind a bloody dance through bedchamber, feast hall, cathedral and dungeon.",
+            "popularity": 0.1013,
+            "poster_path": "/owVGwMQtsPyIvDEBeAw4ZXbICGu.jpg",
+            "release_date": "1926-11-16",
+            "title": "Wings of a Serf",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 12
+        }
+    ]
+}

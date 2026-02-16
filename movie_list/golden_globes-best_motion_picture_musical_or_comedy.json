@@ -1,0 +1,1440 @@
+{
+    "type": "movie_list",
+    "title": "Golden Globes - Best Motion Picture - Musical or Comedy",
+    "source": "https://goldenglobes.com/",
+    "created_by": "lbnt",
+    "added": "01/09/26",
+    "modified": "01/11/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/u2eA9pqi1q3DvevT7RuDuJHxxBT.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 974950,
+            "original_language": "fr",
+            "original_title": "Emilia P\u00e9rez",
+            "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
+            "popularity": 4.7368,
+            "poster_path": "/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg",
+            "release_date": "2024-08-21",
+            "title": "Emilia P\u00e9rez",
+            "video": false,
+            "vote_average": 6.491,
+            "vote_count": 1864
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+            "genre_ids": [
+                878,
+                10749,
+                35
+            ],
+            "id": 792307,
+            "original_language": "en",
+            "original_title": "Poor Things",
+            "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+            "popularity": 10.3179,
+            "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+            "release_date": "2023-12-07",
+            "title": "Poor Things",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 5189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 674324,
+            "original_language": "en",
+            "original_title": "The Banshees of Inisherin",
+            "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+            "popularity": 4.4651,
+            "poster_path": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+            "release_date": "2022-10-20",
+            "title": "The Banshees of Inisherin",
+            "video": false,
+            "vote_average": 7.457,
+            "vote_count": 3177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                80
+            ],
+            "id": 511809,
+            "original_language": "en",
+            "original_title": "West Side Story",
+            "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+            "popularity": 5.3267,
+            "poster_path": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+            "release_date": "2021-12-08",
+            "title": "West Side Story",
+            "video": false,
+            "vote_average": 6.957,
+            "vote_count": 1713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Ysvp4ODDC6sucdQ9quHWkMiKED.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 740985,
+            "original_language": "en",
+            "original_title": "Borat Subsequent Moviefilm",
+            "overview": "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+            "popularity": 3.0844,
+            "poster_path": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+            "release_date": "2020-10-23",
+            "title": "Borat Subsequent Moviefilm",
+            "video": false,
+            "vote_average": 6.438,
+            "vote_count": 2747
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aQLygZOIKai6aaiBAeeKpIWO5nc.jpg",
+            "genre_ids": [
+                35,
+                18,
+                53
+            ],
+            "id": 466272,
+            "original_language": "en",
+            "original_title": "Once Upon a Time... in Hollywood",
+            "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+            "popularity": 13.825,
+            "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+            "release_date": "2019-07-24",
+            "title": "Once Upon a Time... in Hollywood",
+            "video": false,
+            "vote_average": 7.424,
+            "vote_count": 14419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 429197,
+            "original_language": "en",
+            "original_title": "Vice",
+            "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive r\u00e9sum\u00e9 includes stints as White House chief of staff, House Minority Whip and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+            "popularity": 4.6113,
+            "poster_path": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+            "release_date": "2018-12-25",
+            "title": "Vice",
+            "video": false,
+            "vote_average": 7.013,
+            "vote_count": 3507
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4v4QhGHDYKkwSjzasmIomEQwLbS.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 391713,
+            "original_language": "en",
+            "original_title": "Lady Bird",
+            "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+            "popularity": 4.9122,
+            "poster_path": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+            "release_date": "2017-09-01",
+            "title": "Lady Bird",
+            "video": false,
+            "vote_average": 7.253,
+            "vote_count": 8864
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 313369,
+            "original_language": "en",
+            "original_title": "La La Land",
+            "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+            "popularity": 11.7169,
+            "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+            "release_date": "2016-12-01",
+            "title": "La La Land",
+            "video": false,
+            "vote_average": 7.897,
+            "vote_count": 17730
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sq8oUjbBvKkqv9h0Ns5rQbbquhZ.jpg",
+            "genre_ids": [
+                18,
+                12,
+                878
+            ],
+            "id": 286217,
+            "original_language": "en",
+            "original_title": "The Martian",
+            "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+            "popularity": 13.6929,
+            "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+            "release_date": "2015-09-30",
+            "title": "The Martian",
+            "video": false,
+            "vote_average": 7.692,
+            "vote_count": 20721
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 120467,
+            "original_language": "en",
+            "original_title": "The Grand Budapest Hotel",
+            "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+            "popularity": 10.4902,
+            "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+            "release_date": "2014-02-26",
+            "title": "The Grand Budapest Hotel",
+            "video": false,
+            "vote_average": 8.033,
+            "vote_count": 15635
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bof71DUdBb5FwTylar4rnIVd8z.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 168672,
+            "original_language": "en",
+            "original_title": "American Hustle",
+            "overview": "A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.",
+            "popularity": 4.764,
+            "poster_path": "/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
+            "release_date": "2013-12-03",
+            "title": "American Hustle",
+            "video": false,
+            "vote_average": 6.855,
+            "vote_count": 7575
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sGKUhw88FMH5gfz0E6BK2YOZ5se.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 82695,
+            "original_language": "en",
+            "original_title": "Les Mis\u00e9rables",
+            "overview": "An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+            "popularity": 5.916,
+            "poster_path": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+            "release_date": "2012-12-18",
+            "title": "Les Mis\u00e9rables",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 5479
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 74643,
+            "original_language": "fr",
+            "original_title": "The Artist",
+            "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
+            "popularity": 2.2884,
+            "poster_path": "/z68py0ZqPgeacGPG54AGVRbNBS7.jpg",
+            "release_date": "2011-10-12",
+            "title": "The Artist",
+            "video": false,
+            "vote_average": 7.444,
+            "vote_count": 3424
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kokPRmOdEmWZi3SR1dcdvsiq9lF.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 39781,
+            "original_language": "en",
+            "original_title": "The Kids Are All Right",
+            "overview": "Two women, Nic and Jules, brought a son and daughter into the world through artificial insemination. When one of their children reaches age, both kids go behind their mothers' backs to meet with the donor. Life becomes so much more interesting when the father, two mothers and children start to become attached to each other.",
+            "popularity": 1.4911,
+            "poster_path": "/xQ5XqZc82dDCcGjxY7voRKjhaKQ.jpg",
+            "release_date": "2010-07-09",
+            "title": "The Kids Are All Right",
+            "video": false,
+            "vote_average": 6.614,
+            "vote_count": 1550
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 18785,
+            "original_language": "en",
+            "original_title": "The Hangover",
+            "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug \u2013 who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+            "popularity": 15.1416,
+            "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+            "release_date": "2009-06-02",
+            "title": "The Hangover",
+            "video": false,
+            "vote_average": 7.328,
+            "vote_count": 17724
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ebSJ7RBicfONHjtEVdOhAqPuFS8.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 5038,
+            "original_language": "en",
+            "original_title": "Vicky Cristina Barcelona",
+            "overview": "Two girlfriends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.",
+            "popularity": 3.7074,
+            "poster_path": "/ekAIg0GSbbHTH7y1GPgWj0brLTW.jpg",
+            "release_date": "2008-08-15",
+            "title": "Vicky Cristina Barcelona",
+            "video": false,
+            "vote_average": 6.793,
+            "vote_count": 3912
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+            "genre_ids": [
+                18,
+                27
+            ],
+            "id": 13885,
+            "original_language": "en",
+            "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+            "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+            "popularity": 4.816,
+            "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+            "release_date": "2007-12-21",
+            "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+            "video": false,
+            "vote_average": 7.178,
+            "vote_count": 6192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 1125,
+            "original_language": "en",
+            "original_title": "Dreamgirls",
+            "overview": "A trio of female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
+            "popularity": 3.7298,
+            "poster_path": "/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg",
+            "release_date": "2006-12-25",
+            "title": "Dreamgirls",
+            "video": false,
+            "vote_average": 6.717,
+            "vote_count": 1060
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 69,
+            "original_language": "en",
+            "original_title": "Walk the Line",
+            "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+            "popularity": 2.7097,
+            "poster_path": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+            "release_date": "2005-09-13",
+            "title": "Walk the Line",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3038
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 9675,
+            "original_language": "en",
+            "original_title": "Sideways",
+            "overview": "Two middle-aged men embark on a spiritual journey through Californian wine country. One is an unpublished novelist suffering from depression, and the other is only days away from walking down the aisle.",
+            "popularity": 3.1137,
+            "poster_path": "/zOsaxYLgvZVU7cJBpPn8CuE0MrP.jpg",
+            "release_date": "2004-10-22",
+            "title": "Sideways",
+            "video": false,
+            "vote_average": 7.114,
+            "vote_count": 1815
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ZY8iEsv5XKiMU19T1MIvHET5Ih.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 153,
+            "original_language": "en",
+            "original_title": "Lost in Translation",
+            "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+            "popularity": 6.7048,
+            "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+            "release_date": "2003-09-18",
+            "title": "Lost in Translation",
+            "video": false,
+            "vote_average": 7.387,
+            "vote_count": 7816
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 1574,
+            "original_language": "en",
+            "original_title": "Chicago",
+            "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.",
+            "popularity": 5.8607,
+            "poster_path": "/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+            "release_date": "2002-12-10",
+            "title": "Chicago",
+            "video": false,
+            "vote_average": 7.126,
+            "vote_count": 2815
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10402
+            ],
+            "id": 824,
+            "original_language": "en",
+            "original_title": "Moulin Rouge!",
+            "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+            "popularity": 4.8378,
+            "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+            "release_date": "2001-05-18",
+            "title": "Moulin Rouge!",
+            "video": false,
+            "vote_average": 7.536,
+            "vote_count": 4742
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xleIwr1wUlWqvFHaU1PItf0YLrZ.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 786,
+            "original_language": "en",
+            "original_title": "Almost Famous",
+            "overview": "In 1973, 15-year-old William Miller's unabashed love of music and aspiration to become a rock journalist lands him an assignment from Rolling Stone magazine to interview and tour with the up-and-coming band, Stillwater.",
+            "popularity": 5.5729,
+            "poster_path": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+            "release_date": "2000-09-15",
+            "title": "Almost Famous",
+            "video": false,
+            "vote_average": 7.496,
+            "vote_count": 2998
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 863,
+            "original_language": "en",
+            "original_title": "Toy Story 2",
+            "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+            "popularity": 12.9248,
+            "poster_path": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+            "release_date": "1999-10-30",
+            "title": "Toy Story 2",
+            "video": false,
+            "vote_average": 7.604,
+            "vote_count": 14554
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i16MjvM9YsQ85ejdB63gtGXDu4W.jpg",
+            "genre_ids": [
+                10749,
+                36,
+                35
+            ],
+            "id": 1934,
+            "original_language": "en",
+            "original_title": "Shakespeare in Love",
+            "overview": "Young William Shakespeare is forced to stage his latest comedy, 'Romeo and Ethel, the Pirate's Daughter', before it's even written. When lovely noblewoman Viola de Lesseps auditions for a role, they fall into forbidden love \u2014 and Shakespeare's play finds a new life (and title). As their relationship intensifies, the comedy soon transforms into tragedy.",
+            "popularity": 3.6783,
+            "poster_path": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+            "release_date": "1998-12-11",
+            "title": "Shakespeare in Love",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 3136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 2898,
+            "original_language": "en",
+            "original_title": "As Good as It Gets",
+            "overview": "A misanthropic author, a single mother and waitress, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.",
+            "popularity": 3.4376,
+            "poster_path": "/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+            "release_date": "1997-12-19",
+            "title": "As Good as It Gets",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 3995
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w1nDjTcn878ao6LeowTSSLBHPj5.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 8818,
+            "original_language": "en",
+            "original_title": "Evita",
+            "overview": "The hit musical based on the life of Evita Duarte, an Argentinian actress who eventually became the wife of Argentinian president Juan Per\u00f3n, and the most beloved and hated woman in Argentina.",
+            "popularity": 6.2078,
+            "poster_path": "/hkcSlu3PMw0WyC9vHlvML6nK3Id.jpg",
+            "release_date": "1996-12-14",
+            "title": "Evita",
+            "video": false,
+            "vote_average": 6.081,
+            "vote_count": 497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/agkZziO4ZPAsVfKUrJD68lys08P.jpg",
+            "genre_ids": [
+                14,
+                18,
+                35,
+                10751
+            ],
+            "id": 9598,
+            "original_language": "en",
+            "original_title": "Babe",
+            "overview": "Babe is a little pig who doesn't quite know his place in the world. With a bunch of odd friends, like Ferdinand the duck who thinks he is a rooster and Fly the dog he calls mum, Babe realises that he has the makings to become the greatest sheep pig of all time, and Farmer Hoggett knows it. With the help of the sheep dogs, Babe learns that a pig can be anything that he wants to be.",
+            "popularity": 7.8651,
+            "poster_path": "/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+            "release_date": "1995-07-18",
+            "title": "Babe",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 3047
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                18,
+                12
+            ],
+            "id": 8587,
+            "original_language": "en",
+            "original_title": "The Lion King",
+            "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+            "popularity": 16.6844,
+            "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+            "release_date": "1994-06-15",
+            "title": "The Lion King",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 19267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sTgavNm82pTaZR9U2NQZ1J2FrJz.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 788,
+            "original_language": "en",
+            "original_title": "Mrs. Doubtfire",
+            "overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
+            "popularity": 9.4127,
+            "poster_path": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+            "release_date": "1993-11-24",
+            "title": "Mrs. Doubtfire",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 6448
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rXj1UrzBqsbiCbH1ntJ5yDeysYc.jpg",
+            "genre_ids": [
+                9648,
+                18,
+                53,
+                35
+            ],
+            "id": 10403,
+            "original_language": "en",
+            "original_title": "The Player",
+            "overview": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
+            "popularity": 1.7012,
+            "poster_path": "/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+            "release_date": "1992-05-08",
+            "title": "The Player",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 907
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+            "genre_ids": [
+                10749,
+                10751,
+                16,
+                14
+            ],
+            "id": 10020,
+            "original_language": "en",
+            "original_title": "Beauty and the Beast",
+            "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+            "popularity": 12.5293,
+            "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+            "release_date": "1991-10-22",
+            "title": "Beauty and the Beast",
+            "video": false,
+            "vote_average": 7.727,
+            "vote_count": 10448
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gDopsdEzZEX81jmSidXn7tFb8fw.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 12157,
+            "original_language": "en",
+            "original_title": "Green Card",
+            "overview": "Urban horticulturalist Bront\u00eb Mitchell has her eye on a gorgeous apartment, but the building's board will rent it only to a married couple. Georges Faur\u00e9, a waiter from France whose visa is expiring, needs to marry an American woman to stay in the country. Their marriage of convenience turns into a burden when they must live together to allay the suspicions of the immigration service, as the polar opposites grate on each other's nerves.",
+            "popularity": 1.2127,
+            "poster_path": "/9UweLsv3pCORu25Uq72m2IBkKaK.jpg",
+            "release_date": "1990-12-23",
+            "title": "Green Card",
+            "video": false,
+            "vote_average": 6.126,
+            "vote_count": 519
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XC0HwRNOvub6xksENsOl68zHOn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 403,
+            "original_language": "en",
+            "original_title": "Driving Miss Daisy",
+            "overview": "The story of an old Jewish widow named Daisy Werthan and her relationship with her black chauffeur, Hoke. From an initial mere work relationship grew in 25 years a strong friendship between the two very different characters, in a time when those types of relationships were shunned.",
+            "popularity": 2.8106,
+            "poster_path": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+            "release_date": "1989-12-13",
+            "title": "Driving Miss Daisy",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1709
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lRWIiRSOMH7qQT6UGcmx8Uykix3.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 3525,
+            "original_language": "en",
+            "original_title": "Working Girl",
+            "overview": "When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss' job.",
+            "popularity": 3.6013,
+            "poster_path": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+            "release_date": "1988-12-20",
+            "title": "Working Girl",
+            "video": false,
+            "vote_average": 6.589,
+            "vote_count": 1027
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7PktT8qvNEvGi7iTa5FEjG5DzJA.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10751
+            ],
+            "id": 32054,
+            "original_language": "en",
+            "original_title": "Hope and Glory",
+            "overview": "A middle-aged man recalls his childhood growing up in and around London during World War II.",
+            "popularity": 0.8163,
+            "poster_path": "/4xE9oW222uiaJwMWqAdGQw4puOX.jpg",
+            "release_date": "1987-09-03",
+            "title": "Hope and Glory",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 5143,
+            "original_language": "en",
+            "original_title": "Hannah and Her Sisters",
+            "overview": "Between two Thanksgivings, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+            "popularity": 1.9573,
+            "poster_path": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+            "release_date": "1986-02-07",
+            "title": "Hannah and Her Sisters",
+            "video": false,
+            "vote_average": 7.469,
+            "vote_count": 1117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lW4nIRGJAglS6Pt7gTgRIrmSHA2.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                80
+            ],
+            "id": 2075,
+            "original_language": "en",
+            "original_title": "Prizzi's Honor",
+            "overview": "Charley Partanna is a hitman who works for the Prizzis, one of the richest crime families in the US. When he sees Irene Walker, it's love at first sight. But he soon finds that she, too, is a killer for hire. Charley can overlook his suspicions, but he can't turn off his heart. And the couple must remember that even if they love each other, the Prizzis love only money.",
+            "popularity": 1.198,
+            "poster_path": "/5azGfZXuUFYjYfz6etYOdlyLXwL.jpg",
+            "release_date": "1985-06-14",
+            "title": "Prizzi's Honor",
+            "video": false,
+            "vote_average": 6.381,
+            "vote_count": 408
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fHDAbqV14BX13K21e2bO9wX9dB5.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                28,
+                12
+            ],
+            "id": 9326,
+            "original_language": "en",
+            "original_title": "Romancing the Stone",
+            "overview": "Though she can spin wild tales of passionate romance, novelist Joan Wilder has no life of her own. Then one day adventure comes her way in the form of a mysterious package. It turns out that the parcel is the ransom she'll need to free her abducted sister, so Joan flies to South America to hand it over. But she gets on the wrong bus and winds up hopelessly stranded in the jungle.",
+            "popularity": 4.2797,
+            "poster_path": "/qaCLbDs6Ace4I1lAbBNWPQAm75h.jpg",
+            "release_date": "1984-03-30",
+            "title": "Romancing the Stone",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1977
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oMRr5B0OkOJ8vjwR2w5Xw7YNp9W.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 10269,
+            "original_language": "en",
+            "original_title": "Yentl",
+            "overview": "In a time when girls were forbidden to study religious scriptures, a Jewish girl masquerades as a boy to enter religious training and unexpectedly finds love along the way.",
+            "popularity": 2.5773,
+            "poster_path": "/AcCX4tKqwP5BTfRTQEqZW3qabl3.jpg",
+            "release_date": "1983-11-18",
+            "title": "Yentl",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 255
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 9576,
+            "original_language": "en",
+            "original_title": "Tootsie",
+            "overview": "When struggling, out of work actor Michael Dorsey secretly adopts a female alter ego \u2013 Dorothy Michaels \u2013 in order to land a part in a daytime drama, he unwittingly becomes a feminist icon and ends up in a romantic pickle.",
+            "popularity": 3.8811,
+            "poster_path": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+            "release_date": "1982-12-17",
+            "title": "Tootsie",
+            "video": false,
+            "vote_average": 7.207,
+            "vote_count": 1868
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tUwK3xxx6D5ygfC49K3AYiLxeII.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 13665,
+            "original_language": "en",
+            "original_title": "Arthur",
+            "overview": "Arthur is a 30-year-old child who will inherit $750 million if he complies with his family's demands and marries the woman of their choosing.",
+            "popularity": 1.5523,
+            "poster_path": "/m8yOFRDVZPxtsr4D2hVdzls6q6t.jpg",
+            "release_date": "1981-07-17",
+            "title": "Arthur",
+            "video": false,
+            "vote_average": 6.496,
+            "vote_count": 450
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Aa4UDJWVckGXwPZxY5qpRifQFYp.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 16769,
+            "original_language": "en",
+            "original_title": "Coal Miner's Daughter",
+            "overview": "Biography of Loretta Lynn, a country and western singer that came from poverty to fame.",
+            "popularity": 1.0022,
+            "poster_path": "/bzHFDAdUad4QcHPi2UOqvaQKNWA.jpg",
+            "release_date": "1980-03-07",
+            "title": "Coal Miner's Daughter",
+            "video": false,
+            "vote_average": 7.225,
+            "vote_count": 273
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yNjrT8bsr5WR9bmRjLsIwIoZtFR.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 20283,
+            "original_language": "en",
+            "original_title": "Breaking Away",
+            "overview": "Dave, nineteen, has just graduated high school, with his three friends: the comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends' and parents' annoyance.",
+            "popularity": 0.8522,
+            "poster_path": "/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg",
+            "release_date": "1979-05-24",
+            "title": "Breaking Away",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg",
+            "genre_ids": [
+                14,
+                35,
+                10749
+            ],
+            "id": 12185,
+            "original_language": "en",
+            "original_title": "Heaven Can Wait",
+            "overview": "Joe Pendleton is a quarterback preparing to lead his team to the superbowl when he is almost killed in an accident. An overanxious angel plucks him to heaven only to discover that he wasn't ready to die, and that his body has been cremated. A new body must be found, and that of a recently-murdered millionaire is chosen. His wife and accountant\u2014the murderers\u2014are confused by this development, as he buys the L.A. Rams in order to once again quarterback them into the Superbowl.",
+            "popularity": 1.0104,
+            "poster_path": "/h1yOiO9cow6gwmGxSAWvPdY4lhJ.jpg",
+            "release_date": "1978-06-28",
+            "title": "Heaven Can Wait",
+            "video": false,
+            "vote_average": 6.593,
+            "vote_count": 427
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n6hyE9Fl1uq7vumo0GHP0uhOiFj.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 14741,
+            "original_language": "en",
+            "original_title": "The Goodbye Girl",
+            "overview": "After being dumped by her live-in boyfriend, an unemployed dancer and her 10-year-old daughter are reluctantly forced to live with a struggling off-Broadway actor.",
+            "popularity": 0.9441,
+            "poster_path": "/xdaPFRARLPJuSdQIfxKVJSCOsmD.jpg",
+            "release_date": "1977-11-27",
+            "title": "The Goodbye Girl",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 19610,
+            "original_language": "en",
+            "original_title": "A Star Is Born",
+            "overview": "Drunken, has-been rock star John Norman Howard falls in love with unknown singer Esther Hoffman after seeing her perform at a club. He lets her sing a few songs at one of his shows and she becomes the talk of the music industry. Esther's star begins to rise, while John's continues to fall. She tries desperately to get John to sober up and focus on his music, but it may be too late to save him.",
+            "popularity": 0.9359,
+            "poster_path": "/3Hr63lBDhvYGpSd8HxDpWvowZpY.jpg",
+            "release_date": "1976-12-17",
+            "title": "A Star Is Born",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 234
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i5CKsYWx3eKbwSokg0qouLpHfqo.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 16561,
+            "original_language": "en",
+            "original_title": "The Sunshine Boys",
+            "overview": "Lewis and Clark, aka The Sunshine Boys, were famous comedians during the vaudeville era, but off-stage they couldn't stand each other and haven't spoken in over 20 years of retirement. Willy Clark's nephew is the producer of a TV variety show that wants to feature a reunion of this classic duo. It is up to him to try to get the Sunshine Boys back together again.",
+            "popularity": 0.7123,
+            "poster_path": "/hgMB8Ixl4zvzn2ttfnEHUdJLmre.jpg",
+            "release_date": "1975-11-06",
+            "title": "The Sunshine Boys",
+            "video": false,
+            "vote_average": 6.84,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tIXJy1WbgtILBrD1HALZiBhlfAD.jpg",
+            "genre_ids": [
+                35,
+                18,
+                80
+            ],
+            "id": 4985,
+            "original_language": "en",
+            "original_title": "The Longest Yard",
+            "overview": "A football player-turned-convict organizes a team of inmates to play against a team of prison guards. His dilemma is that the warden asks him to throw the game in return for an early release, but he is also concerned about the inmates' lack of self-esteem.",
+            "popularity": 3.3188,
+            "poster_path": "/fejSpoFU4sq2g6n1JA2NY3KjRxW.jpg",
+            "release_date": "1974-08-21",
+            "title": "The Longest Yard",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 310
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xdofxnT2FADbSFOJflOTLnCoZe9.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 838,
+            "original_language": "en",
+            "original_title": "American Graffiti",
+            "overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+            "popularity": 4.1455,
+            "poster_path": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+            "release_date": "1973-08-11",
+            "title": "American Graffiti",
+            "video": false,
+            "vote_average": 7.03,
+            "vote_count": 1534
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 10784,
+            "original_language": "en",
+            "original_title": "Cabaret",
+            "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+            "popularity": 5.3915,
+            "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+            "release_date": "1972-02-13",
+            "title": "Cabaret",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 940
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rqnOgJWvlURkcOWfGqiACvkTAqG.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 14811,
+            "original_language": "en",
+            "original_title": "Fiddler on the Roof",
+            "overview": "In a pre-revolutionary Russia, a poor Jewish milkman struggles with the challenges of a changing world as his daughters fall in love and antisemitism grows.",
+            "popularity": 2.3079,
+            "poster_path": "/v65PHx7Q6Jx0anyNeUOX07SJic9.jpg",
+            "release_date": "1971-11-03",
+            "title": "Fiddler on the Roof",
+            "video": false,
+            "vote_average": 7.747,
+            "vote_count": 614
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 651,
+            "original_language": "en",
+            "original_title": "M*A*S*H",
+            "overview": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.",
+            "popularity": 3.1605,
+            "poster_path": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+            "release_date": "1970-02-18",
+            "title": "M*A*S*H",
+            "video": false,
+            "vote_average": 6.964,
+            "vote_count": 1111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eGUdHfchC6lS28OxECnNl1IHLUd.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 30298,
+            "original_language": "en",
+            "original_title": "The Secret of Santa Vittoria",
+            "overview": "During World War II, Italian villagers hide their wine from the German army.",
+            "popularity": 0.4905,
+            "poster_path": "/uX4xHo8GptvEbkch6i7OpWiM1L0.jpg",
+            "release_date": "1970-01-02",
+            "title": "The Secret of Santa Vittoria",
+            "video": false,
+            "vote_average": 6.921,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 530200,
+            "original_language": "it",
+            "original_title": "Oliver Cromwell: Ritratto di un dittatore",
+            "overview": "Television movie about Oliver Cromwell.",
+            "popularity": 0.1191,
+            "poster_path": null,
+            "release_date": "1969-02-04",
+            "title": "Oliver Cromwell: Ritratto di un dittatore",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 37247,
+            "original_language": "en",
+            "original_title": "The Graduate",
+            "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+            "popularity": 5.175,
+            "poster_path": "/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg",
+            "release_date": "1967-12-21",
+            "title": "The Graduate",
+            "video": false,
+            "vote_average": 7.632,
+            "vote_count": 3576
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5If0AOiaB68crKlnd6XfUMAuYzM.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 31918,
+            "original_language": "en",
+            "original_title": "The Russians Are Coming! The Russians Are Coming!",
+            "overview": "When a Soviet submarine gets stuck on a sandbar off the coast of a New England island, its commander orders his second-in-command, Lieutenant Rozanov, to get them moving again before there is an international incident. Rozanov seeks assistance from the island locals, including the police chief and a vacationing television writer, while trying to allay their fears of a Communist invasion by claiming he and his crew are Norwegian sailors.",
+            "popularity": 0.5788,
+            "poster_path": "/sgo7cQg6Zo0xuCgb8ckou0RX4Bj.jpg",
+            "release_date": "1966-05-25",
+            "title": "The Russians Are Coming! The Russians Are Coming!",
+            "video": false,
+            "vote_average": 6.438,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                10402,
+                10749
+            ],
+            "id": 15121,
+            "original_language": "en",
+            "original_title": "The Sound of Music",
+            "overview": "In the years before World War II, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.",
+            "popularity": 8.1853,
+            "poster_path": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+            "release_date": "1965-03-29",
+            "title": "The Sound of Music",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 3516
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d1mciHTH1Pcb3KDYNoaNKuOSDOC.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 11113,
+            "original_language": "en",
+            "original_title": "My Fair Lady",
+            "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+            "popularity": 3.5806,
+            "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+            "release_date": "1964-12-01",
+            "title": "My Fair Lady",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1392
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cbHhPCdSdoMpjaLazz7gDS2WYpz.jpg",
+            "genre_ids": [
+                35,
+                12,
+                36,
+                10749
+            ],
+            "id": 5769,
+            "original_language": "en",
+            "original_title": "Tom Jones",
+            "overview": "Tom loves Sophie and Sophie loves Tom. But Tom and Sophie are of differering classes. Can they find a way through the mayhem to be true to love?",
+            "popularity": 2.4201,
+            "poster_path": "/yKuZKLMhe74PJzaxYLh2s8h4P2P.jpg",
+            "release_date": "1963-08-24",
+            "title": "Tom Jones",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aJaWmyx0sIfVLaLneDdCWqwUiFU.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 12708,
+            "original_language": "en",
+            "original_title": "That Touch of Mink",
+            "overview": "Cathy Timberlake is en route to a job interview when a car transporting businessman Philip Shayne covers her in mud. He sends his assistant, Roger, to apologize, but upon meeting Cathy, Roger knows that she would be a suitable match for his boss. Despite their mutual attraction, Cathy and Philip want different things. Philip wants a fling, while Cathy wants a marriage. As they travel to exotic locales, their differing motivations are put to the test.",
+            "popularity": 0.8659,
+            "poster_path": "/eEG29x9cljGKL2GPmRK9IByyL9e.jpg",
+            "release_date": "1962-06-14",
+            "title": "That Touch of Mink",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xwB52YABnnk5LRrU7esnwoG5qpg.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 158800,
+            "original_language": "en",
+            "original_title": "A Majority of One",
+            "overview": "A gentle love story about a Japanese businessman and widower, and a Brooklyn widow. But before a happy ending can ensue, they must learn again the lessons of tolerance, kindness and forgiveness.",
+            "popularity": 0.212,
+            "poster_path": "/xHrC85LCp80Bug08VqSjwUC5jLB.jpg",
+            "release_date": "1961-12-27",
+            "title": "A Majority of One",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 284,
+            "original_language": "en",
+            "original_title": "The Apartment",
+            "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+            "popularity": 4.8784,
+            "poster_path": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+            "release_date": "1960-06-21",
+            "title": "The Apartment",
+            "video": false,
+            "vote_average": 8.197,
+            "vote_count": 2539
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                80
+            ],
+            "id": 239,
+            "original_language": "en",
+            "original_title": "Some Like It Hot",
+            "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+            "popularity": 4.5639,
+            "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+            "release_date": "1959-03-19",
+            "title": "Some Like It Hot",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 3751
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kCFkOwAQFMZ7YhldEpvNZzWLCCv.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 16347,
+            "original_language": "en",
+            "original_title": "Auntie Mame",
+            "overview": "Mame Dennis, a progressive and independent woman of the 1920s, is left to care for her nephew Patrick after his wealthy father dies. Conflict ensues when the executor of the father's estate objects to the aunt's lifestyle and tries to force her to send Patrick to prep school.",
+            "popularity": 1.1737,
+            "poster_path": "/uH810rwkYEbUaV6IlwTaAExbXUm.jpg",
+            "release_date": "1958-12-04",
+            "title": "Auntie Mame",
+            "video": false,
+            "vote_average": 7.017,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53
+            ],
+            "id": 163800,
+            "original_language": "fr",
+            "original_title": "Sergil chez les filles",
+            "overview": "The maid of a clandestine brothel in Marseille is found murdered. The inspector Sergil, in charge of the investigation will employ somewhat particular methods in order to unmask the assassin.",
+            "popularity": 0.4648,
+            "poster_path": "/9B4CZivpRllXnhOVsmRuZeATdBY.jpg",
+            "release_date": "1952-06-06",
+            "title": "Sergil Among the Girls",
+            "video": false,
+            "vote_average": 2.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gjFI54BO9f6eZ2iQyNDhgVVnUCJ.jpg",
+            "genre_ids": [
+                10749,
+                36
+            ],
+            "id": 16520,
+            "original_language": "en",
+            "original_title": "The King and I",
+            "overview": "Widowed Welsh mother Anna Leonowens becomes a governess and English tutor to the wives and many children of the stubborn King Mongkut of Siam. Anna and the King have a clash of personalities as she works to teach the royal family about the English language, customs and etiquette, and rushes to prepare a party for a group of European diplomats who must change their opinions about the King.",
+            "popularity": 2.1514,
+            "poster_path": "/wUfaP0lLaMpZzp5CrHyII5Vd7cp.jpg",
+            "release_date": "1956-06-29",
+            "title": "The King and I",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 394
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wKCVht8Vivzub6i6blSK8SIuBvL.jpg",
+            "genre_ids": [
+                35,
+                80,
+                10749
+            ],
+            "id": 4825,
+            "original_language": "en",
+            "original_title": "Guys and Dolls",
+            "overview": "In New York, a gambler is challenged to take a cold female missionary to Havana, but they fall for each other, and the bet has a hidden motive to finance a crap game.",
+            "popularity": 1.1331,
+            "poster_path": "/mrSM6laJJLBVdMdWfeNRa1innnk.jpg",
+            "release_date": "1955-12-23",
+            "title": "Guys and Dolls",
+            "video": false,
+            "vote_average": 6.54,
+            "vote_count": 248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nhbeAwC5NcvPIOVDkamICjdKIFN.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 51044,
+            "original_language": "en",
+            "original_title": "Carmen Jones",
+            "overview": "In this musical set in an all-Black army camp, civilian parachute maker and \"hot bundle\" Carmen Jones is desired by many of the men. Naturally, she wants Joe, who's engaged to sweet Cindy Lou and about to go into pilot training for the Korean War.",
+            "popularity": 1.9723,
+            "poster_path": "/5Vo4NeE7dlXBUaikbGnUOmUNHJ3.jpg",
+            "release_date": "1954-10-28",
+            "title": "Carmen Jones",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jliwdbenSCvfkAJiXmNGJ25NRpa.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 65787,
+            "original_language": "en",
+            "original_title": "With a Song in My Heart",
+            "overview": "Jane Froman, an aspiring songstress, lands a job in radio with help from pianist Don Ross, whom she later marries. Jane's popularity soars, and she leaves on a European tour... but her plane crashes in Lisbon, and she is partially crippled. Unable to walk without crutches, Jane nevertheless goes on to entertain the Allied troops in World War II.",
+            "popularity": 0.2596,
+            "poster_path": "/KePfsUc63Z9J0xEKxwydlzNOkP.jpg",
+            "release_date": "1952-04-03",
+            "title": "With a Song in My Heart",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hVvW015x8cD2X0KthGovw27EpF2.jpg",
+            "genre_ids": [
+                10402,
+                10749,
+                35
+            ],
+            "id": 2769,
+            "original_language": "en",
+            "original_title": "An American in Paris",
+            "overview": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+            "popularity": 4.8828,
+            "poster_path": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+            "release_date": "1951-09-26",
+            "title": "An American in Paris",
+            "video": false,
+            "vote_average": 7.02,
+            "vote_count": 624
+        }
+    ]
+}

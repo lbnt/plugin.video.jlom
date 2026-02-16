@@ -1,0 +1,1101 @@
+{
+    "type": "movie_list",
+    "title": "Collider - The 55 Best Action Movies of All Time",
+    "source": "https://collider.com/best-action-movies-all-time-ranked/",
+    "created_by": "lbnt",
+    "added": "10/14/24",
+    "modified": "10/14/24",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 346,
+            "original_language": "ja",
+            "original_title": "\u4e03\u4eba\u306e\u4f8d",
+            "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+            "popularity": 94.305,
+            "poster_path": "/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg",
+            "release_date": "1954-04-26",
+            "title": "Seven Samurai",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 3637
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rahJyvdMruvqUmSLWRQKYS57mx8.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 562,
+            "original_language": "en",
+            "original_title": "Die Hard",
+            "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+            "popularity": 46.049,
+            "poster_path": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+            "release_date": "1988-07-15",
+            "title": "Die Hard",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 11016
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 76341,
+            "original_language": "en",
+            "original_title": "Mad Max: Fury Road",
+            "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+            "popularity": 114.524,
+            "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+            "release_date": "2015-05-13",
+            "title": "Mad Max: Fury Road",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 22458
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 679,
+            "original_language": "en",
+            "original_title": "Aliens",
+            "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+            "popularity": 85.604,
+            "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+            "release_date": "1986-07-18",
+            "title": "Aliens",
+            "video": false,
+            "vote_average": 7.945,
+            "vote_count": 9629
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                10749
+            ],
+            "id": 146,
+            "original_language": "zh",
+            "original_title": "\u5367\u864e\u85cf\u9f8d",
+            "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+            "popularity": 25.628,
+            "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+            "release_date": "2000-07-06",
+            "title": "Crouching Tiger, Hidden Dragon",
+            "video": false,
+            "vote_average": 7.426,
+            "vote_count": 3162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                10752
+            ],
+            "id": 1368,
+            "original_language": "en",
+            "original_title": "First Blood",
+            "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+            "popularity": 55.728,
+            "poster_path": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+            "release_date": "1982-10-22",
+            "title": "First Blood",
+            "video": false,
+            "vote_average": 7.493,
+            "vote_count": 6184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 85,
+            "original_language": "en",
+            "original_title": "Raiders of the Lost Ark",
+            "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+            "popularity": 81.097,
+            "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+            "release_date": "1981-06-12",
+            "title": "Raiders of the Lost Ark",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 12312
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 24,
+            "original_language": "en",
+            "original_title": "Kill Bill: Vol. 1",
+            "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+            "popularity": 68.59,
+            "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+            "release_date": "2003-10-10",
+            "title": "Kill Bill: Vol. 1",
+            "video": false,
+            "vote_average": 7.971,
+            "vote_count": 17252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 280,
+            "original_language": "en",
+            "original_title": "Terminator 2: Judgment Day",
+            "overview": "Set ten years after the events of the original, James Cameron\u2019s classic sci-fi action flick tells the story of a second attempt to get the rid of rebellion leader John Connor, this time targeting the boy himself. However, the rebellion has sent a reprogrammed terminator to protect Connor.",
+            "popularity": 131.953,
+            "poster_path": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+            "release_date": "1991-07-03",
+            "title": "Terminator 2: Judgment Day",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 12756
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 603,
+            "original_language": "en",
+            "original_title": "The Matrix",
+            "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "popularity": 123.108,
+            "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+            "release_date": "1999-03-31",
+            "title": "The Matrix",
+            "video": false,
+            "vote_average": 8.218,
+            "vote_count": 25490
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+            "genre_ids": [
+                18,
+                28,
+                80,
+                53
+            ],
+            "id": 155,
+            "original_language": "en",
+            "original_title": "The Dark Knight",
+            "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+            "popularity": 187.471,
+            "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "release_date": "2008-07-16",
+            "title": "The Dark Knight",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 32692
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3IzR3VhZAyhxVnuRRUHFLkfK4hT.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 353081,
+            "original_language": "en",
+            "original_title": "Mission: Impossible - Fallout",
+            "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+            "popularity": 127.98,
+            "poster_path": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+            "release_date": "2018-07-13",
+            "title": "Mission: Impossible - Fallout",
+            "video": false,
+            "vote_average": 7.432,
+            "vote_count": 8120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 603692,
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 4",
+            "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "popularity": 290.591,
+            "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+            "release_date": "2023-03-22",
+            "title": "John Wick: Chapter 4",
+            "video": false,
+            "vote_average": 7.736,
+            "vote_count": 6396
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/npLwIeUobjVCM4fLfdeLqQhAoey.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 9461,
+            "original_language": "en",
+            "original_title": "Enter the Dragon",
+            "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+            "popularity": 21.046,
+            "poster_path": "/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg",
+            "release_date": "1973-08-17",
+            "title": "Enter the Dragon",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1859
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kxTWssqcwsHqH6Sj2ivu0FHP5QK.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 11782,
+            "original_language": "cn",
+            "original_title": "\u8fa3\u624b\u795e\u63a2",
+            "overview": "A cop who loses his partner in a shoot-out with gun smugglers goes on a mission to catch them. In order to get closer to the leaders of the ring he joins forces with an undercover cop who's working as a gangster hitman. They use all means of excessive force to find them.",
+            "popularity": 28.971,
+            "poster_path": "/wuljacjo7DCzUzDianeZZwPb6to.jpg",
+            "release_date": "1992-04-16",
+            "title": "Hard Boiled",
+            "video": false,
+            "vote_average": 7.535,
+            "vote_count": 781
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wJD1VaO6XMkOSAacUGLkzOKAd4D.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 180299,
+            "original_language": "id",
+            "original_title": "The Raid 2: Berandal",
+            "overview": "After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to protect his family and uncover corrupt members of his own force.",
+            "popularity": 40.246,
+            "poster_path": "/olA39iaXISiKEkACdELgr0ZRvIF.jpg",
+            "release_date": "2014-03-27",
+            "title": "The Raid 2",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 2293
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+            "genre_ids": [
+                28,
+                18,
+                12
+            ],
+            "id": 98,
+            "original_language": "en",
+            "original_title": "Gladiator",
+            "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
+            "popularity": 154.213,
+            "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+            "release_date": "2000-05-04",
+            "title": "Gladiator",
+            "video": false,
+            "vote_average": 8.217,
+            "vote_count": 18329
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mBwWtD37k8mGfVjPfG3XeRRvsd0.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                10749,
+                18
+            ],
+            "id": 916,
+            "original_language": "en",
+            "original_title": "Bullitt",
+            "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed.",
+            "popularity": 21.69,
+            "poster_path": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+            "release_date": "1968-10-17",
+            "title": "Bullitt",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4ftfcvCOoxK9IpWXs1MhT0iwBha.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 9056,
+            "original_language": "cn",
+            "original_title": "\u8b66\u5bdf\u6545\u4e8b",
+            "overview": "Officer Chan Ka Kui manages to put a major Hong Kong drug dealer behind the bars practically alone, after a shooting and an impressive chase inside a slum. Now, he must protect the boss' secretary, Selina, who will testify against the gangster in court.",
+            "popularity": 21.755,
+            "poster_path": "/c6OVw4icIHr5LIyTWYnc3SNGh06.jpg",
+            "release_date": "1985-12-14",
+            "title": "Police Story",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 864
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1lNlqbnXVMGo8hOfEvIxThoAwcz.jpg",
+            "genre_ids": [
+                28,
+                80,
+                878
+            ],
+            "id": 754,
+            "original_language": "en",
+            "original_title": "Face/Off",
+            "overview": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
+            "popularity": 40.747,
+            "poster_path": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+            "release_date": "1997-06-27",
+            "title": "Face/Off",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 5241
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 36557,
+            "original_language": "en",
+            "original_title": "Casino Royale",
+            "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond\u2014on his maiden mission as a 00 Agent\u2014to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+            "popularity": 49.693,
+            "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+            "release_date": "2006-11-14",
+            "title": "Casino Royale",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 10587
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3W2PntikGPhaIxBHyesf26Su64o.jpg",
+            "genre_ids": [
+                28,
+                18,
+                9648,
+                53
+            ],
+            "id": 2503,
+            "original_language": "en",
+            "original_title": "The Bourne Ultimatum",
+            "overview": "Bourne is brought out of hiding once again by reporter Simon Ross who is trying to unveil Operation Blackbriar, an upgrade to Project Treadstone, in a series of newspaper columns. Information from the reporter stirs a new set of memories, and Bourne must finally uncover his dark past while dodging The Company's best efforts to eradicate him.",
+            "popularity": 70.56,
+            "poster_path": "/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
+            "release_date": "2007-08-03",
+            "title": "The Bourne Ultimatum",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 7574
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "id": 299534,
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "popularity": 137.39,
+            "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+            "release_date": "2019-04-24",
+            "title": "Avengers: Endgame",
+            "video": false,
+            "vote_average": 8.25,
+            "vote_count": 25457
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/77GGKq6Ixq6ZiqBM6XcPZgQmiN2.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 579974,
+            "original_language": "te",
+            "original_title": "\u0c30\u0c4c\u0c26\u0c4d\u0c30\u0c02 \u0c30\u0c23\u0c02 \u0c30\u0c41\u0c27\u0c3f\u0c30\u0c02",
+            "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+            "popularity": 74.213,
+            "poster_path": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+            "release_date": "2022-03-24",
+            "title": "RRR",
+            "video": false,
+            "vote_average": 7.756,
+            "vote_count": 1271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 51497,
+            "original_language": "en",
+            "original_title": "Fast Five",
+            "overview": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
+            "popularity": 10.56,
+            "poster_path": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+            "release_date": "2011-04-20",
+            "title": "Fast Five",
+            "video": false,
+            "vote_average": 7.246,
+            "vote_count": 8101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nHsgbDJXLGEh1YHUV7IWlLmsURZ.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1637,
+            "original_language": "en",
+            "original_title": "Speed",
+            "overview": "Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3\u00a0million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down below 50 mph, it will explode - bad enough any day, but a nightmare in LA traffic. And that's just the beginning...",
+            "popularity": 40.61,
+            "poster_path": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+            "release_date": "1994-06-09",
+            "title": "Speed",
+            "video": false,
+            "vote_average": 7.141,
+            "vote_count": 6091
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6N1uy1r66mXHefU3gG9ePZgijCW.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 949,
+            "original_language": "en",
+            "original_title": "Heat",
+            "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+            "popularity": 51.581,
+            "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+            "release_date": "1995-12-15",
+            "title": "Heat",
+            "video": false,
+            "vote_average": 7.916,
+            "vote_count": 7217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "id": 10835,
+            "original_language": "cn",
+            "original_title": "\u558b\u8840\u96d9\u96c4",
+            "overview": "Mob assassin Jeffrey is no ordinary hired gun; the best in his business, he views his chosen profession as a calling rather than simply a job. So, when beautiful nightclub chanteuse Jennie is blinded in the crossfire of his most recent hit, Jeffrey chooses to retire after one last job to pay for his unintended victim's sight-restoring operation. But when Jeffrey is double-crossed, he reluctantly joins forces with a rogue policeman to make things right.",
+            "popularity": 23.149,
+            "poster_path": "/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+            "release_date": "1989-03-24",
+            "title": "The Killer",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "id": 106,
+            "original_language": "en",
+            "original_title": "Predator",
+            "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+            "popularity": 124.498,
+            "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+            "release_date": "1987-06-12",
+            "title": "Predator",
+            "video": false,
+            "vote_average": 7.533,
+            "vote_count": 7974
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 361743,
+            "original_language": "en",
+            "original_title": "Top Gun: Maverick",
+            "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+            "popularity": 161.814,
+            "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+            "release_date": "2022-05-21",
+            "title": "Top Gun: Maverick",
+            "video": false,
+            "vote_average": 8.205,
+            "vote_count": 9093
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2llA9k67JTIoDm9iuUf5P1mjmDG.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 66018,
+            "original_language": "cn",
+            "original_title": "\u9189\u62f3III",
+            "overview": "Set around the turn of the century in China, the White Lotus Society plots to put the next Emperor on the throne. To do this they want their protege to marry the Princess Sun Yu who possesses an important jade ring. They dispatch Yueng Kwan to fetch her. However, Yueng Kwan is a patriot, working for the revolutionary forces of Sun Yat Sen. He abducts Sun Yu and finds refuge with the father of the future hero Wong Fei Hung.",
+            "popularity": 2.918,
+            "poster_path": "/gGJECMJTUBU9OWBFBdy9oUbL60Y.jpg",
+            "release_date": "1994-07-02",
+            "title": "Drunken Master III",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+            "genre_ids": [
+                18,
+                12,
+                28,
+                36
+            ],
+            "id": 79,
+            "original_language": "zh",
+            "original_title": "\u82f1\u96c4",
+            "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+            "popularity": 15.696,
+            "poster_path": "/1NBtOH3KPU9UUp1vzVHJ8qzdW88.jpg",
+            "release_date": "2002-07-22",
+            "title": "Hero",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1asVOmgViSEn4yi0EylEdtlL5H9.jpg",
+            "genre_ids": [
+                80,
+                53,
+                28
+            ],
+            "id": 9846,
+            "original_language": "en",
+            "original_title": "To Live and Die in L.A.",
+            "overview": "A fearless Secret Service agent will stop at nothing to bring down the counterfeiter who killed his partner.",
+            "popularity": 9.798,
+            "poster_path": "/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg",
+            "release_date": "1985-11-01",
+            "title": "To Live and Die in L.A.",
+            "video": false,
+            "vote_average": 7.097,
+            "vote_count": 636
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yq5f7SUW2ZxW6m6ahC9EujWLRfK.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 32520,
+            "original_language": "cn",
+            "original_title": "\u4e94\u90ce\u516b\u5366\u68cd",
+            "overview": "The Yangs are betrayed by a government official conspiring with the Mongols. All of the Yang family males except the 5th and 6th brother are killed. Fu Sheng loses his mind after the death of his family, while the other brother takes refuge in a Buddhist temple.",
+            "popularity": 13.03,
+            "poster_path": "/lme6eIZ12ar3fsOodNCUuVul9cq.jpg",
+            "release_date": "1984-02-17",
+            "title": "The 8 Diagram Pole Fighter",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 693134,
+            "original_language": "en",
+            "original_title": "Dune: Part Two",
+            "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+            "popularity": 272.445,
+            "poster_path": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+            "release_date": "2024-02-27",
+            "title": "Dune: Part Two",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 5378
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uuRUenS106XdEmzsFFm5QYe7bkk.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 44154,
+            "original_language": "zh",
+            "original_title": "\u4fe0\u5973",
+            "overview": "Ku Shen Chai, an artist in his early 30s, still lives with his mother, but he is suddenly shaken by the arrival of Yang Hui-ching, a mysterious princess on the run. Yang brings Ku into her circle of protectors, including a nameless monk whose spiritual guidance transforms him into a valiant fighter.",
+            "popularity": 14.013,
+            "poster_path": "/gwDdvYjnFhUvfxUGYUuXRLrXVeA.jpg",
+            "release_date": "1971-11-18",
+            "title": "A Touch of Zen",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jEuwsmFS8JPzkDIhRL3B2BVYbU4.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "id": 8810,
+            "original_language": "en",
+            "original_title": "Mad Max 2",
+            "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+            "popularity": 79.192,
+            "poster_path": "/dhVekfpaCW3QavAwGYbaQig87Xc.jpg",
+            "release_date": "1981-12-24",
+            "title": "Mad Max 2",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 3692
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rRdT8NJKwfibmEKgmTo0lHDRFZG.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                37
+            ],
+            "id": 15067,
+            "original_language": "ko",
+            "original_title": "\uc88b\uc740 \ub188, \ub098\uc05c \ub188, \uc774\uc0c1\ud55c \ub188",
+            "overview": "The story of three Korean outlaws in 1930s Manchuria and their dealings with the Japanese army and Chinese and Russian bandits. The Good (a bounty hunter), the Bad (a hitman), and the Weird (a thief) battle the army and the bandits in a race to use a treasure map to uncover the riches of legend.",
+            "popularity": 17.571,
+            "poster_path": "/lbPZ0aNoF0cHisg6DubFO2eS8so.jpg",
+            "release_date": "2008-07-16",
+            "title": "The Good, the Bad, the Weird",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 715
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 89,
+            "original_language": "en",
+            "original_title": "Indiana Jones and the Last Crusade",
+            "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+            "popularity": 119.986,
+            "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+            "release_date": "1989-05-24",
+            "title": "Indiana Jones and the Last Crusade",
+            "video": false,
+            "vote_average": 7.85,
+            "vote_count": 10016
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l5LHFQsqKdxnSPIpgPm7tSy8t4E.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 13514,
+            "original_language": "cn",
+            "original_title": "\u8c6a\u4fe0",
+            "overview": "Kao has purchased a new wife, but an enemy has paid her more money to kill him. Kao must recruit a pair of swordsmen to help defend himself and his family from his ruthless enemy. But Kao has his dark side as well.",
+            "popularity": 6.464,
+            "poster_path": "/uv8gmLKluvZBEnKI4cRnQ7r4iKs.jpg",
+            "release_date": "1979-11-22",
+            "title": "Last Hurrah for Chivalry",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x9mXe97tn5F9dxmjpVL9YqN1xJL.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 41477,
+            "original_language": "ja",
+            "original_title": "\u5b50\u9023\u308c\u72fc \u89aa\u306e\u5fc3\u5b50\u306e\u5fc3",
+            "overview": "In the fourth film of the Lone Wolf and Cub series, Ogami Itto is hired to kill a tattooed female assassin and battles Retsudo, head of the Yagyu clan, and his son Gunbei.",
+            "popularity": 14.705,
+            "poster_path": "/80dPE18baHbnB8mrl6wWtGXEyCP.jpg",
+            "release_date": "1972-12-30",
+            "title": "Lone Wolf and Cub: Baby Cart in Peril",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/31HKH7MpovHT4bTvMpnwbWl1d1G.jpg",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "id": 467938,
+            "original_language": "fr",
+            "original_title": "Revenge",
+            "overview": "Jen's romantic getaway with her wealthy married boyfriend is disrupted when his friends arrive for an impromptu hunting trip. Tension mounts at the house until the situation culminates in an unexpected way.",
+            "popularity": 38.017,
+            "poster_path": "/AbWKFxt459cWYTNPTcbpB0i2hQp.jpg",
+            "release_date": "2018-02-07",
+            "title": "Revenge",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1725
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dz0E515ONty4UY65HnoOTELQDt1.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 43637,
+            "original_language": "zh",
+            "original_title": "\u4e2d\u83ef\u6230\u58eb",
+            "overview": "A daredevil airplane pilot and spy, who fights against the occupying Japanese forces in  China, must rescue the ruler of the city of Kaal from the hands of a ruthless Japanese general and his advancing army.",
+            "popularity": 8.116,
+            "poster_path": "/mqnPAi67lmogNtOLdszEjz8PaXy.jpg",
+            "release_date": "1987-04-16",
+            "title": "Magnificent Warriors",
+            "video": false,
+            "vote_average": 6.545,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uQT1mk0xWxJ1MhdTKKHYjjWEcTv.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 104287,
+            "original_language": "cn",
+            "original_title": "\u7b2c\u4e00\u985e\u578b\u5371\u96aa",
+            "overview": "Three lazybones friends manufacture a firebomb and place it in a cinema. Pearl, a sadistic young girl, has observed the scene, follows the bombers and starts to manipulate them. The four criminals plan more and more daring acts.",
+            "popularity": 6.165,
+            "poster_path": "/to8xnhanY8VMJFhEHE5kd8836h.jpg",
+            "release_date": "1980-12-04",
+            "title": "Dangerous Encounters of the First Kind",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w4NFynz8s2KGeW6TsRVcEr5Xyyu.jpg",
+            "genre_ids": [
+                18,
+                28,
+                35
+            ],
+            "id": 134350,
+            "original_language": "ja",
+            "original_title": "\u5730\u7344\u3067\u306a\u305c\u60aa\u3044",
+            "overview": "In Japan, gonzo filmmakers hatch a three-pronged plan to save an actress's career, end a yakuza war and make a hit movie.",
+            "popularity": 13.864,
+            "poster_path": "/6jVK9vvUDp9eH0JSIUgcvlrqdGa.jpg",
+            "release_date": "2013-09-14",
+            "title": "Why Don't You Play in Hell?",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/TFTfzrkX8L7bAKUcch6qLmjpLu.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 575264,
+            "original_language": "en",
+            "original_title": "Mission: Impossible - Dead Reckoning Part One",
+            "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission\u2014not even the lives of those he cares about most.",
+            "popularity": 139.279,
+            "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+            "release_date": "2023-07-08",
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "video": false,
+            "vote_average": 7.549,
+            "vote_count": 3716
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                12
+            ],
+            "id": 213,
+            "original_language": "en",
+            "original_title": "North by Northwest",
+            "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+            "popularity": 134.813,
+            "poster_path": "/8gvfRlVpcKaTVqipXpYOGWBN1aO.jpg",
+            "release_date": "1959-07-08",
+            "title": "North by Northwest",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 4052
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/no6inVgUAd1XHZWLhlDPcdi7DGo.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 658,
+            "original_language": "en",
+            "original_title": "Goldfinger",
+            "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
+            "popularity": 30.498,
+            "poster_path": "/yNW09AHdvWwIXshiF0tMLr4bAWA.jpg",
+            "release_date": "1964-09-20",
+            "title": "Goldfinger",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3505
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5CQ6Qn1ujXRs21BtvAuJxHfL1sF.jpg",
+            "genre_ids": [
+                53,
+                12,
+                18
+            ],
+            "id": 38985,
+            "original_language": "en",
+            "original_title": "Sorcerer",
+            "overview": "Four men from different parts of the globe, all hiding from their pasts in the same remote South American town, agree to risk their lives transporting several cases of dynamite (which is so old that it is dripping unstable nitroglycerin) across dangerous jungle terrain.",
+            "popularity": 13.313,
+            "poster_path": "/2b7oexm173SF1FSEq0DdgxZZNRH.jpg",
+            "release_date": "1977-06-24",
+            "title": "Sorcerer",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 530
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iRNf7xb6uAnGtLB0bTE8t7r3Dde.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 22021,
+            "original_language": "en",
+            "original_title": "Coffy",
+            "overview": "After her younger sister gets involved in drugs and is severely injured by contaminated heroin, a nurse sets out on a mission of vengeance and vigilante justice, killing drug dealers, pimps, and mobsters who cross her path.",
+            "popularity": 33.185,
+            "poster_path": "/sN00Cvlahl6JLC2TAUBL0jZOqD3.jpg",
+            "release_date": "1973-06-13",
+            "title": "Coffy",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
+            "genre_ids": [
+                18,
+                36,
+                28
+            ],
+            "id": 27031,
+            "original_language": "ja",
+            "original_title": "\u4e0a\u610f\u8a0e\u3061 \u62dd\u9818\u59bb\u59cb\u672b",
+            "overview": "The mother of a feudal lord's only heir is kidnapped away from her husband by the lord. The husband and his samurai father must decide whether to accept the unjust decision, or risk death to get her back.",
+            "popularity": 19.978,
+            "poster_path": "/vikLAI7lPFdZcu1vBy2C2ucKPFN.jpg",
+            "release_date": "1967-05-27",
+            "title": "Samurai Rebellion",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 220
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 786892,
+            "original_language": "en",
+            "original_title": "Furiosa: A Mad Max Saga",
+            "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+            "popularity": 381.235,
+            "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+            "release_date": "2024-05-22",
+            "title": "Furiosa: A Mad Max Saga",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3245
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/efxSb8LvLDfE5Ab2UWPlVAUf78k.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 482,
+            "original_language": "en",
+            "original_title": "Shaft",
+            "overview": "Cool black private eye John Shaft is hired by a crime lord to find and retrieve his kidnapped daughter.",
+            "popularity": 10.831,
+            "poster_path": "/yJChPuu2V339IiDPQDHeIh1SYpA.jpg",
+            "release_date": "1971-06-25",
+            "title": "Shaft",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 356
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jea4adbYk407PhYK9uhWjihPYAv.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28
+            ],
+            "id": 9550,
+            "original_language": "zh",
+            "original_title": "\u5341\u9762\u57cb\u4f0f",
+            "overview": "In 9th century China, a corrupt government wages war against a rebel army called the Flying Daggers. A romantic warrior breaks a beautiful rebel out of prison to help her rejoin her fellows, but things are not what they seem.",
+            "popularity": 16.459,
+            "poster_path": "/93feGsGiCtG5ymrRcErUgBsdo6v.jpg",
+            "release_date": "2004-05-19",
+            "title": "House of Flying Daggers",
+            "video": false,
+            "vote_average": 7.279,
+            "vote_count": 1599
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3PQLohxgvjUQgF94sY5SEgVKSS6.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 1089,
+            "original_language": "en",
+            "original_title": "Point Break",
+            "overview": "In Los Angeles, a gang of bank robbers who call themselves The Ex-Presidents commit their crimes while wearing masks of Reagan, Carter, Nixon and Johnson. Believing that the members of the gang could be surfers, the F.B.I. sends young agent Johnny Utah to the beach undercover to mix with the surfers and gather information.",
+            "popularity": 26.946,
+            "poster_path": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+            "release_date": "1991-07-12",
+            "title": "Point Break",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 3504
+        }
+    ]
+}

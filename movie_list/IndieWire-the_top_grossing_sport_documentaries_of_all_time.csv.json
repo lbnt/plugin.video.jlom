@@ -1,0 +1,197 @@
+{
+    "type": "movie_list",
+    "title": "The Top-Grossing Sports Documentaries of All Time",
+    "source" : "https://www.indiewire.com/news/general-news/the-top-grossing-sports-documentaries-of-all-time-52843/",
+    "created_by": "lbnt",
+    "added": "04/04/24",
+    "modified": "04/04/24",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/4cNTEZxxR2xbgoDZef9Zj24KXZ7.jpg",
+            "genre_ids": [
+                99,
+                10751
+            ],
+            "id": 14358,
+            "original_language": "en",
+            "original_title": "Mad Hot Ballroom",
+            "overview": "Eleven-year-old New York City public school kids journey into the world of ballroom dancing and reveal pieces of themselves and their world along the way. Told from their candid, sometimes humorous perspectives, these kids are transformed, from reluctant participants to determined competitors, from typical urban kids to \"ladies and gentlemen,\" on their way to try to compete in the final citywide competition.",
+            "popularity": 2.221,
+            "poster_path": "/1wDU19PTEdR30QdnLFw93scXto7.jpg",
+            "release_date": "2005-05-13",
+            "title": "Mad Hot Ballroom",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pYeiEm55NySzK9ksKlQGlFQNapz.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 14275,
+            "original_language": "en",
+            "original_title": "Hoop Dreams",
+            "overview": "Every school day, African-American teenagers William Gates and Arthur Agee travel 90 minutes each way from inner-city Chicago to St. Joseph High School in Westchester, Illinois, a predominately white suburban school well-known for the excellence of its basketball program. Gates and Agee dream of NBA stardom, and with the support of their close-knit families, they battle the social and physical obstacles that stand in their way. This acclaimed documentary was shot over the course of five years.",
+            "popularity": 15.26,
+            "poster_path": "/7qHwh3mFJs7ldwzGSWsBLmgecfj.jpg",
+            "release_date": "1994-09-12",
+            "title": "Hoop Dreams",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 281
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yKjaeMSOJ0ObahfjcoSPLMSeOXE.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 16636,
+            "original_language": "en",
+            "original_title": "Spellbound",
+            "overview": "This documentary follows 8 teens and pre-teens as they work their way toward the finals of the Scripps Howard national spelling bee championship in Washington D.C.",
+            "popularity": 10.35,
+            "poster_path": "/whPFGfqZayYOU5f5mx0GdXZOgpi.jpg",
+            "release_date": "2002-03-14",
+            "title": "Spellbound",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lMGW6hh6EF0DhucvUvuCuAVxzZU.jpg",
+            "genre_ids": [
+                99,
+                28,
+                12,
+                18
+            ],
+            "id": 11194,
+            "original_language": "en",
+            "original_title": "Touching the Void",
+            "overview": "The true story of Joe Simpson and Simon Yates' disastrous and nearly-fatal mountain climb of 6,344m Siula Grande in the Cordillera Huayhuash in the Peruvian Andes in 1985.",
+            "popularity": 13.174,
+            "poster_path": "/fsydA5H8FSDaYlYWddfMpMpDUX.jpg",
+            "release_date": "2003-09-05",
+            "title": "Touching the Void",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 381
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ne50VwTD1FYVa9Nvj2Q9MsDgbs.jpg",
+            "genre_ids": [
+                99,
+                18
+            ],
+            "id": 15292,
+            "original_language": "en",
+            "original_title": "Step Into Liquid",
+            "overview": "No special effects. No stuntmen. No stereotypes. No other feeling comes close. Surfers and secret spots from around the world are profiled in this documentary.",
+            "popularity": 4.542,
+            "poster_path": "/gF352z3G8wnk5GDKzn7RcIDstwh.jpg",
+            "release_date": "2003-08-05",
+            "title": "Step Into Liquid",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1F5udd0LhzxTCXmFnhCbiyC0yBm.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 35199,
+            "original_language": "en",
+            "original_title": "Wordplay",
+            "overview": "From the masters who create the mind-bending diversions to the tense competition at the American Crossword Puzzle Tournament, Patrick Creadon's documentary reveals a fascinating look at a decidedly addictive pastime. Creadon captures New York Times editor Will Shortz at work, talks to celebrity solvers -- including Bill Clinton and Ken Burns -- and presents an intimate look at the national tournament and its competitors.",
+            "popularity": 8.165,
+            "poster_path": "/cxEPdo3JW6cZd6ppoBb1sYRReGL.jpg",
+            "release_date": "2006-06-26",
+            "title": "Wordplay",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yKEe2nFu4fRYcmVdeAwZxTZvP3g.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 14048,
+            "original_language": "en",
+            "original_title": "Man on Wire",
+            "overview": "On August 7th 1974, French tightrope walker Philippe Petit stepped out on a high wire, illegally rigged between New York's World Trade Center twin towers, then the world's tallest buildings. After nearly an hour of performing on the wire, 1,350 feet above the sidewalks of Manhattan, he was arrested. This fun and spellbinding documentary chronicles Philippe Petit's \"highest\" achievement.",
+            "popularity": 10.122,
+            "poster_path": "/1mS4rhIgHZcHIvf1beP9Av0Ui33.jpg",
+            "release_date": "2008-08-01",
+            "title": "Man on Wire",
+            "video": false,
+            "vote_average": 7.383,
+            "vote_count": 823
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c8BVwFsEKuTlZf1uWjo31r9GWly.jpg",
+            "genre_ids": [
+                99,
+                28
+            ],
+            "id": 52495,
+            "original_language": "en",
+            "original_title": "Freeriders",
+            "overview": "Hang on! Freeriders sends an unstoppable avalanche of adventure and breathtaking ski action right your way! From awesome mountain vistas in Wyoming to the incredible steeps of South America and the Artic Circle, these locations form the stunning backdrops for the greatest winter sports ever captured on film! An all-star collection of world-class skiers and snowboarders\u2014including Olympic Gold Medalists Jonny Moseley and Eric Bergoust\u2014blast through waist-deep powder and launch into amazing aerials in a spectacular search for freedom and the ultimate downhill thrill! Set to a hot soundtrack featuring today\u2019s top recording artists!",
+            "popularity": 2.054,
+            "poster_path": "/3Gbuiyz4UxUlRI0mHjsfvyxTcfV.jpg",
+            "release_date": "1998-10-11",
+            "title": "Freeriders",
+            "video": false,
+            "vote_average": 1.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gjdQHnvV5JIpvmdZBFWhYoow3wm.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 79317,
+            "original_language": "en",
+            "original_title": "Snowriders 2",
+            "overview": "Opening with a nightmarish montage of an avalanche, Snowriders 2: The Journey Continues, from the master of ski films, Warren Miller, quickly transforms into an exuberant celebration of downhill glory. In Miller style, gorgeous footage of some of the world's most skillful skiers tackling the world's gnarliest slopes is combined with intelligently chosen rock music to create an entertaining mix. Miller's film crews shoot skiers in the Alps of the South Island of New Zealand, track Americans making a lengthy pilgrimage to tackle the remote and forbidding slopes of Kazakhstan, and follow a tattooed and pierced snowboarder from his apartment in Greenwich Village to Killington, Vermont.",
+            "popularity": 1.96,
+            "poster_path": "/95s0HSxRW8Y498oN1lhmnBF20hd.jpg",
+            "release_date": "1997-10-15",
+            "title": "Warren Miller's Snowriders 2",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6B3kS8PeYG06VAEvRWHDsvp6Fjz.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 291,
+            "original_language": "en",
+            "original_title": "Riding Giants",
+            "overview": "Riding Giants is story about big wave surfers who have become heroes and legends in their sport. Directed by the skateboard guru Stacy Peralta.",
+            "popularity": 14.166,
+            "poster_path": "/8L3ir0KNqSqpps2oVAeCUPVTPhr.jpg",
+            "release_date": "2004-07-09",
+            "title": "Riding Giants",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 44
+        }
+    ]
+}

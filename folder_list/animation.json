@@ -1,0 +1,23 @@
+{
+    "type" : "folder_list",
+    "title" : "Animation",
+    "added" : "10/10/24",
+    "modified" : "09/01/26",
+    "folders" : [
+        {
+            "title" : "Rotten Tomatoes - The 140 Essential Animated Movies To Watch",
+            "id" : "rottentomatoes-essential_animated_movies",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Animation Top 50",
+            "id" : "IMDb's_animation_top_50",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Golden Globes - Best Motion Picture - Animated",
+            "id" : "golden_globes-best_motion_picture_animated",
+            "type" : "movie_list"
+        }
+    ]
+}

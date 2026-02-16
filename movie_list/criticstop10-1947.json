@@ -1,0 +1,968 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1947",
+    "source": "https://criticstop10.com/best-movies-of-1947/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/1dbO38aZrL9HXPqdmjtERjK5NGS.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 41465,
+            "original_language": "en",
+            "original_title": "Life with Father",
+            "overview": "A straitlaced turn-of-the-century father presides over a family of boys and the mother who really rules the roost.",
+            "popularity": 1.0799,
+            "poster_path": "/6b7xRttshmonGW6xzSCDMrHMTjA.jpg",
+            "release_date": "1947-09-13",
+            "title": "Life with Father",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XMEwQVADrym6XWcxudH11caLCA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 33667,
+            "original_language": "en",
+            "original_title": "Gentleman's Agreement",
+            "overview": "A magazine writer poses as a Jew to expose anti-Semitism.",
+            "popularity": 1.4819,
+            "poster_path": "/aCCRbcmigPk00f34hpJuWZuvABo.jpg",
+            "release_date": "1947-11-11",
+            "title": "Gentleman's Agreement",
+            "video": false,
+            "vote_average": 6.953,
+            "vote_count": 260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rSnMQ82mFlpBLRt2UvohO6sgemd.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 11881,
+            "original_language": "en",
+            "original_title": "Miracle on 34th Street",
+            "overview": "Kris Kringle, seemingly the embodiment of Santa Claus, is asked to portray the jolly old fellow at Macy's following his performance in the Thanksgiving Day parade. His portrayal is so complete that many begin to question if he truly is Santa Claus, while others question his sanity.",
+            "popularity": 1.2521,
+            "poster_path": "/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+            "release_date": "1947-06-04",
+            "title": "Miracle on 34th Street",
+            "video": false,
+            "vote_average": 7.373,
+            "vote_count": 782
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xhqhy73o1Hu17c2usOxSmFb0c2d.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 14320,
+            "original_language": "en",
+            "original_title": "Great Expectations",
+            "overview": "In this Dickens adaptation, orphan Pip discovers through lawyer Mr. Jaggers that a mysterious benefactor wishes to ensure that he becomes a gentleman. Reunited with his childhood patron, Miss Havisham, and his first love, the beautiful but emotionally cold Estella, he discovers that the elderly spinster has gone mad from having been left at the altar as a young woman, and has made her charge into a warped, unfeeling heartbreaker.",
+            "popularity": 1.7348,
+            "poster_path": "/ynaFuVvW2jaG06pMV67dOhzMYfJ.jpg",
+            "release_date": "1946-12-26",
+            "title": "Great Expectations",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9QYqNGVKx0YabMExlwPXyUSuQFl.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 28120,
+            "original_language": "en",
+            "original_title": "Crossfire",
+            "overview": "A man is murdered, apparently by one of a group of soldiers just out of the army. But which one? And why?",
+            "popularity": 0.6723,
+            "poster_path": "/s3EFBiCsc4Ckc1tntoHAEnhZtSO.jpg",
+            "release_date": "1947-08-15",
+            "title": "Crossfire",
+            "video": false,
+            "vote_average": 6.646,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8aanbGZZFefH8HlE0v9PLb3pQ6k.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 18926,
+            "original_language": "en",
+            "original_title": "Boomerang!",
+            "overview": "When a kindly priest is murdered while waiting at a street corner in a quiet Connecticut town, the citizens are horrified and demand action from the police. All of the witnesses identify John Waldron, a nervous out-of-towner, as the killer. District Attorney Henry Harvey is then put on the case and faces political opposition in his attempt to prove Waldron's innocence.",
+            "popularity": 0.6773,
+            "poster_path": "/eN6p5zG2ar7zw5BD6UIGUpkA2FF.jpg",
+            "release_date": "1947-02-28",
+            "title": "Boomerang!",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fVEynIdJC8gRpslMfGXyZXrz5ar.jpg",
+            "genre_ids": [
+                35,
+                14,
+                18
+            ],
+            "id": 19490,
+            "original_language": "en",
+            "original_title": "The Bishop's Wife",
+            "overview": "An Episcopal Bishop, Henry Brougham, has been working for months on the plans for an elaborate new cathedral which he hopes will be paid for primarily by a wealthy, stubborn widow. He is losing sight of his family and of why he became a churchman in the first place. Enter Dudley, an angel sent to help him. Dudley does help everyone he meets, but not necessarily in the way they would have preferred. With the exception of Henry, everyone loves him, but Henry begins to believe that Dudley is there to replace him, both at work and in his family's affections, as Christmas approaches.",
+            "popularity": 0.976,
+            "poster_path": "/2sMpffmvoJlW7WBcvyHTPR9DEsj.jpg",
+            "release_date": "1947-12-25",
+            "title": "The Bishop's Wife",
+            "video": false,
+            "vote_average": 7.038,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eb4aHemLxnyjqTqPNAQA0q1oyCw.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 43461,
+            "original_language": "en",
+            "original_title": "Odd Man Out",
+            "overview": "Belfast police conduct a door-to-door manhunt for an IRA gunman wounded in a daring robbery.",
+            "popularity": 0.782,
+            "poster_path": "/zfNkremz9WlWK5gIaqqFwElc7rz.jpg",
+            "release_date": "1947-01-30",
+            "title": "Odd Man Out",
+            "video": false,
+            "vote_average": 7.311,
+            "vote_count": 204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2n1gPPZ0kANDTU2DcGksTqMYUbm.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 43466,
+            "original_language": "en",
+            "original_title": "The Farmer's Daughter",
+            "overview": "After leaving her family's farm to study nursing in the city, a young woman finds herself on an unexpected path towards politics.",
+            "popularity": 0.3648,
+            "poster_path": "/k6RlWveQEKiVY7vFAPCi70Zisv0.jpg",
+            "release_date": "1947-03-26",
+            "title": "The Farmer's Daughter",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eiWW8rGST0zEZojrMjXuF47oqZW.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 108025,
+            "original_language": "en",
+            "original_title": "Dear Ruth",
+            "overview": "Lt. William Seacroft, on leave from the Italian front, arrives at the New York home of Ruth Wilkins, with whom he has been corresponding. Unknown to both Ruth and Bill, Ruth's younger sister, Miriam, has been writing the letters and signing Ruth's name as part of a program to keep up soldiers' morale. Although Ruth has just gotten engaged to a coworker, she agrees to see Bill and pretend she wrote the letters.",
+            "popularity": 0.0891,
+            "poster_path": "/gyLeJ8FncO2iPCcY8HG03cQGJ9Y.jpg",
+            "release_date": "1947-06-10",
+            "title": "Dear Ruth",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r9xIDDGz1AsKkPWiFGCTmFlVkWN.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 41206,
+            "original_language": "en",
+            "original_title": "A Double Life",
+            "overview": "A Shakespearian actor starring as Othello opposite his wife finds the character's jealous rage taking over his mind off-stage.",
+            "popularity": 0.4503,
+            "poster_path": "/rYa7JZN5PnpxXpR4oXAcefP9YXa.jpg",
+            "release_date": "1947-12-25",
+            "title": "A Double Life",
+            "video": false,
+            "vote_average": 6.27,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k9G93xglgvaKSQEzysUcTyDUvjI.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 42342,
+            "original_language": "en",
+            "original_title": "The Egg and I",
+            "overview": "World War II veteran Bob MacDonald surprises his new wife, Betty, by quitting his city job and moving them to a dilapidated farm in the country. While Betty gamely struggles with managing the crumbling house and holding off nosy neighbors and a recalcitrant pig, Bob makes plans for crops and livestock. The couple's bliss is shaken by a visit from a beautiful farm owner, who seems to want more from Bob than just managing her property.",
+            "popularity": 0.6039,
+            "poster_path": "/xBQc0rPnQzbV6XbOlA6v3ETO2lU.jpg",
+            "release_date": "1947-05-01",
+            "title": "The Egg and I",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uaBMjcTCyfeQLiE190UnCL17Hlc.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 113841,
+            "original_language": "en",
+            "original_title": "Welcome Stranger",
+            "overview": "Crusty Dr. McRory of Fallbridge, Maine, hires his vacation replacement sight unseen. Alas, he and young singing Doctor Jim Pearson don't hit it off; but once he meets teacher Trudy Mason, Pearson is delighted to stay. The locals, taking their cue from McRory, cold-shoulder Pearson, especially Trudy's stuffy fianc\u00e9. But then, guess who needs an emergency appendectomy?",
+            "popularity": 0.2135,
+            "poster_path": "/l5sNbhGpLp7t4uO3mv14WjCC4t2.jpg",
+            "release_date": "1947-06-13",
+            "title": "Welcome Stranger",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5PM0fYL1RTqHtF2dHBNtbJmNUF.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 108688,
+            "original_language": "en",
+            "original_title": "Cass Timberlane",
+            "overview": "Judge Cass Timberlane marries a girl from the wrong side of the tracks, Virginia Marshland. A baby is stillborn and she turns more and more to attorney friend of of Cass' Brad Criley. While quarreling the Judge tells Virginia to stay with Brad, but when she becomes sick he brings her home.",
+            "popularity": 0.2283,
+            "poster_path": "/msE1uf76jidFEgKHhANfwR9vlZz.jpg",
+            "release_date": "1947-11-06",
+            "title": "Cass Timberlane",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lzN0pA7sfiXLpIkVbXi2kWnMnx5.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 181537,
+            "original_language": "en",
+            "original_title": "The Late George Apley",
+            "overview": "George and Catherine Apley of Boston lead a proper life in the proper social circle, as did the Apleys before them. When grown daughter Eleanor falls in love with Howard (from New York!), and son John with Myrtle (from Worcester!), the ordered life of the Apley home on Beacon Street is threatened, as is the hoped-for union of John and Apley-cousin Agnes.",
+            "popularity": 0.1533,
+            "poster_path": "/pqZaTf6J1N3jLxJC7WM6qHJAOQy.jpg",
+            "release_date": "1947-03-19",
+            "title": "The Late George Apley",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oQt74Jpvhdv1kJPSoHBq13DREpt.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                10749
+            ],
+            "id": 31667,
+            "original_language": "en",
+            "original_title": "The Paradine Case",
+            "overview": "Attorney Anthony Keane agrees to represent Londonite Mrs. Paradine, who has been fingered in her husband's murder. From the start, the married lawyer is drawn to the enigmatic beauty, and he begins to cast about for a way to exonerate his client. Keane puts the Paradine household servant on the stand, suggesting he is the killer. But Keane soon loses his way in the courtroom, and his half-baked plan sets off a stunning chain of events.",
+            "popularity": 0.6292,
+            "poster_path": "/faUkygLOpVA8roEYNYyQTX3llnJ.jpg",
+            "release_date": "1947-12-31",
+            "title": "The Paradine Case",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cCCGVjBeZrX9BOwHe49PWAZy9vP.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 88812,
+            "original_language": "en",
+            "original_title": "The Hucksters",
+            "overview": "A World War II veteran wants to return to advertising on his own terms, but finds it difficult to be successful and maintain his integrity.",
+            "popularity": 0.4196,
+            "poster_path": "/eJJJKpwh0VI3WxBtBWXTHjLr7Ds.jpg",
+            "release_date": "1947-07-17",
+            "title": "The Hucksters",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/etd7TEKWJVTu8Ll0BIKYMV0UVqm.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 106825,
+            "original_language": "en",
+            "original_title": "Mother Wore Tights",
+            "overview": "In this chronicle of a vaudeville family, Myrtle McKinley (class of 1900) goes to San Francisco to attend business school, but ends up in a chorus line. Soon, star Frank Burt notices her talent, hires her for a \"two-act\", then marries her. Incidents of the marriage and the growing pains of eldest daughter Miriam are followed, interspersed with nostalgic musical numbers.",
+            "popularity": 0.2968,
+            "poster_path": "/60FY8mXol3sRdbH4o12ylYPtQKE.jpg",
+            "release_date": "1947-08-20",
+            "title": "Mother Wore Tights",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wbky6s7YnNgUBE9ENAe4pJfFaUr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 17487,
+            "original_language": "en",
+            "original_title": "Body and Soul",
+            "overview": "Charley Davis, against the wishes of his mother, becomes a boxer. As he becomes more successful the fighter becomes surrounded by shady characters, including an unethical promoter named Roberts, who tempt the man with a number of vices. Charley finds himself faced with increasingly difficult choices.",
+            "popularity": 0.5222,
+            "poster_path": "/lnKYS1A1k78X5v5IpLA96e6EYoe.jpg",
+            "release_date": "1947-11-11",
+            "title": "Body and Soul",
+            "video": false,
+            "vote_average": 6.678,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/udojIeaDZp9hngTUSOvax7VBK6i.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 138172,
+            "original_language": "en",
+            "original_title": "The Voice of the Turtle",
+            "overview": "An aspiring Broadway actress falls in love with a soldier on leave during a weekend in New York City.",
+            "popularity": 0.3195,
+            "poster_path": "/Aq0pxL9BxD2Lzhh4TVOeeNM0u1Y.jpg",
+            "release_date": "1947-12-25",
+            "title": "The Voice of the Turtle",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jnrHsz0meZoJwcshhxqoMkXLgQC.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 108994,
+            "original_language": "en",
+            "original_title": "Green Dolphin Street",
+            "overview": "Sophie loved Edmund, but he left town when her parents forced her to marry wealthy Octavius. Years later, Edmund returns with his son, William. Sophie's daughter, Marguerite, and William fall in love. Marguerite's sister, Marianne, also loves William. Timothy, a lowly carpenter, secretly loves Marianne. He kills a man in a fight, and Edmund helps him flee to New Zealand. William deserts inadvertently from the navy, and also flees in disgrace to New Zealand, where he and Timothy start a profitable business. One night, drunk, William writes Octavius, demanding his daughter's hand; but, being drunk, he asks for the wrong sister.",
+            "popularity": 0.413,
+            "poster_path": "/otyQj68iZSm3ezzaQJOJa3rfRsW.jpg",
+            "release_date": "1947-01-15",
+            "title": "Green Dolphin Street",
+            "video": false,
+            "vote_average": 6.132,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gfOYEKGz5wHlZTggfHbf5CLJ8zB.jpg",
+            "genre_ids": [
+                10751,
+                16
+            ],
+            "id": 13850,
+            "original_language": "en",
+            "original_title": "Song of the South",
+            "overview": "Uncle Remus draws upon his tales of Br'er Rabbit to help little Johnny deal with his confusion over his parents' separation as well as his new life on the plantation.",
+            "popularity": 1.6428,
+            "poster_path": "/lFlWpfcw8TCmZ88jw6e943vEbtu.jpg",
+            "release_date": "1946-11-12",
+            "title": "Song of the South",
+            "video": false,
+            "vote_average": 6.439,
+            "vote_count": 286
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eHuFlx1Tb2tabvZKbkRyNj2mk2H.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 82101,
+            "original_language": "en",
+            "original_title": "Mourning Becomes Electra",
+            "overview": "Near the end of the Civil War, the proud residents of Mannon Manor await the return of shipping tycoon Ezra Mannon and son Orin. Meanwhile Ezra\u2019s conniving wife Christine and daughter Lavinia vie for the love of a handsome captain with a dark secret while well-meaning neighbor Peter sets his sights on Lavinia.",
+            "popularity": 0.2878,
+            "poster_path": "/w5ooTXLHlciRyxKnXa7XG3p9RFj.jpg",
+            "release_date": "1947-11-19",
+            "title": "Mourning Becomes Electra",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k0tPyBn36Ot4syZ68AeioShF4YO.jpg",
+            "genre_ids": [
+                53,
+                10752
+            ],
+            "id": 18200,
+            "original_language": "en",
+            "original_title": "13 Rue Madeleine",
+            "overview": "Bob Sharkey, an instructor of would-be spies for the Allied Office of Strategic Services, becomes suspicious of one of the latest batch of students, Bill O'Connell, who is too good at espionage. His boss, Charles Gibson confirms that O'Connell is really a top German agent, but tells Sharkey to pass him, as they intend to feed the mole false information about the impending D-Day invasion.",
+            "popularity": 0.2489,
+            "poster_path": "/5LWLFo2F618U6nb35PujPuXdEyi.jpg",
+            "release_date": "1947-01-15",
+            "title": "13 Rue Madeleine",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nMbY1iOXk1VPIAjsp6qJqvl45d9.jpg",
+            "genre_ids": [
+                18,
+                37,
+                10749
+            ],
+            "id": 87531,
+            "original_language": "en",
+            "original_title": "The Sea of Grass",
+            "overview": "On America's frontier, a St. Louis woman marries a New Mexico cattleman who is seen as a tyrant by the locals.",
+            "popularity": 0.586,
+            "poster_path": "/sa7D7ThFCvvRTk4J0UocAjFuX1O.jpg",
+            "release_date": "1947-04-25",
+            "title": "The Sea of Grass",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xakBi1IvmZv9Ok48mgRm1pFmYAs.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 21454,
+            "original_language": "en",
+            "original_title": "Kiss of Death",
+            "overview": "An ex-con trying to go straight must face a crazed criminal out for revenge.",
+            "popularity": 1.1963,
+            "poster_path": "/3xenZzofvq2rLsCp9R7bTzIHj8t.jpg",
+            "release_date": "1947-08-27",
+            "title": "Kiss of Death",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xLJCny81gf2E4Q6VhtuNhgKHbUi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 16391,
+            "original_language": "en",
+            "original_title": "Black Narcissus",
+            "overview": "A group of Anglican nuns, led by Sister Clodagh, are sent to a mountain in the Himalayas. The climate in the region is hostile and the nuns are housed in an odd old palace. They work to establish a school and a hospital, but slowly their focus shifts. Sister Ruth falls for a government worker, Mr. Dean, and begins to question her vow of celibacy. As Sister Ruth obsesses over Mr. Dean, Sister Clodagh becomes immersed in her own memories of love.",
+            "popularity": 2.2418,
+            "poster_path": "/jSbFWWbkUq5N5ikewJHNATcWnxS.jpg",
+            "release_date": "1947-05-26",
+            "title": "Black Narcissus",
+            "video": false,
+            "vote_average": 7.531,
+            "vote_count": 506
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pZbXw8ygFD6XOBcdurGR9NiECs7.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10402
+            ],
+            "id": 52844,
+            "original_language": "en",
+            "original_title": "It Happened on Fifth Avenue",
+            "overview": "A New Yorker hobo moves into a mansion and along the way he gathers friends to live in the house with him. Before he knows it, he is living with the actual home owners.",
+            "popularity": 2.1583,
+            "poster_path": "/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg",
+            "release_date": "1947-04-17",
+            "title": "It Happened on Fifth Avenue",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cRCZSGlKIVyVjgSXIfQsfCaxzbS.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 104720,
+            "original_language": "en",
+            "original_title": "Forever Amber",
+            "overview": "Amber St Clair, orphaned during the English Civil War and raised by a family of farmers, aspires to be a lady of high society; when a group of cavaliers ride into town, she sneaks away with them to London to achieve her dreams.",
+            "popularity": 0.6363,
+            "poster_path": "/lbqzwUxawDiKwPbIc46yKpDgL4R.jpg",
+            "release_date": "1947-10-10",
+            "title": "Forever Amber",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d39Pj8OcGQcAmozW7UdyivQrOyy.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10749
+            ],
+            "id": 20849,
+            "original_language": "en",
+            "original_title": "Possessed",
+            "overview": "After being found wandering the streets of Los Angeles, a severely catatonic woman tells a doctor the complex story of how she wound up there.",
+            "popularity": 0.5192,
+            "poster_path": "/RfQXnFgzSpMzqLWYS3HN7qXrYQ.jpg",
+            "release_date": "1947-05-29",
+            "title": "Possessed",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4MFjgkGrCh1DEzYRCve59w1FXhb.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 121975,
+            "original_language": "en",
+            "original_title": "Carnegie Hall",
+            "overview": "A young Irishwoman comes to the United States to live and work with her mother as a cleaning lady at Carnegie Hall. She becomes attached to the place as the people she meets there gradually shape her life.  The film also includes a variety of performances from some of the foremost musical artists of the times: conductors Bruno Walter & Leopold Stokowski, solists Arthur Rubinstein & Jascha Haifetz, singers Lily Pons & Jan Peerce and bandleader Vaughn Monroe among many others.",
+            "popularity": 0.1808,
+            "poster_path": "/3ZJoP8XSzQET6vdUxEHpKo4lh5K.jpg",
+            "release_date": "1947-02-28",
+            "title": "Carnegie Hall",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/96OBCIrpNckv0B2H2Kag1vQk3UT.jpg",
+            "genre_ids": [
+                12
+            ],
+            "id": 44534,
+            "original_language": "en",
+            "original_title": "Captain from Castile",
+            "overview": "Spain, 1518: young caballero Pedro De Vargas offends his sadistic neighbor De Silva, who just happens to be an officer of the Inquisition. Forced to flee, Pedro, friend Juan Garcia, and adoring servant girl Catana join Cortez' first expedition to Mexico. Arriving in the rich new land, Cortez decides to switch from exploration to conquest...with only 500 men. Embroiled in continuous adventures and a romantic interlude, Pedro almost forgets he has a deadly enemy...",
+            "popularity": 0.7713,
+            "poster_path": "/5DojmAjGSnISbZLg7C1Bb6dvXVJ.jpg",
+            "release_date": "1947-12-25",
+            "title": "Captain from Castile",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fzjz2CifO8O6Jqq7zkfp4tynyI7.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 130899,
+            "original_language": "en",
+            "original_title": "Song of Love",
+            "overview": "Composer Robert Schumann struggles to compose his symphonies while his loving wife Clara offers her support. Also helping the Schumanns is their lifelong friend, composer Johannes Brahms.",
+            "popularity": 0.2442,
+            "poster_path": "/3k8UyQfGq8YZ32iuRPWOv6ApCRF.jpg",
+            "release_date": "1947-10-09",
+            "title": "Song of Love",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/suZ9RUyowtviOi0BLFsZVka6emj.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 346985,
+            "original_language": "en",
+            "original_title": "I Wonder Who's Kissing Her Now",
+            "overview": "A biopic of the career of Joe Howard (12 Feb.,1878 - 19 May, 1961), famous songwriter of the early 20th Century. Howard wrote the title song, Goodbye, My Lady Love; and Hello, My Baby among many others. Mark Stevens was dubbed by Buddy Clark, well known singer of the 30's and 40's",
+            "popularity": 0.197,
+            "poster_path": "/isAolzGLGqpfjSafV6vkcKEOwwv.jpg",
+            "release_date": "1947-07-31",
+            "title": "I Wonder Who's Kissing Her Now",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hfEXbZpm90pkqnNITCFXgRKqEip.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 149687,
+            "original_language": "en",
+            "original_title": "The Perils of Pauline",
+            "overview": "Funloving Pearl White, working in a garment sweatshop, gets her big chance when she \"opens\" for a delayed Shakespeare play...with a comic vaudeville performance. Her brief stage career leads her into those \"horrible\" moving pictures, where she comes to love the chaotic world of silent movies, becoming queen of the serials. But the consequences of movie stardom may be more than her leading man can take",
+            "popularity": 0.8802,
+            "poster_path": "/sNRA50WgkFnMA7g1M0qjBaPYrT2.jpg",
+            "release_date": "1947-07-04",
+            "title": "The Perils of Pauline",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tm4yDVgjqQxqOugvnGONpmTbWP8.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                80
+            ],
+            "id": 1841,
+            "original_language": "en",
+            "original_title": "Lady in the Lake",
+            "overview": "Private eye Phillip Marlowe wants to get out of the detective racket and into crime writing. But when he's called to the office of editor Adrienne Fromsett, it's not to talk about his story ideas \u2014 she wants him to locate the missing wife of her boss, Mr. Kingsby. The assignment quickly becomes complicated when bodies start turning up.",
+            "popularity": 0.4215,
+            "poster_path": "/zU8mjnKKI7KZ7FZqkXP7Rzg8ndO.jpg",
+            "release_date": "1946-12-19",
+            "title": "Lady in the Lake",
+            "video": false,
+            "vote_average": 6.01,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f5EUue0mNt4gzjsrCP5QZENv3Ub.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 30588,
+            "original_language": "en",
+            "original_title": "Monsieur Verdoux",
+            "overview": "The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.",
+            "popularity": 1.2839,
+            "poster_path": "/mUPXIinTQsBdLlDaWiSl7GwQXVs.jpg",
+            "release_date": "1947-09-26",
+            "title": "Monsieur Verdoux",
+            "video": false,
+            "vote_average": 7.698,
+            "vote_count": 442
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aDLIjWJiXKx7PZ9JR8kuVNvUhyt.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 18871,
+            "original_language": "en",
+            "original_title": "Ride the Pink Horse",
+            "overview": "A con man tries to blackmail a Mexican gangster.",
+            "popularity": 0.3365,
+            "poster_path": "/6oJWu5XZ5tb7EgJVmTdOlaqcsjf.jpg",
+            "release_date": "1947-10-08",
+            "title": "Ride the Pink Horse",
+            "video": false,
+            "vote_average": 7.195,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 424103,
+            "original_language": "en",
+            "original_title": "The Roosevelt Story",
+            "overview": "A documentary about the private (partly) and public life of Franklin D. Roosevelt who, despite his physical handicap, was elected President of the United States four times, compiled primarily from newsreels. His work during the depression years, when he created Federal agencies such as the W.P.A., C.C.C., N.R.A., P.W.A. and others is covered, plus a large portion of the film covers his years as a wartime leader. Also shown are scenes he didn't live to see, the unconditional surrender of the Germans and the Japanese. The musical background is a new symphony, \"Toward the Sun\", by Earl Robinson.",
+            "popularity": 0.0143,
+            "poster_path": null,
+            "release_date": "1947-08-30",
+            "title": "The Roosevelt Story",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wzBmxfGWQH5v6xhI6T8jgkDVGwc.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                18
+            ],
+            "id": 30162,
+            "original_language": "en",
+            "original_title": "The Red House",
+            "overview": "An old man and his sister are concealing a terrible secret from their adopted teen daughter, concerning a hidden abandoned farmhouse, located deep in the woods.",
+            "popularity": 1.932,
+            "poster_path": "/9BBdps0PfYccltNvVJGq1siip4D.jpg",
+            "release_date": "1947-02-04",
+            "title": "The Red House",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eu4lnt6IbNUPTEFshuWqf2PUtK0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 26592,
+            "original_language": "en",
+            "original_title": "Nora Prentiss",
+            "overview": "Quiet, organised Dr Talbot meets nightclub singer Nora Prentiss when she is slightly hurt in a street accident. Despite her misgivings they become heavily involved and Talbot finds he is faced with the choice of leaving Nora or divorcing his wife. When a patient expires in his office, a third option seems to present itself.",
+            "popularity": 0.5232,
+            "poster_path": "/ivIS8hNCg5B9SNAjHh0CDx7JHUt.jpg",
+            "release_date": "1947-02-22",
+            "title": "Nora Prentiss",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bpJmsiKJQDtJ4GVrvUNvf5dA92E.jpg",
+            "genre_ids": [
+                18,
+                12,
+                36
+            ],
+            "id": 72241,
+            "original_language": "en",
+            "original_title": "Unconquered",
+            "overview": "England, 1763. After being convicted of a crime, the young and beautiful Abigail Hale agrees, to escape the gallows, to serve fourteen years as a slave in the colony of Virginia, whose inhabitants begin to hear and fear the sinister song of the threatening drums of war that resound in the wild Ohio valley.",
+            "popularity": 0.8386,
+            "poster_path": "/sOsESBjWExyOulekJJMc9o5Q5BX.jpg",
+            "release_date": "1947-10-10",
+            "title": "Unconquered",
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4HSPjPJ6kiQTAuuFpS8Wr8Y7Eqc.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 28567,
+            "original_language": "en",
+            "original_title": "The Macomber Affair",
+            "overview": "A big-game hunter takes a rich American couple on an African safari. Film adaptation of Ernest Hemingway's \"The Short Happy Life of Francis Macomber\".",
+            "popularity": 0.223,
+            "poster_path": "/hUcc9ABsB612wZnHbgADVpHnnK7.jpg",
+            "release_date": "1947-04-20",
+            "title": "The Macomber Affair",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zwcoFzpG63rSTMCLN37XbqrpWYu.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 131472,
+            "original_language": "en",
+            "original_title": "The Walls of Jericho",
+            "overview": "In a small town in Kansas, a county attorney in an unhappy marriage falls in love with another woman.",
+            "popularity": 0.2367,
+            "poster_path": "/cfUco5aI9zy4O6GZiUHa3jmDFgL.jpg",
+            "release_date": "1948-11-22",
+            "title": "The Walls of Jericho",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cYR8P5N1LwmSBDaFKqqyMIRNhUC.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 98578,
+            "original_language": "en",
+            "original_title": "The Unfinished Dance",
+            "overview": "A young dance student accidentally cripples a teacher she doesn't like.",
+            "popularity": 0.1197,
+            "poster_path": "/3BHsGpJ9gNnQc06HE9b7EM56N5d.jpg",
+            "release_date": "1947-09-19",
+            "title": "The Unfinished Dance",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m6prBXuahIAarhiEtbq3kNChICe.jpg",
+            "genre_ids": [
+                37,
+                18,
+                10749
+            ],
+            "id": 26761,
+            "original_language": "en",
+            "original_title": "Pursued",
+            "overview": "A boy haunted by nightmares about the night his entire family was murdered is brought up by a neighboring family in the 1880s. He falls for his lovely adoptive sister but his nasty adoptive brother and mysterious uncle want him dead.",
+            "popularity": 2.4549,
+            "poster_path": "/5UjUTgSGytAYsU4WCXmaBXLtlSY.jpg",
+            "release_date": "1947-03-05",
+            "title": "Pursued",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aJcr2XzbFt2jqKtCnlw9Po1ZA2f.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 28297,
+            "original_language": "en",
+            "original_title": "Brute Force",
+            "overview": "Timeworn Joe Collins and his fellow inmates live under the heavy thumb of the sadistic, power-tripping guard Captain Munsey. Only Collins' dreams of escape keep him going, but how can he possibly bust out of Munsey's chains?",
+            "popularity": 2.5227,
+            "poster_path": "/lpKW8JG2IEJlz7WIyqLSsPHGnrd.jpg",
+            "release_date": "1947-07-16",
+            "title": "Brute Force",
+            "video": false,
+            "vote_average": 7.29,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dKuzPYeemV4PeWLa5JrJgZOyese.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 19169,
+            "original_language": "en",
+            "original_title": "Nightmare Alley",
+            "overview": "Roustabout Stanton Carlisle joins a traveling carny and unsuccessfully schemes to figure out the mind-reading act of Mademoiselle Zeena and her alcoholic husband, Pete.",
+            "popularity": 0.9113,
+            "poster_path": "/odlV13MZEswVyMBQ4fmmxLRHYT0.jpg",
+            "release_date": "1947-10-09",
+            "title": "Nightmare Alley",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 219
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mYOXjwKUjTE5YjK8NtW9cUaVlFW.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 27448,
+            "original_language": "en",
+            "original_title": "The Two Mrs. Carrolls",
+            "overview": "Struggling artist Geoffrey Carroll meets Sally while on holiday in the country. A romance develops, but he doesn't tell her he's already married. Suffering from mental illness, Geoffrey returns home where he paints an impression of his wife as the angel of death and then promptly poisons her. He marries Sally but after a while he finds a strange urge to paint her as the angel of death too and history seems about to repeat itself.",
+            "popularity": 0.3655,
+            "poster_path": "/r4Xky20Yi1S5tsQD7tqP714XH7T.jpg",
+            "release_date": "1947-03-04",
+            "title": "The Two Mrs. Carrolls",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8SDFAf4pfjhrXd0j6fXXYZNhaEz.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 192501,
+            "original_language": "en",
+            "original_title": "Cynthia",
+            "overview": "Sheltered by her conservative parents, a small-town teenager finally goes out on a date.",
+            "popularity": 0.195,
+            "poster_path": "/bp7vgbjOlMSnHp8ugHhid4ZlROF.jpg",
+            "release_date": "1947-08-29",
+            "title": "Cynthia",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 5
+        }
+    ]
+}

@@ -1,0 +1,968 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2013",
+    "source": "https://criticstop10.com/best-movies-of-2013/",
+    "created_by": "lbnt",
+    "added": "07/18/25",
+    "modified": "07/18/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 76203,
+            "original_language": "en",
+            "original_title": "12 Years a Slave",
+            "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon\u2019s chance meeting with a Canadian abolitionist will forever alter his life.",
+            "popularity": 7.9022,
+            "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+            "release_date": "2013-10-18",
+            "title": "12 Years a Slave",
+            "video": false,
+            "vote_average": 7.939,
+            "vote_count": 11506
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/npFPqZeHlEPOlLEpykP6kuSsi6v.jpg",
+            "genre_ids": [
+                878,
+                53,
+                18
+            ],
+            "id": 49047,
+            "original_language": "en",
+            "original_title": "Gravity",
+            "overview": "Dr. Ryan Stone, a brilliant medical engineer, is on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.",
+            "popularity": 5.9979,
+            "poster_path": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+            "release_date": "2013-10-03",
+            "title": "Gravity",
+            "video": false,
+            "vote_average": 7.163,
+            "vote_count": 15676
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kdkCTC6Cl20TJSf4B1eIJXAFeXl.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 86829,
+            "original_language": "en",
+            "original_title": "Inside Llewyn Davis",
+            "overview": "In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.",
+            "popularity": 1.9062,
+            "poster_path": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+            "release_date": "2013-10-18",
+            "title": "Inside Llewyn Davis",
+            "video": false,
+            "vote_average": 7.189,
+            "vote_count": 2763
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zxttikp0SNEtF4vWsg70Vs6McFi.jpg",
+            "genre_ids": [
+                10749,
+                878,
+                18
+            ],
+            "id": 152601,
+            "original_language": "en",
+            "original_title": "Her",
+            "overview": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+            "popularity": 12.2387,
+            "poster_path": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+            "release_date": "2013-12-18",
+            "title": "Her",
+            "video": false,
+            "vote_average": 7.849,
+            "vote_count": 14627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/crdW75sDNYM0ddjFyrcg6V59qdP.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 132344,
+            "original_language": "en",
+            "original_title": "Before Midnight",
+            "overview": "It has been nine years since we last met Jesse and Celine, the French-American couple who once met on a train in Vienna. They now live in Paris with twin daughters but have spent a summer in Greece at the invitation of an author colleague of Jesse's. When the vacation is over and Jesse must send his teenage son off to the States, he begins to question his life decisions, and his relationship with Celine is at risk.",
+            "popularity": 2.0287,
+            "poster_path": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+            "release_date": "2013-04-05",
+            "title": "Before Midnight",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+            "genre_ids": [
+                80,
+                18,
+                35
+            ],
+            "id": 106646,
+            "original_language": "en",
+            "original_title": "The Wolf of Wall Street",
+            "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+            "popularity": 20.2106,
+            "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+            "release_date": "2013-12-25",
+            "title": "The Wolf of Wall Street",
+            "video": false,
+            "vote_average": 8.028,
+            "vote_count": 24776
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7cJ8oTVNwnVy8Enr2g8OHv8j3OB.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 168672,
+            "original_language": "en",
+            "original_title": "American Hustle",
+            "overview": "A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.",
+            "popularity": 3.7412,
+            "poster_path": "/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
+            "release_date": "2013-12-03",
+            "title": "American Hustle",
+            "video": false,
+            "vote_average": 6.854,
+            "vote_count": 7421
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tKRUCk2yARbAADLwwwrir6F5gpa.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 121986,
+            "original_language": "en",
+            "original_title": "Frances Ha",
+            "overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
+            "popularity": 3.9557,
+            "poster_path": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+            "release_date": "2013-05-17",
+            "title": "Frances Ha",
+            "video": false,
+            "vote_average": 7.353,
+            "vote_count": 1702
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1jLaJPdu7dMl0Nk3vLuafDx9PWS.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 123678,
+            "original_language": "id",
+            "original_title": "Jagal",
+            "overview": "In this chilling and groundbreaking documentary, former Indonesian death squad leaders reenact their real-life mass killings in the style of various film genres, from gangster epics to musicals. As they recreate their past atrocities, the line between reality and performance blurs, exposing the lingering impact of Indonesia’s 1965-66 anti-communist purge and the unsettling psychology of its perpetrators.",
+            "popularity": 1.4213,
+            "poster_path": "/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg",
+            "release_date": "2012-11-01",
+            "title": "The Act of Killing",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 699
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 152584,
+            "original_language": "fr",
+            "original_title": "La Vie d'Ad\u00e8le - Chapitres 1 et 2",
+            "overview": "Ad\u00e8le's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire, to assert herself as a woman and as an adult. In front of others, Adele grows, seeks herself, loses herself, finds herself.",
+            "popularity": 5.3976,
+            "poster_path": "/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+            "release_date": "2013-10-09",
+            "title": "Blue Is the Warmest Color",
+            "video": false,
+            "vote_average": 7.074,
+            "vote_count": 4685
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3eMxTkvHM6G1lHugBvFGVpcJFUa.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 122081,
+            "original_language": "en",
+            "original_title": "Spring Breakers",
+            "overview": "After four college girls rob a restaurant to fund their spring break in Florida, they get entangled with a weird dude with his own criminal agenda.",
+            "popularity": 1.9516,
+            "poster_path": "/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+            "release_date": "2013-03-06",
+            "title": "Spring Breakers",
+            "video": false,
+            "vote_average": 5.244,
+            "vote_count": 3903
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yePsFcldyZ6VnxaBr8ZbVEaOt4W.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 129670,
+            "original_language": "en",
+            "original_title": "Nebraska",
+            "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+            "popularity": 1.0314,
+            "poster_path": "/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
+            "release_date": "2013-09-21",
+            "title": "Nebraska",
+            "video": false,
+            "vote_average": 7.443,
+            "vote_count": 1812
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s1DqTGJ96V0Q8YxL9GZVkJi48jZ.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 145197,
+            "original_language": "en",
+            "original_title": "Upstream Color",
+            "overview": "A man and woman are drawn together, entangled in the lifecycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+            "popularity": 0.5312,
+            "poster_path": "/zeV2KXaluXjXAq9wBg6Q0LHJjNm.jpg",
+            "release_date": "2013-04-05",
+            "title": "Upstream Color",
+            "video": false,
+            "vote_average": 6.35,
+            "vote_count": 747
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fm0DYaSpo86VPxw2BU93w237WIl.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 128216,
+            "original_language": "en",
+            "original_title": "Stories We Tell",
+            "overview": "Canadian actress and filmmaker Sarah Polley investigates certain secrets related to her mother, interviewing a group of family members and friends whose reliability varies depending of their implication in the events, which are remembered in different ways; so a trail of questions remains to be answered, because memory is always changing and the discovery of truth often depends on who is telling the tale.",
+            "popularity": 0.7003,
+            "poster_path": "/aVDtDW3qP0je1Cy87GDfijG9W4c.jpg",
+            "release_date": "2012-10-12",
+            "title": "Stories We Tell",
+            "video": false,
+            "vote_average": 7.086,
+            "vote_count": 216
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tGy0zyeljUFV20qjVmAigwnlWKv.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "id": 152747,
+            "original_language": "en",
+            "original_title": "All Is Lost",
+            "overview": "During a solo voyage in the Indian Ocean, a veteran mariner awakes to find his vessel taking on water after a collision with a stray shipping container. With his radio and navigation equipment disabled, he sails unknowingly into a violent storm and barely escapes with his life. With any luck, the ocean currents may carry him into a shipping lane -- but, with supplies dwindling and the sharks circling, the sailor is forced to face his own mortality.",
+            "popularity": 2.3075,
+            "poster_path": "/9cVA4oX2xHgiglv6hemxwAaofsq.jpg",
+            "release_date": "2013-08-23",
+            "title": "All Is Lost",
+            "video": false,
+            "vote_average": 6.646,
+            "vote_count": 1647
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 109424,
+            "original_language": "en",
+            "original_title": "Captain Phillips",
+            "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+            "popularity": 5.9162,
+            "poster_path": "/gAH73mMU7rgGZrpYkFYgFgSNHs5.jpg",
+            "release_date": "2013-10-10",
+            "title": "Captain Phillips",
+            "video": false,
+            "vote_average": 7.539,
+            "vote_count": 7112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6cgrh6dggt3Bv37PlmNi4FrlvE5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 160588,
+            "original_language": "en",
+            "original_title": "Blue Jasmine",
+            "overview": "After experiencing a traumatic misfortune, Jasmine French, a wealthy woman from New York, moves to San Francisco to live with her foster sister Ginger and the firm purpose of getting a new life, but she will be haunted by anxiety and memories of the past.",
+            "popularity": 2.2088,
+            "poster_path": "/nsj0RLRI10351uYMoAKPur6Derd.jpg",
+            "release_date": "2013-08-01",
+            "title": "Blue Jasmine",
+            "video": false,
+            "vote_average": 6.986,
+            "vote_count": 3505
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jcMwL3hE5mXl9o2nMJrTzyw7iXl.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 169813,
+            "original_language": "en",
+            "original_title": "Short Term 12",
+            "overview": "Grace, a compassionate young supervisor at a foster care facility, helps at-risk teens. But when a new charge dredges up memories of her own troubled past, Grace's tough exterior begins eroding.",
+            "popularity": 1.2732,
+            "poster_path": "/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg",
+            "release_date": "2013-08-23",
+            "title": "Short Term 12",
+            "video": false,
+            "vote_average": 7.767,
+            "vote_count": 1334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t7tTQoBZu66f2NkYr6ViwYn0Cz8.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 127962,
+            "original_language": "en",
+            "original_title": "Leviathan",
+            "overview": "An experimental portrait of the North American commercial fishing industry through the lens of GoPro cameras placed on a fishing vessel off the coast of New England.",
+            "popularity": 0.5656,
+            "poster_path": "/yU626BbyIZ4VraJJuFwXHEhcEK3.jpg",
+            "release_date": "2012-08-09",
+            "title": "Leviathan",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
+            "genre_ids": [
+                35,
+                28,
+                878
+            ],
+            "id": 107985,
+            "original_language": "en",
+            "original_title": "The World's End",
+            "overview": "Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind's only hope for survival.",
+            "popularity": 4.1724,
+            "poster_path": "/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg",
+            "release_date": "2013-07-18",
+            "title": "The World's End",
+            "video": false,
+            "vote_average": 6.809,
+            "vote_count": 5566
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t4ERc7gpM3CVcBglUFLWFuhECo.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 103731,
+            "original_language": "en",
+            "original_title": "Mud",
+            "overview": "Two teenage boys find a fugitive hiding out on an island in the Mississippi River and help him reunite with his lover and escape an avenging family and their armed posse.",
+            "popularity": 1.8725,
+            "poster_path": "/o2jT5jQdKh1HAF0fMKuGwBOwOYB.jpg",
+            "release_date": "2013-04-26",
+            "title": "Mud",
+            "video": false,
+            "vote_average": 7.059,
+            "vote_count": 2892
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h2gBrCEG6p38rFphJp7i5OBwF29.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 187022,
+            "original_language": "zh",
+            "original_title": "\u5929\u6ce8\u5b9a",
+            "overview": "Four independent stories set in modern China about random acts of violence.",
+            "popularity": 1.8709,
+            "poster_path": "/6I6XVBrUYBWPDPMdk647VvTSNqx.jpg",
+            "release_date": "2013-10-04",
+            "title": "A Touch of Sin",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u0nAnvRdzAGgDYLyfIbAUBDOcpb.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 157354,
+            "original_language": "en",
+            "original_title": "Fruitvale Station",
+            "overview": "Oakland, California. Young Afro-American Oscar Grant crosses paths with family members, friends, enemies and strangers before facing his fate on the platform at Fruitvale Station, in the early morning hours of New Year's Day 2009.",
+            "popularity": 1.765,
+            "poster_path": "/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
+            "release_date": "2013-07-26",
+            "title": "Fruitvale Station",
+            "video": false,
+            "vote_average": 7.363,
+            "vote_count": 1334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ayt7zr2y1m5yKodLtN3xD3JZXpR.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 179144,
+            "original_language": "it",
+            "original_title": "La grande bellezza",
+            "overview": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.",
+            "popularity": 1.5599,
+            "poster_path": "/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg",
+            "release_date": "2013-05-21",
+            "title": "The Great Beauty",
+            "video": false,
+            "vote_average": 7.507,
+            "vote_count": 3168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 152532,
+            "original_language": "en",
+            "original_title": "Dallas Buyers Club",
+            "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
+            "popularity": 3.4409,
+            "poster_path": "/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+            "release_date": "2013-11-01",
+            "title": "Dallas Buyers Club",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 8671
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u6qCQg2iasr3PI4Fn7KtqGWwiuu.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 158743,
+            "original_language": "en",
+            "original_title": "Computer Chess",
+            "overview": "At the American Computer Chess Convention, enthusiasts gather to pit their programs against other computer chess programs and human players in a tournament for a grand prize of $7500.",
+            "popularity": 0.3887,
+            "poster_path": "/13lK8Ytp218J0mPullUzpvHjNrX.jpg",
+            "release_date": "2013-07-17",
+            "title": "Computer Chess",
+            "video": false,
+            "vote_average": 6.065,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uiSZ6Wb6DKK6EhkGftkomCjHA6c.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 128133,
+            "original_language": "en",
+            "original_title": "Museum Hours",
+            "overview": "A security guard working at an art museum in Vienna crosses paths with a Canadian woman in town to visit her ailing cousin.",
+            "popularity": 0.15,
+            "poster_path": "/6iiBrKR7FeBY7HuRNkkPNDs01yC.jpg",
+            "release_date": "2012-08-08",
+            "title": "Museum Hours",
+            "video": false,
+            "vote_average": 6.857,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 146233,
+            "original_language": "en",
+            "original_title": "Prisoners",
+            "overview": "Keller Dover is facing every parent\u2019s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
+            "popularity": 20.4543,
+            "poster_path": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+            "release_date": "2013-09-19",
+            "title": "Prisoners",
+            "video": false,
+            "vote_average": 8.098,
+            "vote_count": 12275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fxWzL0TrIAHYRauGNvF0Qg3tsKo.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 209263,
+            "original_language": "en",
+            "original_title": "Enough Said",
+            "overview": "Eva is a divorced soon-to-be empty-nester wondering about her next act. Then she meets Marianne, the embodiment of her perfect self. Armed with a restored outlook on being middle-aged and single, Eva decides to take a chance on her new love interest Albert \u2014 a sweet, funny and like-minded man. But things get complicated when Eva discovers that Albert is in fact the dreaded ex\u2013husband of Marianne...",
+            "popularity": 1.1014,
+            "poster_path": "/p5naJg0K8xF0h0HWEfiz6rc9lC4.jpg",
+            "release_date": "2013-09-18",
+            "title": "Enough Said",
+            "video": false,
+            "vote_average": 6.715,
+            "vote_count": 868
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xy5YazEiPb3Nij6TUEP9Dq3LDhp.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 157386,
+            "original_language": "en",
+            "original_title": "The Spectacular Now",
+            "overview": "Sutter, a popular party animal, unexpectedly meets the introverted Aimee after waking up on a stranger's lawn. As Sutter deals with the problems in his life and Aimee plans for her future beyond school, an unexpected romance blossoms between them.",
+            "popularity": 3.1027,
+            "poster_path": "/tYDbDuZ3K4Xwp3cwtmZM6k53bwq.jpg",
+            "release_date": "2013-08-02",
+            "title": "The Spectacular Now",
+            "video": false,
+            "vote_average": 6.669,
+            "vote_count": 2911
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                27
+            ],
+            "id": 211865,
+            "original_language": "en",
+            "original_title": "The Hunt",
+            "overview": "A father son hunting trip... what could go wrong?",
+            "popularity": 0.1327,
+            "poster_path": null,
+            "release_date": "2013-02-22",
+            "title": "The Hunt",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wkW5M8ODLhrgLX5rIIy2PKq5dLT.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 60281,
+            "original_language": "en",
+            "original_title": "To the Wonder",
+            "overview": "After falling in love in Paris, Marina and Neil come to Oklahoma, where problems arise. Their church's Spanish-born pastor struggles with his faith, while Neil encounters a woman from his childhood.",
+            "popularity": 0.8406,
+            "poster_path": "/wH9k8A3RBZ8Pjjq4J1CZSXAnCKJ.jpg",
+            "release_date": "2013-02-22",
+            "title": "To the Wonder",
+            "video": false,
+            "vote_average": 5.817,
+            "vote_count": 511
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9CIG8zW5iyxjSjNDF7hK74rsky8.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 102001,
+            "original_language": "ja",
+            "original_title": "Like Someone in Love",
+            "overview": "An old man and a young woman meet in Tokyo. She knows nothing about him, he thinks he knows her. He welcomes her into his home, she offers him her body. But the web that is woven between them in the space of twenty four hours bears no relation to the circumstances of their encounter.",
+            "popularity": 0.7381,
+            "poster_path": "/j1gotCDkKFmMdcSagxBUGalVbtt.jpg",
+            "release_date": "2012-09-15",
+            "title": "Like Someone in Love",
+            "video": false,
+            "vote_average": 6.889,
+            "vote_count": 252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u2bZhH3nTf0So0UIC1QxAqBvC07.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14
+            ],
+            "id": 109445,
+            "original_language": "en",
+            "original_title": "Frozen",
+            "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa\u2019s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+            "popularity": 19.2494,
+            "poster_path": "/mbPrrbt8bSLcHSBCHnRclPlMZPl.jpg",
+            "release_date": "2013-11-20",
+            "title": "Frozen",
+            "video": false,
+            "vote_average": 7.248,
+            "vote_count": 16951
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/938lqhAQaO3hmLg44VbUR7OqlMs.jpg",
+            "genre_ids": [
+                18,
+                16,
+                10749,
+                10752,
+                36
+            ],
+            "id": 149870,
+            "original_language": "ja",
+            "original_title": "\u98a8\u7acb\u3061\u306c",
+            "overview": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane.",
+            "popularity": 5.2448,
+            "poster_path": "/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg",
+            "release_date": "2013-07-20",
+            "title": "The Wind Rises",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 3149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lW2gABmLW92WigMIILrQPaLv8KR.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 86825,
+            "original_language": "en",
+            "original_title": "Stoker",
+            "overview": "After India Stoker's father dies, her Uncle Charlie, who she never knew existed, comes to live with her and her unstable mother. She comes to suspect this mysterious, charming man has ulterior motives and becomes increasingly infatuated with him.",
+            "popularity": 1.5565,
+            "poster_path": "/sdmykiEBpNivXMeuxaEwyc0vxyM.jpg",
+            "release_date": "2013-02-28",
+            "title": "Stoker",
+            "video": false,
+            "vote_average": 6.641,
+            "vote_count": 2289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/H4mLTEtxBpjuMRNyL0MVqw1EdN.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 44865,
+            "original_language": "zh",
+            "original_title": "\u4e00\u4ee3\u5b97\u5e2b",
+            "overview": "Ip Man's peaceful life in Foshan changes after Gong Yutian seeks an heir for his family in Southern China. Ip Man then meets Gong Er who challenges him for the sake of regaining her family's honor. After the Second Sino-Japanese War, Ip Man moves to Hong Kong and struggles to provide for his family. In the mean time, Gong Er chooses the path of vengeance after her father was killed by Ma San.",
+            "popularity": 2.9715,
+            "poster_path": "/ydBVVIscL6TsX5hYztA5YpBCwJ3.jpg",
+            "release_date": "2013-01-10",
+            "title": "The Grandmaster",
+            "video": false,
+            "vote_average": 6.626,
+            "vote_count": 908
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ntByA3NCoOo5li0lYzs7WCNXsCT.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 548639,
+            "original_language": "en",
+            "original_title": "The Pastor and Mrs. Jones",
+            "overview": "On the eve of his wedding day, Pastor Jones' soon-to-be wife develops cold feet when secrets are revealed, and he must reassure her of his affection.",
+            "popularity": 0.191,
+            "poster_path": "/5IeGW6sVhF2xIvgQ4ajlJrkpE7W.jpg",
+            "release_date": "2013-02-12",
+            "title": "The Pastor and Mrs. Jones",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1H7wh4VomucZUtaHDXVVUA5uNVw.jpg",
+            "genre_ids": [
+                28,
+                18,
+                80
+            ],
+            "id": 110410,
+            "original_language": "cn",
+            "original_title": "\u6bd2\u6230",
+            "overview": "A drug cartel boss is arrested in a raid and coerced into betraying his former accomplices as part of an undercover operation.",
+            "popularity": 1.0389,
+            "poster_path": "/2ndg350jismgWwag7RrDHb6zGo4.jpg",
+            "release_date": "2012-11-15",
+            "title": "Drug War",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qnYwh0tGs0wvjkf7pGPr3TmVFh6.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 97367,
+            "original_language": "en",
+            "original_title": "The Place Beyond the Pines",
+            "overview": "A motorcycle stunt rider considers committing a crime in order to provide for his wife and child, an act that puts him on a collision course with a cop-turned-politician.",
+            "popularity": 3.57,
+            "poster_path": "/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+            "release_date": "2013-03-20",
+            "title": "The Place Beyond the Pines",
+            "video": false,
+            "vote_average": 6.977,
+            "vote_count": 4959
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iprzo263c5kGIBYidwvB5D2lH6v.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 109414,
+            "original_language": "en",
+            "original_title": "This Is the End",
+            "overview": "While attending a party at James Franco's house, Seth Rogen, Jay Baruchel and many other celebrities are faced with the apocalypse.",
+            "popularity": 4.8657,
+            "poster_path": "/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg",
+            "release_date": "2013-06-12",
+            "title": "This Is the End",
+            "video": false,
+            "vote_average": 6.232,
+            "vote_count": 6518
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kC7YmW69fEdM0cazeVIVdmj7644.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 103740,
+            "original_language": "ro",
+            "original_title": "Dup\u0103 dealuri",
+            "overview": "Alina returns to Romania from Germany, hoping to bring Voichita\u2014the only person in the world she loves and was loved by\u2014back with her. But Voichita has found God, and God is the hardest lover of all to best.",
+            "popularity": 0.5405,
+            "poster_path": "/zV2v5jFXlN2We3GS2IkGQ6e2Bmm.jpg",
+            "release_date": "2012-09-12",
+            "title": "Beyond the Hills",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eyn0vuN4IZjImE5Dws0iPhZrCMc.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 205220,
+            "original_language": "en",
+            "original_title": "Philomena",
+            "overview": "A woman searches for her adult son, who was taken away from her decades ago when she was forced to live in a convent.",
+            "popularity": 2.2658,
+            "poster_path": "/eBUv2GmGdXmCk1AaSOmyiu70hN8.jpg",
+            "release_date": "2013-11-01",
+            "title": "Philomena",
+            "video": false,
+            "vote_average": 7.349,
+            "vote_count": 1639
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ukKnj6ne3wVQuYLM2DMzwTh2f17.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 179109,
+            "original_language": "fr",
+            "original_title": "Les Salauds",
+            "overview": "Marco returns to Paris after his brother-in-law's suicide, where he targets the man his sister believes caused the tragedy \u2013 though he is ill-prepared for her secrets as they quickly muddy the waters.",
+            "popularity": 1.0755,
+            "poster_path": "/zSgi7jVGP8jNMhAUpU2v34eaxcS.jpg",
+            "release_date": "2013-08-07",
+            "title": "Bastards",
+            "video": false,
+            "vote_average": 5.773,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o1MstLw9ARhWdBPDZMDlaRgK3is.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 140823,
+            "original_language": "en",
+            "original_title": "Saving Mr. Banks",
+            "overview": "Author P.L. Travers looks back on her childhood while reluctantly meeting with Walt Disney, who seeks to adapt her Mary Poppins books for the big screen.",
+            "popularity": 2.3618,
+            "poster_path": "/4RkcUe5PKnYvrCwMjk8giUAoID7.jpg",
+            "release_date": "2013-11-29",
+            "title": "Saving Mr. Banks",
+            "video": false,
+            "vote_average": 7.348,
+            "vote_count": 3359
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/14FK4FjArsTdpmbqwlROrWA4Npl.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 101299,
+            "original_language": "en",
+            "original_title": "The Hunger Games: Catching Fire",
+            "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
+            "popularity": 10.0883,
+            "poster_path": "/qdXXEFGuLLfMWa1DGEkWFUo8Zwd.jpg",
+            "release_date": "2013-11-15",
+            "title": "The Hunger Games: Catching Fire",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 17765
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "id": 96721,
+            "original_language": "en",
+            "original_title": "Rush",
+            "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+            "popularity": 14.6649,
+            "poster_path": "/kmusuTahCEBrTgdO69sY13gfxBw.jpg",
+            "release_date": "2013-09-02",
+            "title": "Rush",
+            "video": false,
+            "vote_average": 7.728,
+            "vote_count": 7390
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ig7qUy7drkEFZNCK7gi0hMn1WMN.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 68726,
+            "original_language": "en",
+            "original_title": "Pacific Rim",
+            "overview": "Using massive piloted robots to combat the alien threat, earth's survivors take the fight to the invading alien force lurking in the depths of the Pacific Ocean. Nearly defenseless in the face of the relentless enemy, the forces of mankind have no choice but to turn to two unlikely heroes who now stand as earth's final hope against the mounting apocalypse.",
+            "popularity": 12.8084,
+            "poster_path": "/mmznhaQDwlHWpUwKuNxtQiubbmM.jpg",
+            "release_date": "2013-07-11",
+            "title": "Pacific Rim",
+            "video": false,
+            "vote_average": 6.911,
+            "vote_count": 12761
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pYxLP0MWvhMG1Sx852N2PT8F3zf.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 84330,
+            "original_language": "en",
+            "original_title": "Room 237",
+            "overview": "A subjective documentary that explores various theories about hidden meanings in Stanley Kubrick's classic film The Shining. Five very different points of view are illuminated through voice over, film clips, animation and dramatic reenactments.",
+            "popularity": 0.8892,
+            "poster_path": "/wPXxJSz36VjAkxa4MZ0C28uOdwA.jpg",
+            "release_date": "2012-10-26",
+            "title": "Room 237",
+            "video": false,
+            "vote_average": 6.147,
+            "vote_count": 504
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bPm5kQLlc2KypdYkUxGbrGfLJ82.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 147773,
+            "original_language": "en",
+            "original_title": "The Way Way Back",
+            "overview": "Shy 14-year-old Duncan goes on summer vacation with his mother, her overbearing boyfriend, and her boyfriend's daughter. Having a rough time fitting in, Duncan finds an unexpected friend in Owen, manager of the Water Wizz water park.",
+            "popularity": 2.5171,
+            "poster_path": "/4DgA0EDDVv37C8xISc3Vv0rhxlL.jpg",
+            "release_date": "2013-06-06",
+            "title": "The Way Way Back",
+            "video": false,
+            "vote_average": 7.135,
+            "vote_count": 1838
+        }
+    ]
+}

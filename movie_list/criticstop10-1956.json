@@ -1,0 +1,782 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1956",
+    "source": "https://criticstop10.com/best-movies-of-1956/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/lj7aURTTktw8IRXiV1WYCxdEBKX.jpg",
+            "genre_ids": [
+                12,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 2897,
+            "original_language": "en",
+            "original_title": "Around the World in Eighty Days",
+            "overview": "Based on the famous book by Jules Verne the movie follows Phileas Fogg on his journey around the world. Which has to be completed within 80 days, a very short period for those days.",
+            "popularity": 2.6027,
+            "poster_path": "/kk6Rrwh0toMz9tjuUHdS4O3v2Rk.jpg",
+            "release_date": "1956-10-17",
+            "title": "Around the World in Eighty Days",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 533
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gjFI54BO9f6eZ2iQyNDhgVVnUCJ.jpg",
+            "genre_ids": [
+                10402,
+                10749,
+                36
+            ],
+            "id": 16520,
+            "original_language": "en",
+            "original_title": "The King and I",
+            "overview": "Widowed Welsh mother Anna Loenowens becomes a governess and English tutor to the wives and many children of the stubborn King Mongkut of Siam. Anna and the King have a clash of personalities as she works to teach the royal family about the English language, customs and etiquette, and rushes to prepare a party for a group of European diplomats who must change their opinions about the King.",
+            "popularity": 1.5199,
+            "poster_path": "/wUfaP0lLaMpZzp5CrHyII5Vd7cp.jpg",
+            "release_date": "1956-06-29",
+            "title": "The King and I",
+            "video": false,
+            "vote_average": 7.067,
+            "vote_count": 388
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 1712,
+            "original_language": "en",
+            "original_title": "Giant",
+            "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations.",
+            "popularity": 2.2244,
+            "poster_path": "/oQ1Arue52pFLSvvwfcNTy16hTCG.jpg",
+            "release_date": "1956-11-08",
+            "title": "Giant",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 715
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wVNkaSBX3gHk1zGZ3XaI0ycoJvY.jpg",
+            "genre_ids": [
+                10752,
+                10749,
+                18,
+                36
+            ],
+            "id": 11706,
+            "original_language": "en",
+            "original_title": "War and Peace",
+            "overview": "The love story of young Countess Natasha Rostova and Count Pierre Bezukhov is interwoven with the Great Patriotic War of 1812 against Napoleon's invading army.",
+            "popularity": 1.3637,
+            "poster_path": "/cIh7pBAjzxrJYNRt1JcQPFReF36.jpg",
+            "release_date": "1956-08-21",
+            "title": "War and Peace",
+            "video": false,
+            "vote_average": 6.671,
+            "vote_count": 245
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vRkB3lYI26YjXvMEc8IvxM45h8X.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 43258,
+            "original_language": "en",
+            "original_title": "Friendly Persuasion",
+            "overview": "The story of a family of Quakers in Indiana in 1862. Their religious sect is strongly opposed to violence and war. It's not easy for them to meet the rules of their religion in everyday life but when Southern troops pass the area they are in real trouble. Should they fight, despite their peaceful attitude?",
+            "popularity": 1.0083,
+            "poster_path": "/mhsdObvFHoOfgaKAVJUOeK3LiOP.jpg",
+            "release_date": "1956-10-30",
+            "title": "Friendly Persuasion",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z29SCOPlLUX8NkmofgFnuTH9OyK.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 38171,
+            "original_language": "en",
+            "original_title": "Anastasia",
+            "overview": "Russian exiles in Paris plot to collect ten million pounds from the Bank of England by grooming a destitute, suicidal girl to pose as heir to the Russian throne. While Bounin is coaching her, he comes to believe that she is really Anastasia. In the end, the Empress must decide her claim.",
+            "popularity": 0.8676,
+            "poster_path": "/26wHOXNt4XNn2lYT8i8pWx1JOP0.jpg",
+            "release_date": "1956-12-13",
+            "title": "Anastasia",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lbuYAwwTuqiWgpzlxMMPrYkUop4.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 10339,
+            "original_language": "en",
+            "original_title": "Moby Dick",
+            "overview": "In 1841, young Ishmael signs up for service aboard the Pequod, a whaler sailing out of New Bedford. The ship is under the command of Captain Ahab, a strict disciplinarian who exhorts his men to find Moby Dick, the great white whale. Ahab lost his leg to that creature and is desperate for revenge. As the crew soon learns, he will stop at nothing to gain satisfaction.",
+            "popularity": 2.2131,
+            "poster_path": "/7JXcm3RyWlGsRCZ0YlOliWr6TNv.jpg",
+            "release_date": "1956-06-27",
+            "title": "Moby Dick",
+            "video": false,
+            "vote_average": 7.058,
+            "vote_count": 434
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pI4l6pRclnUWUSE1YGbLghvymCc.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 39940,
+            "original_language": "en",
+            "original_title": "Picnic",
+            "overview": "Labor Day in a small Kansas farm town. Hal, a burly and resolute drifter, jumps off a dusty freight train car with the purpose of visiting Alan, a former college classmate and son of the richest man in town.",
+            "popularity": 0.8757,
+            "poster_path": "/aKCSA9JUp9JkztAjzODPTrtZmzC.jpg",
+            "release_date": "1955-11-18",
+            "title": "Picnic",
+            "video": false,
+            "vote_average": 6.314,
+            "vote_count": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 6844,
+            "original_language": "en",
+            "original_title": "The Ten Commandments",
+            "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+            "popularity": 5.7844,
+            "poster_path": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+            "release_date": "1956-10-05",
+            "title": "The Ten Commandments",
+            "video": false,
+            "vote_average": 7.768,
+            "vote_count": 1726
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wctxBDWTdEeoLKthprWKSLn535d.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 63096,
+            "original_language": "en",
+            "original_title": "Tea and Sympathy",
+            "overview": "A sensitive young man recalls his time in boarding school when the only person who seemed compassionate towards with him was his housemaster's wife.",
+            "popularity": 0.4519,
+            "poster_path": "/vkaMwVQKStFH5a311wCRF3io67B.jpg",
+            "release_date": "1956-09-27",
+            "title": "Tea and Sympathy",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/94Svsxxbww7xR7LrfDIjlQpJUeY.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 29592,
+            "original_language": "en",
+            "original_title": "Lust for Life",
+            "overview": "An intense and imaginative artist, revered Dutch painter Vincent van Gogh possesses undeniable talent, but he is plagued by mental problems and frustrations with failure. Supported by his brother, Theo, the tormented Van Gogh eventually leaves Holland for France, where he meets volatile fellow painter Paul Gauguin and struggles to find greater inspiration.",
+            "popularity": 1.1233,
+            "poster_path": "/rlK3LG3W41eF3N1tk0SEM7Dln2x.jpg",
+            "release_date": "1956-09-15",
+            "title": "Lust for Life",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gb7CnfONI8mWuUsxuqkafWEO71N.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 69605,
+            "original_language": "en",
+            "original_title": "Written on the Wind",
+            "overview": "Mitch Wayne is a geologist working for the Hadleys, an oil-rich Texas family. While the patriarch, Jasper, works hard to establish the family business, his irresponsible son, Kyle, is an alcoholic playboy, and his daughter, Marylee, is the town tramp. Mitch harbors a secret love for Kyle's unsatisfied wife, Lucy -- a fact that leaves him exposed when the jealous Marylee accuses him of murder.",
+            "popularity": 0.7843,
+            "poster_path": "/paeBU70fHsFAOooWM5V35q562f2.jpg",
+            "release_date": "1956-10-04",
+            "title": "Written on the Wind",
+            "video": false,
+            "vote_average": 6.959,
+            "vote_count": 243
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jKFN4ycQ7cE8zSiVipfFslNYvHn.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 11424,
+            "original_language": "en",
+            "original_title": "High Society",
+            "overview": "With socialite Tracy Lord about to remarry, her ex-husband - with the help of a sympathetic reporter - has 48 hours to convince her that she really still loves him.",
+            "popularity": 1.5453,
+            "poster_path": "/4H224rVxChPrYVvR3E0VPV8zdlO.jpg",
+            "release_date": "1956-07-17",
+            "title": "High Society",
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lSFjxHcbFnZb9gh6VJvsZ9t4d70.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 40494,
+            "original_language": "en",
+            "original_title": "Trapeze",
+            "overview": "A pair of men try to perform the dangerous \"triple\" in their trapeze act. Problems arise when the duo is made into a trio following the addition of a sexy female performer.",
+            "popularity": 0.8565,
+            "poster_path": "/3EZKz21OMvvyYg3UqZ3BBzHjWiq.jpg",
+            "release_date": "1956-05-30",
+            "title": "Trapeze",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Pl47mB0Jnrg4oHoO0sVdJ6WMRL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 405,
+            "original_language": "it",
+            "original_title": "La strada",
+            "overview": "When Gelsomina, a na\u00efve young woman, is purchased from her impoverished mother by brutish circus strongman Zampan\u00f2 to be his wife and partner, she loyally endures her husband's coldness and abuse as they travel the Italian countryside performing together. Soon Zampan\u00f2 must deal with his jealousy and conflicted feelings about Gelsomina when she finds a kindred spirit in Il Matto, the carefree circus fool, and contemplates leaving Zampan\u00f2.",
+            "popularity": 1.3705,
+            "poster_path": "/rwjbT0zlsUDMztaCcWjlWuxaEL1.jpg",
+            "release_date": "1954-09-23",
+            "title": "La Strada",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Le00JbfjDA3Gc5wJDKunmZLJZq.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 24010,
+            "original_language": "en",
+            "original_title": "Bus Stop",
+            "overview": "Cowboys Beauregard Decker and Virgil Blessing attend a rodeo in Phoenix, where Decker falls in love with beautiful cafe singer Cherie. He wants to take Cherie back to his native Montana and marry her, but she dreams of traveling to Hollywood and becoming famous. When she resists his advances, Decker forces Cherie onto the bus back to Montana with him, but, when the bus makes an unscheduled stop due to bad weather, the tables are turned.",
+            "popularity": 0.9787,
+            "poster_path": "/oXZiz5zIyynjQMJMBbXijS4434z.jpg",
+            "release_date": "1956-08-31",
+            "title": "Bus Stop",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 226
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oaGEEOWIcWqbPrYIsbHyxuPijJF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28290,
+            "original_language": "en",
+            "original_title": "The Man in the Gray Flannel Suit",
+            "overview": "Tom Rath is a suburban father and husband haunted by his memories of World War II, including a wartime romance with Italian village girl Maria, which resulted in an illegitimate son he's never seen. Pressed by his unhappy wife to get a higher-paying job, Rath goes to work as a public relations man for television network president Ralph Hopkins. Drawn into poisonous office politics, Tom finds he must choose his career or his family.",
+            "popularity": 0.6226,
+            "poster_path": "/zSsJcyfufRUx7eJ74NiW4Wiochc.jpg",
+            "release_date": "1956-04-12",
+            "title": "The Man in the Gray Flannel Suit",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s4wIZuM5NV0GRJONVPyXarcjWp1.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 28100,
+            "original_language": "en",
+            "original_title": "Carousel",
+            "overview": "Billy Bigelow has been dead for 15 years. Now outside the pearly gates, he long ago waived his right to go back to Earth for a day. He has heard that there is a problem with his family: namely with his wife Julie Bigelow, n\u00e9e Jordan, and his child he hasn't met. He would now like to head back to Earth to assist in rectifying the problem; but before he may go, he has to get permission from the gatekeeper by telling him his story. Adapted from the Rodgers and Hammerstein hit Broadway musical.",
+            "popularity": 0.6567,
+            "poster_path": "/1W7X2rHPTqzfYG5dZbvWcR5MzUs.jpg",
+            "release_date": "1956-02-16",
+            "title": "Carousel",
+            "video": false,
+            "vote_average": 5.294,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/myTbCq45n29mJQMcSefcfwgXYAl.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 78331,
+            "original_language": "en",
+            "original_title": "The Solid Gold Cadillac",
+            "overview": "Laura Partridge is a very enthusiastic small stockholder of 10 shares in International Projects, a large corporation based in New York. She attends her first stockholder meeting ready to question the board of directors from their salaries to their operations.",
+            "popularity": 0.3049,
+            "poster_path": "/ennpt6fPoCQSzULMr6oK1CXtIx2.jpg",
+            "release_date": "1956-08-22",
+            "title": "The Solid Gold Cadillac",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bXPKTWAuRO8Mu5rLCORFagX0YZ1.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 574,
+            "original_language": "en",
+            "original_title": "The Man Who Knew Too Much",
+            "overview": "A couple vacationing in Morocco with their young son accidentally stumble upon an assassination plot. When the child is kidnapped to ensure their silence, they have to take matters into their own hands to save him.",
+            "popularity": 2.2938,
+            "poster_path": "/gy8YBRjCQRIT9x9G9F5fpnFD4xw.jpg",
+            "release_date": "1956-05-16",
+            "title": "The Man Who Knew Too Much",
+            "video": false,
+            "vote_average": 7.456,
+            "vote_count": 1464
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pIMNDAeuhcKj78aGEUn0Vu7jtDZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28000,
+            "original_language": "en",
+            "original_title": "Somebody Up There Likes Me",
+            "overview": "The story of boxer Rocky Graziano's rise from juvenile delinquent to world champ.",
+            "popularity": 0.9519,
+            "poster_path": "/pyuqFqGJZuhFDAWCSCmRTdyJVQ9.jpg",
+            "release_date": "1956-07-04",
+            "title": "Somebody Up There Likes Me",
+            "video": false,
+            "vote_average": 7.246,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mhaQ6QLCIh3Bi6tsrNQYfuM5Ul4.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 118264,
+            "original_language": "en",
+            "original_title": "Full of Life",
+            "overview": "A father-in-law's visit makes life even more complicated for a struggling writer and his pregnant wife. Director Richard Quine's 1956 film stars Judy Holliday, Richard Conte and Salvatore Baccaloni.",
+            "popularity": 0.2272,
+            "poster_path": "/hkbd99kv8dJ8o6fgmbBMifzL6yu.jpg",
+            "release_date": "1956-12-25",
+            "title": "Full of Life",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7CZRjhX7LIqljczO2GiX1R5a39m.jpg",
+            "genre_ids": [
+                99,
+                12
+            ],
+            "id": 60234,
+            "original_language": "fr",
+            "original_title": "Le Monde du silence",
+            "overview": "Join renowned explorer Jacques-Yves Cousteau as he investigates aquatic habitats worldwide, showcasing whales, sharks, and diverse marine life. The film highlights the brutal realities of nature while capturing the wonder of underwater exploration, as the team ventures into previously unseen ocean depths.",
+            "popularity": 0.8345,
+            "poster_path": "/ys1AiQJbQPNimud1kZQ91FgOJLR.jpg",
+            "release_date": "1956-02-15",
+            "title": "The Silent World",
+            "video": false,
+            "vote_average": 6.409,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 3114,
+            "original_language": "en",
+            "original_title": "The Searchers",
+            "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+            "popularity": 2.7547,
+            "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+            "release_date": "1956-05-16",
+            "title": "The Searchers",
+            "video": false,
+            "vote_average": 7.702,
+            "vote_count": 1481
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wLx7DUmPu2S6jPlhyfdnEWYLlb5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28528,
+            "original_language": "en",
+            "original_title": "The Harder They Fall",
+            "overview": "Jobless sportswriter Eddie Willis is hired by corrupt fight promoter Nick Benko to promote his current prot\u00e9g\u00e9, an unknown Argentinian boxer named Toro Moreno. Although Moreno is a hulking giant, his chances for success are hampered by a powder-puff punch and a glass jaw. Exploiting Willis' reputation for integrity and standing in the boxing community, Benko arranges a series of fixed fights that propel the unsophisticated Moreno to #1 contender for the championship. The reigning champ, the sadistic Buddy Brannen, harbors resentment at the publicity Toro has been receiving and vows to viciously punish him in the ring. Eddie must now decide whether or not to tell the naive Toro the truth.",
+            "popularity": 1.5638,
+            "poster_path": "/93pUA2kAOeVlyvO1EeW8YmYIapt.jpg",
+            "release_date": "1956-05-08",
+            "title": "The Harder They Fall",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 142
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kedP4CNpzOzS6mkttq31mVwIFZz.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 32087,
+            "original_language": "en",
+            "original_title": "Attack",
+            "overview": "Battle of the Bulge, World War II, 1944. Lieutenant Costa, an infantry company officer who must establish artillery observation posts in a strategic area, has serious doubts about Captain Cooney's leadership ability.",
+            "popularity": 4.1462,
+            "poster_path": "/7r2MrvqqpvUfaIjxlQx0wx5o3Qe.jpg",
+            "release_date": "1956-09-19",
+            "title": "Attack",
+            "video": false,
+            "vote_average": 6.76,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nXvF27feIPaYMS8RGnLubeKcOjW.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 5506,
+            "original_language": "en",
+            "original_title": "The Ladykillers",
+            "overview": "Five oddball criminals planning a bank robbery rent rooms on a cul-de-sac from an octogenarian widow under the pretext that they are classical musicians.",
+            "popularity": 1.1829,
+            "poster_path": "/9LJ6ZV59Q92LAJAbmb7xm9dUBGU.jpg",
+            "release_date": "1955-12-08",
+            "title": "The Ladykillers",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 501
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iF7wxLmiudwxrPoFF0f4QZVuoeT.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 40478,
+            "original_language": "en",
+            "original_title": "Baby Doll",
+            "overview": "Archie Lee Meighan is a failing cotton gin owner who is married to Baby Doll, a 19-year old childlike beauty whose father arranged the marriage for financial reasons. As Archie awaits the arrival of Baby Doll's 20th birthday, the day that they are supposed to consummate their marriage, he faces interference from business rival Silva Vacarro, who plots to seduce Baby Doll away from Meighan.",
+            "popularity": 0.8725,
+            "poster_path": "/qMXukV1f9alUT9r45wp8qGrmMux.jpg",
+            "release_date": "1956-12-29",
+            "title": "Baby Doll",
+            "video": false,
+            "vote_average": 7.079,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n9g1AndRvZZZNqYs4yQTgCAKfR3.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 60525,
+            "original_language": "en",
+            "original_title": "The Proud and Profane",
+            "overview": "In this romantic drama, beautiful Red Cross volunteer Lee Ashley arrives on the South Pacific island of New Caledonia to learn more about the circumstances surrounding the death of her husband, Howard, in the Battle of Guadalcanal. There, Ashley falls for the gruff, seductive Marine Lt. Col. Colin Buck, but struggle and tragedy follow when the widow learns about the reality of Buck's life back home.",
+            "popularity": 0.2938,
+            "poster_path": "/txIRxQo5IU3kwR7dIcF46Z4a34o.jpg",
+            "release_date": "1956-06-13",
+            "title": "The Proud and Profane",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9eIcseuhwNfzevwee0Yn1JrtjHn.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 43261,
+            "original_language": "en",
+            "original_title": "The Benny Goodman Story",
+            "overview": "Young Benny Goodman is taught clarinet by a music professor. He is advised to play whichever kind of music he likes best, but to make a living, Benny begins by joining the Ben Pollack traveling band.",
+            "popularity": 0.2369,
+            "poster_path": "/pbxZjnYn2hcwHb4Vr20wu0k2HYa.jpg",
+            "release_date": "1956-02-02",
+            "title": "The Benny Goodman Story",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gDVgnV0HBtWOeztBzAxlSPR2pXp.jpg",
+            "genre_ids": [
+                12,
+                37
+            ],
+            "id": 64862,
+            "original_language": "en",
+            "original_title": "Westward Ho, The Wagons!",
+            "overview": "The pioneering trail to Oregon was littered with constant danger. Yet, the hope of the \"promised land\" keeps American families westward bound despite overwhelming odds. A calm, clear-thinking pioneer attempts to lead a wagon train through territory occupied by Pawnees and Sioux. Along the way, the hardy settlers face horse thieves, kidnappers, and unpredictable Indian attacks in their push to establish a new life in the rugged West.",
+            "popularity": 0.3793,
+            "poster_path": "/8EldmGQDtZR1JwfGla5stUbvwxL.jpg",
+            "release_date": "1956-12-20",
+            "title": "Westward Ho, The Wagons!",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/btmQVS7TGeXDOFPfh8Adv46oYX.jpg",
+            "genre_ids": [
+                12,
+                10752,
+                10749,
+                36
+            ],
+            "id": 42658,
+            "original_language": "en",
+            "original_title": "Helen of Troy",
+            "overview": "Prince Paris of Troy, shipwrecked on a mission to the king of Sparta, meets and falls for Queen Helen before he knows who she is. Rudely received by the royal Greeks, he must flee...but fate and their mutual passions lead him to take Helen along. This gives the Greeks just the excuse they need for much-desired war.",
+            "popularity": 1.2439,
+            "poster_path": "/u0JgGavnWfisAkFEhGfu9xbzceS.jpg",
+            "release_date": "1956-01-26",
+            "title": "Helen of Troy",
+            "video": false,
+            "vote_average": 6.255,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yk1ovkzAXZZY02jtzjaazi3FjaU.jpg",
+            "genre_ids": [
+                12,
+                36,
+                18,
+                10752
+            ],
+            "id": 42668,
+            "original_language": "en",
+            "original_title": "Alexander the Great",
+            "overview": "An engrossing spectacle set in the 4th-century BC, in which Alexander of Greece leads his troops forth, conquering all of the known world, in the belief that the Greek way of thinking will bring enlightenment to people. The son of the barbaric and ruthless King Philip of Macedonia, Alexander achieved glory in his short but remarkable life.",
+            "popularity": 1.7988,
+            "poster_path": "/e3P3GiCKaEmLxzibDMzALmPbEHL.jpg",
+            "release_date": "1956-03-28",
+            "title": "Alexander the Great",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uHdsYv222s8Wz9Ogtxqjq4Y5Wor.jpg",
+            "genre_ids": [
+                12,
+                10749,
+                36,
+                10752,
+                18
+            ],
+            "id": 24751,
+            "original_language": "en",
+            "original_title": "The Conqueror",
+            "overview": "Mongol chief Temujin battles against Tartar armies and for the love of the Tartar princess Bortai. Temujin becomes the emperor Genghis Khan.",
+            "popularity": 0.4399,
+            "poster_path": "/6gGtujS4opJIUbAgS9j3g4EtiVo.jpg",
+            "release_date": "1956-03-28",
+            "title": "The Conqueror",
+            "video": false,
+            "vote_average": 3.4,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vNAvBHJCwp8KmXVYQ7zBQsDEksL.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                10751,
+                10752,
+                37
+            ],
+            "id": 37112,
+            "original_language": "en",
+            "original_title": "The Great Locomotive Chase",
+            "overview": "During the Civil War, a Union spy, Andrews, is asked to lead a band of Union soldiers into the South so that they could destroy the railway system. However, things don't go as planned when the conductor of the train that they stole is on to them and is doing everything he can to stop them. Based on a true story.",
+            "popularity": 0.3428,
+            "poster_path": "/tbU8ECQEhWhMx3rEVaBulmId4s0.jpg",
+            "release_date": "1956-06-08",
+            "title": "The Great Locomotive Chase",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fS04Xghos5K2cHuUYxcDMlO1Car.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 151219,
+            "original_language": "en",
+            "original_title": "Come Next Spring",
+            "overview": "Matt Ballot has returned home after 12 years of hard-drinking in all 48 states. His wife has managed to raise their 14-year-old daughter and 12-year-old son nicely without his help. Matt is considered a disgrace to the town he came from and now he finds himself trying to win the love of his children, his wife, and the respect of the townspeople. Set in Arkansas in the 1920s.",
+            "popularity": 0.1418,
+            "poster_path": "/rlc8bvM8dajFPZEFYCNuAX1pgv2.jpg",
+            "release_date": "1956-03-09",
+            "title": "Come Next Spring",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xwqGt65hdwTIGAyNmCGrQQs7SI.jpg",
+            "genre_ids": [
+                10752
+            ],
+            "id": 65114,
+            "original_language": "en",
+            "original_title": "The Cockleshell Heroes",
+            "overview": "During WW2, German ships are \"safely\" docked upriver at Bordeaux, but the British send a team of kayakers to attack them.",
+            "popularity": 0.4823,
+            "poster_path": "/hD1p8FAcs7zx4C81crvpSTvefMO.jpg",
+            "release_date": "1955-11-16",
+            "title": "The Cockleshell Heroes",
+            "video": false,
+            "vote_average": 6.033,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ZRixRPdkVN8vdXkLKHZVpTQhdo.jpg",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "id": 107443,
+            "original_language": "en",
+            "original_title": "The Brave One",
+            "overview": "A young Mexican boy tirelessly tries to save his pet bull from death at the hands of a celebrated matador.",
+            "popularity": 1.641,
+            "poster_path": "/zDoRHflS5fzFYJWmdtmUnA8iQrf.jpg",
+            "release_date": "1956-10-26",
+            "title": "The Brave One",
+            "video": false,
+            "vote_average": 5.618,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tqiAcUqaXPyL2oo18CIPWUGxkJk.jpg",
+            "genre_ids": [
+                53,
+                18,
+                27
+            ],
+            "id": 42196,
+            "original_language": "en",
+            "original_title": "The Bad Seed",
+            "overview": "Air Force Colonel Kenneth Penmark and his wife, Christine, adore their daughter Rhoda, despite her secret tendency for selfishness. Christine keeps her knowledge of her daughter's darker side to herself, but when a schoolmate of Rhoda's dies mysteriously, her self-deception unravels.",
+            "popularity": 2.9786,
+            "poster_path": "/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg",
+            "release_date": "1956-09-12",
+            "title": "The Bad Seed",
+            "video": false,
+            "vote_average": 7.114,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6T5WkjSQlakJPq1slvb8WEPV85q.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 80775,
+            "original_language": "en",
+            "original_title": "Away All Boats",
+            "overview": "The story of USS 'Belinda', a U.S. naval ship, and its crew during the battle of the Pacific 1943-1945, as it prepares for action and landing troops on enemy beachheads.",
+            "popularity": 0.5091,
+            "poster_path": "/dyyRfeB45ZUx9JhFKL0L9FS9wOU.jpg",
+            "release_date": "1956-08-16",
+            "title": "Away All Boats",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 17
+        }
+    ]
+}

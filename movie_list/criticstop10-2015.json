@@ -1,0 +1,972 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2015",
+    "source": "https://criticstop10.com/best-movies-of-2015/",
+    "created_by": "lbnt",
+    "added": "07/18/25",
+    "modified": "07/18/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 76341,
+            "original_language": "en",
+            "original_title": "Mad Max: Fury Road",
+            "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+            "popularity": 16.618,
+            "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+            "release_date": "2015-05-13",
+            "title": "Mad Max: Fury Road",
+            "video": false,
+            "vote_average": 7.625,
+            "vote_count": 23212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hTYZ9tPvRZrL3rSf0tB38r53IG.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 314365,
+            "original_language": "en",
+            "original_title": "Spotlight",
+            "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+            "popularity": 4.1183,
+            "poster_path": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+            "release_date": "2015-11-06",
+            "title": "Spotlight",
+            "video": false,
+            "vote_average": 7.816,
+            "vote_count": 8422
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                18,
+                35
+            ],
+            "id": 150540,
+            "original_language": "en",
+            "original_title": "Inside Out",
+            "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+            "popularity": 18.352,
+            "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+            "release_date": "2015-06-17",
+            "title": "Inside Out",
+            "video": false,
+            "vote_average": 7.912,
+            "vote_count": 22616
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 258480,
+            "original_language": "en",
+            "original_title": "Carol",
+            "overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
+            "popularity": 3.3885,
+            "poster_path": "/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+            "release_date": "2015-11-20",
+            "title": "Carol",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3787
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 264660,
+            "original_language": "en",
+            "original_title": "Ex Machina",
+            "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+            "popularity": 5.7762,
+            "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+            "release_date": "2015-01-21",
+            "title": "Ex Machina",
+            "video": false,
+            "vote_average": 7.573,
+            "vote_count": 13607
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                36
+            ],
+            "id": 167073,
+            "original_language": "en",
+            "original_title": "Brooklyn",
+            "overview": "In 1950s Ireland and New York, young Eilis Lacey has to choose between two men and two countries.",
+            "popularity": 2.2618,
+            "poster_path": "/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+            "release_date": "2015-10-20",
+            "title": "Brooklyn",
+            "video": false,
+            "vote_average": 7.316,
+            "vote_count": 3146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+            "genre_ids": [
+                18,
+                12,
+                878
+            ],
+            "id": 286217,
+            "original_language": "en",
+            "original_title": "The Martian",
+            "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+            "popularity": 10.9418,
+            "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+            "release_date": "2015-09-30",
+            "title": "The Martian",
+            "video": false,
+            "vote_average": 7.69,
+            "vote_count": 20275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i8aK8cGt5iYfMmUJiAe5AKIqYE5.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 264644,
+            "original_language": "en",
+            "original_title": "Room",
+            "overview": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+            "popularity": 4.1407,
+            "poster_path": "/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+            "release_date": "2015-10-16",
+            "title": "Room",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 9371
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lBX2EklMBEK5I0OIJWVJFr3DtmS.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 312221,
+            "original_language": "en",
+            "original_title": "Creed",
+            "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+            "popularity": 7.9319,
+            "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+            "release_date": "2015-11-25",
+            "title": "Creed",
+            "video": false,
+            "vote_average": 7.407,
+            "vote_count": 7624
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 273481,
+            "original_language": "en",
+            "original_title": "Sicario",
+            "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+            "popularity": 8.9964,
+            "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+            "release_date": "2015-09-17",
+            "title": "Sicario",
+            "video": false,
+            "vote_average": 7.411,
+            "vote_count": 8975
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xNykrL50OsygNTtFuHCw9U0D3eu.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10749,
+                35
+            ],
+            "id": 291270,
+            "original_language": "en",
+            "original_title": "Anomalisa",
+            "overview": "An inspirational speaker becomes reinvigorated after meeting a lively woman who shakes up his mundane existence.",
+            "popularity": 1.252,
+            "poster_path": "/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg",
+            "release_date": "2015-12-30",
+            "title": "Anomalisa",
+            "video": false,
+            "vote_average": 7.104,
+            "vote_count": 1744
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 140607,
+            "original_language": "en",
+            "original_title": "Star Wars: The Force Awakens",
+            "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+            "popularity": 10.3406,
+            "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+            "release_date": "2015-12-15",
+            "title": "Star Wars: The Force Awakens",
+            "video": false,
+            "vote_average": 7.259,
+            "vote_count": 19843
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 270303,
+            "original_language": "en",
+            "original_title": "It Follows",
+            "overview": "When carefree teenager Jay sleeps with her older boyfriend for the first time, she learns that she is the latest recipient of a fatal curse that is passed from victim to victim via sexual intercourse. Death, Jay learns, will creep inexorably toward her as either a friend or a stranger. Jay's friends don't believe her seemingly paranoid ravings, until they too begin to see the phantom assassins and band together to help her defend herself.",
+            "popularity": 7.0719,
+            "poster_path": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+            "release_date": "2015-02-04",
+            "title": "It Follows",
+            "video": false,
+            "vote_average": 6.584,
+            "vote_count": 6559
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 318846,
+            "original_language": "en",
+            "original_title": "The Big Short",
+            "overview": "The men who made millions from a global economic meltdown.",
+            "popularity": 10.0848,
+            "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+            "release_date": "2015-12-11",
+            "title": "The Big Short",
+            "video": false,
+            "vote_average": 7.357,
+            "vote_count": 9307
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hSd4jgQjx6GcRAB8ScOXPjKBagC.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 308084,
+            "original_language": "en",
+            "original_title": "Tangerine",
+            "overview": "It's Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing that her pimp boyfriend hasn't been faithful during the 28 days she was locked up, the working girl and her best friend, Alexandra, embark on a mission to get to the bottom of the scandalous rumor. Their rip-roaring odyssey leads them through various subcultures of Los Angeles, including an Armenian family dealing with their own repercussions of infidelity.",
+            "popularity": 2.5159,
+            "poster_path": "/EKLR5c61XQzBTeMokFrmS3kdt8.jpg",
+            "release_date": "2015-07-10",
+            "title": "Tangerine",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sGOw65ZmfgGfistCjuNsazjs6j9.jpg",
+            "genre_ids": [
+                37,
+                18,
+                12
+            ],
+            "id": 281957,
+            "original_language": "en",
+            "original_title": "The Revenant",
+            "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+            "popularity": 8.5198,
+            "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+            "release_date": "2015-12-25",
+            "title": "The Revenant",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 18539
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jaIeuFiasQ7KeJntmyNgSHmJEia.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 254578,
+            "original_language": "de",
+            "original_title": "Phoenix",
+            "overview": "German-Jewish cabaret singer Nelly survived Auschwitz but had to undergo reconstructive surgery as her face was disfigured. Without recognizing Nelly, her former husband Johnny asks her to help him claim his wife\u2019s inheritance. To see if he betrayed her, she agrees, becoming her own doppelganger.",
+            "popularity": 1.0031,
+            "poster_path": "/rJuKu5Rpg92AkzyC5rbYbqsNPI9.jpg",
+            "release_date": "2014-09-25",
+            "title": "Phoenix",
+            "video": false,
+            "vote_average": 6.843,
+            "vote_count": 445
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vM7FGdOnzSHYNdlJYxlzKamSPa.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                53
+            ],
+            "id": 336050,
+            "original_language": "hu",
+            "original_title": "Saul fia",
+            "overview": "In the horror of 1944 Auschwitz, a prisoner forced to burn the corpses of his own people finds moral survival trying to save from the flames the body of a boy he takes for his son, seeking to give him a proper jewish burial.",
+            "popularity": 1.2443,
+            "poster_path": "/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg",
+            "release_date": "2015-06-11",
+            "title": "Son of Saul",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yb0hXYnuXp91iFeZGmpWqzfIYsd.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 246860,
+            "original_language": "en",
+            "original_title": "Clouds of Sils Maria",
+            "overview": "A veteran actress comes face-to-face with an uncomfortable reflection of herself when she agrees to take part in a revival of the play that launched her career 20 years earlier.",
+            "popularity": 1.3482,
+            "poster_path": "/dtCZ31RlokpkAaKMr9jFCJjBngi.jpg",
+            "release_date": "2014-08-20",
+            "title": "Clouds of Sils Maria",
+            "video": false,
+            "vote_average": 6.607,
+            "vote_count": 770
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eozLsgdW5VyUEdPDuDaBD4VB86o.jpg",
+            "genre_ids": [
+                36,
+                99
+            ],
+            "id": 267480,
+            "original_language": "en",
+            "original_title": "The Look of Silence",
+            "overview": "An optician grapples with the Indonesian mass killings of 1965-1966, during which his older brother was exterminated.",
+            "popularity": 0.6688,
+            "poster_path": "/7TakQLT8gyzIMG8hX8RLTd5qROQ.jpg",
+            "release_date": "2014-11-13",
+            "title": "The Look of Silence",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nfISD7hILE6UYqXGT1cubcgsxUA.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 311291,
+            "original_language": "en",
+            "original_title": "45 Years",
+            "overview": "There is just one week until Kate Mercer's 45th wedding anniversary and the planning for the party is going well. But then a letter arrives for her husband. The body of his first love has been discovered, frozen and preserved in the icy glaciers of the Swiss Alps. By the time the party is upon them, five days later, there may not be a marriage left to celebrate.",
+            "popularity": 1.1987,
+            "poster_path": "/8elIJYYXWq2HpcZ6TgVMC9EwTnn.jpg",
+            "release_date": "2015-05-29",
+            "title": "45 Years",
+            "video": false,
+            "vote_average": 6.605,
+            "vote_count": 755
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oaQm9l3Fr2FxP2vMcPkIqROLJun.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 321697,
+            "original_language": "en",
+            "original_title": "Steve Jobs",
+            "overview": "Set backstage at three iconic product launches and ending in 1998 with the unveiling of the iMac, Steve Jobs takes us behind the scenes of the digital revolution to paint an intimate portrait of the brilliant man at its epicenter.",
+            "popularity": 2.3757,
+            "poster_path": "/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+            "release_date": "2015-10-09",
+            "title": "Steve Jobs",
+            "video": false,
+            "vote_average": 6.776,
+            "vote_count": 4205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                37
+            ],
+            "id": 273248,
+            "original_language": "en",
+            "original_title": "The Hateful Eight",
+            "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+            "popularity": 8.2432,
+            "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+            "release_date": "2015-12-25",
+            "title": "The Hateful Eight",
+            "video": false,
+            "vote_average": 7.755,
+            "vote_count": 14594
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dHnY1f5I7CpjV4LMIjAz7LEnLRA.jpg",
+            "genre_ids": [
+                18,
+                28,
+                36
+            ],
+            "id": 253450,
+            "original_language": "zh",
+            "original_title": "\u523a\u5ba2\u8076\u96b1\u5a18",
+            "overview": "9th century China. Ten year old general\u2019s daughter Nie Yinniang is abducted by a nun who initiates her into the martial arts, transforming her into an exceptional assassin charged with eliminating cruel and corrupt local governors. One day, having failed in a task, she is sent back by her mistress to the land of her birth, with orders to kill the man to whom she was promised \u2013 a cousin who now leads the largest military region in North China. After 13 years of exile, the young woman must confront her parents, her memories and her long-repressed feelings.",
+            "popularity": 1.4579,
+            "poster_path": "/10RcGMfzg2lIW1aLcR4ILfNbHK2.jpg",
+            "release_date": "2015-08-27",
+            "title": "The Assassin",
+            "video": false,
+            "vote_average": 6.396,
+            "vote_count": 517
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ncWUcY7ihZ2co7vqUCHqwF6t9us.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 296098,
+            "original_language": "en",
+            "original_title": "Bridge of Spies",
+            "overview": "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man's freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.",
+            "popularity": 5.2402,
+            "poster_path": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+            "release_date": "2015-10-15",
+            "title": "Bridge of Spies",
+            "video": false,
+            "vote_average": 7.235,
+            "vote_count": 6970
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8YiAnbmo8ARHNVt25Cp5fVt4rNd.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 331781,
+            "original_language": "en",
+            "original_title": "Amy",
+            "overview": "A documentary on the life of Amy Winehouse, the immensely talented yet doomed songstress. We see her from her teen years, where she already showed her singing abilities, to her finding success and then her downward spiral into alcoholism and drugs.",
+            "popularity": 1.344,
+            "poster_path": "/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+            "release_date": "2015-07-02",
+            "title": "Amy",
+            "video": false,
+            "vote_average": 7.597,
+            "vote_count": 1272
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7iEYJKyWhroHpsyIxiV0z4WRtSI.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 250124,
+            "original_language": "en",
+            "original_title": "The Diary of a Teenage Girl",
+            "overview": "Minnie Goetze is a 15-year-old aspiring comic-book artist, coming of age in the haze of the 1970s in San Francisco. Insatiably curious about the world around her, Minnie is a pretty typical teenage girl. Oh, except that she\u2019s sleeping with her mother\u2019s boyfriend.",
+            "popularity": 1.4705,
+            "poster_path": "/5YlUrdYKuscD7pwf3yy9duVLbui.jpg",
+            "release_date": "2015-08-07",
+            "title": "The Diary of a Teenage Girl",
+            "video": false,
+            "vote_average": 6.592,
+            "vote_count": 749
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3cQO2X0vRpMYwNhoZURSCxUpCPh.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 265228,
+            "original_language": "fr",
+            "original_title": "Timbuktu",
+            "overview": "Just outside of the Malian city of Timbuktu, now occupied by militant Islamic rebels who impose the Sharia on civilians and inconvenience their daily life, a cattleman kills a fisherman.",
+            "popularity": 0.7001,
+            "poster_path": "/tCpHpn8msgonS9HVDMkrcSZh4an.jpg",
+            "release_date": "2014-12-10",
+            "title": "Timbuktu",
+            "video": false,
+            "vote_average": 6.979,
+            "vote_count": 487
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8r9RoGfwGmn1pn0G3sbvHHemSWF.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                36
+            ],
+            "id": 277216,
+            "original_language": "en",
+            "original_title": "Straight Outta Compton",
+            "overview": "In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels\u2014armed only with their lyrics, swagger, bravado and raw talent\u2014stood up to the authorities that meant to keep them down and formed the world\u2019s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.",
+            "popularity": 4.8759,
+            "poster_path": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+            "release_date": "2015-08-11",
+            "title": "Straight Outta Compton",
+            "video": false,
+            "vote_average": 7.789,
+            "vote_count": 4006
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l19ruhwCLotkG5wTcelrqVvmPX8.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                36
+            ],
+            "id": 271714,
+            "original_language": "en",
+            "original_title": "Love & Mercy",
+            "overview": "In the late 1960s, the Beach Boys' Brian Wilson stops touring, produces \"Pet Sounds\" and begins to lose his grip on reality. By the 1980s, under the sway of a controlling therapist, he finds a savior in Melinda Ledbetter.",
+            "popularity": 1.1084,
+            "poster_path": "/4jn0hDsl6lsv4qEc7aiLlgbaIjo.jpg",
+            "release_date": "2015-05-29",
+            "title": "Love & Mercy",
+            "video": false,
+            "vote_average": 7.077,
+            "vote_count": 705
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kr4V9a8BdXAVAd1WaEdV6nDrTlL.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                10749
+            ],
+            "id": 250225,
+            "original_language": "en",
+            "original_title": "The Duke of Burgundy",
+            "overview": "Day in and day out, lovers Cynthia and Evelyn enact an elaborate sadomasochistic fantasy as mistress and maid. But as their ritual of domination and submission begins to turn stale, Cynthia yearns for something more conventional, while Evelyn tries to push their taboos even further.",
+            "popularity": 1.932,
+            "poster_path": "/gUxyr5zfglwUE8Xod7yYiY1zNqQ.jpg",
+            "release_date": "2014-10-18",
+            "title": "The Duke of Burgundy",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 346
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oCkN3QfNdm6e0uQHyyMDvOTdQuD.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 309245,
+            "original_language": "en",
+            "original_title": "Mistress America",
+            "overview": "A college freshman (Lola Kirke) cures her disappointment and loneliness by allowing herself to be pulled into the wacky schemes of her future stepsister (Greta Gerwig).",
+            "popularity": 1.1233,
+            "poster_path": "/1Y9rlzMIfzwjKI6eaCEV9J2eqfH.jpg",
+            "release_date": "2015-08-14",
+            "title": "Mistress America",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 551
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jfesUBA5dUxlPw2E1M7fCahTHG8.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 249688,
+            "original_language": "en",
+            "original_title": "The End of the Tour",
+            "overview": "The story of the five-day interview between Rolling Stone reporter David Lipsky and acclaimed novelist David Foster Wallace, which took place right after the 1996 publication of Wallace's groundbreaking epic novel, 'Infinite Jest.'",
+            "popularity": 0.7252,
+            "poster_path": "/3fEuVd8Xorwtk5kFVvyiNlOtcIw.jpg",
+            "release_date": "2015-07-31",
+            "title": "The End of the Tour",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 569
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hb1GBVDwQIvSNpx1cQUFAIHfyBW.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 265177,
+            "original_language": "fr",
+            "original_title": "Mommy",
+            "overview": "A peculiar neighbor offers hope to a recent widow who is struggling to raise a teenager who is unpredictable and, sometimes, violent.",
+            "popularity": 1.6479,
+            "poster_path": "/3zyQtPg3avKprmJP2gBiYgyWUQC.jpg",
+            "release_date": "2014-09-19",
+            "title": "Mommy",
+            "video": false,
+            "vote_average": 8.228,
+            "vote_count": 2764
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 376807,
+            "original_language": "en",
+            "original_title": "The Tribe",
+            "overview": "An unorthodox, unauthorized history of the Jewish people and the Barbie doll.",
+            "popularity": 0.0445,
+            "poster_path": "/r3cjtD3btFfeQozyMZlE1ZuhBL5.jpg",
+            "release_date": "2005-09-25",
+            "title": "The Tribe",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iNhaEPAgAinPuA4fkimowUrWniy.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 110402,
+            "original_language": "ru",
+            "original_title": "\u0422\u0440\u0443\u0434\u043d\u043e \u0431\u044b\u0442\u044c \u0431\u043e\u0433\u043e\u043c",
+            "overview": "A group of scientists is sent to the planet Arkanar to help the local civilization, which is in the Medieval phase of its own history, to find the right path to progress. Their task is a difficult one: they cannot interfere violently and in no case can they kill. The scientist Rumata tries to save the local intellectuals from their punishment and cannot avoid taking a position.",
+            "popularity": 0.5762,
+            "poster_path": "/lmqx4l6JVKwtAe7CCoyzwTVcOpy.jpg",
+            "release_date": "2014-02-27",
+            "title": "Hard to Be a God",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fUIRIO87tBqeS7uc0wLNNqU1yay.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 264999,
+            "original_language": "en",
+            "original_title": "Magic Mike XXL",
+            "overview": "Three years after Mike bowed out of the stripper life at the top of his game, he and the remaining Kings of Tampa hit the road to Myrtle Beach to put on one last blow-out performance.",
+            "popularity": 2.4203,
+            "poster_path": "/jkuCNd3wOmf4sDlZ89HEt8jmsqr.jpg",
+            "release_date": "2015-07-01",
+            "title": "Magic Mike XXL",
+            "video": false,
+            "vote_average": 6.167,
+            "vote_count": 1802
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dYeMhzUoEVpj2ojQjSzMzOrR5Ai.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 345628,
+            "original_language": "de",
+            "original_title": "Taxi",
+            "overview": "Hamburg, mid 80s, Alex is a cabby. The sound is hard, pubs are dark and loud, people constantly argue about anything and everything, people smoke all the time, and not just cigarettes. Alex wants love and freedom and sleeps with Dietrich. It's far from being love, but the sex is okay. With Marc, a little person full of dignity, she finds more than that. The rest is struggles with her passengers, the indifferent and the doomed, brutes as other nuisances. This sort of life could go on and on, Alex could drive away from her own life and in doing so lose Marc and not getting rid of Dietrich. Wouldn't there be a small monkey with the same invincible desire for freedom as hers.",
+            "popularity": 0.8051,
+            "poster_path": "/w5P3gXIV1ES7QJfkPxU9UWbdObG.jpg",
+            "release_date": "2015-08-20",
+            "title": "Taxi",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wmlQqGUdS0zTSipyHQGLcC6d93G.jpg",
+            "genre_ids": [
+                18,
+                80,
+                35
+            ],
+            "id": 340275,
+            "original_language": "en",
+            "original_title": "Chi-Raq",
+            "overview": "A modern day adaptation of the ancient Greek play Lysistrata by Aristophanes, set against the backdrop of gang violence in Chicago.",
+            "popularity": 1.0254,
+            "poster_path": "/gZqsDMGWLkRPvv2tASiMomj8GOt.jpg",
+            "release_date": "2015-12-04",
+            "title": "Chi-Raq",
+            "video": false,
+            "vote_average": 5.745,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4sOeeDX9uBteu81ty2bcdbzU933.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 308369,
+            "original_language": "en",
+            "original_title": "Me and Earl and the Dying Girl",
+            "overview": "Greg is coasting through senior year of high school as anonymously as possible, avoiding social interactions like the plague while secretly making spirited, bizarre films with Earl, his only friend. But both his anonymity and friendship threaten to unravel when his mother forces him to befriend a classmate with leukemia.",
+            "popularity": 2.0492,
+            "poster_path": "/eLjS2bLMjln2n2I73Xu6TaANPDZ.jpg",
+            "release_date": "2015-06-12",
+            "title": "Me and Earl and the Dying Girl",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2622
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nBxP0PY7yGfId9E12yo5R7x27ZQ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 336804,
+            "original_language": "tr",
+            "original_title": "Mustang",
+            "overview": "In a Turkish village, five orphaned sisters live under strict rule while members of their family prepare their arranged marriages.",
+            "popularity": 1.4624,
+            "poster_path": "/8lrsjdydRxhKlKiGuMbbzuFKrdN.jpg",
+            "release_date": "2015-06-17",
+            "title": "Mustang",
+            "video": false,
+            "vote_average": 7.738,
+            "vote_count": 1398
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7yVD5QSvjTGLYDsalx31osBG0gE.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 246741,
+            "original_language": "en",
+            "original_title": "What We Do in the Shadows",
+            "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead.",
+            "popularity": 2.1791,
+            "poster_path": "/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+            "release_date": "2014-06-19",
+            "title": "What We Do in the Shadows",
+            "video": false,
+            "vote_average": 7.56,
+            "vote_count": 3674
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 397598,
+            "original_language": "en",
+            "original_title": "As Mil e Uma Noites",
+            "overview": "Some of the chapters from Arabian Nights are adapted to a modern Portugal in this epic.",
+            "popularity": 0.0969,
+            "poster_path": "/5h9MscXOebtsRyByH1UiWbuPoRe.jpg",
+            "release_date": "2015-05-16",
+            "title": "Arabian Nights",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ouEZVpqxc5f89O3PAWyfJVbvqjQ.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 266031,
+            "original_language": "es",
+            "original_title": "Jauja",
+            "overview": "A father and daughter journey from Denmark to an unknown desert that exists in a realm beyond the confines of civilization.",
+            "popularity": 0.515,
+            "poster_path": "/rbr5euCDaAQiGWGudx7JuZ1HXD4.jpg",
+            "release_date": "2014-11-27",
+            "title": "Jauja",
+            "video": false,
+            "vote_average": 6.575,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5XRQPA2Z4dmVi7tjaMDae8jIzun.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 285024,
+            "original_language": "en",
+            "original_title": "Heaven Knows What",
+            "overview": "A young heroin addict roams the streets of New York to panhandle and get her next fix, while her unstable boyfriend drifts in and out of her life at random.",
+            "popularity": 0.8683,
+            "poster_path": "/E1MMMNAd01p3nMkUIB6eFtB57J.jpg",
+            "release_date": "2015-05-29",
+            "title": "Heaven Knows What",
+            "video": false,
+            "vote_average": 6.546,
+            "vote_count": 175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/24fWJGdv3eLZvqgy9OMC5GMN4dx.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 352197,
+            "original_language": "en",
+            "original_title": "Heart of a Dog",
+            "overview": "Lyrical and powerfully personal essay film that reflects on the deaths of her husband Lou Reed, her mother, her beloved dog, and such diverse subjects as family memories, surveillance, and Buddhist teachings.",
+            "popularity": 0.3302,
+            "poster_path": "/qAeaTynkC8WPgna0UTTnb0WGswq.jpg",
+            "release_date": "2015-10-21",
+            "title": "Heart of a Dog",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7nFfW8RM50PANBIdfI9Ut3FdoSB.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 310593,
+            "original_language": "it",
+            "original_title": "Youth",
+            "overview": "Two lifelong friends bond whilst vacationing in a luxury Swiss Alps lodge as they ponder retirement. While Fred has no plans to resume his musical career despite the urging of his loving daughter Lena, Mick is intent on finishing the screenplay for what may be his last important film for his muse Brenda. And where will inspiration lead their younger friend Jimmy, an actor grasping to make sense of his next performance?",
+            "popularity": 1.9331,
+            "poster_path": "/ceRN51oeadmccAvqvDxpnnNRcLU.jpg",
+            "release_date": "2015-05-20",
+            "title": "Youth",
+            "video": false,
+            "vote_average": 6.898,
+            "vote_count": 2106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ljl1Qbs42WWDhx61mXz424u2vZQ.jpg",
+            "genre_ids": [
+                18,
+                35,
+                14
+            ],
+            "id": 110390,
+            "original_language": "sv",
+            "original_title": "En duva satt p\u00e5 en gren och funderade p\u00e5 tillvaron",
+            "overview": "An absurdist, surrealistic and shocking pitch-black comedy, which moves freely from nightmare to fantasy to hilariously deadpan humour as it muses on man\u2019s perpetual inhumanity to man.",
+            "popularity": 1.0205,
+            "poster_path": "/h2uRIr0fNpZbTGH5youi7MDRL2T.jpg",
+            "release_date": "2014-10-24",
+            "title": "A Pigeon Sat on a Branch Reflecting on Existence",
+            "video": false,
+            "vote_average": 6.837,
+            "vote_count": 464
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5vBCzTc2FNRhr0N8KjKuVG1QDPo.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 315855,
+            "original_language": "en",
+            "original_title": "The Forbidden Room",
+            "overview": "A submarine crew, a feared pack of forest bandits, a famous surgeon, and a battalion of child soldiers all get more than they bargained for as they wend their way toward progressive ideas on life and love.",
+            "popularity": 0.5787,
+            "poster_path": "/apISTiqipiBxL47lQKYV4CJrBO2.jpg",
+            "release_date": "2015-10-07",
+            "title": "The Forbidden Room",
+            "video": false,
+            "vote_average": 5.672,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hLwSOlaf4tZRDgx8Rvp4qyVnYx6.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 355230,
+            "original_language": "en",
+            "original_title": "In Jackson Heights",
+            "overview": "Legendary documentary filmmaker Frederick Wiseman (At Berkeley, National Gallery) explores the culture, politics and daily life of the Queens, NYC district of Jackson Heights, which lays claim to being the most diverse neighbourhood in the world.",
+            "popularity": 0.1471,
+            "poster_path": "/3nLClMlhH75lU9Ey3k18H0suNFr.jpg",
+            "release_date": "2015-09-04",
+            "title": "In Jackson Heights",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 24
+        }
+    ]
+}

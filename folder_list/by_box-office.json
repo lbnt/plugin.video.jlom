@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "By box-office",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "Filmsite - The top 100 films of all-time (worldwide gross)",
+            "id" : "filmsite-top_100_films_of_all-time_worldwide_gross",
+            "type" : "movie_list"
+        }
+    ]
+}

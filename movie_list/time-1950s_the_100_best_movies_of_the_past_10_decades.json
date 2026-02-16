@@ -1,0 +1,201 @@
+{
+    "type": "movie_list",
+    "title": "Time - The 100 best movies of the past 10 decades - 1950s",
+    "source": "https://time.com/collection/100-best-movies/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "04/26/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/bPDR1GR4Bh8EdKQKKfudQpL14kD.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 29376,
+            "original_language": "en",
+            "original_title": "The Band Wagon",
+            "overview": "A Broadway artiste turns a faded film star's comeback vehicle into an artsy flop.",
+            "popularity": 19.089,
+            "poster_path": "/5CvUmTWK46rShfgLmw7LuKF2fYL.jpg",
+            "release_date": "1953-08-07",
+            "title": "The Band Wagon",
+            "video": false,
+            "vote_average": 7.119,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 654,
+            "original_language": "en",
+            "original_title": "On the Waterfront",
+            "overview": "A dim-witted yet kind-hearted boxer, Terry Malloy, who failed to succeed unintentionally lures a man to his death after being tricked by a criminal called Johnny Friendly whose men pick of every man who has the courage to speak up to their crimes. As he works on the waterfronts that Friendly owns, he is sent to a church meeting run by a good preacher about how to deal with the problem and runs into the dead man\u2019s sister. Slowly, he falls in love with her and begins to feel guilt about his crime.",
+            "popularity": 34.412,
+            "poster_path": "/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+            "release_date": "1954-06-22",
+            "title": "On the Waterfront",
+            "video": false,
+            "vote_average": 7.93,
+            "vote_count": 1487
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 346,
+            "original_language": "ja",
+            "original_title": "\u4e03\u4eba\u306e\u4f8d",
+            "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+            "popularity": 60.521,
+            "poster_path": "/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg",
+            "release_date": "1954-04-26",
+            "title": "Seven Samurai",
+            "video": false,
+            "vote_average": 8.453,
+            "vote_count": 3471
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ibJuTdFmYGOiiUzJ5HzHU4EAuf1.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 5801,
+            "original_language": "bn",
+            "original_title": "\u09aa\u09a5\u09c7\u09b0 \u09aa\u09be\u0981\u099a\u09be\u09b2\u09c0",
+            "overview": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+            "popularity": 23.364,
+            "poster_path": "/2pZR9zmUzsblDLE5ndBe57ScqIi.jpg",
+            "release_date": "1955-08-26",
+            "title": "Pather Panchali",
+            "video": false,
+            "vote_average": 7.976,
+            "vote_count": 382
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 19426,
+            "original_language": "it",
+            "original_title": "Le notti di Cabiria",
+            "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+            "popularity": 24.994,
+            "poster_path": "/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+            "release_date": "1957-10-03",
+            "title": "Nights of Cabiria",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 718
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5zKeHHFYfuyH0KFR7h3IYnOHL7v.jpg",
+            "genre_ids": [
+                9648,
+                10749,
+                53
+            ],
+            "id": 426,
+            "original_language": "en",
+            "original_title": "Vertigo",
+            "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+            "popularity": 106.973,
+            "poster_path": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+            "release_date": "1958-05-28",
+            "title": "Vertigo",
+            "video": false,
+            "vote_average": 8.168,
+            "vote_count": 5485
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 147,
+            "original_language": "fr",
+            "original_title": "Les Quatre Cents Coups",
+            "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+            "popularity": 31.634,
+            "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+            "release_date": "1959-06-03",
+            "title": "The 400 Blows",
+            "video": false,
+            "vote_average": 8.048,
+            "vote_count": 2034
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Q4w0Q8r1Svi9JKHEFq4TrLwOm7.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 34148,
+            "original_language": "en",
+            "original_title": "Imitation of Life",
+            "overview": "In 1940s New York, a white widow who dreams of being on Broadway has a chance encounter with a black single mother, who becomes her maid.",
+            "popularity": 17.87,
+            "poster_path": "/xt3cUn7lsjpaGuB279A4v8zAYRn.jpg",
+            "release_date": "1959-10-02",
+            "title": "Imitation of Life",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cPDKIvdYJ4TLT3KU0fpGDVpdhfd.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 301,
+            "original_language": "en",
+            "original_title": "Rio Bravo",
+            "overview": "The sheriff of a small town in southwest Texas must keep custody of a murderer whose brother, a powerful rancher, is trying to help him escape. After a friend is killed trying to muster support for him, he and his deputies must find a way to hold out against the rancher's hired guns until the marshal arrives. In the meantime, matters are complicated by the presence of a young gunslinger - and a mysterious beauty who just came in on the last stagecoach.",
+            "popularity": 63.566,
+            "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+            "release_date": "1959-03-18",
+            "title": "Rio Bravo",
+            "video": false,
+            "vote_average": 7.826,
+            "vote_count": 1083
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                80
+            ],
+            "id": 239,
+            "original_language": "en",
+            "original_title": "Some Like It Hot",
+            "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
+            "popularity": 48.014,
+            "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+            "release_date": "1959-03-19",
+            "title": "Some Like It Hot",
+            "video": false,
+            "vote_average": 8.103,
+            "vote_count": 3319
+        }
+    ]
+}

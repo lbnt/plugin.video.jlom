@@ -1,0 +1,903 @@
+{
+    "type": "movie_list",
+    "title": "Cannes Film Festival - Best Screenplay",
+    "source": "https://www.festival-cannes.com/",
+    "created_by": "lbnt",
+    "added": "01/11/26",
+    "modified": "01/11/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1242015,
+            "original_language": "fr",
+            "original_title": "Jeunes m\u00e8res",
+            "overview": "Housed in a shelter for young mothers, Jessica, Perla, Julia, Ariane, and Na\u00efma, all of whom have grown up in difficult circumstances, struggle to obtain a better life for themselves and their children.",
+            "popularity": 3.3363,
+            "poster_path": "/okfaa71H1P0WC1uzYliOgYS2gte.jpg",
+            "release_date": "2025-05-23",
+            "title": "Young Mothers",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jocCWIF8YksHuTPhFUSxevz69Qm.jpg",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "id": 933260,
+            "original_language": "en",
+            "original_title": "The Substance",
+            "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "popularity": 17.1752,
+            "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+            "release_date": "2024-09-07",
+            "title": "The Substance",
+            "video": false,
+            "vote_average": 7.143,
+            "vote_count": 5531
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dZJcOyRonN0Kb7kJR3DE3esGn16.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                18
+            ],
+            "id": 1050035,
+            "original_language": "ja",
+            "original_title": "\u602a\u7269",
+            "overview": "After an outburst at school involving her son, a concerned single mother demands answers, triggering a sequence of deepening suspicion and turmoil.",
+            "popularity": 6.695,
+            "poster_path": "/kvUJUyUGOhEoiWWNH04IXoExPE2.jpg",
+            "release_date": "2023-06-02",
+            "title": "Monster",
+            "video": false,
+            "vote_average": 7.928,
+            "vote_count": 804
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5pUJhaYpDdmOiyMvCh3G1R6G1wi.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 788977,
+            "original_language": "sv",
+            "original_title": "\u0635\u0628\u064a \u0645\u0646 \u0627\u0644\u062c\u0646\u0629",
+            "overview": "A fisherman's son is offered the ultimate privilege to study at the Al-Azhar University in Cairo, the epicenter of power of Sunni Islam. Shortly after his arrival, the university\u2019s highest ranking religious leader, the Grand Imam, dies and the young student becomes a pawn in a ruthless power struggle between Egypt's religious and political elite.",
+            "popularity": 1.036,
+            "poster_path": "/zDRAA4UJWgQnSFxhJuefnwO74v5.jpg",
+            "release_date": "2022-10-26",
+            "title": "Cairo Conspiracy",
+            "video": false,
+            "vote_average": 6.711,
+            "vote_count": 265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 758866,
+            "original_language": "ja",
+            "original_title": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30ab\u30fc",
+            "overview": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
+            "popularity": 3.2821,
+            "poster_path": "/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg",
+            "release_date": "2021-08-18",
+            "title": "Drive My Car",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1426
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/foFq1RZWQIgFuCQ0nyYccywjFyX.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                36
+            ],
+            "id": 531428,
+            "original_language": "fr",
+            "original_title": "Portrait de la jeune fille en feu",
+            "overview": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+            "popularity": 6.3978,
+            "poster_path": "/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+            "release_date": "2019-09-06",
+            "title": "Portrait of a Lady on Fire",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 2832
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zTnpY0BXP6ytvV4ZMsAmsIEDmNM.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 481432,
+            "original_language": "it",
+            "original_title": "Lazzaro felice",
+            "overview": "Purehearted teen Lazzaro is content living as a sharecropper in rural Italy, but an unlikely friendship with the marquise\u2019s son will change his world.",
+            "popularity": 0.9349,
+            "poster_path": "/j4x1O6G0cbchHQwNsEZ0DntOJMJ.jpg",
+            "release_date": "2018-05-31",
+            "title": "Happy as Lazzaro",
+            "video": false,
+            "vote_average": 7.397,
+            "vote_count": 751
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p2qPNlGEa8TEcXg14vNvClBkHrD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 517731,
+            "original_language": "fa",
+            "original_title": "\u0633\u0647 \u0631\u062e",
+            "overview": "Filmmaker Jafar Panahi and actor Behnaz Jafari travel to a tiny village after receiving a plea for help from a girl whose family has forbidden her from studying acting. Amusing encounters abound, but they soon discover that the local hospitality is rivaled by the desire to protect old traditions.",
+            "popularity": 0.754,
+            "poster_path": "/clpmeXLRg65zGGP1zoyYOLIakQG.jpg",
+            "release_date": "2018-06-06",
+            "title": "3 Faces",
+            "video": false,
+            "vote_average": 6.726,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g2yZ1kiGwLO5AUSmtsEJeFEWghJ.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 398181,
+            "original_language": "en",
+            "original_title": "You Were Never Really Here",
+            "overview": "A traumatized veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, his nightmares begin to overtake him, and a conspiracy is uncovered\u2014leading to what may be his death trip or his awakening.",
+            "popularity": 2.6545,
+            "poster_path": "/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg",
+            "release_date": "2017-11-08",
+            "title": "You Were Never Really Here",
+            "video": false,
+            "vote_average": 6.544,
+            "vote_count": 2958
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kJwQXgAk440l2vZOspUJee6inim.jpg",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "id": 399057,
+            "original_language": "en",
+            "original_title": "The Killing of a Sacred Deer",
+            "overview": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+            "popularity": 4.0346,
+            "poster_path": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+            "release_date": "2017-10-20",
+            "title": "The Killing of a Sacred Deer",
+            "video": false,
+            "vote_average": 7.01,
+            "vote_count": 4310
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/woSmQgo1wxE4WRVXWHrmgv3jy2O.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 375315,
+            "original_language": "fa",
+            "original_title": "\u0641\u0631\u0648\u0634\u0646\u062f\u0647",
+            "overview": "Forced out of their apartment due to dangerous works on a neighboring building, Emad and Rana move into a new flat in the center of Tehran. An incident linked to the previous tenant will dramatically change the young couple\u2019s life.",
+            "popularity": 1.5699,
+            "poster_path": "/x4PIuYU5ZMMXiTrheNR8vCTYPBf.jpg",
+            "release_date": "2016-06-24",
+            "title": "The Salesman",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 914
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bJxYeQiwXQNZIzfJZiVJVwfF26f.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 337104,
+            "original_language": "en",
+            "original_title": "Chronic",
+            "overview": "David is a nurse who works with terminally ill patients. Dedicated to his profession, he develops strong relationships with the people he cares for. But outside of work, it's a different story altogether.",
+            "popularity": 2.5581,
+            "poster_path": "/wZKskeOrrftsVBVgVu4egXxxmdF.jpg",
+            "release_date": "2015-10-21",
+            "title": "Chronic",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sWox47IZKKbdCAk9RFsLfYhvL0g.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 265180,
+            "original_language": "ru",
+            "original_title": "\u041b\u0435\u0432\u0438\u0430\u0444\u0430\u043d",
+            "overview": "In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man's arrival brings further misfortune for Kolya and his family.",
+            "popularity": 1.1155,
+            "poster_path": "/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+            "release_date": "2014-09-24",
+            "title": "Leviathan",
+            "video": false,
+            "vote_average": 7.369,
+            "vote_count": 921
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h2gBrCEG6p38rFphJp7i5OBwF29.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 187022,
+            "original_language": "zh",
+            "original_title": "\u5929\u6ce8\u5b9a",
+            "overview": "Four independent stories set in modern China about random acts of violence.",
+            "popularity": 2.8744,
+            "poster_path": "/6I6XVBrUYBWPDPMdk647VvTSNqx.jpg",
+            "release_date": "2013-10-04",
+            "title": "A Touch of Sin",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kC7YmW69fEdM0cazeVIVdmj7644.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 103740,
+            "original_language": "ro",
+            "original_title": "Dup\u0103 dealuri",
+            "overview": "Alina returns to Romania from Germany, hoping to bring Voichita\u2014the only person in the world she loves and was loved by\u2014back with her. But Voichita has found God, and God is the hardest lover of all to best.",
+            "popularity": 2.9852,
+            "poster_path": "/zV2v5jFXlN2We3GS2IkGQ6e2Bmm.jpg",
+            "release_date": "2012-10-25",
+            "title": "Beyond the Hills",
+            "video": false,
+            "vote_average": 7.093,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rg6Zi5JL4zEA0OkHM8Gjpwgetcg.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 72551,
+            "original_language": "he",
+            "original_title": "\u05d4\u05e2\u05e8\u05ea \u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
+            "overview": "Jerusalem, Israel. Professors Eliezer and Uriel Shkolnik, father and son, have dedicated their lives to the study of the Jewish scriptures. Eliezer is a stubborn and methodical scholar who has never been recognized for his work; Uriel is a rising star, someone admired and praised by his colleagues. The fragile balance that has kept their personal relationship almost intact is broken in an unexpected way by a simple phone call.",
+            "popularity": 1.0323,
+            "poster_path": "/qy0W1KssDhGbtisBGKZHlcuuYqn.jpg",
+            "release_date": "2011-05-25",
+            "title": "Footnote",
+            "video": false,
+            "vote_average": 7.127,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m3xCLh3b3QH9QkZx67argsU5PTO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 47909,
+            "original_language": "ko",
+            "original_title": "\uc2dc",
+            "overview": "A South Korean woman in her sixties enrolls in a poetry class as she grapples with her faltering memory and her grandson's appalling wrongdoing.",
+            "popularity": 1.4958,
+            "poster_path": "/dcefUQ0AIgRvkh9DS76tvetzxc2.jpg",
+            "release_date": "2010-05-13",
+            "title": "Poetry",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 322
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wAboktxL62w3OhkG92kkUAlSxtp.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 117646,
+            "original_language": "zh",
+            "original_title": "\u6625\u98ce\u6c89\u9189\u7684\u591c\u665a",
+            "overview": "Hired to spy on a philandering husband, Luo Haitao soon becomes entangled in a clandestine affair with the other man. Along with Luo's girlfriend, they succumb to the delirium of drunken nights, but how long can their tryst last?",
+            "popularity": 1.361,
+            "poster_path": "/9OLJx4JHimNTsRIw7Y0ObzJouP9.jpg",
+            "release_date": "2009-05-13",
+            "title": "Spring Fever",
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rnxoI9ojYhReuBgb1gxkejpS55i.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 8899,
+            "original_language": "fr",
+            "original_title": "Le Silence de Lorna",
+            "overview": "Lorna is a young Albanian woman in a marriage of convenience with Claudy, a heroin addict. Just as Lorna is about to be granted Belgian citizenship, Claudy finds the strength to detox; this presents a problem not only for Lorna, but for the criminal who brokered the deal.",
+            "popularity": 2.8469,
+            "poster_path": "/rwQPg2DgFygbZjdupJcedPEm0JN.jpg",
+            "release_date": "2008-08-27",
+            "title": "Lorna's Silence",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s3kGgVwM946SWj3iXShDbeJALiT.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 2014,
+            "original_language": "de",
+            "original_title": "Auf der anderen Seite",
+            "overview": "The lives of six German-Turkish immigrants are drawn together by circumstance: An old man and a prostitute forging a partnership, a young scholar reconciling his past, two young women falling in love, and a mother putting the shattered pieces of her life back together.",
+            "popularity": 0.7722,
+            "poster_path": "/kqhVVpXFtOotSlK0npVaBHXUqxV.jpg",
+            "release_date": "2007-09-27",
+            "title": "The Edge of Heaven",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 342
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cLvcOx8RbSUPCbkynKzNIg1zc2g.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 219,
+            "original_language": "es",
+            "original_title": "Volver",
+            "overview": "A resourcefull working-class woman living in Madrid gets her hands dirty in family secrets with the help of a teenage daughter and hairdresser sister.",
+            "popularity": 4.9315,
+            "poster_path": "/m1ZUDGTFtVGE3zjTvF8OiQ9um5e.jpg",
+            "release_date": "2006-03-17",
+            "title": "Volver",
+            "video": false,
+            "vote_average": 7.463,
+            "vote_count": 1847
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3n4Bfg390okuusER56enINib0kL.jpg",
+            "genre_ids": [
+                12,
+                80,
+                18,
+                9648,
+                37
+            ],
+            "id": 8053,
+            "original_language": "en",
+            "original_title": "The Three Burials of Melquiades Estrada",
+            "overview": "When brash Texas border officer Mike Norton wrongfully kills and buries the friend and ranch hand of Pete Perkins, the latter is reminded of a promise he made to bury his friend, Melquiades Estrada, in his Mexican home town. He kidnaps Norton and exhumes Estrada's corpse, and the odd caravan sets out on horseback for Mexico.",
+            "popularity": 0.8376,
+            "poster_path": "/uHOEb6mo45qMSJaZqbkVa7oW1Y7.jpg",
+            "release_date": "2005-11-17",
+            "title": "The Three Burials of Melquiades Estrada",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 624
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jf2FtZmfwURp9IfD6p7zAtCJkUs.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 11399,
+            "original_language": "fr",
+            "original_title": "Comme une image",
+            "overview": "Talented 20-year-old Lolita dreams of a singing career. But her self-esteem is low due to her weight problem and her narcissistic father, \u00c9tienne, a literary star with scant interest in his daughter's life. Lolita finds little comfort in the attentions of her vocal coach, suspecting the woman is using her to meet her influential father. \u00c9tienne's second wife proves to be Lolita's only trustworthy ally in her private battle to find a sense of worth.",
+            "popularity": 0.8238,
+            "poster_path": "/kRtLMLdf6PkOjWCvhTpa811aMZy.jpg",
+            "release_date": "2004-11-18",
+            "title": "Look at Me",
+            "video": false,
+            "vote_average": 6.337,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 11042,
+            "original_language": "fr",
+            "original_title": "Les Invasions barbares",
+            "overview": "In this belated sequel to 'The Decline of the American Empire', middle-aged Montreal college professor, Remy, learns that he is dying of liver cancer. His ex-wife, Louise, asks their estranged son, Sebastian, a successful businessman living in London, to come home. Sebastian makes the impossible happen, using his contacts and disrupting the Canadian healthcare system in every way possible to help his father fight his terminal illness to the bitter end, while reuniting some of Remy's old friends, including Pierre, Alain, Dominique, Diane, and Claude, who return to see their friend before he passes on.",
+            "popularity": 1.1671,
+            "poster_path": "/ekmFbyMgm3SPklSlDUW1wZ33yMP.jpg",
+            "release_date": "2003-09-24",
+            "title": "The Barbarian Invasions",
+            "video": false,
+            "vote_average": 7.049,
+            "vote_count": 388
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xpdXXd5i1IN7d4eOhqAreApobxT.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 1376,
+            "original_language": "en",
+            "original_title": "Sweet Sixteen",
+            "overview": "Determined to have a normal family life once his mother gets out of prison, a Scottish teenager from a tough background sets out to raise the money for a home.",
+            "popularity": 1.6882,
+            "poster_path": "/p5h50WEZQ4pRFffnSULqL4cEuLp.jpg",
+            "release_date": "2002-09-07",
+            "title": "Sweet Sixteen",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 236
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+            "genre_ids": [
+                28,
+                36,
+                10752
+            ],
+            "id": 8342,
+            "original_language": "bs",
+            "original_title": "No Man's Land",
+            "overview": "Two soldiers from opposite sides get stuck between the front lines in the same trench. The UN is asked to free them and both sides agree on a ceasefire, but will they stick to it?",
+            "popularity": 1.3488,
+            "poster_path": "/oTEmaYRKqWig5lhmwEQE0ZU3SRl.jpg",
+            "release_date": "2001-05-12",
+            "title": "No Man's Land",
+            "video": false,
+            "vote_average": 7.488,
+            "vote_count": 477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
+            "genre_ids": [
+                35,
+                80,
+                53
+            ],
+            "id": 10480,
+            "original_language": "en",
+            "original_title": "Nurse Betty",
+            "overview": "What happens when a person decides that life is merely a state of mind? If you're Betty, a small-town waitress and soap opera fan from Fair Oaks, Kansas, you refuse to believe that you can't be with the love of your life just because he doesn't really exist. After all, life is no excuse for not living. Traumatized by a savage event, Betty enters into a fugue state that allows -- even encourages -- her to keep functioning... in a kind of alternate reality.",
+            "popularity": 2.0656,
+            "poster_path": "/1OCHR9z9k7go669AsShOkTj4CFb.jpg",
+            "release_date": "2000-08-30",
+            "title": "Nurse Betty",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 421
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5dvZd4eU7ktWdG4k9M0xevijchf.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 55971,
+            "original_language": "ru",
+            "original_title": "\u041c\u043e\u043b\u043e\u0445",
+            "overview": "In 1942 Bavaria, Eva is alone, when Adolf arrives with Josef, his wife Magda, and Martin to spend a couple of days without politics.",
+            "popularity": 0.8148,
+            "poster_path": "/jCXFOLTtOwErAvZdLG4X7MhDQnJ.jpg",
+            "release_date": "1999-02-01",
+            "title": "Moloch",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bP1ry1gWi9BOIVpbgvkqgOYppTA.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 37410,
+            "original_language": "en",
+            "original_title": "Henry Fool",
+            "overview": "An egocentric bum transforms the lives of a shy New Jersey garbageman and his sister.",
+            "popularity": 2.4412,
+            "poster_path": "/1Uun13GJi5U0gs303e7BnER6SpG.jpg",
+            "release_date": "1998-06-19",
+            "title": "Henry Fool",
+            "video": false,
+            "vote_average": 6.582,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r700X6U2hVX0haLRItATSVn5Rj4.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 68924,
+            "original_language": "en",
+            "original_title": "The Ice Storm",
+            "overview": "In the weekend after thanksgiving 1973 the Hood family is skidding out of control. Then an ice storm hits, the worst in a century.",
+            "popularity": 2.116,
+            "poster_path": "/3a6uLta7K8Dzojps4RoJAPHD0km.jpg",
+            "release_date": "1997-09-27",
+            "title": "The Ice Storm",
+            "video": false,
+            "vote_average": 6.866,
+            "vote_count": 718
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2sxUrCRimUdYMtgGubx9lLMWMtz.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                35
+            ],
+            "id": 48580,
+            "original_language": "fr",
+            "original_title": "Un h\u00e9ros tr\u00e8s discret",
+            "overview": "Set in France at the end of World War II Albert Dehousse finds out his father wasn't a war hero and his mother is a collaborator.",
+            "popularity": 0.3431,
+            "poster_path": "/gXB4G4UTwJCBKLdFLNKA8fWYdeQ.jpg",
+            "release_date": "1996-05-15",
+            "title": "A Self-Made Hero",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4DgcfG8h13gGZQyUW7I4rWiU32I.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 64567,
+            "original_language": "fr",
+            "original_title": "Grosse fatigue",
+            "overview": "Stressed and overworked, famous French movie star Michel Blanc is beginning to wear down, physically and mentally, from the pressure and demands of fame. Already in a fragile state of mind, strange events start to transpire all around him, and he gradually loses his grip. Taking the advice of a psychiatrist, Blanc retreats to the countryside with his friend Carole Bouquet, but Blanc still has not managed to escape all of his problems.",
+            "popularity": 2.1706,
+            "poster_path": "/tD8zVuSpIfUSjmEZ0UXBeOU9Va8.jpg",
+            "release_date": "1994-05-18",
+            "title": "Dead Tired",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qKS8ajwiQm1NmBUm4eYlSipnGYe.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 47792,
+            "original_language": "el",
+            "original_title": "\u03a4\u03b1\u03be\u03af\u03b4\u03b9 \u03c3\u03c4\u03b1 \u039a\u03cd\u03b8\u03b7\u03c1\u03b1",
+            "overview": "An old communist returning to Greece after 32 years in the Soviet Union is disillusioned with the state of things.",
+            "popularity": 1.4397,
+            "poster_path": "/nAcvV1WnZ7xk5gvvSOt2eyhGdjz.jpg",
+            "release_date": "1984-04-21",
+            "title": "Voyage to Cythera",
+            "video": false,
+            "vote_average": 6.867,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/idRGgGTYTRu0UVrc8qMyBiJeet8.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42134,
+            "original_language": "en",
+            "original_title": "Moonlighting",
+            "overview": "A Polish contractor, Nowak, leads a group of workmen to London so they can provide cheap labor for a government official based there. Nowak has to manage the project and the men as they encounter the tempations of the West and loneliness and separation from their families. Nowak is the only one of the group who speaks English, and he uses this as a tool over his team. When the unrest in Poland leads to a military takeover, Nowak is faced with a much more difficult situation than he expected.",
+            "popularity": 1.9019,
+            "poster_path": "/bCYuIZAVCLVrjmTrSX6NETgIvUT.jpg",
+            "release_date": "1982-09-26",
+            "title": "Moonlighting",
+            "video": false,
+            "vote_average": 6.963,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ncO9pjB0PZ603Tp1LgbNpkeUxzL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11911,
+            "original_language": "de",
+            "original_title": "Mephisto",
+            "overview": "A German stage actor finds unexpected success and mixed blessings in the popularity of his performance in a Faustian play as the Nazis take power in pre-WWII Germany. As his associates and friends flee or are ground under by the Nazi terror, the popularity of his character supercedes his own existence until he finds that his best performance is keeping up appearances for his Nazi patrons.",
+            "popularity": 0.3798,
+            "poster_path": "/SNJoUTU8PSxQlj3RkrwYGOQPyj.jpg",
+            "release_date": "1981-02-11",
+            "title": "Mephisto",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rjEoEfJDhDlYW0bMdeIntKFuSkS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 77334,
+            "original_language": "it",
+            "original_title": "La terrazza",
+            "overview": "Eight Italian politicians from the communist party gather on a terrace in Rome for a get-together. They discuss about their past, present and future.",
+            "popularity": 0.5746,
+            "poster_path": "/9VQpe6Olw355r0PmxmgBBs5BFSk.jpg",
+            "release_date": "1980-02-08",
+            "title": "The Terrace",
+            "video": false,
+            "vote_average": 7.169,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cssKLoKClpgqaaGD2z3cjXgzPSM.jpg",
+            "genre_ids": [
+                80,
+                18,
+                35
+            ],
+            "id": 5121,
+            "original_language": "en",
+            "original_title": "The Sugarland Express",
+            "overview": "Married small-time crooks Lou-Jean and Clovis Poplin lose their baby to the state of Texas and resolve to do whatever it takes to get him back. Lou-Jean gets Clovis out of jail, and the two steal their son from his foster home, in addition to taking a highway patrolman hostage. As a massive dragnet starts to pursue them across Texas, the couple become unlikely folk heroes and even start to bond with the captive policeman.",
+            "popularity": 1.3294,
+            "poster_path": "/csahjHhtJ9NzFKcxVcw7S4Pyfj.jpg",
+            "release_date": "1974-03-31",
+            "title": "The Sugarland Express",
+            "video": false,
+            "vote_average": 6.601,
+            "vote_count": 439
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8skpuiVnIZNpXkHyjoCUUaYkxjL.jpg",
+            "genre_ids": [
+                9648,
+                18,
+                80
+            ],
+            "id": 80441,
+            "original_language": "it",
+            "original_title": "A ciascuno il suo",
+            "overview": "A leftist professor wants the truth about two men killed during a hunting party; but the mafia, the Church and corrupt politicians don't want him to learn it.",
+            "popularity": 0.9189,
+            "poster_path": "/tBRjeDnVLWIrtMmNq25hKBzGEQ4.jpg",
+            "release_date": "1967-02-24",
+            "title": "We Still Kill the Old Way",
+            "video": false,
+            "vote_average": 6.628,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2EGFbP5AHgCugG6civhdT9s3oeP.jpg",
+            "genre_ids": [
+                35,
+                12,
+                18
+            ],
+            "id": 78815,
+            "original_language": "fr",
+            "original_title": "Jeu de massacre",
+            "overview": "Two cartoonists meet a playboy who lives out the fantasies created in their cartoons. He hires them to create a new comic strip. As they work on the new strip, the playboy begins to live it out. Unfortunately, the new strip deals with murder.",
+            "popularity": 0.3207,
+            "poster_path": "/cbyaemesm1y4Q0c4mI6EEf4vVXV.jpg",
+            "release_date": "1967-04-29",
+            "title": "The Killing Game",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8skpuiVnIZNpXkHyjoCUUaYkxjL.jpg",
+            "genre_ids": [
+                9648,
+                18,
+                80
+            ],
+            "id": 80441,
+            "original_language": "it",
+            "original_title": "A ciascuno il suo",
+            "overview": "A leftist professor wants the truth about two men killed during a hunting party; but the mafia, the Church and corrupt politicians don't want him to learn it.",
+            "popularity": 0.9189,
+            "poster_path": "/tBRjeDnVLWIrtMmNq25hKBzGEQ4.jpg",
+            "release_date": "1967-02-24",
+            "title": "We Still Kill the Old Way",
+            "video": false,
+            "vote_average": 6.628,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q1Jn9CG3ePA4Ulk558ijlP75Y7z.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18
+            ],
+            "id": 31344,
+            "original_language": "fr",
+            "original_title": "La 317\u00e8me Section",
+            "overview": "In Laos, 1954, eight days before the french defeat in the Indochina war, the 317th platoon \u2013 four french soldiers and 41 laotian combatants \u2013 has been ordered to leave its outpost and to retreat for the plains of Di\u00ean Bi\u00ean Phu, where the french army is getting stucked. Led by the inexperienced and idealistic sous-lieutenant Torrens, fresh out of the military academy, and by adjutant Willsdorf, a WWII veteran of the Werhmacht, the group must cross 150 kilometers of jungle. But dripping rainwater, hostile nature, and the Vi\u00eat-minh ambushes expose them to constant danger.",
+            "popularity": 0.3573,
+            "poster_path": "/8mQIn1FMnwEyPiMMrYVf0R0HcJE.jpg",
+            "release_date": "1965-03-31",
+            "title": "The 317th Platoon",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mOi2oONVYBPNa7Y55PGrqbaKczp.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 24395,
+            "original_language": "en",
+            "original_title": "The Hill",
+            "overview": "North Africa, World War II. British soldiers on the brink of collapse push beyond endurance to struggle up a brutal incline. It's not a military objective. It's The Hill, a manmade instrument of torture, a tower of sand seared by a white-hot sun. And the troops' tormentors are not the enemy, but their own comrades-at-arms.",
+            "popularity": 0.7944,
+            "poster_path": "/cmBpImAjHJnuHXMVByzqnxtDcae.jpg",
+            "release_date": "1965-06-11",
+            "title": "The Hill",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 239
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 198835,
+            "original_language": "ro",
+            "original_title": "Codin",
+            "overview": "An ex-convict struggles to survive by brute force alone in a turn-of-the-century slum in Bucharest. Codine is the thug who served 10 years for murdering a friend. He returns home to his miserly mother, whose penny-pinching ways infuriate her son. A young boy looks up to Codine, and through the man's eyes he sees the economic and social injustices from an adult perspective. When Codine kills another man who violated his trust, his mother becomes more unhinged and paranoid. Thinking her son will steal her hoarded money, she plots to kill her only son. The impressionable child watches in horror and amazement at the cruel machinations of the adult work that surrounds him.",
+            "popularity": 0.5085,
+            "poster_path": "/o4uCSH90j1Gkt0CpUDbHSHFcB3K.jpg",
+            "release_date": "1963-05-15",
+            "title": "Codine",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cEjZDmCWLO1GzAyqoOjxggm9obK.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 199184,
+            "original_language": "it",
+            "original_title": "Giovani mariti",
+            "overview": "In a small Italian town, the local youngsters realize that their youth is coming to an end and marriage will soon follow. They gather together for one last time in an attempt to revive their younger days, but this comes to a dismal conclusion. Gradually it dawns on the group that childhood is over and the next stage in human growth must be faced.",
+            "popularity": 0.2009,
+            "poster_path": "/yvixysF9OFN4FqO9TD91lFUD1KP.jpg",
+            "release_date": "1958-03-13",
+            "title": "Young Husbands",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lpdJBN9gLWloFFXE17QcE1kiaSP.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 45099,
+            "original_language": "it",
+            "original_title": "Guardie e ladri",
+            "overview": "Esposito is a thief who cons tourists in Rome. Officer Bottoni manages to catch him and starts persecuting him. When Esposito manages to flee, Bottoni's superiors inform him that he'll lose his job if he can't catch Esposito.",
+            "popularity": 0.2703,
+            "poster_path": "/llBVni4EXp6p8b6fzR3JkPrtnh4.jpg",
+            "release_date": "1951-11-29",
+            "title": "Cops and Robbers",
+            "video": false,
+            "vote_average": 7.538,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7aLyz4RTdQZCxOsnuPk67bXIZIn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 39946,
+            "original_language": "en",
+            "original_title": "The Browning Version",
+            "overview": "Andrew Crocker-Harris has been forced from his position as the classics master at an English public school due to poor health. As he winds up his final term, he discovers not only that his wife, Millie, has been unfaithful to him with one of his fellow schoolmasters, but that the school's students and faculty have long disdained him. However, an unexpected act of kindness causes Crocker-Harris to re-evaluate his life's work.",
+            "popularity": 0.8298,
+            "poster_path": "/fRlXkYgQc6QfwYMAlv2neKhRswl.jpg",
+            "release_date": "1951-04-06",
+            "title": "The Browning Version",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bE7cALvejeh3vXCK3bO8KpeKgQK.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 113237,
+            "original_language": "en",
+            "original_title": "Lost Boundaries",
+            "overview": "A light-skinned African-American family are \"passing\" in an all-white New England town. When the truth comes out, the more prejudiced neighbors demand their expulsion from the community.",
+            "popularity": 0.2735,
+            "poster_path": "/g2SsOErhrmOBtAbKIFEJQeQuFOj.jpg",
+            "release_date": "1949-07-02",
+            "title": "Lost Boundaries",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 11
+        }
+    ]
+}

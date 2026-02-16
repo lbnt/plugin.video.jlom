@@ -1,0 +1,29 @@
+{
+    "type" : "folder_list",
+    "title" : "Cannes Film Festival",
+    "added" : "31/01/26",
+    "modified" : "31/01/26",
+    "folders" : [
+        {
+            "title" : "Berlinale - Golden Bear",
+            "id" : "berlinale-golden_bear",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Sundance - Grand Jury Prize Dramatic US",
+            "id" : "sundance-grand_jury_prize_dramatic_us",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Sundance - Grand Jury Prize Documentary US",
+            "id" : "sundance-grand_jury_prize_documentary_us",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Toronto International Film Festival - People's Choice Award",
+            "id" : "toronto_international_film_festival-people_choice_s_award",
+            "type" : "movie_list"
+        }
+
+    ]
+}

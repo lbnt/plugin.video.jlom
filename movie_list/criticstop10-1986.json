@@ -1,0 +1,895 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1986",
+    "source": "https://criticstop10.com/best-movies-of-1986/",
+    "created_by": "lbnt",
+    "added": "07/29/25",
+    "modified": "07/29/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 5143,
+            "original_language": "en",
+            "original_title": "Hannah and Her Sisters",
+            "overview": "Between two Thanksgivings, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+            "popularity": 1.0664,
+            "poster_path": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+            "release_date": "1986-02-07",
+            "title": "Hannah and Her Sisters",
+            "video": false,
+            "vote_average": 7.504,
+            "vote_count": 1082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7BawlYbO8j434ovY0xTHpaNNE0Y.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11257,
+            "original_language": "en",
+            "original_title": "A Room with a View",
+            "overview": "When Lucy Honeychurch and chaperon Charlotte Bartlett find themselves in Florence with rooms without views, fellow guests Mr Emerson and son George step in to remedy the situation. Meeting the Emersons could change Lucy's life forever but, once back in England, how will her experiences in Tuscany affect her marriage plans?",
+            "popularity": 1.7118,
+            "poster_path": "/5xRAqywVo6tNUNQbAESGVP930la.jpg",
+            "release_date": "1986-03-07",
+            "title": "A Room with a View",
+            "video": false,
+            "vote_average": 6.945,
+            "vote_count": 794
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wjt1dwtabVm9vujAteDTnXnpHfZ.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                28
+            ],
+            "id": 792,
+            "original_language": "en",
+            "original_title": "Platoon",
+            "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+            "popularity": 7.4045,
+            "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+            "release_date": "1986-12-19",
+            "title": "Platoon",
+            "video": false,
+            "vote_average": 7.747,
+            "vote_count": 4768
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/12UiL2rS5M80AhS9uiZ633iy4pB.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                80,
+                18
+            ],
+            "id": 793,
+            "original_language": "en",
+            "original_title": "Blue Velvet",
+            "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+            "popularity": 4.32,
+            "poster_path": "/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg",
+            "release_date": "1986-09-19",
+            "title": "Blue Velvet",
+            "video": false,
+            "vote_average": 7.611,
+            "vote_count": 3541
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/awqquwDxMN9iuOAgDJZSkUO9yf7.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749,
+                53
+            ],
+            "id": 10002,
+            "original_language": "en",
+            "original_title": "Mona Lisa",
+            "overview": "George is a small-time crook just out of prison who discovers his tough-guy image is out of date. Reduced to working as a minder/driver for high class call girl Simone, he has to agree when she asks him to find a young colleague from her King's Cross days. That's when George's troubles just start.",
+            "popularity": 0.9091,
+            "poster_path": "/geBGfbhkgKHld8rM9XuLfzPGZ6I.jpg",
+            "release_date": "1986-06-13",
+            "title": "Mona Lisa",
+            "video": false,
+            "vote_average": 6.903,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 679,
+            "original_language": "en",
+            "original_title": "Aliens",
+            "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+            "popularity": 9.5868,
+            "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+            "release_date": "1986-07-18",
+            "title": "Aliens",
+            "video": false,
+            "vote_average": 7.953,
+            "vote_count": 10215
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nxxdhhcKreBWItIzN2MQohoIeCY.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 14670,
+            "original_language": "en",
+            "original_title": "'Round Midnight",
+            "overview": "Inside the Blue Note nightclub one night in 1959 Paris, an aged, ailing jazzman coaxes an eloquent wail from his tenor sax. Outside, a young Parisian too broke to buy a glass of wine strains to hear those notes. Soon they will form a friendship that sparks a final burst of genius.",
+            "popularity": 0.8391,
+            "poster_path": "/8aNGnEsvLBldNvaBkfYkGGgZDhe.jpg",
+            "release_date": "1986-09-23",
+            "title": "'Round Midnight",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 235,
+            "original_language": "en",
+            "original_title": "Stand by Me",
+            "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four Oregon boys decide to go see the body. On the way, Gordie,  Vern, Chris and Teddy encounter a mean junk man and a marsh full of leeches, as they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+            "popularity": 5.4464,
+            "poster_path": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+            "release_date": "1986-08-08",
+            "title": "Stand by Me",
+            "video": false,
+            "vote_average": 7.853,
+            "vote_count": 6125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hhCp6ZLDjS5wUHkGg7k3VGvH3Xm.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11873,
+            "original_language": "en",
+            "original_title": "The Color of Money",
+            "overview": "Former pool hustler \"Fast Eddie\" Felson decides he wants to return to the game by taking a pupil. He meets talented but green Vincent Lauria and proposes a partnership. As they tour pool halls, Eddie teaches Vincent the tricks of scamming, but he eventually grows frustrated with Vincent's showboat antics, leading to an argument and a falling-out. Eddie takes up playing again and soon crosses paths with Vincent as an opponent.",
+            "popularity": 1.4611,
+            "poster_path": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+            "release_date": "1986-10-17",
+            "title": "The Color of Money",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fiC5azwRjJmrwI59BlVpLqIegU1.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1890,
+            "original_language": "en",
+            "original_title": "Children of a Lesser God",
+            "overview": "Starting his new job as an instructor at a New England school for the deaf, James Leeds meets Sarah Norman, a young deaf woman who works at the school as a member of the custodial staff. In spite of Sarah's withdrawn emotional state, a romance slowly develops between the pair.",
+            "popularity": 1.2205,
+            "poster_path": "/tWMuw7YWWDpD9Iv652vfKELPZPR.jpg",
+            "release_date": "1986-09-13",
+            "title": "Children of a Lesser God",
+            "video": false,
+            "vote_average": 6.93,
+            "vote_count": 328
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rR5GhPfulwOHeEbvuom8gwgo2i9.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "id": 10013,
+            "original_language": "en",
+            "original_title": "Peggy Sue Got Married",
+            "overview": "Peggy Sue faints at a high school reunion. When she wakes up she finds herself in her own past, just before she finished school.",
+            "popularity": 1.4132,
+            "poster_path": "/iXXazXe6OtesOCDslyuccULgJlG.jpg",
+            "release_date": "1986-10-10",
+            "title": "Peggy Sue Got Married",
+            "video": false,
+            "vote_average": 6.089,
+            "vote_count": 606
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w2Hj9cwZFaPXb66dUjUcvnBCT4.jpg",
+            "genre_ids": [
+                80,
+                35,
+                10749
+            ],
+            "id": 11300,
+            "original_language": "en",
+            "original_title": "Something Wild",
+            "overview": "A free-spirited woman \"kidnaps\" a yuppie for a weekend of adventure. But the fun quickly takes a dangerous turn when her ex-con husband shows up.",
+            "popularity": 0.9126,
+            "poster_path": "/344lhBozqFWKxBb4fp6azYQMLEy.jpg",
+            "release_date": "1986-11-07",
+            "title": "Something Wild",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 362
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fuKt9vmyN8cpZvPflfW9YGrFTuQ.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 10776,
+            "original_language": "en",
+            "original_title": "Little Shop of Horrors",
+            "overview": "Seymour Krelborn is a nerdy orphan working at Mushnik's; a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for his supper.",
+            "popularity": 2.3826,
+            "poster_path": "/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+            "release_date": "1986-12-19",
+            "title": "Little Shop of Horrors",
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 1511
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 9426,
+            "original_language": "en",
+            "original_title": "The Fly",
+            "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+            "popularity": 4.833,
+            "poster_path": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+            "release_date": "1986-08-15",
+            "title": "The Fly",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 4645
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nO7raOhTt6QcrYjkb1dL8VaTA3e.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 11240,
+            "original_language": "en",
+            "original_title": "My Beautiful Laundrette",
+            "overview": "A Pakistani Briton renovates a rundown laundrette with his male lover while dealing with drama within his family, the local Pakistani community, and a persistent mob of skinheads.",
+            "popularity": 1.1275,
+            "poster_path": "/hfGWxrtbRnxg19ouEYBtQKtMZcN.jpg",
+            "release_date": "1985-11-16",
+            "title": "My Beautiful Laundrette",
+            "video": false,
+            "vote_average": 6.715,
+            "vote_count": 284
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 6106,
+            "original_language": "en",
+            "original_title": "Salvador",
+            "overview": "In 1980, an American journalist covering the Salvadoran Civil War becomes entangled with both the leftist guerrilla groups and the right-wing military dictatorship while trying to rescue his girlfriend and her children.",
+            "popularity": 0.9224,
+            "poster_path": "/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg",
+            "release_date": "1986-04-23",
+            "title": "Salvador",
+            "video": false,
+            "vote_average": 7.046,
+            "vote_count": 370
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n7mI520idCPHVsqTljNDNtNiCL9.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 48259,
+            "original_language": "en",
+            "original_title": "Crimes of the Heart",
+            "overview": "Three sisters try to come to grips with the meaning of their mother's suicide.",
+            "popularity": 0.4907,
+            "poster_path": "/yet0Ww2A7f5qT7MisDuIBSXdV3r.jpg",
+            "release_date": "1986-12-12",
+            "title": "Crimes of the Heart",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pLdutWHlPIHf7ldH31akiVLUHQQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 14924,
+            "original_language": "en",
+            "original_title": "Sid and Nancy",
+            "overview": "January 1978. After their success in England, the punk rock band Sex Pistols venture out on their tour of the southern United States. Temperamental bassist Sid Vicious is forced by his band mates to travel without his troubled girlfriend, Nancy Spungen, who will meet him in New York. When the band breaks up and Sid begins his solo career in a hostile city, the turbulent couple definitely falls into the depths of drug addiction.",
+            "popularity": 2.3101,
+            "poster_path": "/wHzCbMCfipDJ38GW5IyBTWDflMz.jpg",
+            "release_date": "1986-09-12",
+            "title": "Sid and Nancy",
+            "video": false,
+            "vote_average": 6.749,
+            "vote_count": 527
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g6VLgLRtdY334NO0VWlIo1Wckw8.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 9941,
+            "original_language": "en",
+            "original_title": "Down and Out in Beverly Hills",
+            "overview": "Beverly Hills couple Barbara and Dave Whiteman find their lives altered by the arrival of a vagrant who tries to drown himself in their swimming pool.",
+            "popularity": 0.7928,
+            "poster_path": "/5bfbUsKcJD4HHFmlTcpHBI2wR2k.jpg",
+            "release_date": "1986-01-31",
+            "title": "Down and Out in Beverly Hills",
+            "video": false,
+            "vote_average": 5.898,
+            "vote_count": 265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 168,
+            "original_language": "en",
+            "original_title": "Star Trek IV: The Voyage Home",
+            "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+            "popularity": 3.1315,
+            "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+            "release_date": "1986-11-26",
+            "title": "Star Trek IV: The Voyage Home",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1551
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pLuVm0Y37m2uuztLoaQbfimipqN.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 12151,
+            "original_language": "en",
+            "original_title": "Ruthless People",
+            "overview": "Sam Stone hates his wife Barbara so much that he wants her dead. He's ecstatic when she's taken by a duo of kidnappers who want $500,000 ransom in exchange for her life. Fully intending to ignore every one of the kidnappers' demands in the hopes that they do him a favor and murder her for him, the two confused kidnappers have to figure out how they're going get their money, and what they're going to do with the overbearing Barbara.",
+            "popularity": 1.195,
+            "poster_path": "/fA3f8bsXoVbIALq4EdiAwptF1ws.jpg",
+            "release_date": "1986-06-26",
+            "title": "Ruthless People",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 415
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg",
+            "genre_ids": [
+                12,
+                35
+            ],
+            "id": 9671,
+            "original_language": "en",
+            "original_title": "Crocodile Dundee",
+            "overview": "When a New York reporter plucks crocodile hunter Mick Dundee from the Australian Outback for a visit to the Big Apple, it's a clash of cultures and a recipe for good-natured comedy as na\u00efve Dundee negotiates the concrete jungle. He proves that his instincts are quite useful in the city and adeptly handles everything from wily muggers to high-society snoots without breaking a sweat.",
+            "popularity": 3.5649,
+            "poster_path": "/pduPduL1ub5kok3lPYT15ryC9L6.jpg",
+            "release_date": "1986-09-26",
+            "title": "Crocodile Dundee",
+            "video": false,
+            "vote_average": 6.421,
+            "vote_count": 1977
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/izgDdMvuRvTtA2azhKwPvfITZU1.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                36
+            ],
+            "id": 11416,
+            "original_language": "en",
+            "original_title": "The Mission",
+            "overview": "When a Spanish Jesuit goes into the South American wilderness to build a mission in the hope of converting the Indians of the region, a slave hunter is converted and joins his mission. When Spain sells the colony to Portugal, they are forced to defend all they have built against the Portuguese aggressors.",
+            "popularity": 2.5166,
+            "poster_path": "/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg",
+            "release_date": "1986-09-06",
+            "title": "The Mission",
+            "video": false,
+            "vote_average": 7.397,
+            "vote_count": 1454
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                10749
+            ],
+            "id": 10340,
+            "original_language": "en",
+            "original_title": "Lady and the Tramp",
+            "overview": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.",
+            "popularity": 5.5107,
+            "poster_path": "/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+            "release_date": "1955-06-22",
+            "title": "Lady and the Tramp",
+            "video": false,
+            "vote_average": 7.123,
+            "vote_count": 5432
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
+            "genre_ids": [
+                80,
+                18,
+                35
+            ],
+            "id": 1554,
+            "original_language": "en",
+            "original_title": "Down by Law",
+            "overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.",
+            "popularity": 1.1769,
+            "poster_path": "/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
+            "release_date": "1986-09-20",
+            "title": "Down by Law",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 784
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aqUYYwKMNRzmqvkBvNM1gqRerb1.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 27995,
+            "original_language": "en",
+            "original_title": "She's Gotta Have It",
+            "overview": "The story of Nola Darling's simultaneous sexual relationships with three different men is told by her and by her partners and other friends. All three men wanted her to commit solely to them; Nola resists being \"owned\" by a single partner.",
+            "popularity": 0.7076,
+            "poster_path": "/qiJuXvPONqTSSnzhbCBqE7EotV.jpg",
+            "release_date": "1986-08-08",
+            "title": "She's Gotta Have It",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 339
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3mjzFIXj2nvhDJCBS8NFsm2AfUW.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 29968,
+            "original_language": "en",
+            "original_title": "Nothing in Common",
+            "overview": "A successful advertising executive finds his freewheeling life crashing to a halt when his parents end their longtime marriage.",
+            "popularity": 0.7112,
+            "poster_path": "/m2G6Idl1CKJwOt8aFsnJk08sfDP.jpg",
+            "release_date": "1986-07-29",
+            "title": "Nothing in Common",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9axN86u2YSyUSW7G2ev81Cx4PzB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42029,
+            "original_language": "fr",
+            "original_title": "Th\u00e9r\u00e8se",
+            "overview": "The life of little St. Therese of Lisieux, depicted in minimalist vignettes. Therese and her sisters are all nuns in a Carmelite convent. Her devotion to Jesus and her concept of \"the little way\" to God are shown clearly, using plain modern language. A sense of angelic simplicity comes across without fancy lights, choirs, or showy miracles.",
+            "popularity": 0.2042,
+            "poster_path": "/qQYUTlhMJfN4mC6cDaN7dCPb0MV.jpg",
+            "release_date": "1986-06-21",
+            "title": "Th\u00e9r\u00e8se",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/48y1eAboPFgt7rKcynRAPPvtJ1E.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 24657,
+            "original_language": "sv",
+            "original_title": "Offret",
+            "overview": "Alexander, a journalist, philosopher and retired actor, celebrates a birthday with friends and family when it is announced that nuclear war has begun.",
+            "popularity": 2.5435,
+            "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+            "release_date": "1986-05-09",
+            "title": "The Sacrifice",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 564
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lhuqyVPpbsenpQfNYF2JGJotAfl.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 24798,
+            "original_language": "en",
+            "original_title": "True Stories",
+            "overview": "A small but growing Texas town, filled with strange and musical characters, celebrates its sesquicentennial and converge on a local parade and talent show.",
+            "popularity": 0.8854,
+            "poster_path": "/sngF8cskFWz2cig7b63ZaDNaQXr.jpg",
+            "release_date": "1986-10-10",
+            "title": "True Stories",
+            "video": false,
+            "vote_average": 6.695,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/at8sZnU2IEI7vbWsNe1IyI5yymM.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 123047,
+            "original_language": "en",
+            "original_title": "Turtle Diary",
+            "overview": "Two separate people, a man and a woman, find something very stirring about the sea turtles in their tank at the London Zoo. They meet and form an odd, but sympathetic camaraderie as they plan to steal two of the turtles and free them into the ocean.",
+            "popularity": 0.242,
+            "poster_path": "/tY9j8r1dVVrATeThyro02ALmWwF.jpg",
+            "release_date": "1985-12-06",
+            "title": "Turtle Diary",
+            "video": false,
+            "vote_average": 6.538,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nK9Sx8Ya8SzMi3Ag14MvAkMwehe.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 123056,
+            "original_language": "en",
+            "original_title": "Desert Bloom",
+            "overview": "The story involves Rose Chismore's youth. She flashes back and remembers her coming-of-age. Her recollections are sometimes less than sweet, particularly those of her troubled and alcoholic step-father. Her memories of Robin, her first-love, are much happier and she also recalls her colorful Aunt Starr -- who's visit is fun but also detrimental to her family's health. The setting of 1950s Las Vegas' bomb testing is increasingly significant to the development of the story.",
+            "popularity": 0.3668,
+            "poster_path": "/eOBhDCSoC9F10DlBj8Bis6odG5v.jpg",
+            "release_date": "1986-01-22",
+            "title": "Desert Bloom",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nKqPwRYh5muLul3cN6zni0fJs11.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 20561,
+            "original_language": "en",
+            "original_title": "28 Up",
+            "overview": "Just two years away from turning 30, participants in Michael Apted's documentary series are facing serious questions of identity and purpose, wondering whether they've found their place in the world.",
+            "popularity": 0.1283,
+            "poster_path": "/jqwouPCwQF9UTl8GjIBjbLivmdw.jpg",
+            "release_date": "1984-11-20",
+            "title": "28 Up",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uHhvKpVXFjOUTdTdLBGsiHMrZL8.jpg",
+            "genre_ids": [
+                80,
+                18,
+                35
+            ],
+            "id": 31694,
+            "original_language": "en",
+            "original_title": "Trouble in Mind",
+            "overview": "The lives of an ex-con, a coffee-shop owner, and a young couple looking to make it rich intersect in the hypnotic Rain City.",
+            "popularity": 2.4157,
+            "poster_path": "/anXEQprHIfNPksVVqvoCU74s9gf.jpg",
+            "release_date": "1985-12-11",
+            "title": "Trouble in Mind",
+            "video": false,
+            "vote_average": 5.75,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tAqTDzbDAkQCKI8XRYVz6YN1vmE.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 19357,
+            "original_language": "en",
+            "original_title": "Summer Rental",
+            "overview": "Jack Chester, an overworked air traffic controller, takes his family on vacation to the beach. Things immediately start to go wrong for the Chesters, and steadily get worse. Jack ends up in a feud with a local yachtsman, and has to race him to regain his pride and family's respect.",
+            "popularity": 0.8908,
+            "poster_path": "/kNkDCXB2JXGnaG3KwvzAAjmZiV8.jpg",
+            "release_date": "1985-08-09",
+            "title": "Summer Rental",
+            "video": false,
+            "vote_average": 6.104,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ce8iO3sSv4CCoesn3uiSQXofkbM.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 41480,
+            "original_language": "en",
+            "original_title": "Sherman's March",
+            "overview": "Ross McElwee sets out to make a documentary about the lingering effects of General Sherman's march of destruction through the South during the Civil War, but is continually sidetracked by women who come and go in his life, his recurring dreams of nuclear holocaust, and Burt Reynolds.",
+            "popularity": 3.4088,
+            "poster_path": "/55YscDYNXdffYwDGMrpveqnsa9d.jpg",
+            "release_date": "1985-11-13",
+            "title": "Sherman's March",
+            "video": false,
+            "vote_average": 6.819,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9tQZwA2yidynkdgYdlnNzf3FylD.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 11120,
+            "original_language": "en",
+            "original_title": "The Mosquito Coast",
+            "overview": "Allie Fox, an American inventor exhausted by the perceived danger and degradation of modern society, decides to escape with his wife and children to Belize. In the jungle, he tries with mad determination to create a utopian community with disastrous results.",
+            "popularity": 0.9208,
+            "poster_path": "/8A1iDYSp8H5WORWZVCV3E3SpkGD.jpg",
+            "release_date": "1986-11-26",
+            "title": "The Mosquito Coast",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 485
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gfR3GEClL7WrNpQOg8mcPhM8fx6.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 11645,
+            "original_language": "ja",
+            "original_title": "\u4e71",
+            "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an ageing warlord divides his kingdom between his three sons.",
+            "popularity": 3.8372,
+            "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+            "release_date": "1985-06-01",
+            "title": "Ran",
+            "video": false,
+            "vote_average": 8.047,
+            "vote_count": 1651
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sz31PrTT4ZyJn2gbzHdxTilt1md.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 5693,
+            "original_language": "en",
+            "original_title": "Hoosiers",
+            "overview": "Failed college coach Norman Dale gets a chance at redemption when he is hired to coach a high school basketball team in a tiny Indiana town. After a teacher persuades star player Jimmy Chitwood to quit and focus on his long-neglected studies, Dale struggles to develop a winning team in the face of community criticism for his temper and his unconventional choice of assistant coach: Shooter, a notorious alcoholic.",
+            "popularity": 1.5518,
+            "poster_path": "/dHpjZQXEdoi1xNLubM1rPmTHJYz.jpg",
+            "release_date": "1986-11-14",
+            "title": "Hoosiers",
+            "video": false,
+            "vote_average": 7.029,
+            "vote_count": 549
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1HXfl1U2t5tyJNDwFQPQC10AK0m.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 42093,
+            "original_language": "de",
+            "original_title": "Marlene",
+            "overview": "Retrospective on the career of enigmatic screen diva Marlene Dietrich.",
+            "popularity": 0.0943,
+            "poster_path": "/rkjXTH5LZlAQt48SvqFLV4CK4Pm.jpg",
+            "release_date": "1984-10-01",
+            "title": "Marlene",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8UqukRNZFNfJZE9WnG2J0IDy2Yi.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 18169,
+            "original_language": "en",
+            "original_title": "About Last Night...",
+            "overview": "A man and woman meet and try to have a romantic affair, despite their personal problems and the interference of their disapproving friends.",
+            "popularity": 2.2284,
+            "poster_path": "/xbBaCfgUIIxYKrTTI7ZH1R23Hza.jpg",
+            "release_date": "1986-07-02",
+            "title": "About Last Night...",
+            "video": false,
+            "vote_average": 6.025,
+            "vote_count": 222
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yItBvynVmSCTvAkzAm5PllP4oth.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 18499,
+            "original_language": "fr",
+            "original_title": "Le D\u00e9clin de l'empire am\u00e9ricain",
+            "overview": "Four very different Montreal university teachers gather at a rambling country house to prepare a dinner. Remy (married), Claude (a homosexual), Pierre (involved with a girlfriend) and Alain (a bachelor) discuss sex, the female body and their affairs with them. Meanwhile, their four female guests, Louise (Remy's wife of 15 years), Dominique (a spinster), Diane (a divorc\u00e9e) and Danielle (Pierre's girlfriend) are spending the time at a downtown health gym. They also discuss sex, the female body and, naturally, men. Later in the evening, they finally meet at the country house and have dinner. A ninth guest, named Mario, who used to know Diane, drops in on the group for some talk and has a surprise of his own.",
+            "popularity": 0.5924,
+            "poster_path": "/j5Bi5lr7Z2tr9fEJI0YuS0AS2iG.jpg",
+            "release_date": "1986-06-19",
+            "title": "The Decline of the American Empire",
+            "video": false,
+            "vote_average": 6.753,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4oRTxCzg0tHY8bpjji0L40VpukM.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 10146,
+            "original_language": "de",
+            "original_title": "Männer",
+            "overview": "A successful, womanizing middle-aged man decides to move out of the house he shares with his wife after she confesses to having an affair. He looks for a new place to live and ends up moving into his wife's lover's apartment as a roommate. The husband begins to take an interest in the artistic work of the lover and coaches him for a big job interview. Little does he know that the job he's helping the lover to get is within his own company... A story about strange circumstances and the limits of friendship.",
+            "popularity": 0.3334,
+            "poster_path": "/sjNTqLlB1QBQTOXRoKgzYtaVcTf.jpg",
+            "release_date": "1985-12-19",
+            "title": "Men...",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xmWBhzDODSmYKON4HMmB0UyQknc.jpg",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "id": 11454,
+            "original_language": "en",
+            "original_title": "Manhunter",
+            "overview": "FBI Agent Will Graham, who retired after catching Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+            "popularity": 0.1113,
+            "poster_path": "/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+            "release_date": "1986-08-14",
+            "title": "Manhunter",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1415
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 9377,
+            "original_language": "en",
+            "original_title": "Ferris Bueller's Day Off",
+            "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+            "popularity": 6.0862,
+            "poster_path": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+            "release_date": "1986-06-11",
+            "title": "Ferris Bueller's Day Off",
+            "video": false,
+            "vote_average": 7.573,
+            "vote_count": 5087
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e7Wf424P7ihIVW22WI1RccYRZs.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 13346,
+            "original_language": "en",
+            "original_title": "Lucas",
+            "overview": "A brilliant but socially inept 14-year-old experiences heartbreak for the first time when his two best friends – Cappie, an older-brother figure, and Maggie, the new girl with whom he is in love – fall for each other.",
+            "popularity": 1.4869,
+            "poster_path": "/idewOpLosMvt2S0sCzcqoHhY8zk.jpg",
+            "release_date": "1986-03-28",
+            "title": "Lucas",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 242
+        }
+    ]
+}

@@ -1,0 +1,410 @@
+{
+    "type": "movie_list",
+    "title": "IndieWire - The top 21 teen movies of all time",
+    "source": "https://www.indiewire.com/features/general/the-top-21-teen-movies-of-all-time-131037/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "04/26/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/atbJUEuf6Y8vcduHLfvaJqPyF6d.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28696,
+            "original_language": "en",
+            "original_title": "The Wild One",
+            "overview": "The Black Rebels Motorcycle Club ride into the small California town of Wrightsville, eager to raise hell. Brooding gang leader Johnny Strabler takes a liking to Kathie, the daughter of the local lawman, as another club rolls into town.",
+            "popularity": 24.728,
+            "poster_path": "/ne8nuvqjczy4xPMMpYwNLuSp0ka.jpg",
+            "release_date": "1953-12-30",
+            "title": "The Wild One",
+            "video": false,
+            "vote_average": 6.576,
+            "vote_count": 278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 47735,
+            "original_language": "sv",
+            "original_title": "Sommaren med Monika",
+            "overview": "Monika from Stockholm falls in love with Harry, a young man on holiday. When she becomes pregnant they are forced into a marriage, which begins to fall apart soon after they take up residence in a cramped little flat.",
+            "popularity": 14.402,
+            "poster_path": "/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
+            "release_date": "1953-02-09",
+            "title": "Summer with Monika",
+            "video": false,
+            "vote_average": 7.303,
+            "vote_count": 332
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oflZDGEo8rZqMIH98WmLRPPmqKY.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 221,
+            "original_language": "en",
+            "original_title": "Rebel Without a Cause",
+            "overview": "After moving to a new town, troublemaking teen Jim Stark is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato, and falls for local girl Judy. However, Judy is the girlfriend of neighborhood tough, Buzz. When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.",
+            "popularity": 31.801,
+            "poster_path": "/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+            "release_date": "1955-10-27",
+            "title": "Rebel Without a Cause",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1544
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vSvKrxEaVnz95ZPBBQYpq35tFsI.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                80
+            ],
+            "id": 88527,
+            "original_language": "ja",
+            "original_title": "\u9752\u6625\u6b8b\u9177\u7269\u8a9e",
+            "overview": "A budding gangster enthralls a freeloading young woman, soon taking advantage of her knack for hitch-hiking to rob middle-class, middle-aged men.",
+            "popularity": 12.324,
+            "poster_path": "/hLPbvJEGGnOEWCUl7IhNSETDXs9.jpg",
+            "release_date": "1960-06-03",
+            "title": "Cruel Story of Youth",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dwXW7OBbkXjsVdavPHqoPf1eFo6.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 31742,
+            "original_language": "it",
+            "original_title": "Il posto",
+            "overview": "With his family mired in financial troubles, Domenico moves to Milan, Italy, from his small town to get a job in lieu of furthering his education. A lack of options forces him to take a position as a messenger at a big company, where he hopes to receive a promotion soon. There, Domenico meets Antonietta, a young woman in a similar situation as himself. The two form a tentative relationship, but the soulless nature of their jobs threatens to keep them apart.",
+            "popularity": 15.858,
+            "poster_path": "/xbAOC6mza20u2fHAVCkDn8xXluO.jpg",
+            "release_date": "1961-09-21",
+            "title": "Il Posto",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 704,
+            "original_language": "en",
+            "original_title": "A Hard Day's Night",
+            "overview": "Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.",
+            "popularity": 31.69,
+            "poster_path": "/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+            "release_date": "1964-07-07",
+            "title": "A Hard Day's Night",
+            "video": false,
+            "vote_average": 7.369,
+            "vote_count": 634
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d3u97tjDhvPJjeyYMTIEfodtk9j.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 42501,
+            "original_language": "fr",
+            "original_title": "Le Souffle au c\u0153ur",
+            "overview": "This loosely plotted coming-of-age tale follows the life of 15-year-old Laurent Chevalier as he stumbles his way over the burgeoning swell of adolescence in 1950s France. After having his first sexual experience with a prostitute and dodging the lips of a priest, Chevalier contracts a case of scarlet fever. When the fever leaves him with a heart murmur, Chevalier is placed in a sanatorium, along with his over-attentive and adulterous mother.",
+            "popularity": 23.955,
+            "poster_path": "/60aZrZWZqhjSSHxiUVYSUQEm6SD.jpg",
+            "release_date": "1971-04-27",
+            "title": "Murmur of the Heart",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6kzYm1u9DOVhKZ2DyqZNUZ9yLdy.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 838,
+            "original_language": "en",
+            "original_title": "American Graffiti",
+            "overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+            "popularity": 52.932,
+            "poster_path": "/zjoHTqwbXQkG7eX00Vno8NkvCKc.jpg",
+            "release_date": "1973-08-11",
+            "title": "American Graffiti",
+            "video": false,
+            "vote_average": 7.03,
+            "vote_count": 1352
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n31i51vwTOOUxKd1DWU2r6if0XR.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 10373,
+            "original_language": "en",
+            "original_title": "Quadrophenia",
+            "overview": "Based on the 1973 rock opera album of the same name by The Who, this is the story of 60s teenager Jimmy. At work he slaves in a dead-end job. While after, he shops for tailored suits and rides his scooter as part of the London Mod scene.",
+            "popularity": 34.282,
+            "poster_path": "/4sRR3pvrAZMG7GEvnR9XzqyHHfD.jpg",
+            "release_date": "1979-09-14",
+            "title": "Quadrophenia",
+            "video": false,
+            "vote_average": 7.054,
+            "vote_count": 240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEiOrpMvC4IXVWhZPfJd53sclUJ.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 21764,
+            "original_language": "en",
+            "original_title": "Gregory's Girl",
+            "overview": "A teenager falls hard for the female soccer player who has replaced him on the team and attempts to pursue her.",
+            "popularity": 12.591,
+            "poster_path": "/vVOdKnervWwvxIeJzLCqQzQPs7o.jpg",
+            "release_date": "1981-04-23",
+            "title": "Gregory's Girl",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g7mJzVVRFK0PwVJOsJMyOcq9xTX.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 13342,
+            "original_language": "en",
+            "original_title": "Fast Times at Ridgemont High",
+            "overview": "Based on the real-life adventures chronicled by Cameron Crowe, Fast Times follows a group of high school students growing up in Southern California. Stacy Hamilton and Mark Ratner are looking for a love interest, and are helped along by their older classmates, Linda Barrett and Mike Damone, respectively. At the center of the film is Jeff Spicoli, a perpetually stoned surfer who faces-off with the resolute Mr. Hand\u2014a man convinced that everyone is on dope.",
+            "popularity": 36.565,
+            "poster_path": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+            "release_date": "1982-08-13",
+            "title": "Fast Times at Ridgemont High",
+            "video": false,
+            "vote_average": 6.811,
+            "vote_count": 1161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oRUeAhJD49EE9RiOrv8nD6ceti9.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 10293,
+            "original_language": "fr",
+            "original_title": "Pauline \u00e0 la plage",
+            "overview": "Marion is about to divorce from her husband and takes her 15-year-old niece, Pauline, on a vacation to Granville. There, she meets an old love...",
+            "popularity": 17.793,
+            "poster_path": "/osw9SwpoQEEjQdKh747MC8fT2VM.jpg",
+            "release_date": "1983-03-23",
+            "title": "Pauline at the Beach",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 2108,
+            "original_language": "en",
+            "original_title": "The Breakfast Club",
+            "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+            "popularity": 57.495,
+            "poster_path": "/vSqk5BeQ1HvP9wq0rWZyWqiwXeF.jpg",
+            "release_date": "1985-02-15",
+            "title": "The Breakfast Club",
+            "video": false,
+            "vote_average": 7.748,
+            "vote_count": 7735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jehzP4JKiFzgTWIaASLFOJocJke.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 9377,
+            "original_language": "en",
+            "original_title": "Ferris Bueller's Day Off",
+            "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+            "popularity": 51.274,
+            "poster_path": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+            "release_date": "1986-06-11",
+            "title": "Ferris Bueller's Day Off",
+            "video": false,
+            "vote_average": 7.592,
+            "vote_count": 4701
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ojzo9tMl8ZLrQgdGApZJFLuS331.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 650,
+            "original_language": "en",
+            "original_title": "Boyz n the Hood",
+            "overview": "Boyz n the Hood is the popular and successful film and social criticism from John Singleton about the conditions in South Central Los Angeles where teenagers are involved in gun fights and drug dealing on a daily basis.",
+            "popularity": 67.423,
+            "poster_path": "/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+            "release_date": "1991-07-12",
+            "title": "Boyz n the Hood",
+            "video": false,
+            "vote_average": 7.615,
+            "vote_count": 1879
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Vygw4sIUyMZ3kY5mUmk1ccsDJc.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9571,
+            "original_language": "en",
+            "original_title": "Dazed and Confused",
+            "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
+            "popularity": 60.437,
+            "poster_path": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+            "release_date": "1993-09-24",
+            "title": "Dazed and Confused",
+            "video": false,
+            "vote_average": 7.343,
+            "vote_count": 1931
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2FonLz0RPxbBriOlZ9mWhYdlqCp.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 9603,
+            "original_language": "en",
+            "original_title": "Clueless",
+            "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
+            "popularity": 86.143,
+            "poster_path": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+            "release_date": "1995-07-19",
+            "title": "Clueless",
+            "video": false,
+            "vote_average": 7.28,
+            "vote_count": 4196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 4951,
+            "original_language": "en",
+            "original_title": "10 Things I Hate About You",
+            "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+            "popularity": 63.801,
+            "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+            "release_date": "1999-03-30",
+            "title": "10 Things I Hate About You",
+            "video": false,
+            "vote_average": 7.584,
+            "vote_count": 7751
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/amBvmIshdsSkOtvVIgxl7YSQ9Dg.jpg",
+            "genre_ids": [
+                18,
+                53,
+                28
+            ],
+            "id": 3176,
+            "original_language": "ja",
+            "original_title": "\u30d0\u30c8\u30eb\u30fb\u30ed\u30ef\u30a4\u30a2\u30eb",
+            "overview": "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary \"Battle Royale\" act.",
+            "popularity": 38.144,
+            "poster_path": "/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg",
+            "release_date": "2000-12-16",
+            "title": "Battle Royale",
+            "video": false,
+            "vote_average": 7.281,
+            "vote_count": 3230
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1391,
+            "original_language": "es",
+            "original_title": "Y tu mam\u00e1 tambi\u00e9n",
+            "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+            "popularity": 48.511,
+            "poster_path": "/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+            "release_date": "2001-06-08",
+            "title": "Y Tu Mam\u00e1 Tambi\u00e9n",
+            "video": false,
+            "vote_average": 7.414,
+            "vote_count": 1419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6DqzZaTAzFrT53JtRt3MLKs0Y9i.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 10625,
+            "original_language": "en",
+            "original_title": "Mean Girls",
+            "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+            "popularity": 99.809,
+            "poster_path": "/qWQrMAVtWEOVkZk8iLFgI5qzqlA.jpg",
+            "release_date": "2004-04-30",
+            "title": "Mean Girls",
+            "video": false,
+            "vote_average": 7.208,
+            "vote_count": 8408
+        }
+    ]
+}

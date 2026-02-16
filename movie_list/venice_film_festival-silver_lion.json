@@ -1,0 +1,585 @@
+{
+    "type": "movie_list",
+    "title": "Venice Film Festival - Silver Lion",
+    "source": "https://www.labiennale.org/",
+    "created_by": "lbnt",
+    "added": "01/31/26",
+    "modified": "01/31/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/vfbryKoLrisx8Xh37OaTjTyrFY0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 760329,
+            "original_language": "en",
+            "original_title": "The Smashing Machine",
+            "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
+            "popularity": 11.4189,
+            "poster_path": "/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
+            "release_date": "2025-10-01",
+            "title": "The Smashing Machine",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 387
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 549509,
+            "original_language": "en",
+            "original_title": "The Brutalist",
+            "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
+            "popularity": 7.4904,
+            "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+            "release_date": "2024-12-20",
+            "title": "The Brutalist",
+            "video": false,
+            "vote_average": 6.973,
+            "vote_count": 1518
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rniS6AOKTOr5PV7Xok6m7QSzlXg.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 937746,
+            "original_language": "it",
+            "original_title": "Io capitano",
+            "overview": "Longing for a brighter future, two Senegalese teenagers embark on a journey from West Africa to Italy. However, between their dreams and reality lies a labyrinth of checkpoints, the Sahara Desert, and the vast waters of the Mediterranean.",
+            "popularity": 1.617,
+            "poster_path": "/kGlZFwUQI5gAUdySNFfqGIkAF9n.jpg",
+            "release_date": "2023-09-07",
+            "title": "Io Capitano",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 794
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8sPxa4sdRvjgRG3GgkO8RQxUR9P.jpg",
+            "genre_ids": [
+                27,
+                10749,
+                18
+            ],
+            "id": 791177,
+            "original_language": "en",
+            "original_title": "Bones and All",
+            "overview": "Abandoned by her father, a young woman embarks on a thousand-mile odyssey through the backroads of America where she meets a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
+            "popularity": 4.8992,
+            "poster_path": "/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+            "release_date": "2022-11-18",
+            "title": "Bones and All",
+            "video": false,
+            "vote_average": 7.01,
+            "vote_count": 1563
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 600583,
+            "original_language": "en",
+            "original_title": "The Power of the Dog",
+            "overview": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.",
+            "popularity": 3.7164,
+            "poster_path": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+            "release_date": "2021-10-25",
+            "title": "The Power of the Dog",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2884
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xOqg1A4dUqYbjhzhchSgSpaXdYk.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                53
+            ],
+            "id": 688301,
+            "original_language": "ja",
+            "original_title": "\u30b9\u30d1\u30a4\u306e\u59bb",
+            "overview": "It\u2019s 1940, and the population of Japan is divided over its entry into World War II. Satoko, the wife of a fabric merchant, is devoted to her husband but is beginning to suspect he\u2019s up to something. Soon she allows herself to be drawn into a game in which she enigmatically conceals her intentions.",
+            "popularity": 1.4342,
+            "poster_path": "/seFjT7jDZA1j1YsbMyeNTuCRe5d.jpg",
+            "release_date": "2020-10-16",
+            "title": "Wife of a Spy",
+            "video": false,
+            "vote_average": 6.719,
+            "vote_count": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dQgqxHUdcNSmhiM4zebekZnnUII.jpg",
+            "genre_ids": [
+                18,
+                14,
+                35
+            ],
+            "id": 348672,
+            "original_language": "sv",
+            "original_title": "Om det o\u00e4ndliga",
+            "overview": "A reflection on human life in all its beauty and cruelty, its splendor and banality, guided by a Scheherazade-esque narrator. Inconsequential moments have the same significance as historical events. Simultaneously an ode and a lament, presents a kaleidoscope of all that is eternally human, an infinite story of the vulnerability of existence.",
+            "popularity": 3.4873,
+            "poster_path": "/fRIBlFJiMNm7DkphQgcHgDS2Pvx.jpg",
+            "release_date": "2019-11-15",
+            "title": "About Endlessness",
+            "video": false,
+            "vote_average": 6.581,
+            "vote_count": 216
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2cI0rmMgoZOqP78iQDZwQASkKT3.jpg",
+            "genre_ids": [
+                37,
+                18,
+                35
+            ],
+            "id": 440161,
+            "original_language": "en",
+            "original_title": "The Sisters Brothers",
+            "overview": "Oregon, 1851. Hermann Kermit Warm, a chemist and aspiring gold prospector, keeps a profitable secret that the Commodore wants to know, so he sends the Sisters brothers, two notorious assassins, to capture him on his way to California.",
+            "popularity": 2.4498,
+            "poster_path": "/wTgomqYRTXT3BXQScnIo8uHDyWC.jpg",
+            "release_date": "2018-09-19",
+            "title": "The Sisters Brothers",
+            "video": false,
+            "vote_average": 6.839,
+            "vote_count": 2037
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvCVwNHhF3nxnsEiXTl2npHaXIN.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 451657,
+            "original_language": "fr",
+            "original_title": "Jusqu'\u00e0 la garde",
+            "overview": "Miriam and Antoine have recently separated. While she\u2019s willing to permit their 17-year-old daughter Josephine to decide living arrangements for herself, Miriam is desperate to keep her youngest, 11-year-old Julien, away from his father. But the magistrate rules in favour of joint custody, and suddenly the boy is thrown directly into the middle of an escalating parental conflict, where it seems inevitable that sides must be chosen.",
+            "popularity": 0.7577,
+            "poster_path": "/h0c6zFIbYqn5H5mxVqQuI0PNY9D.jpg",
+            "release_date": "2018-02-07",
+            "title": "Custody",
+            "video": false,
+            "vote_average": 7.489,
+            "vote_count": 714
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xbrxhyYAuH7jtCHnYu5OYRh3g1n.jpg",
+            "genre_ids": [
+                878,
+                18,
+                53,
+                27
+            ],
+            "id": 387801,
+            "original_language": "es",
+            "original_title": "La regi\u00f3n salvaje",
+            "overview": "Desperate to flee but consumed by fear, Alejandra, a young mother and working housewife, is trapped in a violent and unsatisfying relationship with her husband, Angel. She leans on her brother Fabi\u00e1n for support, but he has secrets of his own.  The troubled couple locate a meteorite, initiating an encounter with a mysterious creature. Their lives are turned upside down by the discovery of the creature, which is a source of both pleasure and destruction. A rag-tag collection of people also addicted to having mind-blowing sex with the monster come in and out...Alejandra\u2019s gay brother, Fabian has sex with \u00c1ngel, his abusive, cheating brother-in-law. Eventually, for the second time, \u00c1ngel is tossed aside once Fabian discovers the Joy of (Squid) Sex. ...",
+            "popularity": 5.0597,
+            "poster_path": "/bpTNGIJkdYL8IJvvCmKmjtDpXn1.jpg",
+            "release_date": "2016-05-15",
+            "title": "The Untamed",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/btTpt2VAdDyKHdgvrRZeLUdv2HU.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 408539,
+            "original_language": "ru",
+            "original_title": "\u0420\u0430\u0439",
+            "overview": "The historical drama set during the Second World War centres on three people whose paths cross: a Russian aristocratic emigrant and member of the French resistance, a French collaborator and a high-ranking German SS officer.",
+            "popularity": 2.0939,
+            "poster_path": "/kI3BSS2pzKimLa8uHk6ap8Ole3o.jpg",
+            "release_date": "2016-09-01",
+            "title": "Paradise",
+            "video": false,
+            "vote_average": 6.98,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wbA13Xns8EtbIubDOPLl7kCYYA4.jpg",
+            "genre_ids": [
+                18,
+                36,
+                80
+            ],
+            "id": 352161,
+            "original_language": "es",
+            "original_title": "El clan",
+            "overview": "In Argentina, between 1982 and 1985, the Puccios, a well-established family of San Isidro, an upper-class suburb of Buenos Aires, kidnap several people and hold them as hostages for a ransom.",
+            "popularity": 4.115,
+            "poster_path": "/m6iPqGhtIAgGRQcfqxSYbRrlK3F.jpg",
+            "release_date": "2015-08-13",
+            "title": "The Clan",
+            "video": false,
+            "vote_average": 6.758,
+            "vote_count": 430
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/GTiP96n6NYfN91CF0S92PSKxl0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 283703,
+            "original_language": "ru",
+            "original_title": "\u0411\u0435\u043b\u044b\u0435 \u043d\u043e\u0447\u0438 \u043f\u043e\u0447\u0442\u0430\u043b\u044c\u043e\u043d\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u044f \u0422\u0440\u044f\u043f\u0438\u0446\u044b\u043d\u0430",
+            "overview": "The film represents life in a godforsaken Russian village. The only way to reach the mainland is to cross the lake by boat and a postman became the only connection with the outside world. A reserved community has been set up here. Despite the modern technologies and a spaceport nearby the people of the village live the way they would in the Neolithic Era. There is neither government nor social services or jobs. The postman's beloved woman escapes the village life and moves to the city. Postman's outboard engine gets stolen and he can no longer deliver mail. His normal pattern of life is disrupted. The postman makes a decision to leave for the city too but returns before long with no certain reason. The script is based on real characters' stories. People from the village play their own parts in the film. The search for the protagonist lasted for over a year.",
+            "popularity": 1.143,
+            "poster_path": "/4oGXORt06TvdkTCPE7JJ5xykG0j.jpg",
+            "release_date": "2014-10-14",
+            "title": "The Postman's White Nights",
+            "video": false,
+            "vote_average": 6.787,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5ILaorq0A4cuE7wRc6ZJ5rq3r4b.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 211052,
+            "original_language": "el",
+            "original_title": "Miss Violence",
+            "overview": "On the day of her birthday, eleven-year-old Angeliki jumps off the balcony and falls to her death with a smile on her face. While the police and Social Services try to discover the reason for this apparent suicide, Angeliki's family keep insisting that it was an accident. What is the secret that young Angeliki took with her? Why does her family persist in trying to \"forget\" her and to move on with its life?",
+            "popularity": 1.4765,
+            "poster_path": "/pEGEVgqLwhDV8ZGG5DK7NHDIU3T.jpg",
+            "release_date": "2013-09-09",
+            "title": "Miss Violence",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 569
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wgXjsX4taUwMdr5AkOOnkvhFBBr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 68722,
+            "original_language": "en",
+            "original_title": "The Master",
+            "overview": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
+            "popularity": 4.527,
+            "poster_path": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+            "release_date": "2012-09-14",
+            "title": "The Master",
+            "video": false,
+            "vote_average": 7.109,
+            "vote_count": 3216
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2NG7ATegsKeNJcyli5reM00byw.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 102869,
+            "original_language": "zh",
+            "original_title": "\u4eba\u5c71\u4eba\u6d77",
+            "overview": "A story of vengeance set in China\u2019s wild Southwest, where brutality can be the norm rather than the exception.",
+            "popularity": 3.6441,
+            "poster_path": "/xl0isEwRZA3XhCshtnPqUpVdvjO.jpg",
+            "release_date": "2012-08-03",
+            "title": "People Mountain People Sea",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dbspMNCXsezL0V1a5NX4WD9AadY.jpg",
+            "genre_ids": [
+                12,
+                35,
+                18,
+                27,
+                53
+            ],
+            "id": 56812,
+            "original_language": "es",
+            "original_title": "Balada triste de trompeta",
+            "overview": "A trapeze artist must decide between her lust for Sergio, the Happy Clown, or her affection for Javier, the Sad Clown, both of whom are deeply disturbed.",
+            "popularity": 2.77,
+            "poster_path": "/rbpp2G4cpGG8jqCqhEBwvjQ0Y6C.jpg",
+            "release_date": "2010-12-17",
+            "title": "The Last Circus",
+            "video": false,
+            "vote_average": 6.671,
+            "vote_count": 434
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mFjePzH3V23znOOpgY59DwllDQQ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 44159,
+            "original_language": "fa",
+            "original_title": "\u0632\u0646\u0627\u0646 \u0628\u062f\u0648\u0646 \u0645\u0631\u062f\u0627\u0646",
+            "overview": "Against the tumultuous backdrop of Iran's 1953 CIA-backed coup d'\u00e9tat, the destinies of four women converge in a beautiful orchard garden, where they find independence, solace and companionship.",
+            "popularity": 6.9961,
+            "poster_path": "/zCcboYYdiHwd8PFu3XaVlJVOzxO.jpg",
+            "release_date": "2009-07-01",
+            "title": "Women Without Men",
+            "video": false,
+            "vote_average": 6.327,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aYuWinUU8ZAnkR1EX3OAeRTyB4g.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 12428,
+            "original_language": "ru",
+            "original_title": "\u0411\u0443\u043c\u0430\u0436\u043d\u044b\u0439 \u0441\u043e\u043b\u0434\u0430\u0442",
+            "overview": "In 1961, a Soviet medical officer is conflicted about his position overseeing the health of future cosmonauts.",
+            "popularity": 2.36,
+            "poster_path": "/v7IcfRrCMyWta2DjbS155FDA5Yh.jpg",
+            "release_date": "2008-11-13",
+            "title": "Paper Soldier",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6lUwQFGksZzYVYeJC5NxTEeA10J.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 11600,
+            "original_language": "en",
+            "original_title": "Redacted",
+            "overview": "A fictional documentary discusses the effects the Iraq war has had on soldiers and local people through interviews with members of an American military unit, the media, and local Iraqis.",
+            "popularity": 4.4246,
+            "poster_path": "/ofXlW8FtBGVGSgRiaOIfnzR5koU.jpg",
+            "release_date": "2007-11-16",
+            "title": "Redacted",
+            "video": false,
+            "vote_average": 5.981,
+            "vote_count": 181
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aOG6NqqVNHclYGVWghCoiPj1IfO.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 24170,
+            "original_language": "fr",
+            "original_title": "C\u0153urs",
+            "overview": "In Paris, six people all look for love, despite typically having their romantic aspirations dashed at every turn.",
+            "popularity": 2.1714,
+            "poster_path": "/41FKZtBbFbZjbXKzSynUPlpo6kO.jpg",
+            "release_date": "2006-11-22",
+            "title": "Private Fears in Public Places",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e6rmXm2b3OcmHjPDGfVYta0shwy.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 45126,
+            "original_language": "fr",
+            "original_title": "Les Amants r\u00e9guliers",
+            "overview": "1968 and 1969 in Paris: during and after the student and trade union revolt. Fran\u00e7ois is 20, a poet, dodging military service. He takes to the barricades, but won't throw a Molotov cocktail at the police. He smokes opium and talks about revolution with his friend, Antoine, who has an inheritance and a flat where Fran\u00e7ois can stay. Fran\u00e7ois meets Lilie, a sculptor who works at a foundry to support herself. They fall in love. A year passes; Fran\u00e7ois continues to write, talk, smoke, and be with Lilie. Opportunities come to Lilie: what will she and Fran\u00e7ois do?",
+            "popularity": 1.4644,
+            "poster_path": "/A7L0bpB34LyybFmGNa4fSW3Ps5n.jpg",
+            "release_date": "2005-09-30",
+            "title": "Regular Lovers",
+            "video": false,
+            "vote_average": 6.878,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nqY8yuxLU4K9cSCQpsW4PGyotlN.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                80
+            ],
+            "id": 1280,
+            "original_language": "ko",
+            "original_title": "\ube48\uc9d1",
+            "overview": "A drifter lives in people's houses while they are away and repays them by doing chores for them. His life changes when he meets a beautiful woman who wants to escape her unhappy marriage.",
+            "popularity": 3.6924,
+            "poster_path": "/8ens4pTquSxN7J9EgL0NOehWwdZ.jpg",
+            "release_date": "2004-10-15",
+            "title": "3-Iron",
+            "video": false,
+            "vote_average": 7.821,
+            "vote_count": 1229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kP6WiYHQUUXo6ZaXI06enkMsxkF.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28
+            ],
+            "id": 246,
+            "original_language": "ja",
+            "original_title": "\u5ea7\u982d\u5e02",
+            "overview": "Blind traveler Zatoichi is a master swordsman and a masseur with a fondness for gambling on dice games. When he arrives in a village torn apart by warring gangs, he sets out to protect the townspeople.",
+            "popularity": 4.5278,
+            "poster_path": "/iCIycswWbX1EDS6PYYBcR9ohrC.jpg",
+            "release_date": "2003-09-06",
+            "title": "Zatoichi",
+            "video": false,
+            "vote_average": 7.233,
+            "vote_count": 926
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n6r8OkdGyF0xEE4IMLagAhQwFu1.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 26955,
+            "original_language": "ko",
+            "original_title": "\uc624\uc544\uc2dc\uc2a4",
+            "overview": "A young man released from prison visits the widow of the man he killed drunk-driving and becomes infatuated with his cerebral palsy-stricken daughter.",
+            "popularity": 2.3621,
+            "poster_path": "/aaajiBpeBVbVwovpSQKaMfKRGKw.jpg",
+            "release_date": "2002-08-09",
+            "title": "Oasis",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 269
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9GEFQRdZpmqSVxqvn570cpst0VB.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 43772,
+            "original_language": "fa",
+            "original_title": "رأی مخفی",
+            "overview": "A female election agent and a gun-toting soldier try to collect votes among the local islanders with mixed success.",
+            "popularity": 0.3976,
+            "poster_path": "/nirVNVYtwxG3wkH7klpEYDq0Gvb.jpg",
+            "release_date": "2001-09-04",
+            "title": "Secret Ballot",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lJU7vOMuvVWbZpNMn56w9GGR8Zd.jpg",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "id": 125727,
+            "original_language": "bn",
+            "original_title": "\u0989\u09a4\u09cd\u09a4\u09b0\u09be",
+            "overview": "In the pastoral expanse of rural Bengal, in Purulia district, single railroad workers and best friends Balaram (Shankar Chakraborty) and Nemai (Tapas Pal) spend their days wrestling on a hill with little work to speak of because the fact that their flag station has only a couple of trains to be flagged off or signalled to.  Wrestling, however, despite its aggression and physical combat, turns into an expression of close bonding for Nimai and Balaram, a bond already established through their complementary work at the flag station. Wrestling, for them, is a way of releasing physical energy and a form of dynamic entertainment.",
+            "popularity": 0.1465,
+            "poster_path": "/4CFm6GdfZlhixpotSU1qYqVA3dJ.jpg",
+            "release_date": "2000-08-30",
+            "title": "The Wrestlers",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cWm2bYvzNlPsCV5AqkRDPL44ps2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 41455,
+            "original_language": "zh",
+            "original_title": "\u8fc7\u5e74\u56de\u5bb6",
+            "overview": "Yu Xiaoqin steals money from her father and blames on her sister Tao Lan, who accidentally kills her sister while attempting to prove her innocence. After 17 years in jail, Tao Lan is escorted by a guard only to find her home long demolished. The two go to the new address of her ageing parents, and the guard becomes witness to the family's difficult reunion.",
+            "popularity": 1.8268,
+            "poster_path": "/ey5n906QiWeG4WLjnjCmwHr3ghO.jpg",
+            "release_date": "1999-09-01",
+            "title": "Seventeen Years",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vx5Mla7OfNzibnVat2HQuqGrUkc.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                80
+            ],
+            "id": 1075,
+            "original_language": "sr",
+            "original_title": "Crna ma\u010dka, beli ma\u010dor",
+            "overview": "Matko is a small time hustler, living by the Danube with his 17-year-old son Zare. After a failed business deal he owes money to the much more successful gangster Dadan. Dadan has a sister, Afrodita, that he desperately wants to see get married so they strike a deal: Zare is to marry her.",
+            "popularity": 2.7854,
+            "poster_path": "/xxQ9jgYf3xhbUTW98VtCjA1wMLv.jpg",
+            "release_date": "1998-06-01",
+            "title": "Black Cat, White Cat",
+            "video": false,
+            "vote_average": 7.657,
+            "vote_count": 796
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 769,
+            "original_language": "en",
+            "original_title": "GoodFellas",
+            "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+            "popularity": 16.5364,
+            "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+            "release_date": "1990-09-12",
+            "title": "GoodFellas",
+            "video": false,
+            "vote_average": 8.452,
+            "vote_count": 13961
+        }
+    ]
+}

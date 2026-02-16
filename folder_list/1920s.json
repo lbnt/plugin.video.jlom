@@ -1,0 +1,38 @@
+{
+    "type" : "folder_list",
+    "title" : "1920s",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "Time - The 100 best movies of the past 10 decades - 1920s",
+            "id" : "time-1920s_the_100_best_movies_of_the_past_10_decades",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Filmsite - 300 Greatest Films - 1920s",
+            "id" : "filmsite-300_greatest_films_by_decade-1920s",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Critics' Top 10 - 1926",
+            "id" : "criticstop10-1926",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Critics' Top 10 - 1927",
+            "id" : "criticstop10-1927",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Critics' Top 10 - 1928",
+            "id" : "criticstop10-1928",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Critics' Top 10 - 1929",
+            "id" : "criticstop10-1929",
+            "type" : "movie_list"
+        }
+    ]
+}

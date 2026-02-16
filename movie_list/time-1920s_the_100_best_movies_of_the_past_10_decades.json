@@ -1,0 +1,147 @@
+{
+    "type": "movie_list",
+    "title": "Time - The 100 best movies of the past 10 decades - 1920s",
+    "source": "https://time.com/collection/100-best-movies/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "04/26/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/hC8i1b3rvz3omOD9PIqV3ziXvA8.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 42511,
+            "original_language": "en",
+            "original_title": "Orphans of the Storm",
+            "overview": "France, on the eve of the French Revolution. Henriette and Louise have been raised together as sisters. When the plague that takes their parents' lives causes Louise's blindness, they decide to travel to Paris in search of a cure, but they separate when a lustful aristocrat crosses their path.",
+            "popularity": 12.814,
+            "poster_path": "/gbBzFuiVnuSPYZRXRArILc3Ywz3.jpg",
+            "release_date": "1921-12-28",
+            "title": "Orphans of the Storm",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f8wJyERoBQgmptrue3xhMkC1Mjq.jpg",
+            "genre_ids": [
+                99,
+                18
+            ],
+            "id": 669,
+            "original_language": "en",
+            "original_title": "Nanook of the North",
+            "overview": "This pioneering documentary film depicts the lives of the indigenous Inuit people of Canada's northern Quebec region. Although the production contains some fictional elements, it vividly shows how its resourceful subjects survive in such a harsh climate, revealing how they construct their igloo homes and find food by hunting and fishing. The film also captures the beautiful, if unforgiving, frozen landscape of the Great White North, far removed from conventional civilization.",
+            "popularity": 22.555,
+            "poster_path": "/9WAboi1QbKu41WkyGxQVNpXwwxx.jpg",
+            "release_date": "1922-06-11",
+            "title": "Nanook of the North",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 281
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cuMvdjZVYKeCLBtWFc2FDiNAsUR.jpg",
+            "genre_ids": [
+                10749,
+                12,
+                14
+            ],
+            "id": 28963,
+            "original_language": "en",
+            "original_title": "The Thief of Bagdad",
+            "overview": "A recalcitrant thief vies with a duplicitous Mongol ruler for the hand of a beautiful princess.",
+            "popularity": 20.593,
+            "poster_path": "/8t4CJ591N2FATf2yUiQNQk9p0tB.jpg",
+            "release_date": "1924-03-18",
+            "title": "The Thief of Bagdad",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 631,
+            "original_language": "en",
+            "original_title": "Sunrise: A Song of Two Humans",
+            "overview": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
+            "popularity": 24.119,
+            "poster_path": "/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg",
+            "release_date": "1927-11-04",
+            "title": "Sunrise: A Song of Two Humans",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 752
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A1mteOfKdvK5er2sD5i02Qw3CWz.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 780,
+            "original_language": "fr",
+            "original_title": "La Passion de Jeanne d'Arc",
+            "overview": "A classic of the silent age, this film tells the story of the doomed but ultimately canonized 15th-century teenage warrior. On trial for claiming she'd spoken to God, Jeanne d'Arc is subjected to inhumane treatment and scare tactics at the hands of church court officials. Initially bullied into changing her story, Jeanne eventually opts for what she sees as the truth. Her punishment, a famously brutal execution, earns her perpetual martyrdom.",
+            "popularity": 25.687,
+            "poster_path": "/8OYGtQlO8k9PcOm49apV62eVJQo.jpg",
+            "release_date": "1928-04-21",
+            "title": "The Passion of Joan of Arc",
+            "video": false,
+            "vote_average": 7.997,
+            "vote_count": 873
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tSPbzlFwdPvvAnOkSRtdtoTawXd.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 25768,
+            "original_language": "en",
+            "original_title": "Steamboat Bill, Jr.",
+            "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child.",
+            "popularity": 17.7,
+            "poster_path": "/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+            "release_date": "1928-05-09",
+            "title": "Steamboat Bill, Jr.",
+            "video": false,
+            "vote_average": 7.611,
+            "vote_count": 305
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y3WwIEEDcbT88MxjCjM8mlBEF04.jpg",
+            "genre_ids": [
+                18,
+                80,
+                10749
+            ],
+            "id": 905,
+            "original_language": "de",
+            "original_title": "Die B\u00fcchse der Pandora",
+            "overview": "Lulu is a young woman so beautiful and alluring that few can resist her siren charms. The men drawn into her web include respectable newspaper publisher Dr. Ludwig Sch\u00f6n, his musical producer son Alwa, circus performer Rodrigo Quast, and seedy old Schigolch. When Lulu's charms inevitably lead to tragedy, the downward spiral encompasses them all.",
+            "popularity": 16.67,
+            "poster_path": "/xw5KFcTBYyvu4IzQY5ErgBQ73Eq.jpg",
+            "release_date": "1929-01-30",
+            "title": "Pandora's Box",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 210
+        }
+    ]
+}

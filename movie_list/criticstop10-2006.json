@@ -1,0 +1,1004 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2006",
+    "source": "https://criticstop10.com/best-movies-of-2006/",
+    "created_by": "lbnt",
+    "added": "07/19/25",
+    "modified": "07/19/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 1422,
+            "original_language": "en",
+            "original_title": "The Departed",
+            "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+            "popularity": 10.67,
+            "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+            "release_date": "2006-10-04",
+            "title": "The Departed",
+            "video": false,
+            "vote_average": 8.159,
+            "vote_count": 15404
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zpBl7qfBB1ir1BVNQtPlPwQ6IFd.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1165,
+            "original_language": "en",
+            "original_title": "The Queen",
+            "overview": "The Queen is an intimate behind the scenes glimpse at the interaction between HM Elizabeth II and Prime Minister Tony Blair during their struggle, following the death of Diana, to reach a compromise between what was a private tragedy for the Royal family and the public's demand for an overt display of mourning.",
+            "popularity": 1.3796,
+            "poster_path": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+            "release_date": "2006-09-15",
+            "title": "The Queen",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+            "genre_ids": [
+                18,
+                36,
+                80,
+                53,
+                28
+            ],
+            "id": 9829,
+            "original_language": "en",
+            "original_title": "United 93",
+            "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+            "popularity": 1.9899,
+            "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+            "release_date": "2006-04-28",
+            "title": "United 93",
+            "video": false,
+            "vote_average": 7.102,
+            "vote_count": 1539
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+            "genre_ids": [
+                14,
+                18,
+                10752
+            ],
+            "id": 1417,
+            "original_language": "es",
+            "original_title": "El laberinto del fauno",
+            "overview": "In post\u2013civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+            "popularity": 10.4325,
+            "poster_path": "/s8C4whhKtDaJvMDcyiMvx3BIF5F.jpg",
+            "release_date": "2006-10-11",
+            "title": "Pan's Labyrinth",
+            "video": false,
+            "vote_average": 7.754,
+            "vote_count": 10881
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kt0Ku4cTQUZe4KyZiWC6HsWCbcS.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 496,
+            "original_language": "en",
+            "original_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+            "overview": "Kazakh journalist Borat Sagdiyev travels to America to make a documentary. As he zigzags across the nation, Borat meets real people in real situations with hysterical consequences. His backwards behavior generates strong reactions around him exposing prejudices and hypocrisies in American culture.",
+            "popularity": 2.9863,
+            "poster_path": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
+            "release_date": "2006-11-01",
+            "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+            "video": false,
+            "vote_average": 6.78,
+            "vote_count": 5584
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 773,
+            "original_language": "en",
+            "original_title": "Little Miss Sunshine",
+            "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+            "popularity": 5.0088,
+            "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+            "release_date": "2006-07-26",
+            "title": "Little Miss Sunshine",
+            "video": false,
+            "vote_average": 7.695,
+            "vote_count": 7376
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p9V3vD1Ye2zRNfTsE8oY58Fe81S.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10752
+            ],
+            "id": 1251,
+            "original_language": "en",
+            "original_title": "Letters from Iwo Jima",
+            "overview": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.",
+            "popularity": 2.4815,
+            "poster_path": "/kZokxQtzMPURvijWYFuvh1fAvnv.jpg",
+            "release_date": "2006-12-09",
+            "title": "Letters from Iwo Jima",
+            "video": false,
+            "vote_average": 7.477,
+            "vote_count": 2120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+            "genre_ids": [
+                18,
+                28,
+                53,
+                878
+            ],
+            "id": 9693,
+            "original_language": "en",
+            "original_title": "Children of Men",
+            "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+            "popularity": 6.2297,
+            "poster_path": "/8Xgvmx7WWc7Z9Ws9RAYk7uya2kh.jpg",
+            "release_date": "2006-09-22",
+            "title": "Children of Men",
+            "video": false,
+            "vote_average": 7.61,
+            "vote_count": 7358
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bwyE6Htr6BFZPaz1uLrZY5oKnm0.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 219,
+            "original_language": "es",
+            "original_title": "Volver",
+            "overview": "Three generations of women survive the east wind, fire, insanity, superstition and even death by means of goodness, lies and boundless vitality.",
+            "popularity": 2.0699,
+            "poster_path": "/m1ZUDGTFtVGE3zjTvF8OiQ9um5e.jpg",
+            "release_date": "2006-03-17",
+            "title": "Volver",
+            "video": false,
+            "vote_average": 7.47,
+            "vote_count": 1798
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6HS2Gf46zi9aGMQsTRoHEH7JNI.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 7859,
+            "original_language": "en",
+            "original_title": "Half Nelson",
+            "overview": "Despite his dedication to the junior-high students who fill his classroom, idealistic teacher Dan Dunne leads a secret life of addiction that the majority of his students will never know. But things change when a troubled student Drey makes a startling discovery of his secret life, causing a tenuous bond between the two that could either end disastrously or provide a catalyst of hope.",
+            "popularity": 1.257,
+            "poster_path": "/fdUCisMpTwy0oJOGwM7NrFFs400.jpg",
+            "release_date": "2006-08-11",
+            "title": "Half Nelson",
+            "video": false,
+            "vote_average": 6.648,
+            "vote_count": 889
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRk3A06MAZBud6RhAVgiMSbl4SB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1164,
+            "original_language": "en",
+            "original_title": "Babel",
+            "overview": "Tragedy strikes a married couple vacationing in the Moroccan desert, which jumpstarts an interlocking story involving four different families.",
+            "popularity": 3.6512,
+            "poster_path": "/ocV89hUekPRPIjPxivNBZJXx7AN.jpg",
+            "release_date": "2006-10-26",
+            "title": "Babel",
+            "video": false,
+            "vote_average": 7.173,
+            "vote_count": 3861
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uDDgaNppSCJm6kWDLl7vMeu8xcl.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1440,
+            "original_language": "en",
+            "original_title": "Little Children",
+            "overview": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations.",
+            "popularity": 3.8237,
+            "poster_path": "/l2wTSP0Ifo9vY03nJEfkFBbT2S9.jpg",
+            "release_date": "2006-10-06",
+            "title": "Little Children",
+            "video": false,
+            "vote_average": 7.081,
+            "vote_count": 1059
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uSfl5j7qcauMV9uzinJtPQyFz9J.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 31032,
+            "original_language": "ro",
+            "original_title": "Moartea domnului L\u0103z\u0103rescu",
+            "overview": "After suffering terrible headaches and stomach cramps, Mr. L\u0103z\u0103rescu, a lonely 63 year-old man, calls for an ambulance, beginning one man\u2019s hellish journey through Bucharest hospitals in search of proper medical care. As the night unfolds, his health starts to deteriorate fast.",
+            "popularity": 0.6064,
+            "poster_path": "/c3B7GwMYgNi15VMdcKZawgt6mf5.jpg",
+            "release_date": "2005-05-17",
+            "title": "The Death of Mr. Lazarescu",
+            "video": false,
+            "vote_average": 7.322,
+            "vote_count": 177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rCNR48c7ysIXmF2uqn8alwF4HKi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11490,
+            "original_language": "fr",
+            "original_title": "L'enfant",
+            "overview": "Bruno and Sonia, a young couple living off her benefit and the thefts committed by his gang, have a new source of money: their newborn son. The carefree Bruno, who until then had only cared about the here and now, must now learn to become a father.",
+            "popularity": 0.5248,
+            "poster_path": "/dk7ZpsVKLt2nwjQZZIde0WP4oQV.jpg",
+            "release_date": "2005-10-19",
+            "title": "The Child",
+            "video": false,
+            "vote_average": 7.147,
+            "vote_count": 266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vscsDExaKK0oKqrYBze9Tm2oitf.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 3683,
+            "original_language": "en",
+            "original_title": "Flags of Our Fathers",
+            "overview": "There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen - John 'Doc' Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes - who fought in the battle to take Iwo Jima from the Japanese.",
+            "popularity": 3.7567,
+            "poster_path": "/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
+            "release_date": "2006-10-19",
+            "title": "Flags of Our Fathers",
+            "video": false,
+            "vote_average": 6.855,
+            "vote_count": 1893
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a207j6hwf3iHiLO8ArhLIljiC1D.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10402
+            ],
+            "id": 9526,
+            "original_language": "en",
+            "original_title": "A Prairie Home Companion",
+            "overview": "A look at what goes on backstage during the last broadcast of America's most celebrated radio show, where singing cowboys Dusty and Lefty, a country music siren, and a host of others hold court.",
+            "popularity": 0.8639,
+            "poster_path": "/7AxXWJYzrFx7LIFP3OvCPecwXGE.jpg",
+            "release_date": "2006-06-01",
+            "title": "A Prairie Home Companion",
+            "video": false,
+            "vote_average": 6.294,
+            "vote_count": 301
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 1125,
+            "original_language": "en",
+            "original_title": "Dreamgirls",
+            "overview": "A trio of female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
+            "popularity": 3.8591,
+            "poster_path": "/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg",
+            "release_date": "2006-12-25",
+            "title": "Dreamgirls",
+            "video": false,
+            "vote_average": 6.726,
+            "vote_count": 1038
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 36557,
+            "original_language": "en",
+            "original_title": "Casino Royale",
+            "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond\u2014on his maiden mission as a 00 Agent\u2014to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+            "popularity": 8.8376,
+            "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+            "release_date": "2006-11-14",
+            "title": "Casino Royale",
+            "video": false,
+            "vote_average": 7.561,
+            "vote_count": 11054
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/csCSd8gftDRax0tiuo4VZJ9UaOo.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                53
+            ],
+            "id": 15383,
+            "original_language": "fr",
+            "original_title": "L'Arm\u00e9e des ombres",
+            "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
+            "popularity": 1.9927,
+            "poster_path": "/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg",
+            "release_date": "1969-09-10",
+            "title": "Army of Shadows",
+            "video": false,
+            "vote_average": 7.908,
+            "vote_count": 685
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5ndWXHSKcdN6uYSPOLlxnSMuAEE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                18,
+                53,
+                37
+            ],
+            "id": 16608,
+            "original_language": "en",
+            "original_title": "The Proposition",
+            "overview": "In 1880s Australia, a lawman offers renegade Charlie Burns a difficult choice. In order to save his younger brother from the gallows, Charlie must hunt down and kill his older brother, who is wanted for rape and murder. Venturing into one of the Outback's most inhospitable regions, Charlie faces a terrible moral dilemma that can end only in violence.",
+            "popularity": 2.047,
+            "poster_path": "/bbSHSJuO5XjrIKMh6QXXLTg3Yzr.jpg",
+            "release_date": "2005-10-06",
+            "title": "The Proposition",
+            "video": false,
+            "vote_average": 7.029,
+            "vote_count": 657
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t9lOz9dFflcHo3QjdtDND6cKGnF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 26518,
+            "original_language": "en",
+            "original_title": "Old Joy",
+            "overview": "Soon to be a father, Mark feels the pressure of domestic responsibility closing in, so he is more than happy to accept when his old friend Kurt proposes a camping trip in the Oregon wilderness. During their time together, the men come to grips with the changes in their lives and the effect on their relationship.",
+            "popularity": 1.0327,
+            "poster_path": "/AdFKZOf0LtPpGq8be9T8qsNHTbs.jpg",
+            "release_date": "2006-03-25",
+            "title": "Old Joy",
+            "video": false,
+            "vote_average": 6.35,
+            "vote_count": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5KUuS3IabB50qo5mpKom10pKZly.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648,
+                18,
+                14
+            ],
+            "id": 1730,
+            "original_language": "en",
+            "original_title": "Inland Empire",
+            "overview": "As a Hollywood actress begins to adopt the persona of her character in a film, her world becomes nightmarish and surreal.",
+            "popularity": 2.3242,
+            "poster_path": "/fw9Bzwel5VkBKy9qLD2MzAMnu5I.jpg",
+            "release_date": "2006-12-06",
+            "title": "Inland Empire",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f2Gdaux9j6FF39oNj0Cpfooje4m.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9388,
+            "original_language": "en",
+            "original_title": "Thank You for Smoking",
+            "overview": "Nick Naylor is a charismatic spin-doctor for Big Tobacco who'll fight to protect America's right to smoke -- even if it kills him -- while still remaining a role model for his 12-year old son. When he incurs the wrath of a senator bent on snuffing out cigarettes, Nick's powers of \"filtering the truth\" will be put to the test.",
+            "popularity": 1.7094,
+            "poster_path": "/cJpeM7U36diFinieBWNLVi0FlQz.jpg",
+            "release_date": "2005-09-09",
+            "title": "Thank You for Smoking",
+            "video": false,
+            "vote_average": 7.19,
+            "vote_count": 2249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nUUfagmcm9Bg2lRbaObfbMifkit.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 11554,
+            "original_language": "zh",
+            "original_title": "\u6700\u597d\u7684\u6642\u5149",
+            "overview": "In three separate segments, set respectively in 1966, 1911, and 2005, three love stories unfold between three sets of characters, under three different periods of Taiwanese history and governance.",
+            "popularity": 0.6231,
+            "poster_path": "/Ajd6uUZchc9AR2PHDaAiI79fFUl.jpg",
+            "release_date": "2005-05-20",
+            "title": "Three Times",
+            "video": false,
+            "vote_average": 6.984,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Nx3XAGPwv5AfdrSq9LFDEACl3T.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 1781,
+            "original_language": "en",
+            "original_title": "An Inconvenient Truth",
+            "overview": "A documentary on Al Gore's campaign to make the issue of global warming a recognized problem worldwide.",
+            "popularity": 1.0774,
+            "poster_path": "/zrYT5UHE2UIsofwkv6KK2Tsu5a.jpg",
+            "release_date": "2006-05-24",
+            "title": "An Inconvenient Truth",
+            "video": false,
+            "vote_average": 6.997,
+            "vote_count": 901
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sDr2KjWpEbJ8M1F88rEmhoczLkX.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 9270,
+            "original_language": "en",
+            "original_title": "Brick",
+            "overview": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.",
+            "popularity": 4.802,
+            "poster_path": "/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg",
+            "release_date": "2006-03-31",
+            "title": "Brick",
+            "video": false,
+            "vote_average": 6.821,
+            "vote_count": 1288
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cn1AjfcI8B2CxekvYYZWkLf5muE.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1259,
+            "original_language": "en",
+            "original_title": "Notes on a Scandal",
+            "overview": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her 15-year-old students. However, her intentions with this new \"friend\" also go well beyond platonic friendship.",
+            "popularity": 2.1377,
+            "poster_path": "/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg",
+            "release_date": "2006-12-25",
+            "title": "Notes on a Scandal",
+            "video": false,
+            "vote_average": 7.097,
+            "vote_count": 926
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/do8idarfaUTxxwaarefTNA724Qj.jpg",
+            "genre_ids": [
+                16,
+                878,
+                53
+            ],
+            "id": 3509,
+            "original_language": "en",
+            "original_title": "A Scanner Darkly",
+            "overview": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+            "popularity": 1.8514,
+            "poster_path": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+            "release_date": "2006-07-07",
+            "title": "A Scanner Darkly",
+            "video": false,
+            "vote_average": 6.807,
+            "vote_count": 1822
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4dZ88NOFhz2Ja5XQzwfyS7f18LF.jpg",
+            "genre_ids": [
+                80,
+                99
+            ],
+            "id": 13364,
+            "original_language": "en",
+            "original_title": "Deliver Us from Evil",
+            "overview": "Documentary filmmaker Amy Berg investigates the life of 30-year pedophile Father Oliver O'Grady and exposes the corruption inside the Catholic Church that allowed him to abuse countless children. Victims' stories and a disturbing interview with O'Grady offer a view into the troubled mind of the spiritual leader who moved from parish to parish gaining trust ... all the while betraying so many.",
+            "popularity": 0.3397,
+            "poster_path": "/4FSBT712p6OwawSqLCkloNSqMaM.jpg",
+            "release_date": "2006-06-24",
+            "title": "Deliver Us from Evil",
+            "video": false,
+            "vote_average": 7.132,
+            "vote_count": 201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tOkSenL74N23O4S7wjJSUHz7Aeh.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 388,
+            "original_language": "en",
+            "original_title": "Inside Man",
+            "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+            "popularity": 6.4317,
+            "poster_path": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+            "release_date": "2006-03-17",
+            "title": "Inside Man",
+            "video": false,
+            "vote_average": 7.396,
+            "vote_count": 6001
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8MWKVstOmGUlCsS80iPTHDH7N22.jpg",
+            "genre_ids": [
+                35,
+                36
+            ],
+            "id": 8435,
+            "original_language": "en",
+            "original_title": "A Cock and Bull Story",
+            "overview": "Steve Coogan, an arrogant actor with low self-esteem and a complicated love life, is playing the eponymous role in an adaptation of \"The Life and Opinions of Tristram Shandy, Gentleman\" being filmed at a stately home. He constantly spars with actor Rob Brydon, who is playing Uncle Toby and believes his role to be of equal importance to Coogan's.",
+            "popularity": 0.8973,
+            "poster_path": "/g14QNhGkWLviBr18nCGDB1U8w8f.jpg",
+            "release_date": "2005-07-17",
+            "title": "A Cock and Bull Story",
+            "video": false,
+            "vote_average": 6.186,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aMg4YvNlOidvlOmqCOjQfT1byxF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 18421,
+            "original_language": "tr",
+            "original_title": "\u0130klimler",
+            "overview": "Man was made to be happy for simple reasons and unhappy for even simpler ones \u2013 just as he is born for simple reasons and dies for even simpler ones... Isa and Bahar are two lonely figures dragged through the ever-changing climate of their inner selves in pursuit of a happiness that no longer belongs to them.",
+            "popularity": 0.5097,
+            "poster_path": "/ikTWwbyIwaFlqAGpD8jwqgghQz0.jpg",
+            "release_date": "2006-09-07",
+            "title": "Climates",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l7XRMURNroPYajcqLlWxyzUlucW.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 1579,
+            "original_language": "en",
+            "original_title": "Apocalypto",
+            "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+            "popularity": 12.2095,
+            "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+            "release_date": "2006-12-07",
+            "title": "Apocalypto",
+            "video": false,
+            "vote_average": 7.591,
+            "vote_count": 5813
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1887,
+            "original_language": "en",
+            "original_title": "Marie Antoinette",
+            "overview": "The retelling of France\u2019s iconic but ill-fated queen, Marie Antoinette. From her betrothal and marriage to Louis XVI at 15 to her reign as queen at 19 and ultimately the fall of Versailles.",
+            "popularity": 3.943,
+            "poster_path": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+            "release_date": "2006-05-24",
+            "title": "Marie Antoinette",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2822
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9RNJ0pKYA8EQiMa0lFZ68gzeElH.jpg",
+            "genre_ids": [
+                18,
+                12,
+                878,
+                10749
+            ],
+            "id": 1381,
+            "original_language": "en",
+            "original_title": "The Fountain",
+            "overview": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+            "popularity": 3.6353,
+            "poster_path": "/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+            "release_date": "2006-11-22",
+            "title": "The Fountain",
+            "video": false,
+            "vote_average": 6.913,
+            "vote_count": 2897
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bHePzkyRcMhnab2qZbhj1bCElnf.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "id": 300,
+            "original_language": "fr",
+            "original_title": "La Science des r\u00eaves",
+            "overview": "A man entranced by his dreams and imagination is lovestruck with a French woman and feels he can show her his world.",
+            "popularity": 1.8385,
+            "poster_path": "/8bummqwU6MV65ZJvNtKx8Y3NIEk.jpg",
+            "release_date": "2006-06-25",
+            "title": "The Science of Sleep",
+            "video": false,
+            "vote_average": 6.996,
+            "vote_count": 786
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d9eONXYtCmQnPWw61w9pNMGlSzK.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14,
+                10749
+            ],
+            "id": 1262,
+            "original_language": "en",
+            "original_title": "Stranger Than Fiction",
+            "overview": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+            "popularity": 1.929,
+            "poster_path": "/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+            "release_date": "2006-09-09",
+            "title": "Stranger Than Fiction",
+            "video": false,
+            "vote_average": 7.279,
+            "vote_count": 2361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tO40eTUxPoKrmMKBDWViA9pVYg3.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1523,
+            "original_language": "en",
+            "original_title": "The Last King of Scotland",
+            "overview": "Young Scottish doctor, Nicholas Garrigan decides it's time for an adventure after he finishes his formal education, so he decides to try his luck in Uganda, and arrives during the downfall of President Obote. General Idi Amin comes to power and asks Garrigan to become his personal doctor.",
+            "popularity": 3.5812,
+            "poster_path": "/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+            "release_date": "2006-01-12",
+            "title": "The Last King of Scotland",
+            "video": false,
+            "vote_average": 7.422,
+            "vote_count": 2214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/owqIirHq6LpX00Lo6kVPsdVmvTF.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 82,
+            "original_language": "en",
+            "original_title": "Miami Vice",
+            "overview": "A case involving drug lords and murder in South Florida takes a personal turn for undercover detectives Sonny Crockett and Ricardo Tubbs. Unorthodox Crockett gets involved romantically with the Chinese-Cuban wife of a trafficker of arms and drugs, while Tubbs deals with an assault on those he loves.",
+            "popularity": 3.4781,
+            "poster_path": "/1KGD2g0wOc7WBfHc5G19reLHQxk.jpg",
+            "release_date": "2006-07-27",
+            "title": "Miami Vice",
+            "video": false,
+            "vote_average": 6.012,
+            "vote_count": 1843
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                878
+            ],
+            "id": 1124,
+            "original_language": "en",
+            "original_title": "The Prestige",
+            "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+            "popularity": 11.5008,
+            "poster_path": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+            "release_date": "2006-10-17",
+            "title": "The Prestige",
+            "video": false,
+            "vote_average": 8.204,
+            "vote_count": 16630
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uyUdNIzl3FWBRxqeVK4ZQKdGGUS.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 582,
+            "original_language": "de",
+            "original_title": "Das Leben der Anderen",
+            "overview": "In 1984 East Berlin, dedicated Stasi officer Gerd Wiesler begins spying on a famous playwright and his actress-lover Christa-Maria. Wiesler becomes unexpectedly sympathetic to the couple, and faces conflicting loyalties when his superior takes a liking to Christa-Maria.",
+            "popularity": 3.6286,
+            "poster_path": "/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+            "release_date": "2006-03-23",
+            "title": "The Lives of Others",
+            "video": false,
+            "vote_average": 8.033,
+            "vote_count": 3839
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a9VOWosINcLNJQb3hNZAqEShVTM.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "id": 1378,
+            "original_language": "en",
+            "original_title": "Shortbus",
+            "overview": "In post-9/11 New York City, an eclectic group of citizens find their lives entangled, personally, romantically, and sexually, at Shortbus, an underground Brooklyn salon infamous for its blend of art, music, politics, and carnality.",
+            "popularity": 3.9379,
+            "poster_path": "/s8QBrWgpZpYrySSyTQ0xbFLPKrS.jpg",
+            "release_date": "2006-10-04",
+            "title": "Shortbus",
+            "video": false,
+            "vote_average": 6.267,
+            "vote_count": 538
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fHY9TfKwC702kPxEcjkxCoLqUv6.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 15675,
+            "original_language": "en",
+            "original_title": "Neil Young: Heart of Gold",
+            "overview": "In March 2005, Neil Young was diagnosed with a brain aneurysm. Four days before he was scheduled for a lifesaving operation, he headed to Nashville, where he wrote and recorded the country folk album Prairie Wind with old friends and family members. After the successful operation and recovery period, he returned to Nashville that August to play at the famed Ryman Auditorium, once again gathering together friends and family for this special performance.",
+            "popularity": 0.399,
+            "poster_path": "/c7DPRQN44hihnaijY69OWOVGqNZ.jpg",
+            "release_date": "2006-02-17",
+            "title": "Neil Young: Heart of Gold",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yERDHEaOezMqsRXhrulS9t6sAqC.jpg",
+            "genre_ids": [
+                12,
+                27
+            ],
+            "id": 9392,
+            "original_language": "en",
+            "original_title": "The Descent",
+            "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone\u2014lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+            "popularity": 5.7026,
+            "poster_path": "/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+            "release_date": "2005-07-08",
+            "title": "The Descent",
+            "video": false,
+            "vote_average": 6.969,
+            "vote_count": 4062
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lKc9mOjyvImvZji9tBBsv2KWSsG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 17247,
+            "original_language": "es",
+            "original_title": "Batalla en el cielo",
+            "overview": "Set in Mexico City, Carlos Reygadas's sexually explicit drama centers on a man in turmoil over his past actions. Chauffer Marcos feels compelled to reveal a dark secret to his boss's daughter, Ana, a wealthy woman who works as a prostitute just for the thrill of it. Marcos confesses that he and his wife committed a crime that ended in horrible tragedy. Haunted by his past, Marcos searches for redemption.",
+            "popularity": 1.4779,
+            "poster_path": "/jChvXVA8qpIIhMKT3BLA9Cftwzt.jpg",
+            "release_date": "2005-05-15",
+            "title": "Battle in Heaven",
+            "video": false,
+            "vote_average": 5.855,
+            "vote_count": 203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kR0b1QrKIn4AJs1a56ejU7tWfoh.jpg",
+            "genre_ids": [
+                18,
+                53,
+                36
+            ],
+            "id": 1247,
+            "original_language": "en",
+            "original_title": "The Good Shepherd",
+            "overview": "Edward Wilson, the only witness to his father's suicide and member of the Skull and Bones Society while a student at Yale, is a morally upright young man who values honor and discretion, qualities that help him to be recruited for a career in the newly founded OSS. His dedication to his work does not come without a price though, leading him to sacrifice his ideals and eventually his family.",
+            "popularity": 2.3566,
+            "poster_path": "/qWmF0rQRPeIVQRfwQN3C9VFKsBh.jpg",
+            "release_date": "2006-12-11",
+            "title": "The Good Shepherd",
+            "video": false,
+            "vote_average": 6.347,
+            "vote_count": 1195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 752,
+            "original_language": "en",
+            "original_title": "V for Vendetta",
+            "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as \u201cV\u201d conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+            "popularity": 8.5495,
+            "poster_path": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+            "release_date": "2006-02-23",
+            "title": "V for Vendetta",
+            "video": false,
+            "vote_average": 7.899,
+            "vote_count": 14885
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nbWnSvZNuxYQyebD7OHJAuyJuBe.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 40769,
+            "original_language": "en",
+            "original_title": "Mutual Appreciation",
+            "overview": "Alan is a musician who leaves a busted-up band for New York, and a new musical voyage. He tries to stay focused and fends off all manner of distractions, including the attraction to his good friend's girlfriend.",
+            "popularity": 0.2797,
+            "poster_path": "/yjKHIcFue6Et3qsBbxcVUrGjGRM.jpg",
+            "release_date": "2005-03-01",
+            "title": "Mutual Appreciation",
+            "video": false,
+            "vote_average": 6.065,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gzOsRkXlnGMNYvyDAR7CkPy8ayR.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 14202,
+            "original_language": "en",
+            "original_title": "The Painted Veil",
+            "overview": "A British medical doctor fights a cholera outbreak in a small Chinese village, while also being trapped at home in a loveless marriage to an unfaithful wife.",
+            "popularity": 2.658,
+            "poster_path": "/k41IvHDLgZO2ae7RuU77wQjScIj.jpg",
+            "release_date": "2006-12-09",
+            "title": "The Painted Veil",
+            "video": false,
+            "vote_average": 7.258,
+            "vote_count": 1201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zcqL8FoVKxZjuzO4znqvqdvLJtg.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 34389,
+            "original_language": "ku",
+            "original_title": "Iraq in Fragments",
+            "overview": "An opus in three parts, Iraq In Fragments offers a series of intimate, passionately-felt portraits: A fatherless 11-year-old is apprenticed to the domineering owner of a Baghdad garage; Sadr followers in two Shiite cities rally for regional elections while enforcing Islamic law at the point of a gun; a family of Kurdish farmers welcomes the US presence, which has allowed them a measure of freedom previously denied. American director James Longley spent more than two years filming in Iraq to create this stunningly photographed, poetically rendered documentary of the war-torn country as seen through the eyes of Sunnis, Shiites and Kurds.",
+            "popularity": 0.0413,
+            "poster_path": "/snVhUvp5Cq8Vaxr19sPl33eeYX0.jpg",
+            "release_date": "2006-01-21",
+            "title": "Iraq in Fragments",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pxsR974ez8bQx0GDixxiKr7pk1o.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 9836,
+            "original_language": "en",
+            "original_title": "Happy Feet",
+            "overview": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!",
+            "popularity": 5.1863,
+            "poster_path": "/za41IHkj6LnkilfTzv5B2qmthKD.jpg",
+            "release_date": "2006-11-16",
+            "title": "Happy Feet",
+            "video": false,
+            "vote_average": 6.207,
+            "vote_count": 5230
+        }
+    ]
+}

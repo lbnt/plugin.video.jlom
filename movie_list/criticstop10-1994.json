@@ -1,0 +1,865 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1994",
+    "source": "https://criticstop10.com/best-movies-of-1994/",
+    "created_by": "lbnt",
+    "added": "07/28/25",
+    "modified": "07/28/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+            "genre_ids": [
+                53,
+                80,
+                35
+            ],
+            "id": 680,
+            "original_language": "en",
+            "original_title": "Pulp Fiction",
+            "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+            "popularity": 23.5648,
+            "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "release_date": "1994-09-10",
+            "title": "Pulp Fiction",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 28895
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/R5yzaNz6IE2107lcmnzBSerCBP.jpg",
+            "genre_ids": [
+                36,
+                18,
+                9648
+            ],
+            "id": 11450,
+            "original_language": "en",
+            "original_title": "Quiz Show",
+            "overview": "Herbert Stempel's transformation into an unexpected television personality unfolds as he secures victory on the cherished American game show, 'Twenty-One.' However, when the show introduces the highly skilled contestant Charles Van Doren to replace Stempel, it compels Stempel to let out his frustrations and call out the show as rigged. Lawyer Richard Goodwin steps in and attempts to uncover the orchestrated deception behind the scenes.",
+            "popularity": 1.2083,
+            "poster_path": "/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg",
+            "release_date": "1994-08-25",
+            "title": "Quiz Show",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 932
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ejFaHWnDP29z7ePw2cJVOsWvOvH.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 712,
+            "original_language": "en",
+            "original_title": "Four Weddings and a Funeral",
+            "overview": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+            "popularity": 4.7071,
+            "poster_path": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+            "release_date": "1994-03-09",
+            "title": "Four Weddings and a Funeral",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 2825
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 13,
+            "original_language": "en",
+            "original_title": "Forrest Gump",
+            "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+            "popularity": 22.7836,
+            "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+            "release_date": "1994-06-23",
+            "title": "Forrest Gump",
+            "video": false,
+            "vote_average": 8.469,
+            "vote_count": 28424
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 522,
+            "original_language": "en",
+            "original_title": "Ed Wood",
+            "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+            "popularity": 1.7959,
+            "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+            "release_date": "1994-09-28",
+            "title": "Ed Wood",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2392
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pYeiEm55NySzK9ksKlQGlFQNapz.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 14275,
+            "original_language": "en",
+            "original_title": "Hoop Dreams",
+            "overview": "Every school day, African-American teenagers William Gates and Arthur Agee travel 90 minutes each way from inner-city Chicago to St. Joseph High School in Westchester, Illinois, a predominately white suburban school well-known for the excellence of its basketball program. Gates and Agee dream of NBA stardom, and with the support of their close-knit families, they battle the social and physical obstacles that stand in their way. This acclaimed documentary was shot over the course of five years.",
+            "popularity": 0.6032,
+            "poster_path": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+            "release_date": "1994-09-12",
+            "title": "Hoop Dreams",
+            "video": false,
+            "vote_average": 7.596,
+            "vote_count": 314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kJQS6jxxtNTaWI8jw7ynck97rgl.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1637,
+            "original_language": "en",
+            "original_title": "Speed",
+            "overview": "Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3\u00a0million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down below 50 mph, it will explode - bad enough any day, but a nightmare in LA traffic. And that's just the beginning...",
+            "popularity": 7.8026,
+            "poster_path": "/o1Zs7VaS9y2GYH9CLeWxaVLWd3x.jpg",
+            "release_date": "1994-06-09",
+            "title": "Speed",
+            "video": false,
+            "vote_average": 7.143,
+            "vote_count": 6430
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                18
+            ],
+            "id": 8587,
+            "original_language": "en",
+            "original_title": "The Lion King",
+            "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+            "popularity": 14.5238,
+            "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+            "release_date": "1994-06-15",
+            "title": "The Lion King",
+            "video": false,
+            "vote_average": 8.258,
+            "vote_count": 18888
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 278,
+            "original_language": "en",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "popularity": 48.6137,
+            "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_date": "1994-09-23",
+            "title": "The Shawshank Redemption",
+            "video": false,
+            "vote_average": 8.712,
+            "vote_count": 28597
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 11382,
+            "original_language": "en",
+            "original_title": "Bullets Over Broadway",
+            "overview": "After young playwright, David Shayne obtains funding for his play from gangster Nick Valenti, Nick's girlfriend Olive miraculously lands the role of a psychiatrist\u2014but not only is she a bimbo who could never pass for a psychiatrist\u2014she's a dreadful actress. David puts up with the leading man who is a compulsive eater, the grand dame who wants her part jazzed up, and Olive's interfering hitman/bodyguard\u2014but, eventually he must decide whether art or life is more important.",
+            "popularity": 1.0451,
+            "poster_path": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+            "release_date": "1994-10-14",
+            "title": "Bullets Over Broadway",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 637
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lmMVUuu2hHX6qrpcusiuSGU8HaC.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 9587,
+            "original_language": "en",
+            "original_title": "Little Women",
+            "overview": "With their father away as a chaplain in the Civil War, Jo, Meg, Beth and Amy grow up with their mother in somewhat reduced circumstances. They are a close family who inevitably have their squabbles and tragedies. But the bond holds even when, later, male friends start to become a part of the household.",
+            "popularity": 2.2488,
+            "poster_path": "/1ZzH1XMcKAe5NdrKL5MfcqZHHsZ.jpg",
+            "release_date": "1994-12-21",
+            "title": "Little Women",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 278,
+            "original_language": "en",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "popularity": 48.6137,
+            "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_date": "1994-09-23",
+            "title": "The Shawshank Redemption",
+            "video": false,
+            "vote_average": 8.712,
+            "vote_count": 28601
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jHjOY9vgE7maH2HRk2fd9lOPg8.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 1024,
+            "original_language": "en",
+            "original_title": "Heavenly Creatures",
+            "overview": "Precocious teenager Juliet moves to New Zealand with her family and soon befriends the quiet, brooding Pauline through their shared love of fantasy and literature. This friendship gradually develops into an intense and obsessive bond.",
+            "popularity": 1.7728,
+            "poster_path": "/uvb86wVCIqD3Rlbr0GTNgWDF7Zo.jpg",
+            "release_date": "1994-09-12",
+            "title": "Heavenly Creatures",
+            "video": false,
+            "vote_average": 6.976,
+            "vote_count": 962
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 10451,
+            "original_language": "zh",
+            "original_title": "\u98f2\u98df\u7537\u5973",
+            "overview": "Retired and widowed Chinese master chef Chu lives in modern day Taipei, with his three attractive daughters, all of whom are unattached. Soon, each daughter encounters a new man in their lives. When these new relationships blossom, stereotypes are broken and the living situation within the family changes.",
+            "popularity": 1.5692,
+            "poster_path": "/olhIWtIBFg6VWK59DEd4lAvgVgz.jpg",
+            "release_date": "1994-08-03",
+            "title": "Eat Drink Man Woman",
+            "video": false,
+            "vote_average": 7.617,
+            "vote_count": 363
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wmSxNVGZOV1A51Yx6ChDXk3NVVi.jpg",
+            "genre_ids": [
+                14,
+                16,
+                10751
+            ],
+            "id": 408,
+            "original_language": "en",
+            "original_title": "Snow White and the Seven Dwarfs",
+            "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
+            "popularity": 8.5737,
+            "poster_path": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+            "release_date": "1938-01-14",
+            "title": "Snow White and the Seven Dwarfs",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 7692
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8KbWuuthHkS7U1wntWCrgo36igG.jpg",
+            "genre_ids": [
+                53,
+                80,
+                10749,
+                18
+            ],
+            "id": 25284,
+            "original_language": "en",
+            "original_title": "The Last Seduction",
+            "overview": "A devious femme fatale steals her husband\u2019s drug money and hides out in a small town where she meets the perfect dupe for her next scheme.",
+            "popularity": 1.5168,
+            "poster_path": "/kK8IiJDkz2Tv6DwaK60vJVHKH85.jpg",
+            "release_date": "1994-05-26",
+            "title": "The Last Seduction",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 397
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 241,
+            "original_language": "en",
+            "original_title": "Natural Born Killers",
+            "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+            "popularity": 4.3157,
+            "poster_path": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+            "release_date": "1994-08-26",
+            "title": "Natural Born Killers",
+            "video": false,
+            "vote_average": 7.058,
+            "vote_count": 3550
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sdgWn2YmR2h0HWFUGXmvbCerQCR.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 20156,
+            "original_language": "en",
+            "original_title": "Exotica",
+            "overview": "In the upscale Toronto strip club Exotica, dancer Christina is visited nightly by the obsessive Francis, a depressed tax auditor. Her ex-boyfriend, the club's MC, Eric, still jealously pines for her even as he introduces her onstage, but Eric is having his own relationship problems with the club's female owner. Thomas, a mysterious pet-shop owner, is about to become unexpectedly involved in their lives.",
+            "popularity": 1.5444,
+            "poster_path": "/pWcJdcIHjL3P6NaEJKeV6ONfAMV.jpg",
+            "release_date": "1994-09-29",
+            "title": "Exotica",
+            "video": false,
+            "vote_average": 6.608,
+            "vote_count": 362
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eNog8pV3p7I5OnBxDLIo97GnXOP.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 31439,
+            "original_language": "zh",
+            "original_title": "\u6d3b\u7740",
+            "overview": "Married couple Fugui and Jiazhen endure tumultuous events in mid-20th century mainland China as their personal fortunes move from wealthy landownership to peasantry.",
+            "popularity": 1.6302,
+            "poster_path": "/bv0qREWTw8TPAtgt22ELp1UlKVl.jpg",
+            "release_date": "1994-05-18",
+            "title": "To Live",
+            "video": false,
+            "vote_average": 8.075,
+            "vote_count": 333
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/llXsPTScDIdQjgsescQyKaIZA6l.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 32636,
+            "original_language": "en",
+            "original_title": "Vanya on 42nd Street",
+            "overview": "An uninterrupted rehearsal of Chekhov's 1899 play \"Uncle Vanya\" played out by a company of actors. The setting is their run down theater with an unusable stage and crumbling ceiling. The play is shown act by act with the briefest of breaks to move props or for refreshments. The lack of costumes, real props and scenery is soon forgotten.",
+            "popularity": 0.5047,
+            "poster_path": "/sYkkHsqXyUcFoLbXt4WNwnRRpT1.jpg",
+            "release_date": "1994-10-19",
+            "title": "Vanya on 42nd Street",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sY5U9A21r93qT7hbEDLFWMEM4b0.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 11593,
+            "original_language": "en",
+            "original_title": "Nobody's Fool",
+            "overview": "A rascally nearing-retirement man juggles a workers' compensation suit while secretly working for his nemesis and flirting with his nemesis' young wife. As his estranged son returns, he faces new family responsibilities, while a banker plots to evict him from his home.",
+            "popularity": 1.2433,
+            "poster_path": "/xyAXFy6mOfgZcVWbceCeuTYadeq.jpg",
+            "release_date": "1994-12-23",
+            "title": "Nobody's Fool",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 318
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rg0E4KETgFagjmoaucTnYDeWNVk.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 13815,
+            "original_language": "en",
+            "original_title": "Fresh",
+            "overview": "Death and violence anger twelve year old drug courier Fresh, who sets his rival employers against each other.",
+            "popularity": 1.7717,
+            "poster_path": "/uXRIIUzjDZZdWR2cUzPJ9eAqaHv.jpg",
+            "release_date": "1994-06-15",
+            "title": "Fresh",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 218
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zMohGSjqCVEIzvpPQU09HNf1N6R.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 20967,
+            "original_language": "en",
+            "original_title": "Thirty Two Short Films About Glenn Gould",
+            "overview": "A collection of vignettes highlighting different aspects of the life, work, and character of the acclaimed Canadian classical pianist.",
+            "popularity": 0.2881,
+            "poster_path": "/3GTmkUpCb1uL7psLYqAHyIyld51.jpg",
+            "release_date": "1993-11-26",
+            "title": "Thirty Two Short Films About Glenn Gould",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3JbHPpUJ53I52w66jydAhIp8Ibe.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 10427,
+            "original_language": "en",
+            "original_title": "Red Rock West",
+            "overview": "When a promised job for Texan Michael fails to materialize in Wyoming, Mike is mistaken by Wayne to be the hitman he hired to kill his unfaithful wife, Suzanne. Mike takes full advantage of the situation, collects the money, and runs. During his getaway, things go wrong, and soon get worse when he runs into the real hitman, Lyle.",
+            "popularity": 0.8083,
+            "poster_path": "/ewofUEqU3Gpr7WSgSz3TEVPIfBg.jpg",
+            "release_date": "1993-05-14",
+            "title": "Red Rock West",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 2292,
+            "original_language": "en",
+            "original_title": "Clerks",
+            "overview": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives.",
+            "popularity": 2.8917,
+            "poster_path": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+            "release_date": "1994-10-19",
+            "title": "Clerks",
+            "video": false,
+            "vote_average": 7.386,
+            "vote_count": 2598
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "id": 11934,
+            "original_language": "en",
+            "original_title": "The Hudsucker Proxy",
+            "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+            "popularity": 1.6998,
+            "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+            "release_date": "1994-03-11",
+            "title": "The Hudsucker Proxy",
+            "video": false,
+            "vote_average": 7.071,
+            "vote_count": 1102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gyP4rLbexXLpXIBigzxGPJfZ3G9.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 16771,
+            "original_language": "en",
+            "original_title": "Barcelona",
+            "overview": "During the 1980s, uptight Ted Boynton is a salesman working in the Barcelona office of a Chicago-based company. He receives an unexpected visit from his cousin Fred, a naval officer who has come to Spain on a public relations mission for a U.S. fleet. Not exactly friends in the past, Ted and Fred strike up relationships with women in the Spanish city and experience conflicts -- Ted with his employer, and Fred with the Barcelona community.",
+            "popularity": 0.392,
+            "poster_path": "/7dgX3naR9EsFMvQhwHY8My6r5FR.jpg",
+            "release_date": "1994-07-29",
+            "title": "Barcelona",
+            "video": false,
+            "vote_average": 6.229,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qpQDSAOZMjT0RnPnF5I7tfktmO0.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 12635,
+            "original_language": "en",
+            "original_title": "Backbeat",
+            "overview": "Chronicles the early days of The Beatles in Hamburg, Germany. The film focuses primarily on the relationship between Stuart Sutcliffe, John Lennon, and Sutcliffe's girlfriend Astrid Kirchherr.",
+            "popularity": 1.0183,
+            "poster_path": "/1BuFx7P8veAUUZDXqdMNhtdCUSM.jpg",
+            "release_date": "1994-04-01",
+            "title": "Backbeat",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9b3NzHY4HccEkXcIUVBQ1yIaxex.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 17600,
+            "original_language": "en",
+            "original_title": "Spanking the Monkey",
+            "overview": "Bright young student Raymond Aibelli is forced to sidetrack an important medical internship because his mother, Susan, is recovering from a broken leg. When he isn't tasked with the most mundane aspects of Susan's recuperation, Raymond finds distraction in a neighborhood girl, Toni Peck. But, as Susan begins relying on her son for both physical and emotional needs, Raymond starts developing disturbing and unwanted new yearnings.",
+            "popularity": 0.8674,
+            "poster_path": "/fuID31Ft8nWLcFRSQ7qZRlu49o7.jpg",
+            "release_date": "1994-01-15",
+            "title": "Spanking the Monkey",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8J2JCoSB0faP0QWOpAmDHGJ7YSG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 44162,
+            "original_language": "zh",
+            "original_title": "\u84dd\u98ce\u7b5d",
+            "overview": "A young man recalls his childhood growing up in a poor alley in Beijing during the 1950s and 1960s.",
+            "popularity": 0.6319,
+            "poster_path": "/r3VkKXNPOyxyGc6fSENL1ewLT0d.jpg",
+            "release_date": "1994-02-02",
+            "title": "The Blue Kite",
+            "video": false,
+            "vote_average": 7.226,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8YM6X7QaJbBy7b8PWPGiTCsLc9A.jpg",
+            "genre_ids": [
+                14,
+                18,
+                10751
+            ],
+            "id": 10510,
+            "original_language": "en",
+            "original_title": "Miracle on 34th Street",
+            "overview": "Six-year-old Susan Walker has doubts about childhood's most enduring miracle\u2014Santa Claus. Her mother told her the secret about Santa a long time ago, but, after meeting a special department store Santa who's convinced he's the real thing, Susan is given the most precious gift of all\u2014something to believe in.",
+            "popularity": 1.6032,
+            "poster_path": "/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg",
+            "release_date": "1994-11-18",
+            "title": "Miracle on 34th Street",
+            "video": false,
+            "vote_average": 6.762,
+            "vote_count": 1076
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9FQhHLE4oFLjSB6PpJ4PBu0IJNv.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 23333,
+            "original_language": "en",
+            "original_title": "Mrs. Parker and the Vicious Circle",
+            "overview": "Dorothy Parker remembers the heyday of the Algonquin Round Table, a circle of friends whose barbed wit, like hers, was fueled by alcohol and flirted with despair.",
+            "popularity": 0.4024,
+            "poster_path": "/avTHiIim0Jm0rs4ehFLck8u3NFW.jpg",
+            "release_date": "1994-09-07",
+            "title": "Mrs. Parker and the Vicious Circle",
+            "video": false,
+            "vote_average": 5.845,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iEqFtSq6MX8q82VdkAkMgKscZC.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 32119,
+            "original_language": "en",
+            "original_title": "The Boys of St. Vincent",
+            "overview": "The true story of boys being sexually abused at their orphanage, run by a religious community in Newfoundland.",
+            "popularity": 0.9401,
+            "poster_path": "/cam0cG0UWdUVtQRvFHJXmNtL1hY.jpg",
+            "release_date": "1994-06-03",
+            "title": "The Boys of St. Vincent",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
+            "genre_ids": [
+                14,
+                28,
+                53
+            ],
+            "id": 9495,
+            "original_language": "en",
+            "original_title": "The Crow",
+            "overview": "Exactly one year after young rock guitarist Eric Draven and his fianc\u00e9e are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+            "popularity": 5.644,
+            "poster_path": "/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+            "release_date": "1994-05-11",
+            "title": "The Crow",
+            "video": false,
+            "vote_average": 7.523,
+            "vote_count": 4266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 2759,
+            "original_language": "en",
+            "original_title": "The Adventures of Priscilla, Queen of the Desert",
+            "overview": "Two drag queens and a transgender woman contract to perform a drag show at a resort in Alice Springs, a town in the remote Australian desert. As they head west from Sydney aboard their lavender bus, Priscilla, the three friends come to the forefront of a comedy of errors, encountering a number of strange characters, as well as incidents of homophobia, whilst widening comfort zones and exploring new horizons.",
+            "popularity": 3.5592,
+            "poster_path": "/kJ7syYXEJgSBmBfSnF3Can9cK1J.jpg",
+            "release_date": "1994-05-31",
+            "title": "The Adventures of Priscilla, Queen of the Desert",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 837
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Rf6jQMHGDZpzoeoNdBLbCyRCK7.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 11318,
+            "original_language": "en",
+            "original_title": "The Madness of King George",
+            "overview": "Aging King George III of England is exhibiting signs of madness, a problem little understood in 1788. As the monarch alternates between bouts of confusion and near-violent outbursts of temper, his hapless doctors attempt the ineffectual cures of the day. Meanwhile, Queen Charlotte and Prime Minister William Pitt the Younger attempt to prevent the king's political enemies, led by the Prince of Wales, from usurping the throne.",
+            "popularity": 1.1503,
+            "poster_path": "/1dTSY023ZyBbgVSKDRuA6JLGSnZ.jpg",
+            "release_date": "1994-12-28",
+            "title": "The Madness of King George",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 244
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+            "genre_ids": [
+                27,
+                18,
+                14
+            ],
+            "id": 628,
+            "original_language": "en",
+            "original_title": "Interview with the Vampire",
+            "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+            "popularity": 7.2533,
+            "poster_path": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+            "release_date": "1994-11-11",
+            "title": "Interview with the Vampire",
+            "video": false,
+            "vote_average": 7.381,
+            "vote_count": 6078
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/njPBXJqugKR5qwUJIHOWSCYscnz.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 9331,
+            "original_language": "en",
+            "original_title": "Clear and Present Danger",
+            "overview": "Agent Jack Ryan becomes acting Deputy Director of Intelligence for the CIA when Admiral Greer is diagnosed with cancer. When an American businessman, and friend of the president, is murdered on his yacht, Ryan starts discovering links between the man and drug dealers. As former CIA agent John Clark is sent to Colombia to kill drug cartel kingpins in retaliation, Ryan must fight through multiple cover-ups to figure out what happened and who's responsible.",
+            "popularity": 3.1953,
+            "poster_path": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+            "release_date": "1994-08-03",
+            "title": "Clear and Present Danger",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1572
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vR0TpGzisVPuEmRMV8CEflisqpG.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 19552,
+            "original_language": "vi",
+            "original_title": "M\u00f9i \u0111u \u0111\u1ee7 xanh",
+            "overview": "In 1951, a young Vietnamese girl arrives at a Saigon household as their new servant.",
+            "popularity": 1.1717,
+            "poster_path": "/wh1JFM7myCSJvtaPX30sWYX2q66.jpg",
+            "release_date": "1993-06-08",
+            "title": "The Scent of Green Papaya",
+            "video": false,
+            "vote_average": 7.028,
+            "vote_count": 195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6pNbXgSg70qInZ4I3VaS2at5spK.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 47104,
+            "original_language": "fa",
+            "original_title": "\u0632\u06cc\u0631 \u062f\u0631\u062e\u062a\u0627\u0646 \u0632\u06cc\u062a\u0648\u0646",
+            "overview": "When the actor in a scene for his film Life And Nothing More\u2026 has to quit, a film director casts another man for the part. However, complications arise since the man and the woman who was cast for the scene know each other.",
+            "popularity": 0.7208,
+            "poster_path": "/xcwCF0YTyAOMrVLgXHjvPP0gGbh.jpg",
+            "release_date": "1994-02-01",
+            "title": "Through the Olive Trees",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 36955,
+            "original_language": "en",
+            "original_title": "True Lies",
+            "overview": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+            "popularity": 5.0752,
+            "poster_path": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+            "release_date": "1994-07-15",
+            "title": "True Lies",
+            "video": false,
+            "vote_average": 7.081,
+            "vote_count": 4274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u6T2hCLyL11sn5XontSbBxubvbV.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                10749
+            ],
+            "id": 26672,
+            "original_language": "en",
+            "original_title": "The Thief and the Cobbler",
+            "overview": "It is written among the limitless constellations of the celestial heavens, and  in the depths of the emerald seas, and upon every grain of sand in the vast  deserts, that the world which we see is an outward and visible dream, of an  inward and invisible reality ... Once upon a time there was a golden city. In  the center of the golden city, atop the tallest minaret, were three golden  balls. The ancients had prophesied that if the three golden balls were ever  taken away, harmony would yield to discord, and the city would fall to  destruction and death. But... the mystics had also foretold that the city might  be saved by the simplest soul with the smallest and simplest of things. In the  city there dwelt a lowly shoemaker, who was known as Tack the Cobbler. Also in  the city... existed a Thief, who shall be... nameless.",
+            "popularity": 1.295,
+            "poster_path": "/3OKtFuTxahr7hokPB9aO38qgOfc.jpg",
+            "release_date": "1993-09-23",
+            "title": "The Thief and the Cobbler",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A0YCPfLrxv2xX0Hno9eFBEemYPL.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 12519,
+            "original_language": "en",
+            "original_title": "Sirens",
+            "overview": "In 1930s Australia, Anglican clergyman Anthony Campion and his prim wife, Estella, are asked to visit noted painter Norman Lindsay, whose planned contribution to an international art exhibit is considered blasphemous. While Campion and Lindsay debate, Estella finds herself drawn to the three beautiful models sitting for the painter's current work, freethinking Sheela, sensual Pru and virginal Giddy.",
+            "popularity": 4.3218,
+            "poster_path": "/bOUDHgOlxANs1KsYZEsLSjZBTkd.jpg",
+            "release_date": "1994-03-04",
+            "title": "Sirens",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                80,
+                14
+            ],
+            "id": 854,
+            "original_language": "en",
+            "original_title": "The Mask",
+            "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+            "popularity": 10.855,
+            "poster_path": "/yd3wjLLeQHJ3oRDy4wwiNNFVyLW.jpg",
+            "release_date": "1994-07-29",
+            "title": "The Mask",
+            "video": false,
+            "vote_average": 6.967,
+            "vote_count": 10662
+        }
+    ]
+}

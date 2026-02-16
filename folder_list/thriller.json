@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "Thriller",
+    "added" : "22/11/25",
+    "modified" : "22/11/25",
+    "folders" : [
+        {
+            "title" : "IMDb's Thriller Top 50",
+            "id" : "IMDb's_thriller_top_50",
+            "type" : "movie_list"
+        }
+    ]
+}

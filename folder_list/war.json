@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "War",
+    "added" : "10/10/24",
+    "modified" : "10/10/24",
+    "folders" : [
+        {
+            "title" : "Rotten Tomatoes - 100 Best War Movies Of All Time",
+            "id" : "rottentomatoes-best_war_movies_of_all_time",
+            "type" : "movie_list"
+        }
+    ]
+}

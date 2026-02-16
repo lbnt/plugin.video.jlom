@@ -1,0 +1,1513 @@
+{
+    "type": "movie_list",
+    "title": "BAFTA - Best film",
+    "source": "https://www.bafta.org/",
+    "created_by": "lbnt",
+    "added": "01/27/26",
+    "modified": "01/27/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 974576,
+            "original_language": "en",
+            "original_title": "Conclave",
+            "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+            "popularity": 10.3274,
+            "poster_path": "/vYEyxF1UT779RiEalpMjUT6kfdf.jpg",
+            "release_date": "2024-10-25",
+            "title": "Conclave",
+            "video": false,
+            "vote_average": 7.188,
+            "vote_count": 3146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ycnO0cjsAROSGJKuMODgRtWsHQw.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 872585,
+            "original_language": "en",
+            "original_title": "Oppenheimer",
+            "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+            "popularity": 24.1666,
+            "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            "release_date": "2023-07-19",
+            "title": "Oppenheimer",
+            "video": false,
+            "vote_average": 8.036,
+            "vote_count": 11260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zbOlpFM306PHE7EP1OELCH5qSmS.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18
+            ],
+            "id": 49046,
+            "original_language": "de",
+            "original_title": "Im Westen nichts Neues",
+            "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+            "popularity": 9.8921,
+            "poster_path": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+            "release_date": "2022-10-07",
+            "title": "All Quiet on the Western Front",
+            "video": false,
+            "vote_average": 7.723,
+            "vote_count": 4478
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 600583,
+            "original_language": "en",
+            "original_title": "The Power of the Dog",
+            "overview": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.",
+            "popularity": 4.8076,
+            "poster_path": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+            "release_date": "2021-10-25",
+            "title": "The Power of the Dog",
+            "video": false,
+            "vote_average": 6.746,
+            "vote_count": 2883
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 581734,
+            "original_language": "en",
+            "original_title": "Nomadland",
+            "overview": "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.",
+            "popularity": 4.1997,
+            "poster_path": "/dKT8rGDR55cM1vGn7QZLA9Tg9YC.jpg",
+            "release_date": "2021-01-29",
+            "title": "Nomadland",
+            "video": false,
+            "vote_average": 7.177,
+            "vote_count": 3240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18,
+                28
+            ],
+            "id": 530915,
+            "original_language": "en",
+            "original_title": "1917",
+            "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+            "popularity": 13.6944,
+            "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+            "release_date": "2019-12-25",
+            "title": "1917",
+            "video": false,
+            "vote_average": 7.985,
+            "vote_count": 13240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 426426,
+            "original_language": "es",
+            "original_title": "Roma",
+            "overview": "In 1970s Mexico City, two domestic workers help a mother of four while her husband is away for an extended period of time.",
+            "popularity": 3.1521,
+            "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+            "release_date": "2018-11-21",
+            "title": "Roma",
+            "video": false,
+            "vote_average": 7.625,
+            "vote_count": 4059
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 359940,
+            "original_language": "en",
+            "original_title": "Three Billboards Outside Ebbing, Missouri",
+            "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+            "popularity": 6.6568,
+            "poster_path": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+            "release_date": "2017-12-01",
+            "title": "Three Billboards Outside Ebbing, Missouri",
+            "video": false,
+            "vote_average": 8.061,
+            "vote_count": 10658
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 313369,
+            "original_language": "en",
+            "original_title": "La La Land",
+            "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+            "popularity": 14.05,
+            "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+            "release_date": "2016-12-01",
+            "title": "La La Land",
+            "video": false,
+            "vote_average": 7.899,
+            "vote_count": 17778
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mNQtUJv1F3u0uSKILFrGjIHqkxx.jpg",
+            "genre_ids": [
+                37,
+                18,
+                12
+            ],
+            "id": 281957,
+            "original_language": "en",
+            "original_title": "The Revenant",
+            "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+            "popularity": 12.1628,
+            "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+            "release_date": "2015-12-25",
+            "title": "The Revenant",
+            "video": false,
+            "vote_average": 7.539,
+            "vote_count": 18962
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ac2s9RJEi1ZeaQopoLsqlsmWQmx.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 85350,
+            "original_language": "en",
+            "original_title": "Boyhood",
+            "overview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+            "popularity": 3.412,
+            "poster_path": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+            "release_date": "2014-06-05",
+            "title": "Boyhood",
+            "video": false,
+            "vote_average": 7.491,
+            "vote_count": 5411
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 76203,
+            "original_language": "en",
+            "original_title": "12 Years a Slave",
+            "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon\u2019s chance meeting with a Canadian abolitionist will forever alter his life.",
+            "popularity": 9.3471,
+            "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+            "release_date": "2013-10-18",
+            "title": "12 Years a Slave",
+            "video": false,
+            "vote_average": 7.935,
+            "vote_count": 11773
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 68734,
+            "original_language": "en",
+            "original_title": "Argo",
+            "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+            "popularity": 6.5992,
+            "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+            "release_date": "2012-10-11",
+            "title": "Argo",
+            "video": false,
+            "vote_average": 7.283,
+            "vote_count": 8744
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 74643,
+            "original_language": "fr",
+            "original_title": "The Artist",
+            "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
+            "popularity": 2.8185,
+            "poster_path": "/z68py0ZqPgeacGPG54AGVRbNBS7.jpg",
+            "release_date": "2011-10-12",
+            "title": "The Artist",
+            "video": false,
+            "vote_average": 7.444,
+            "vote_count": 3439
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 45269,
+            "original_language": "en",
+            "original_title": "The King's Speech",
+            "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+            "popularity": 5.1929,
+            "poster_path": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+            "release_date": "2010-11-26",
+            "title": "The King's Speech",
+            "video": false,
+            "vote_average": 7.732,
+            "vote_count": 9128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nKieVGBCZQfcylwO7mOMPaug8f2.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 12162,
+            "original_language": "en",
+            "original_title": "The Hurt Locker",
+            "overview": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+            "popularity": 8.3719,
+            "poster_path": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+            "release_date": "2008-10-10",
+            "title": "The Hurt Locker",
+            "video": false,
+            "vote_average": 7.256,
+            "vote_count": 6002
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 12405,
+            "original_language": "en",
+            "original_title": "Slumdog Millionaire",
+            "overview": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+            "popularity": 6.9574,
+            "poster_path": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+            "release_date": "2008-11-12",
+            "title": "Slumdog Millionaire",
+            "video": false,
+            "vote_average": 7.729,
+            "vote_count": 11083
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/prH7Lmo7V9GuMbhCaDCSa6kvZvs.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 4347,
+            "original_language": "en",
+            "original_title": "Atonement",
+            "overview": "A young girl irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+            "popularity": 7.2369,
+            "poster_path": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+            "release_date": "2007-02-27",
+            "title": "Atonement",
+            "video": false,
+            "vote_average": 7.639,
+            "vote_count": 4580
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zpBl7qfBB1ir1BVNQtPlPwQ6IFd.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1165,
+            "original_language": "en",
+            "original_title": "The Queen",
+            "overview": "The Queen is an intimate behind the scenes glimpse at the interaction between HM Elizabeth II and Prime Minister Tony Blair during their struggle, following the death of Diana, to reach a compromise between what was a private tragedy for the Royal family and the public's demand for an overt display of mourning.",
+            "popularity": 3.652,
+            "poster_path": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+            "release_date": "2006-09-15",
+            "title": "The Queen",
+            "video": false,
+            "vote_average": 6.949,
+            "vote_count": 1393
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 142,
+            "original_language": "en",
+            "original_title": "Brokeback Mountain",
+            "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+            "popularity": 9.0814,
+            "poster_path": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+            "release_date": "2005-10-22",
+            "title": "Brokeback Mountain",
+            "video": false,
+            "vote_average": 7.784,
+            "vote_count": 7397
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ki6g4TF5maq0PJF7vq4uOCAYq1Z.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 2567,
+            "original_language": "en",
+            "original_title": "The Aviator",
+            "overview": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
+            "popularity": 7.2344,
+            "poster_path": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+            "release_date": "2004-12-17",
+            "title": "The Aviator",
+            "video": false,
+            "vote_average": 7.215,
+            "vote_count": 5684
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 122,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Return of the King",
+            "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+            "popularity": 24.9491,
+            "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+            "release_date": "2003-12-17",
+            "title": "The Lord of the Rings: The Return of the King",
+            "video": false,
+            "vote_average": 8.492,
+            "vote_count": 25924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1XqIhsqnAozznGhxlGdI0GPcCro.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 423,
+            "original_language": "en",
+            "original_title": "The Pianist",
+            "overview": "The true story of pianist W\u0142adys\u0142aw Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a caf\u00e9; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+            "popularity": 10.4495,
+            "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+            "release_date": "2002-09-17",
+            "title": "The Pianist",
+            "video": false,
+            "vote_average": 8.379,
+            "vote_count": 9863
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 120,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+            "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+            "popularity": 31.2944,
+            "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+            "release_date": "2001-12-18",
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "video": false,
+            "vote_average": 8.427,
+            "vote_count": 26897
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+            "genre_ids": [
+                28,
+                18,
+                12
+            ],
+            "id": 98,
+            "original_language": "en",
+            "original_title": "Gladiator",
+            "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+            "popularity": 17.4379,
+            "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+            "release_date": "2000-05-04",
+            "title": "Gladiator",
+            "video": false,
+            "vote_average": 8.221,
+            "vote_count": 20446
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 14,
+            "original_language": "en",
+            "original_title": "American Beauty",
+            "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+            "popularity": 9.1747,
+            "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+            "release_date": "1999-09-15",
+            "title": "American Beauty",
+            "video": false,
+            "vote_average": 8.003,
+            "vote_count": 12756
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i16MjvM9YsQ85ejdB63gtGXDu4W.jpg",
+            "genre_ids": [
+                10749,
+                36,
+                35
+            ],
+            "id": 1934,
+            "original_language": "en",
+            "original_title": "Shakespeare in Love",
+            "overview": "Young William Shakespeare is forced to stage his latest comedy, 'Romeo and Ethel, the Pirate's Daughter', before it's even written. When lovely noblewoman Viola de Lesseps auditions for a role, they fall into forbidden love \u2014 and Shakespeare's play finds a new life (and title). As their relationship intensifies, the comedy soon transforms into tragedy.",
+            "popularity": 7.2989,
+            "poster_path": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+            "release_date": "1998-12-11",
+            "title": "Shakespeare in Love",
+            "video": false,
+            "vote_average": 6.84,
+            "vote_count": 3142
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dxhf7ozF8pJVJznuZG0VyQi1UDT.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 9427,
+            "original_language": "en",
+            "original_title": "The Full Monty",
+            "overview": "Sheffield, England. Gaz, a jobless steelworker in need of quick cash persuades his mates to bare it all in a one-night-only strip show.",
+            "popularity": 2.8917,
+            "poster_path": "/crtSEBd4ya9r5oEFHRatAud6Id8.jpg",
+            "release_date": "1997-08-13",
+            "title": "The Full Monty",
+            "video": false,
+            "vote_average": 6.991,
+            "vote_count": 1750
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/em5kAUF8QbwThG5BCqVgFomxNT5.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 409,
+            "original_language": "en",
+            "original_title": "The English Patient",
+            "overview": "In the 1930s, Count Alm\u00e1sy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Alm\u00e1sy enters into a world of love, betrayal, and politics.",
+            "popularity": 3.8509,
+            "poster_path": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+            "release_date": "1996-11-14",
+            "title": "The English Patient",
+            "video": false,
+            "vote_average": 7.157,
+            "vote_count": 2331
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 4584,
+            "original_language": "en",
+            "original_title": "Sense and Sensibility",
+            "overview": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+            "popularity": 7.6097,
+            "poster_path": "/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+            "release_date": "1995-12-13",
+            "title": "Sense and Sensibility",
+            "video": false,
+            "vote_average": 7.422,
+            "vote_count": 1800
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ejFaHWnDP29z7ePw2cJVOsWvOvH.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 712,
+            "original_language": "en",
+            "original_title": "Four Weddings and a Funeral",
+            "overview": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+            "popularity": 4.3618,
+            "poster_path": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+            "release_date": "1994-03-09",
+            "title": "Four Weddings and a Funeral",
+            "video": false,
+            "vote_average": 6.771,
+            "vote_count": 2912
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 424,
+            "original_language": "en",
+            "original_title": "Schindler's List",
+            "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "popularity": 17.1968,
+            "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_date": "1993-12-15",
+            "title": "Schindler's List",
+            "video": false,
+            "vote_average": 8.565,
+            "vote_count": 17040
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/novvibtQv0B4psRxuqvd8g2qS5M.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 8293,
+            "original_language": "en",
+            "original_title": "Howards End",
+            "overview": "A saga of class relations and changing times in an Edwardian England on the brink of modernity, the film centers on liberal Margaret Schlegel, who, along with her sister Helen, becomes involved with two couples: wealthy, conservative industrialist Henry Wilcox and his wife Ruth, and the downwardly mobile working-class Leonard Bast and his mistress Jackie.",
+            "popularity": 2.3297,
+            "poster_path": "/1009nhfj28VhhQnVadtjkOacduX.jpg",
+            "release_date": "1992-03-13",
+            "title": "Howards End",
+            "video": false,
+            "vote_average": 6.994,
+            "vote_count": 579
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bQHHEFYBZc23nhbo0z0qB7nxW31.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 11663,
+            "original_language": "en",
+            "original_title": "The Commitments",
+            "overview": "Jimmy Rabbitte, just a thick-ya out of school, gets a brilliant idea: to put a soul band together in Barrytown, his slum home in north Dublin. First he needs musicians and singers: things slowly start to click when he finds three fine-voiced females virtually in his back yard, a lead singer (Deco) at a wedding, and, responding to his ad, an aging trumpet player, Joey \"The Lips\" Fagan.",
+            "popularity": 2.3072,
+            "poster_path": "/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg",
+            "release_date": "1991-08-14",
+            "title": "The Commitments",
+            "video": false,
+            "vote_average": 7.265,
+            "vote_count": 583
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 769,
+            "original_language": "en",
+            "original_title": "GoodFellas",
+            "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+            "popularity": 16.7206,
+            "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+            "release_date": "1990-09-12",
+            "title": "GoodFellas",
+            "video": false,
+            "vote_average": 8.452,
+            "vote_count": 13953
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yYvBNN96Ym3wtPxGCFl7F888WwB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 207,
+            "original_language": "en",
+            "original_title": "Dead Poets Society",
+            "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "popularity": 13.3928,
+            "poster_path": "/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg",
+            "release_date": "1989-06-02",
+            "title": "Dead Poets Society",
+            "video": false,
+            "vote_average": 8.301,
+            "vote_count": 12234
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 746,
+            "original_language": "en",
+            "original_title": "The Last Emperor",
+            "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
+            "popularity": 5.0322,
+            "poster_path": "/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+            "release_date": "1987-10-04",
+            "title": "The Last Emperor",
+            "video": false,
+            "vote_average": 7.582,
+            "vote_count": 1856
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 4480,
+            "original_language": "fr",
+            "original_title": "Jean de Florette",
+            "overview": "In a rural French village, an old man and his only remaining relative cast their covetous eyes on an adjoining vacant property. They need its spring water for growing their flowers, and are dismayed to hear that the man who has inherited it is moving in. They block up the spring and watch as their new neighbour tries to keep his crops watered from wells far afield through the hot summer. Though they see his desperate efforts are breaking his health and his wife and daughter's hearts, they think only of getting the water.",
+            "popularity": 3.3438,
+            "poster_path": "/atjyDRdOnOi2S28X3mNtJ7CQmFj.jpg",
+            "release_date": "1986-08-27",
+            "title": "Jean de Florette",
+            "video": false,
+            "vote_average": 7.695,
+            "vote_count": 599
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7BawlYbO8j434ovY0xTHpaNNE0Y.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11257,
+            "original_language": "en",
+            "original_title": "A Room with a View",
+            "overview": "When Lucy Honeychurch and chaperon Charlotte Bartlett find themselves in Florence with rooms without views, fellow guests Mr Emerson and son George step in to remedy the situation. Meeting the Emersons could change Lucy's life forever but, once back in England, how will her experiences in Tuscany affect her marriage plans?",
+            "popularity": 2.0944,
+            "poster_path": "/5xRAqywVo6tNUNQbAESGVP930la.jpg",
+            "release_date": "1986-03-07",
+            "title": "A Room with a View",
+            "video": false,
+            "vote_average": 6.949,
+            "vote_count": 810
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3wwMtp2F7CgmOl2EX9q1r2yjOEk.jpg",
+            "genre_ids": [
+                14,
+                35,
+                10749
+            ],
+            "id": 10849,
+            "original_language": "en",
+            "original_title": "The Purple Rose of Cairo",
+            "overview": "Cecilia is a waitress in New Jersey, living a dreary life during the Great Depression. Her only escape from her mundane reality is the movie theatre. After losing her job, Cecilia goes to see 'The Purple Rose of Cairo' in hopes of raising her spirits, where she watches dashing archaeologist Tom Baxter time and again.",
+            "popularity": 1.9065,
+            "poster_path": "/ccsint43E44B7NGceEhVimD93Yt.jpg",
+            "release_date": "1985-03-01",
+            "title": "The Purple Rose of Cairo",
+            "video": false,
+            "vote_average": 7.396,
+            "vote_count": 1113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c7OeJd34rc9bI1DXqd4ucb1wVrf.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 625,
+            "original_language": "en",
+            "original_title": "The Killing Fields",
+            "overview": "New York Times reporter Sydney Schanberg is on assignment covering the Cambodian Civil War, with the help of local interpreter Dith Pran and American photojournalist Al Rockoff. When the U.S. Army pulls out amid escalating violence, Schanberg makes exit arrangements for Pran and his family. Pran, however, tells Schanberg he intends to stay in Cambodia to help cover the unfolding story \u2014 a decision he may regret as the Khmer Rouge rebels move in.",
+            "popularity": 2.812,
+            "poster_path": "/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg",
+            "release_date": "1984-11-23",
+            "title": "The Killing Fields",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 800
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4WaqsTQUhGzRRuuY7FXPVM1lLda.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 38291,
+            "original_language": "en",
+            "original_title": "Educating Rita",
+            "overview": "Rita, a witty 26-year-old hairdresser, wants to 'discover' herself, so she joins the Open University where she meets the disillusioned professor of literature, Dr. Frank Bryant. His marriage has failed, his new girlfriend is having an affair with his best friend and he can't get through the day without downing a bottle or two of whisky. What Frank needs is a challenge... and along comes Rita.",
+            "popularity": 4.393,
+            "poster_path": "/xwxgiRzw2zxzWNIYp98faJ0rUy5.jpg",
+            "release_date": "1983-06-16",
+            "title": "Educating Rita",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AsXHPS2U58MDAkoEJUT7Vlxndfu.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 783,
+            "original_language": "en",
+            "original_title": "Gandhi",
+            "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+            "popularity": 5.0949,
+            "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+            "release_date": "1982-12-01",
+            "title": "Gandhi",
+            "video": false,
+            "vote_average": 7.557,
+            "vote_count": 2450
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nEeq7iQDbsj4qRt9E11PvQOWKvQ.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 9443,
+            "original_language": "en",
+            "original_title": "Chariots of Fire",
+            "overview": "In the class-obsessed and religiously divided UK of the early 1920s, two determined young runners train for the 1924 Paris Olympics. Eric Liddell, a devout Christian born to Scottish missionaries in China, sees running as part of his worship of God's glory and refuses to train or compete on the Sabbath. Harold Abrahams overcomes anti-Semitism and class bias, but neglects his beloved sweetheart in his single-minded quest.",
+            "popularity": 3.1933,
+            "poster_path": "/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+            "release_date": "1981-05-15",
+            "title": "Chariots of Fire",
+            "video": false,
+            "vote_average": 6.775,
+            "vote_count": 1000
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6huSptAsqYg3wbsi1jbMognSgmp.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1955,
+            "original_language": "en",
+            "original_title": "The Elephant Man",
+            "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of great intelligence and sensitivity. Based on the true story of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.",
+            "popularity": 4.3806,
+            "poster_path": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+            "release_date": "1980-10-09",
+            "title": "The Elephant Man",
+            "video": false,
+            "vote_average": 8.048,
+            "vote_count": 3811
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 696,
+            "original_language": "en",
+            "original_title": "Manhattan",
+            "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+            "popularity": 2.6831,
+            "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+            "release_date": "1979-04-25",
+            "title": "Manhattan",
+            "video": false,
+            "vote_average": 7.72,
+            "vote_count": 2555
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d890bItqbqkJVmGPpIcq6s5CGxV.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "id": 42222,
+            "original_language": "en",
+            "original_title": "Julia",
+            "overview": "At the behest of an old and dear friend, playwright Lillian Hellman undertakes a dangerous mission to smuggle funds into Nazi Germany.",
+            "popularity": 4.1008,
+            "poster_path": "/qHtPzs9eVCilp88c1arq73gH6xk.jpg",
+            "release_date": "1977-10-01",
+            "title": "Julia",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 703,
+            "original_language": "en",
+            "original_title": "Annie Hall",
+            "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+            "popularity": 4.0809,
+            "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+            "release_date": "1977-04-19",
+            "title": "Annie Hall",
+            "video": false,
+            "vote_average": 7.731,
+            "vote_count": 4143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Oa3zTiluBz2W8D2ou1MY16dUiF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 510,
+            "original_language": "en",
+            "original_title": "One Flew Over the Cuckoo's Nest",
+            "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.",
+            "popularity": 9.5689,
+            "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+            "release_date": "1975-11-19",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "video": false,
+            "vote_average": 8.413,
+            "vote_count": 11165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 16153,
+            "original_language": "en",
+            "original_title": "Alice Doesn't Live Here Anymore",
+            "overview": "After her husband dies, Alice and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make a new life for herself as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner.",
+            "popularity": 1.7546,
+            "poster_path": "/A99yzz1W3NCG6zR2HXSwn2kWlse.jpg",
+            "release_date": "1974-12-09",
+            "title": "Alice Doesn't Live Here Anymore",
+            "video": false,
+            "vote_average": 6.953,
+            "vote_count": 509
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ikO0koqdi0V7Z9CJXwwKf5tiTrs.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 55368,
+            "original_language": "fr",
+            "original_title": "Lacombe Lucien",
+            "overview": "In Louis Malle's lauded drama, Lucien Lacombe is a young man living in rural France during World War II who seeks to join the French Resistance. When he is rejected due to his youth, the resentful Lucien allies himself with the Nazis and joins the Gallic arm of their Gestapo. Lucien grows to enjoy the power that comes with his position, but his life is complicated when he falls for France Horn, a beautiful young Jewish woman.",
+            "popularity": 3.3446,
+            "poster_path": "/gHlorDyJrigxzcuZaQ5p4mseAPC.jpg",
+            "release_date": "1974-01-30",
+            "title": "Lacombe, Lucien",
+            "video": false,
+            "vote_average": 7.009,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1675,
+            "original_language": "fr",
+            "original_title": "La Nuit américaine",
+            "overview": "A committed filmmaker struggles to complete his latest project while coping with a myriad of crises, personal and professional, among the cast and crew.",
+            "popularity": 5.7598,
+            "poster_path": "/vUNdp6wRA7177aww0MPvocnu4xf.jpg",
+            "release_date": "1973-05-24",
+            "title": "Day for Night",
+            "video": false,
+            "vote_average": 7.755,
+            "vote_count": 640
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 10784,
+            "original_language": "en",
+            "original_title": "Cabaret",
+            "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+            "popularity": 2.5224,
+            "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+            "release_date": "1972-02-13",
+            "title": "Cabaret",
+            "video": false,
+            "vote_average": 7.422,
+            "vote_count": 942
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xkIaVZo98JFCteffdXRgZfcW5A.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 45938,
+            "original_language": "en",
+            "original_title": "Sunday Bloody Sunday",
+            "overview": "Recently divorced career woman Alex Greville begins a romantic relationship with glamorous mod artist Bob Elkin, fully aware that he's also intimately involved with middle-aged doctor Daniel Hirsh. For both Alex and Daniel, the younger man represents a break with their repressive pasts, and though both know that Bob is seeing both of them, neither is willing to let go of the youth and vitality he brings to their otherwise stable lives.",
+            "popularity": 3.17,
+            "poster_path": "/7q1h3M1vDlsHDKRhoPOzKjmFCVq.jpg",
+            "release_date": "1971-07-01",
+            "title": "Sunday Bloody Sunday",
+            "video": false,
+            "vote_average": 6.571,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+            "genre_ids": [
+                12,
+                37,
+                80,
+                18,
+                36
+            ],
+            "id": 642,
+            "original_language": "en",
+            "original_title": "Butch Cassidy and the Sundance Kid",
+            "overview": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+            "popularity": 3.9738,
+            "poster_path": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+            "release_date": "1969-09-23",
+            "title": "Butch Cassidy and the Sundance Kid",
+            "video": false,
+            "vote_average": 7.608,
+            "vote_count": 2391
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mRVzzlXswVmXWqCPni9JIla5fmj.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 3116,
+            "original_language": "en",
+            "original_title": "Midnight Cowboy",
+            "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+            "popularity": 3.3019,
+            "poster_path": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+            "release_date": "1969-05-25",
+            "title": "Midnight Cowboy",
+            "video": false,
+            "vote_average": 7.503,
+            "vote_count": 1542
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 37247,
+            "original_language": "en",
+            "original_title": "The Graduate",
+            "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+            "popularity": 5.5324,
+            "poster_path": "/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg",
+            "release_date": "1967-12-21",
+            "title": "The Graduate",
+            "video": false,
+            "vote_average": 7.632,
+            "vote_count": 3586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ulO2vXHo8oTOdUWSEwWkGFhq3VL.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 874,
+            "original_language": "en",
+            "original_title": "A Man for All Seasons",
+            "overview": "A depiction of the conflict between King Henry VIII of England and his Lord Chancellor, Sir Thomas More, who refuses to swear the Oath of Supremacy declaring Henry Supreme Head of the Church in England.",
+            "popularity": 1.9349,
+            "poster_path": "/kcwcqMitcnRO1SySlX1HKVn7yUV.jpg",
+            "release_date": "1966-12-13",
+            "title": "A Man for All Seasons",
+            "video": false,
+            "vote_average": 7.343,
+            "vote_count": 477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 396,
+            "original_language": "en",
+            "original_title": "Who's Afraid of Virginia Woolf?",
+            "overview": "A history professor and his wife entertain a young couple who are new to the university's faculty. As the drinks flow, secrets come to light, and the middle-aged couple unload onto their guests the full force of the bitterness, dysfunction, and animosity that defines their marriage.",
+            "popularity": 6.4805,
+            "poster_path": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+            "release_date": "1966-06-22",
+            "title": "Who's Afraid of Virginia Woolf?",
+            "video": false,
+            "vote_average": 7.704,
+            "vote_count": 883
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d1mciHTH1Pcb3KDYNoaNKuOSDOC.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 11113,
+            "original_language": "en",
+            "original_title": "My Fair Lady",
+            "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+            "popularity": 7.8862,
+            "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+            "release_date": "1964-12-01",
+            "title": "My Fair Lady",
+            "video": false,
+            "vote_average": 7.504,
+            "vote_count": 1399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4LmNLvXP5SZ5TrZEkNhC7dbjUNV.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 935,
+            "original_language": "en",
+            "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+            "popularity": 5.5821,
+            "poster_path": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+            "release_date": "1964-01-29",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "video": false,
+            "vote_average": 8.125,
+            "vote_count": 6004
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cbHhPCdSdoMpjaLazz7gDS2WYpz.jpg",
+            "genre_ids": [
+                35,
+                12,
+                36,
+                10749
+            ],
+            "id": 5769,
+            "original_language": "en",
+            "original_title": "Tom Jones",
+            "overview": "Tom loves Sophie and Sophie loves Tom. But Tom and Sophie are of differering classes. Can they find a way through the mayhem to be true to love?",
+            "popularity": 3.9987,
+            "poster_path": "/yKuZKLMhe74PJzaxYLh2s8h4P2P.jpg",
+            "release_date": "1963-08-24",
+            "title": "Tom Jones",
+            "video": false,
+            "vote_average": 5.905,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z30x999Uku15xcFbe5s3hLvQPDl.jpg",
+            "genre_ids": [
+                12,
+                36,
+                10752
+            ],
+            "id": 947,
+            "original_language": "en",
+            "original_title": "Lawrence of Arabia",
+            "overview": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+            "popularity": 7.0798,
+            "poster_path": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+            "release_date": "1962-12-11",
+            "title": "Lawrence of Arabia",
+            "video": false,
+            "vote_average": 7.994,
+            "vote_count": 3313
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dt580H0MCP5Epuc0sI9TxmtjqnU.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 46592,
+            "original_language": "ru",
+            "original_title": "\u0411\u0430\u043b\u043b\u0430\u0434\u0430 \u043e \u0441\u043e\u043b\u0434\u0430\u0442\u0435",
+            "overview": "During World War II, earnest young Russian soldier Alyosha Skvortsov is rewarded with a short leave of absence for performing a heroic deed on the battlefield. Feeling homesick, he decides to visit his mother. Due to his kindhearted nature, however, Alyosha is repeatedly sidetracked by his efforts to help those he encounters, including a lovely girl named Shura. In his tour of a country devastated by war, he struggles to keep hope alive.",
+            "popularity": 3.5067,
+            "poster_path": "/9teeqzdIgPkWsykRapYkqhdefmm.jpg",
+            "release_date": "1959-12-01",
+            "title": "Ballad of a Soldier",
+            "video": false,
+            "vote_average": 7.943,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 284,
+            "original_language": "en",
+            "original_title": "The Apartment",
+            "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+            "popularity": 5.2419,
+            "poster_path": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+            "release_date": "1960-06-21",
+            "title": "The Apartment",
+            "video": false,
+            "vote_average": 8.196,
+            "vote_count": 2555
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+            "genre_ids": [
+                36,
+                18,
+                12
+            ],
+            "id": 665,
+            "original_language": "en",
+            "original_title": "Ben-Hur",
+            "overview": "In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+            "popularity": 7.6423,
+            "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "release_date": "1959-11-18",
+            "title": "Ben-Hur",
+            "video": false,
+            "vote_average": 7.885,
+            "vote_count": 3019
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3U5CUwhmJuPzWxlOfiIoJqy6dgi.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43103,
+            "original_language": "en",
+            "original_title": "Room at the Top",
+            "overview": "An ambitious young accountant schemes to wed a wealthy factory owner's daughter, despite falling in love with a married older woman.",
+            "popularity": 2.8251,
+            "poster_path": "/uuyruoqh7oBtjwN1mJyOF04CPjO.jpg",
+            "release_date": "1958-12-29",
+            "title": "Room at the Top",
+            "video": false,
+            "vote_average": 6.871,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRHfCeAoJ6SsMffQ6lavNU9E55z.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 826,
+            "original_language": "en",
+            "original_title": "The Bridge on the River Kwai",
+            "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+            "popularity": 4.0166,
+            "poster_path": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+            "release_date": "1957-10-11",
+            "title": "The Bridge on the River Kwai",
+            "video": false,
+            "vote_average": 7.819,
+            "vote_count": 2294
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8KN3dO60kxzcLHEbAUghlKZKF2k.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 52726,
+            "original_language": "fr",
+            "original_title": "Gervaise",
+            "overview": "An adaptation of \u00c9mile Zola\u2019s 1877 masterpiece L\u2019assommoir, the film is an uncompromising depiction of a lowly laundress\u2019s struggles to deal with an alcoholic husband while running her own business.",
+            "popularity": 2.9695,
+            "poster_path": "/njux1vvBuiwR4UJ6FCpYoar9buO.jpg",
+            "release_date": "1956-09-05",
+            "title": "Gervaise",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yVPt70dRNKG5ki3WCDuinK7sjRF.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 43323,
+            "original_language": "en",
+            "original_title": "Richard III",
+            "overview": "Having helped his brother King Edward IV take the throne of England, the jealous hunchback Richard, Duke of Gloucester, plots to seize power for himself. Masterfully deceiving and plotting against nearly everyone in the royal court, including his eventual wife, Lady Anne, and his brother George, Duke of Clarence, Richard orchestrates a bloody rise to power before finding all his gains jeopardized by those he betrayed.",
+            "popularity": 0.9499,
+            "poster_path": "/3zp2Kg5bvlFkKmWiQLmuWQAIEgG.jpg",
+            "release_date": "1955-12-13",
+            "title": "Richard III",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+            "genre_ids": [
+                18,
+                53,
+                12
+            ],
+            "id": 204,
+            "original_language": "fr",
+            "original_title": "Le Salaire de la peur",
+            "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+            "popularity": 2.2432,
+            "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+            "release_date": "1953-04-22",
+            "title": "The Wages of Fear",
+            "video": false,
+            "vote_average": 8.003,
+            "vote_count": 1043
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iNkgF4uBzcFTrY3NN6JrlCD5Ho.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 5000,
+            "original_language": "fr",
+            "original_title": "Jeux interdits",
+            "overview": "Orphaned after a Nazi air raid, Paulette, a young Parisian girl, runs into Michel, an older peasant boy, and the two quickly become close. Together, they try to make sense of the chaotic and crumbling world around them, attempting to cope with death as they create a burial ground for Paulette's deceased pet dog. Eventually, however, Paulette's stay with Michel's family is threatened by the harsh realities of wartime.",
+            "popularity": 1.3984,
+            "poster_path": "/nby91GNVXQAv1NmKvqlpEEdhcMQ.jpg",
+            "release_date": "1952-05-09",
+            "title": "Forbidden Games",
+            "video": false,
+            "vote_average": 7.782,
+            "vote_count": 341
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ycw1LTBimIrYIKegutP0SGULZG8.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 51619,
+            "original_language": "en",
+            "original_title": "The Sound Barrier",
+            "overview": "A young RAF pilot tests his father-in-law\u2019s prototype supersonic aircraft to the limit, at a time of intense development in the field of aviation, just as commercial jet airliners are about to enter service.",
+            "popularity": 0.71,
+            "poster_path": "/qYbBLFIYhB80UDblaI8MSGMNARR.jpg",
+            "release_date": "1952-07-22",
+            "title": "The Sound Barrier",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2zOnLOEn9AsK2bT0pkf1QeJWZon.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 50030,
+            "original_language": "fr",
+            "original_title": "La Ronde",
+            "overview": "An all-knowing interlocutor guides us through a series of affairs in Vienna, 1900. A soldier meets an eager young lady of the evening. Later he has an affair with a young lady, who becomes a maid and does similarly with the young man of the house. The young man seduces a married woman. On and on, spinning on the gay carousel of life.",
+            "popularity": 0.6123,
+            "poster_path": "/jMcF0XAD66n1abW1ZZhtrD0AsKN.jpg",
+            "release_date": "1950-09-27",
+            "title": "La Ronde",
+            "video": false,
+            "vote_average": 7.274,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zAL3LOswagN9onjN8DPcNFTqKuD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 705,
+            "original_language": "en",
+            "original_title": "All About Eve",
+            "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+            "popularity": 2.8749,
+            "poster_path": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+            "release_date": "1950-11-09",
+            "title": "All About Eve",
+            "video": false,
+            "vote_average": 8.077,
+            "vote_count": 1647
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 5156,
+            "original_language": "it",
+            "original_title": "Ladri di biciclette",
+            "overview": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle\u2014essential to his work\u2014gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
+            "popularity": 3.5937,
+            "poster_path": "/iPdVqIpmR3bRvOQJPrn4pr2KR3q.jpg",
+            "release_date": "1948-07-21",
+            "title": "Bicycle Thieves",
+            "video": false,
+            "vote_average": 8.173,
+            "vote_count": 2587
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 23383,
+            "original_language": "en",
+            "original_title": "Hamlet",
+            "overview": "Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier\u2019s Hamlet continues to be the most compelling version of Shakespeare\u2019s beloved tragedy. Olivier is at his most inspired\u2014both as director and as the melancholy Dane himself\u2014as he breathes new life into the words of one of the world\u2019s greatest dramatists.",
+            "popularity": 5.6899,
+            "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+            "release_date": "1948-12-10",
+            "title": "Hamlet",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n0og4mDtl08x9RLTWXt8zUKpqXQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 887,
+            "original_language": "en",
+            "original_title": "The Best Years of Our Lives",
+            "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+            "popularity": 2.2476,
+            "poster_path": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+            "release_date": "1946-12-25",
+            "title": "The Best Years of Our Lives",
+            "video": false,
+            "vote_average": 7.778,
+            "vote_count": 713
+        }
+    ]
+}

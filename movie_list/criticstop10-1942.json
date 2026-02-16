@@ -1,0 +1,978 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1942",
+    "source": "https://criticstop10.com/best-movies-of-1942/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/jqu2wqiFKrmhbF6fLqwi3zRUDz7.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 27367,
+            "original_language": "en",
+            "original_title": "Mrs. Miniver",
+            "overview": "Middle-class housewife Kay Miniver deals with petty problems. She and her husband Clem watch her Oxford-educated son Vin court Carol Beldon, the charming granddaughter of the local nobility as represented by Lady Beldon. Then the war comes and Vin joins the RAF.",
+            "popularity": 1.0361,
+            "poster_path": "/fjPjx6FTaoTussbqoLj6OYTtUyi.jpg",
+            "release_date": "1942-07-03",
+            "title": "Mrs. Miniver",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oQcCWP7VglRaxOm20BPEgHGJNw4.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 22387,
+            "original_language": "en",
+            "original_title": "Random Harvest",
+            "overview": "Wandered away from his asylum, an amnesiac World War I veteran falls in love with a music hall star but his amnesia makes it difficult to last.",
+            "popularity": 0.624,
+            "poster_path": "/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg",
+            "release_date": "1942-12-17",
+            "title": "Random Harvest",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dskxBjNFZsn6ThCZ7vAqd5UueEl.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 3087,
+            "original_language": "en",
+            "original_title": "Yankee Doodle Dandy",
+            "overview": "A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan.",
+            "popularity": 0.6637,
+            "poster_path": "/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
+            "release_date": "1942-05-29",
+            "title": "Yankee Doodle Dandy",
+            "video": false,
+            "vote_average": 7.06,
+            "vote_count": 215
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2l4BX8926AVZBZmogHBM12ZoACl.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                9648
+            ],
+            "id": 53779,
+            "original_language": "en",
+            "original_title": "Kings Row",
+            "overview": "Five young adults in a small American town face the revelations of secrets that threaten to ruin their hopes and dreams.",
+            "popularity": 0.6195,
+            "poster_path": "/mjOZms5qzSGibE5b6GVHg2Y5wwR.jpg",
+            "release_date": "1942-02-02",
+            "title": "Kings Row",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g9kAFh9Xp05fQsbv12MbeQGBpxS.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 43786,
+            "original_language": "en",
+            "original_title": "Wake Island",
+            "overview": "In late 1941, with no hope of relief or re-supply, a small band of United States Marines tries to keep the Japanese Navy from capturing their island base.",
+            "popularity": 0.622,
+            "poster_path": "/8ytAmQG8E03niY1lqSCHd0w1ghI.jpg",
+            "release_date": "1942-08-11",
+            "title": "Wake Island",
+            "video": false,
+            "vote_average": 5.68,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 19140,
+            "original_language": "en",
+            "original_title": "The Pride of the Yankees",
+            "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+            "popularity": 0.9888,
+            "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+            "release_date": "1942-07-14",
+            "title": "The Pride of the Yankees",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/85iG93saP8IVWvV3J9sfMcKOEOb.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 26319,
+            "original_language": "en",
+            "original_title": "The Man Who Came to Dinner",
+            "overview": "An acerbic critic wreaks havoc when a hip injury forces him to move in indefinitely with a Midwestern family.",
+            "popularity": 0.4589,
+            "poster_path": "/3k6KVD9RKADkfFzHLE4ho9yWumO.jpg",
+            "release_date": "1941-12-24",
+            "title": "The Man Who Came to Dinner",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g6fBL5fvgaIVpILBQJCePZOuse6.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 20640,
+            "original_language": "en",
+            "original_title": "Woman of the Year",
+            "overview": "Rival reporters Sam Craig and Tess Harding fall in love and get married, only to find their relationship strained when Sam comes to resent Tess' hectic lifestyle.",
+            "popularity": 0.5066,
+            "poster_path": "/A0Cf2GElBW2UfnQAFUqcqGYV7cY.jpg",
+            "release_date": "1942-02-05",
+            "title": "Woman of the Year",
+            "video": false,
+            "vote_average": 6.913,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1vSaNw265Kvw44cudV9qf59KgWj.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 84085,
+            "original_language": "en",
+            "original_title": "The Pied Piper",
+            "overview": "Englishman Mr. Howard is on a fishing holiday in eastern France when the Germans invade in 1940. Setting off to try and get back home he is persuaded to take along the two Cavanaugh children, and as his journey progresses his family keeps growing in size. Once in German-occupied northern France a new problem arises \u2014 the risk of being heard speaking English.",
+            "popularity": 0.1849,
+            "poster_path": "/sqotZHwwBq9LJrTzXJow6Uos6Up.jpg",
+            "release_date": "1942-08-21",
+            "title": "The Pied Piper",
+            "video": false,
+            "vote_average": 6.846,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eCa0lE8q6r9zf18jRkraDdOvWOr.jpg",
+            "genre_ids": [
+                12,
+                28,
+                10749
+            ],
+            "id": 63617,
+            "original_language": "en",
+            "original_title": "Reap the Wild Wind",
+            "overview": "The Florida Keys in 1840, where the implacable hurricanes of the Caribbean scream, where the salvagers of Key West, like the intrepid and beautiful Loxi Claiborne and her crew, reap, aboard frail schooners, the harvest of the wild wind, facing the shark teeth of the reefs to rescue the sailors and the cargo from the shipwrecks caused by the scavengers of the sea.",
+            "popularity": 0.5952,
+            "poster_path": "/hwlxeQKtGjUjixGPkCUVRslJkcv.jpg",
+            "release_date": "1942-03-26",
+            "title": "Reap the Wild Wind",
+            "video": false,
+            "vote_average": 6.391,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xFaA583wc7nkRUtg6kyp9F1dmJH.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 27655,
+            "original_language": "en",
+            "original_title": "Tales of Manhattan",
+            "overview": "Ten screenwriters collaborated on this series of tales concerning the effect a tailcoat cursed by its tailor has on those who wear it. The video release features a W.C. Fields segment not included in the original theatrical release.",
+            "popularity": 0.3865,
+            "poster_path": "/oKH3Vfx9cPmhD74iAaKLdGdk32w.jpg",
+            "release_date": "1942-08-05",
+            "title": "Tales of Manhattan",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sWgQW74fS3wAfRLKq2PRvZTQMnN.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 33052,
+            "original_language": "en",
+            "original_title": "My Sister Eileen",
+            "overview": "Sisters Ruth and Eileen Sherwood move from Ohio to New York in the hopes of building their careers. Ruth wants to get a job as a writer, while Eileen hopes to succeed on the stage. The two end up living in a dismal basement apartment in Greenwich Village, where a parade of odd characters are constantly breezing in and out. The women also meet up with magazine editor Bob Baker, who takes a personal interest in helping both with their career plans.",
+            "popularity": 0.262,
+            "poster_path": "/x3e1zXt4hFh4sHqfmiYPIWQAU6D.jpg",
+            "release_date": "1942-09-24",
+            "title": "My Sister Eileen",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gr2mOtuGppXV9wwzWe6nwWbd5yY.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 79372,
+            "original_language": "en",
+            "original_title": "Tortilla Flat",
+            "overview": "Danny, a poor northern Californian Mexican-American, inherits two houses from his grandfather and is quickly taken advantage of by his vagabond friends.",
+            "popularity": 0.4986,
+            "poster_path": "/fZkx79hMCQ3Q4tlXYPWnDZODW8P.jpg",
+            "release_date": "1942-05-21",
+            "title": "Tortilla Flat",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xM4PBZ7hCeMZAQn1pC1Baxmzaq.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 13485,
+            "original_language": "en",
+            "original_title": "Holiday Inn",
+            "overview": "Lovely Linda Mason has crooner Jim Hardy head over heels, but suave stepper Ted Hanover wants her for his new dance partner after fickle Lila Dixon gives him the brush. Jim's supper club, Holiday Inn, is the setting for the chase by Hanover and his manager.",
+            "popularity": 0.7537,
+            "poster_path": "/7eZzwqLM1w1Mljg60rzB1zr27lu.jpg",
+            "release_date": "1942-01-01",
+            "title": "Holiday Inn",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2iGtBG5UG3FiTVuKxh6Zlx3FyVY.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 110628,
+            "original_language": "en",
+            "original_title": "This Above All",
+            "overview": "In 1940 England, aristocratic Prudence Cathaway alarms her snobbish parents by joining the WAF service branch. She soon meets and falls in love with the brooding Clive Briggs, despite his prejudice against the upper classes, and agrees to spend a week with him at a Dover hotel. When Clive's soldier friend, Monty, arrives to retrieve him, Prudence learns that Clive went AWOL after Dunkirk, and urges him to recall why England must fight the war.",
+            "popularity": 0.1645,
+            "poster_path": "/8AkgCCS7yZyoK58v6j5LnqGWyr.jpg",
+            "release_date": "1942-05-12",
+            "title": "This Above All",
+            "video": false,
+            "vote_average": 6.658,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/imfdOMgteopHr3xslvSMlBPnZ7k.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 23159,
+            "original_language": "en",
+            "original_title": "The Talk of the Town",
+            "overview": "Hilarity ensues when a falsely accused fugitive from justice hides at the house of his childhood friend, which she has recently rented to a high-principled law teacher.",
+            "popularity": 1.2041,
+            "poster_path": "/naMSxieb5cD1bGCu0rZ7zLJ6mtA.jpg",
+            "release_date": "1942-08-20",
+            "title": "The Talk of the Town",
+            "video": false,
+            "vote_average": 7.284,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/djm6jF7Oze6WJaW7JhbPs58fuFm.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 39871,
+            "original_language": "en",
+            "original_title": "The Major and the Minor",
+            "overview": "Returning to her hometown from New York, Susan Applegate learns that she hasn't enough for the train fare and disguises herself as a twelve-year-old to travel for half the price. She hides from the conductors in the compartment of Major Philip Kirby, a military school instructor, who takes the \"child\" under his wing.",
+            "popularity": 0.5265,
+            "poster_path": "/e6ZWWdyWkqiMq8g6KmXibtmSiVK.jpg",
+            "release_date": "1942-09-16",
+            "title": "The Major and the Minor",
+            "video": false,
+            "vote_average": 7.033,
+            "vote_count": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lAqTraujV7MQUnMZ78XD07Tv5lQ.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 32847,
+            "original_language": "en",
+            "original_title": "Now, Voyager",
+            "overview": "A woman suffers a nervous breakdown and an oppressive mother before being freed by the love of a man she meets on a cruise.",
+            "popularity": 0.924,
+            "poster_path": "/kWtJ1C98fQB1fUDSfqb1NGBPPK8.jpg",
+            "release_date": "1942-10-22",
+            "title": "Now, Voyager",
+            "video": false,
+            "vote_average": 7.366,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10751
+            ],
+            "id": 3170,
+            "original_language": "en",
+            "original_title": "Bambi",
+            "overview": "Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
+            "popularity": 5.3466,
+            "poster_path": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+            "release_date": "1942-08-14",
+            "title": "Bambi",
+            "video": false,
+            "vote_average": 7.01,
+            "vote_count": 5812
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pkD7zVlHpBoORTtupteZxiOxaG4.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 965,
+            "original_language": "en",
+            "original_title": "The Magnificent Ambersons",
+            "overview": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved.",
+            "popularity": 1.4221,
+            "poster_path": "/g5EosvM0delNPkgBDGYYZvJl46n.jpg",
+            "release_date": "1942-07-10",
+            "title": "The Magnificent Ambersons",
+            "video": false,
+            "vote_average": 7.313,
+            "vote_count": 446
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mlmD9MFSikjXgex6GTsdT1XVEPQ.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 43526,
+            "original_language": "en",
+            "original_title": "Journey for Margaret",
+            "overview": "An American newspaperman and his wife, end up in London after  several retreats in the opening days of WWII. After a shrapnel wound and loss of her baby she returns to America. War weary, he is forced to do a story about war orphans, where he meets Margaret.",
+            "popularity": 0.1147,
+            "poster_path": "/qyxboyhOo8d8LBgCDH3FEAv2QWF.jpg",
+            "release_date": "1942-12-17",
+            "title": "Journey for Margaret",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Py1UrKqnVLIOKneFNbyvKOXSmy.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 121010,
+            "original_language": "en",
+            "original_title": "Take a Letter, Darling",
+            "overview": "A struggling painter takes a job as a secretary to a female advertising executive. While working to obtain an account from a tobacco company, they end up falling in love.",
+            "popularity": 0.1463,
+            "poster_path": "/fmKtjkehEygNB1GqktSRwEfoxbT.jpg",
+            "release_date": "1942-05-06",
+            "title": "Take a Letter, Darling",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i1GGQHVI89u4k6Cmf3VCFbTMuKD.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 97584,
+            "original_language": "en",
+            "original_title": "Joe Smith, American",
+            "overview": "Joe Smith is an ordinary American family man who works in an aircraft factory. Shortly after being a promoted to a much higher position, Joe is kidnapped by enemy agents who are determined to get military secrets out of him by any means possible. Will Joe keep quiet or betray his country...",
+            "popularity": 0.0887,
+            "poster_path": "/5iub9H4iNdokfQERKqm6VeO3uYs.jpg",
+            "release_date": "1942-02-01",
+            "title": "Joe Smith, American",
+            "video": false,
+            "vote_average": 5.75,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/giyRIb02hjIn8KQRHZbHsb67VLH.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43525,
+            "original_language": "en",
+            "original_title": "In This Our Life",
+            "overview": "An unhappy, self-centered woman runs off with her sister's husband, wreaking havoc and ruining the lives of those around her.",
+            "popularity": 0.3402,
+            "poster_path": "/bnQulLMPOlBfUqAxKPA3FvqxTrD.jpg",
+            "release_date": "1942-05-08",
+            "title": "In This Our Life",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/83UCD8tSCKTXR1qVvVGQqgHxNNu.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 90978,
+            "original_language": "en",
+            "original_title": "The Male Animal",
+            "overview": "The trustees of Midwestern University have forced three teachers out of their jobs for being suspected communists. Trustee Ed Keller has also threatened mild mannered English Professor Tommy Turner, because he plans to read a controversial piece of prose in class. Tommy is upset that his wife Ellen also suggested he not read the passage. Meanwhile, Ellen's old boyfriend, the football player Joe Ferguson, comes to visit for the homecoming weekend. He takes Ellen out dancing after the football rally, causing Tommy to worry that he will lose her to Joe.",
+            "popularity": 0.2564,
+            "poster_path": "/wvyRRTqhWASzWgmQ9Pfvm0suFog.jpg",
+            "release_date": "1942-03-12",
+            "title": "The Male Animal",
+            "video": false,
+            "vote_average": 4.1,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qA7WdA6FWOVeS6xSZEcXwsNNyje.jpg",
+            "genre_ids": [
+                10402,
+                10749,
+                10752
+            ],
+            "id": 27017,
+            "original_language": "en",
+            "original_title": "For Me and My Gal",
+            "overview": "Two vaudeville performers fall in love, but find their relationship tested by the arrival of WWI.",
+            "popularity": 0.3968,
+            "poster_path": "/gJrm2rg2sCnO9oKxdcBVH9a6wkj.jpg",
+            "release_date": "1942-10-21",
+            "title": "For Me and My Gal",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ze8BvkZ9dEdrb05DSsNBCEymlW5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 56146,
+            "original_language": "en",
+            "original_title": "The Moon and Sixpence",
+            "overview": "Loosely inspired from Gauguin's life, the story of Charles Strickland, a middle-aged stockbrocker who abandons his middle-classed life, his family, his duties to start painting, what he has always wanted to do. He is from now on a awful human being, wholly devoted to his ideal: beauty.",
+            "popularity": 0.2818,
+            "poster_path": "/ymkV9KzBHDRshe4M6CiLi5L7pYN.jpg",
+            "release_date": "1942-10-27",
+            "title": "The Moon and Sixpence",
+            "video": false,
+            "vote_average": 6.344,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q3oxb8KBBc3XvIsQjtLwYIGEFmR.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                12,
+                10749
+            ],
+            "id": 31805,
+            "original_language": "en",
+            "original_title": "Road to Morocco",
+            "overview": "Two carefree castaways on a desert shore find an Arabian Nights city, where they compete for the luscious Princess Shalmar.",
+            "popularity": 0.6331,
+            "poster_path": "/nECM25OC4iJHV1AHPa4CHnzYgyk.jpg",
+            "release_date": "1942-11-10",
+            "title": "Road to Morocco",
+            "video": false,
+            "vote_average": 6.857,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7fJDpwbG7SboimFqkkAvRW6ChHs.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 35262,
+            "original_language": "en",
+            "original_title": "George Washington Slept Here",
+            "overview": "New Yorkers Bill and Connie Fuller have to move from their apartment. Without Bill's knowledge, Connie purchases a delapidated old farmhouse in Pennsylvania, where George Washington was supposed to have actually slept during the American Revolution.",
+            "popularity": 0.2676,
+            "poster_path": "/qJGPPLaarCSFziixOUwFB4MZwmG.jpg",
+            "release_date": "1942-10-30",
+            "title": "George Washington Slept Here",
+            "video": false,
+            "vote_average": 6.313,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1514964,
+            "original_language": "en",
+            "original_title": "The Gold Rush",
+            "overview": "1942 re-release version that has been edited with new narration and musical score.",
+            "popularity": 0.1591,
+            "poster_path": "/Av0qyQn2ZktxGIz5743Iowo6718.jpg",
+            "release_date": "1942-05-01",
+            "title": "The Gold Rush",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7E4b9mXU9psvGbqCbI0aGEGI1oO.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                12
+            ],
+            "id": 16305,
+            "original_language": "en",
+            "original_title": "Sullivan's Travels",
+            "overview": "Successful movie director John L. Sullivan, convinced he won't be able to film his ambitious masterpiece until he has suffered, dons a hobo disguise and sets off on a journey, aiming to \"know trouble\" first-hand. When all he finds is a train ride back to Hollywood and a beautiful blonde companion, he redoubles his efforts, managing to land himself in more trouble than he bargained for when he loses his memory and ends up a prisoner on a chain gang.",
+            "popularity": 0.8785,
+            "poster_path": "/z5cqIM0ysVjkCmaDfyTQnlozdIp.jpg",
+            "release_date": "1941-11-30",
+            "title": "Sullivan's Travels",
+            "video": false,
+            "vote_average": 7.427,
+            "vote_count": 480
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8y2okDXjjRJEiJzZ63tr9Ai3wHo.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "id": 42062,
+            "original_language": "en",
+            "original_title": "Moontide",
+            "overview": "After a drunken night out, a longshoreman thinks he may have killed a man.",
+            "popularity": 0.3005,
+            "poster_path": "/iEKolHUnfTBXCBDKxETHd1bAlhe.jpg",
+            "release_date": "1942-05-29",
+            "title": "Moontide",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2lRKisbklh2gkNvqItzM2AA7qEt.jpg",
+            "genre_ids": [
+                10752,
+                12,
+                28
+            ],
+            "id": 55236,
+            "original_language": "en",
+            "original_title": "Desperate Journey",
+            "overview": "During WWII, when an allied bomber is shot down over Germany, the five surviving crew are captured but cleverly escape detention after learning German secret information and knocking out a Nazi major.  With the angry major in hot pursuit, aided by military personnel, Gestapo agents and Hitler-loyal citizens, the five wend their way across perilous Germany, intent on reaching the UK with the secrets they have learned.",
+            "popularity": 0.3788,
+            "poster_path": "/oanNUFLVasmh3MOIoe7Rq1THnOj.jpg",
+            "release_date": "1942-09-26",
+            "title": "Desperate Journey",
+            "video": false,
+            "vote_average": 5.865,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oKCBLyK0LkEwQMEAHAxRtEisXnq.jpg",
+            "genre_ids": [
+                80,
+                53,
+                9648
+            ],
+            "id": 16703,
+            "original_language": "en",
+            "original_title": "This Gun for Hire",
+            "overview": "Sadistic killer-for-hire Philip Raven becomes enraged when his latest job is paid off in marked bills. Vowing to track down his double-crossing boss, nightclub executive Gates, Raven sits beside Gates' lovely new employee, Ellen, on a train out of town. Although Ellen is engaged to marry the police lieutenant who's hunting down Raven, she decides to try and set the misguided hit man straight as he hides from the cops and plots his revenge.",
+            "popularity": 0.5936,
+            "poster_path": "/wfbRnfY1PQTRlDxZ0XEAw5zSeKn.jpg",
+            "release_date": "1942-04-24",
+            "title": "This Gun for Hire",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1rSF7UoY6aU8i7yJOLovZv8AYwX.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 31997,
+            "original_language": "en",
+            "original_title": "Saboteur",
+            "overview": "Aircraft factory worker Barry Kane flees across the United States after he is wrongly accused of starting the fire that killed his best friend.",
+            "popularity": 0.7948,
+            "poster_path": "/iDKOOTymUZg0WAWPcbdP6nPZEFF.jpg",
+            "release_date": "1942-04-24",
+            "title": "Saboteur",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 512
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sXCbOjrGIq9dNZFSE1SOo2ZnHAX.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 109933,
+            "original_language": "en",
+            "original_title": "My Gal Sal",
+            "overview": "Biopic chronicling the early life of gay nineties-era songwriter Paul Dresser as he outgrows his job as carnival entertainer and moves up into New York society, writing one hit song after another. Despite his egotistical behavior, he manages to woo and win Sally Elliott, one of the more popular songstresses of the day",
+            "popularity": 0.1647,
+            "poster_path": "/5STz94X5VX8ia9h4e95QEUVkKsq.jpg",
+            "release_date": "1942-04-30",
+            "title": "My Gal Sal",
+            "video": false,
+            "vote_average": 5.846,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6s3xbUrYBPLyjfizUTRqFus4Dd.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 100528,
+            "original_language": "en",
+            "original_title": "The War Against Mrs. Hadley",
+            "overview": "Wealthy American society matron, Stella Hadley refuses to sacrifice her material comforts to aid the war effort until she realizes that her selfishness is cheating the boys overseas who are fighting for her freedom.",
+            "popularity": 0.1456,
+            "poster_path": "/1bwo2eZOJZ4R8EtlAmFIZICTODx.jpg",
+            "release_date": "1942-08-07",
+            "title": "The War Against Mrs. Hadley",
+            "video": false,
+            "vote_average": 5.167,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b8Cq27Wf2ullc6CMeqocJb2fjh.jpg",
+            "genre_ids": [
+                12,
+                18,
+                53
+            ],
+            "id": 43788,
+            "original_language": "en",
+            "original_title": "'Pimpernel' Smith",
+            "overview": "Eccentric Cambridge archaeologist Horatio Smith takes a group of British and American archaeology students to pre-war Nazi Germany to help in his excavations. His research is supported by the Nazis, since he professes to be looking for evidence of the Aryan origins of German civilisation. However, he has a secret agenda: to free inmates of the concentration camps.",
+            "popularity": 0.2298,
+            "poster_path": "/2MeWLt3pwvb1PMv8IT2HyFkbswI.jpg",
+            "release_date": "1941-07-28",
+            "title": "'Pimpernel' Smith",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uRSbbNxw5Fd73l0ZBYNIcd3g4y1.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 94577,
+            "original_language": "en",
+            "original_title": "The Gay Sisters",
+            "overview": "The eldest of three sisters protects their Fifth Avenue mansion from a developer she once married.",
+            "popularity": 0.2767,
+            "poster_path": "/cXG7iD6iQZSvBRgEUrkNZ3BLpsk.jpg",
+            "release_date": "1942-08-01",
+            "title": "The Gay Sisters",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hxJmyGWdptdL7slyPLykLse2zgz.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 43790,
+            "original_language": "en",
+            "original_title": "Babes on Broadway",
+            "overview": "Penny Morris and Tommy Williams are both starstruck young teens but nobody seems to give them any chance to perform. Instead, they decide to put up their own show to collect money for a summer camp for the kids.",
+            "popularity": 0.2794,
+            "poster_path": "/vN1D8TJm93jYtYZQp8p6Rd7HpDG.jpg",
+            "release_date": "1941-12-31",
+            "title": "Babes on Broadway",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/carKxsgspiOUJqQ8cUvoDWV3MJf.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 97648,
+            "original_language": "en",
+            "original_title": "My Favorite Blonde",
+            "overview": "Larry Haines, a mediocre vaudeville entertainer, boards a train for Los Angeles. Aboard, he meets an attractive, blonde British agent carrying a coded message hidden in a brooch\u2014and is being pursued by Nazi agents.",
+            "popularity": 0.2789,
+            "poster_path": "/pnEnkJO2N5nzfD0SxuqhSSRN3u8.jpg",
+            "release_date": "1942-04-02",
+            "title": "My Favorite Blonde",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eohiOX8hKgZAdhOsH9CInybi2PT.jpg",
+            "genre_ids": [
+                37,
+                18,
+                10749
+            ],
+            "id": 97815,
+            "original_language": "en",
+            "original_title": "The Great Man's Lady",
+            "overview": "In Hoyt City, a statue of founder Ethan Hoyt is dedicated, and 100 year old Hannah Sempler Hoyt (who lives in the last residence among skyscrapers) is at last persuaded to tell her story to a 'girl biographer'. Flashback: in 1848, teenage Hannah meets and flirts with pioneer Ethan; on a sudden impulse, they elope. We follow their struggle to found a city in the wilderness, hampered by the Gold Rush, star-crossed love, peril, and heartbreak. The star \"ages\" 80 years.",
+            "popularity": 0.1271,
+            "poster_path": "/glNBE9uGqsUOP8yw1jLMVkW1lh6.jpg",
+            "release_date": "1941-10-31",
+            "title": "The Great Man's Lady",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+            "genre_ids": [
+                35,
+                10752,
+                10749
+            ],
+            "id": 198,
+            "original_language": "en",
+            "original_title": "To Be or Not to Be",
+            "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+            "popularity": 0.9716,
+            "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+            "release_date": "1942-03-06",
+            "title": "To Be or Not to Be",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 778
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rnIGrcPFaDZdmqvzMTe6vPlWw3z.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 41495,
+            "original_language": "en",
+            "original_title": "Johnny Eager",
+            "overview": "A charming racketeer seduces the DA's stepdaughter for revenge, then falls in love.",
+            "popularity": 0.2544,
+            "poster_path": "/eT56vNkYEHo1rv4xhtI3aJLKuUp.jpg",
+            "release_date": "1941-12-09",
+            "title": "Johnny Eager",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jGCZC7iXH6XPFAZPupg7PpHbQ4k.jpg",
+            "genre_ids": [
+                10749,
+                10752,
+                18
+            ],
+            "id": 45801,
+            "original_language": "en",
+            "original_title": "Joan of Paris",
+            "overview": "An RAF squadron is brought down over occupied France. The flyers get to Paris in spite of the fact that the youngest, Baby, is injured. He must be hidden and his wounds cared for. The Gestapo has already issued orders for their arrest.",
+            "popularity": 0.1732,
+            "poster_path": "/lM0ri6gFkEvLQ4trLy2OKkJpdNB.jpg",
+            "release_date": "1942-01-20",
+            "title": "Joan of Paris",
+            "video": false,
+            "vote_average": 6.458,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9hroLgCOlJXxR4vIjqWnSqnuMgE.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10749
+            ],
+            "id": 58035,
+            "original_language": "en",
+            "original_title": "To the Shores of Tripoli",
+            "overview": "Chronicle of a spoiled rich boy who joins the Marines with an off-handed attitude and finally becomes a battle-wise soldier.",
+            "popularity": 0.3001,
+            "poster_path": "/g7bECfkaJCN9M6ttpHwI5MLmEC7.jpg",
+            "release_date": "1942-11-09",
+            "title": "To the Shores of Tripoli",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jqoM8WlI5inX2XKtX8yHcPOj4J8.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 65553,
+            "original_language": "en",
+            "original_title": "Somewhere I'll Find You",
+            "overview": "Journalist brothers feud over a woman they both fall for while covering World War II in the far east.",
+            "popularity": 0.1222,
+            "poster_path": "/zr8SvKcsTGDTbNmRUtEmb2mLqBk.jpg",
+            "release_date": "1942-08-27",
+            "title": "Somewhere I'll Find You",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x7fyJc3SdN2lCl7jgKnh6Ym9ZLj.jpg",
+            "genre_ids": [
+                28,
+                10752
+            ],
+            "id": 32921,
+            "original_language": "en",
+            "original_title": "Captains of the Clouds",
+            "overview": "Inspired by Churchill's Dunkirk speech, brash, undisciplined Canadian bush pilot Brian MacLean and three friends enlist in the RCAF.",
+            "popularity": 0.2454,
+            "poster_path": "/cCFsU3PbbQU530aB6SCzi0PDRna.jpg",
+            "release_date": "1942-02-12",
+            "title": "Captains of the Clouds",
+            "video": false,
+            "vote_average": 6.411,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14,
+                35
+            ],
+            "id": 97590,
+            "original_language": "en",
+            "original_title": "The Remarkable Andrew",
+            "overview": "When Andrew Long, hyper-efficient small town accountant, finds a $1240 discrepancy in the city budget, his superiors try to explain it away. When he insists on pursuing the matter, he's in danger of being blamed himself. In his trouble, the spirit of Andrew Jackson, whom he idolizes, visits him, and in turn, summons much high-powered talent from American history...which only Andrew can see.",
+            "popularity": 0.1531,
+            "poster_path": "/zahDvYLGdUjGur3SUY7crzHdqht.jpg",
+            "release_date": "1942-03-05",
+            "title": "The Remarkable Andrew",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sDwCcdC38mhzl9ryfpvkhroMWjR.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 43780,
+            "original_language": "en",
+            "original_title": "One of Our Aircraft Is Missing",
+            "overview": "On its way back from a raid on the city of Stuttgart, Germany, a British bomber is shot down over Nazi-held Holland. Parachuting into Dutch farmlands under cover of darkness, the six-member crew connects with members of the local resistance, who shelter the Brits from their Nazi inquisitors as they make their way towards freedom.",
+            "popularity": 1.3165,
+            "poster_path": "/fDL8iat0Yhii2dKRc4nQEEWVhvQ.jpg",
+            "release_date": "1942-04-24",
+            "title": "One of Our Aircraft Is Missing",
+            "video": false,
+            "vote_average": 6.563,
+            "vote_count": 40
+        }
+    ]
+}

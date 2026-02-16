@@ -1,0 +1,816 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1992",
+    "source": "https://criticstop10.com/best-movies-of-1992/",
+    "created_by": "lbnt",
+    "added": "07/29/25",
+    "modified": "07/29/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 33,
+            "original_language": "en",
+            "original_title": "Unforgiven",
+            "overview": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+            "popularity": 5.2686,
+            "poster_path": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+            "release_date": "1992-08-07",
+            "title": "Unforgiven",
+            "video": false,
+            "vote_average": 7.913,
+            "vote_count": 4633
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tKyxF6ZyxF65CcJKBKId1VavpGP.jpg",
+            "genre_ids": [
+                9648,
+                18,
+                53,
+                35,
+                80
+            ],
+            "id": 10403,
+            "original_language": "en",
+            "original_title": "The Player",
+            "overview": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
+            "popularity": 1.2801,
+            "poster_path": "/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+            "release_date": "1992-05-08",
+            "title": "The Player",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 872
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/novvibtQv0B4psRxuqvd8g2qS5M.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 8293,
+            "original_language": "en",
+            "original_title": "Howards End",
+            "overview": "A saga of class relations and changing times in an Edwardian England on the brink of modernity, the film centers on liberal Margaret Schlegel, who, along with her sister Helen, becomes involved with two couples: wealthy, conservative industrialist Henry Wilcox and his wife Ruth, and the downwardly mobile working-class Leonard Bast and his mistress Jackie.",
+            "popularity": 1.8396,
+            "poster_path": "/1009nhfj28VhhQnVadtjkOacduX.jpg",
+            "release_date": "1992-03-13",
+            "title": "Howards End",
+            "video": false,
+            "vote_average": 7.028,
+            "vote_count": 561
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1883,
+            "original_language": "en",
+            "original_title": "Malcolm X",
+            "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+            "popularity": 3.552,
+            "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+            "release_date": "1992-11-18",
+            "title": "Malcolm X",
+            "video": false,
+            "vote_average": 7.539,
+            "vote_count": 1753
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k4ZrvqTWADP1nzgXNSKDNk4xOEB.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 11386,
+            "original_language": "en",
+            "original_title": "The Crying Game",
+            "overview": "Irish Republican Army member Fergus forms an unexpected bond with Jody, a kidnapped British soldier in his custody, despite the warnings of fellow IRA members Jude and Maguire. Jody makes Fergus promise he'll visit his girlfriend, Dil, in London, and when Fergus flees to the city, he seeks her out. Hounded by his former IRA colleagues, he finds himself increasingly drawn to the enigmatic, and surprising, Dil.",
+            "popularity": 1.3309,
+            "poster_path": "/ea6HPVTlGa0MmtTrPud0UnP9wh.jpg",
+            "release_date": "1992-09-02",
+            "title": "The Crying Game",
+            "video": false,
+            "vote_average": 6.846,
+            "vote_count": 790
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14,
+                10749
+            ],
+            "id": 812,
+            "original_language": "en",
+            "original_title": "Aladdin",
+            "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+            "popularity": 7.7346,
+            "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+            "release_date": "1992-11-25",
+            "title": "Aladdin",
+            "video": false,
+            "vote_average": 7.653,
+            "vote_count": 11543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aH6d2U61HIM3Rt3PXElFYjZpBbE.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 28384,
+            "original_language": "en",
+            "original_title": "Husbands and Wives",
+            "overview": "When Jack and Sally announce that they're splitting up, this comes as a shock to their best friends Gabe and Judy. Maybe mostly because they also are drifting apart and are now being made aware of it. So while Jack and Sally try to go on and meet new people, the marriage of Gabe and Judy gets more and more strained, and they begin to find themselves being attracted to other people.",
+            "popularity": 0.6088,
+            "poster_path": "/mb6Hmns0PP2Me9TYpLE9M3GHt7v.jpg",
+            "release_date": "1992-09-18",
+            "title": "Husbands and Wives",
+            "video": false,
+            "vote_average": 7.013,
+            "vote_count": 473
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qukaw3P4MOFNdxjhNpClhT9unr8.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "id": 9504,
+            "original_language": "en",
+            "original_title": "Glengarry Glen Ross",
+            "overview": "Times are tough at Premiere Properties. Shelley \"the machine\" Levene and Dave Moss are veteran salesmen, but only Ricky Roma is on a hot streak. The new Glengarry sales leads could turn everything around, but the front office is holding them back until these \"losers\" prove themselves. Then someone decides to take matters into his own hands, stealing the Glengarry leads and leaving everyone wondering who did it.",
+            "popularity": 2.0907,
+            "poster_path": "/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+            "release_date": "1992-09-10",
+            "title": "Glengarry Glen Ross",
+            "video": false,
+            "vote_average": 7.339,
+            "vote_count": 1475
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6OqfTNZBprTqScvNpssXP1lUYqm.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 293,
+            "original_language": "en",
+            "original_title": "A River Runs Through It",
+            "overview": "The Maclean brothers, Paul and Norman, live a relatively idyllic life in rural Montana, spending much of their time fly fishing. The sons of a minister, the boys eventually part company when Norman moves east to attend college, leaving his rebellious brother to find trouble back home. When Norman finally returns, the siblings resume their fishing outings, and assess where they've been and where they're going.",
+            "popularity": 3.3884,
+            "poster_path": "/aVP45oS2cBL4WtZ1kB7r8uarruB.jpg",
+            "release_date": "1992-10-09",
+            "title": "A River Runs Through It",
+            "video": false,
+            "vote_average": 7.028,
+            "vote_count": 1120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oRZEfasPxG6vzI2jfSOjpUzS8Ig.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 500,
+            "original_language": "en",
+            "original_title": "Reservoir Dogs",
+            "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+            "popularity": 8.2844,
+            "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+            "release_date": "1992-09-02",
+            "title": "Reservoir Dogs",
+            "video": false,
+            "vote_average": 8.118,
+            "vote_count": 14736
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10404,
+            "original_language": "zh",
+            "original_title": "\u5927\u7ea2\u706f\u7b3c\u9ad8\u9ad8\u6302",
+            "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained.",
+            "popularity": 1.834,
+            "poster_path": "/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+            "release_date": "1991-12-18",
+            "title": "Raise the Red Lantern",
+            "video": false,
+            "vote_average": 7.93,
+            "vote_count": 745
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/H40nWdJngUc6gtytMAbElm9HOu.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 881,
+            "original_language": "en",
+            "original_title": "A Few Good Men",
+            "overview": "When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.",
+            "popularity": 5.1598,
+            "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+            "release_date": "1992-12-11",
+            "title": "A Few Good Men",
+            "video": false,
+            "vote_average": 7.545,
+            "vote_count": 3840
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+            "genre_ids": [
+                28,
+                36,
+                10749,
+                10752
+            ],
+            "id": 9361,
+            "original_language": "en",
+            "original_title": "The Last of the Mohicans",
+            "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+            "popularity": 6.4509,
+            "poster_path": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+            "release_date": "1992-08-26",
+            "title": "The Last of the Mohicans",
+            "video": false,
+            "vote_average": 7.386,
+            "vote_count": 3217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8tRkatkYeMMFMwowfHTtIFlqJXj.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 21128,
+            "original_language": "en",
+            "original_title": "One False Move",
+            "overview": "Following a series of drug deals and murders, three criminals -- Fantasia, Ray Malcolm and Pluto -- travel from Los Angeles to Houston, finally arriving in a small Arkansas town to go into hiding. Two detectives from the LAPD, who are already on the case, contact the town's sheriff, Dale Dixon, to alert him of the fugitives' presence in the area. Underestimating Dixon, the criminals have no idea what they are about to face.",
+            "popularity": 0.6205,
+            "poster_path": "/x5xCkGw4jutMcc8nmWLKNzbDKht.jpg",
+            "release_date": "1991-10-12",
+            "title": "One False Move",
+            "video": false,
+            "vote_average": 6.626,
+            "vote_count": 199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f9diUEYPfjgDnC4pzXoWFhunzzQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 41764,
+            "original_language": "sv",
+            "original_title": "Den goda viljan",
+            "overview": "In this film about Ingmar Bergman's parents, Henrik Bergman is studying for the priesthood and trying to make ends meet when he encounters the lovely, affluent Anna. Despite their social differences, Henrik and Anna fall in love, wed and move to the country. They lead a quiet life as Henrik works as a priest, but it isn't long before the simple people and plain surroundings make Anna long for a more lavish lifestyle, which causes marital stress.",
+            "popularity": 0.5294,
+            "poster_path": "/kkwKpqYac8zUNNMkRTfAQfbMQWl.jpg",
+            "release_date": "1992-05-24",
+            "title": "The Best Intentions",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lyTh10IP4bNVYp3G7cWBac76OYb.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 10608,
+            "original_language": "en",
+            "original_title": "Bob Roberts",
+            "overview": "Millionaire conservative Bob Roberts launches an insurgent campaign against incumbent senator Brickley Paiste, firing up crowds at his rallies by singing '60s-style acoustic folk songs with lyrics espousing far-right conservative social and economic views.",
+            "popularity": 0.656,
+            "poster_path": "/j4PokuSIrmbN5oCR54D8kiI0U6a.jpg",
+            "release_date": "1992-09-04",
+            "title": "Bob Roberts",
+            "video": false,
+            "vote_average": 6.536,
+            "vote_count": 166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1EVBIHiydd9p1PiiIqshWZrpQTo.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 14904,
+            "original_language": "en",
+            "original_title": "Proof",
+            "overview": "Martin, a young blind photographer, is divided between his friendship with restaurant worker Andy and the exclusive love that Celia\u2014who is terribly jealous of this new friendship\u2014has for him.",
+            "popularity": 0.4461,
+            "poster_path": "/sDWGe24TVQOHy0ZBQ8yek4P8fZn.jpg",
+            "release_date": "1991-08-15",
+            "title": "Proof",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjkAO8GDwipwEL3gyItLxrfiIsw.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 26561,
+            "original_language": "en",
+            "original_title": "Enchanted April",
+            "overview": "When married British women Rose Arbuthnot and Lottie Wilkins decide to take a break from their respective spouses, they stay at a castle in Italy for a quiet holiday. Joining the ladies is Caroline Dester, a young socialite, and Mrs. Fisher, an older aristocrat. Liberated from their daily routines, the four women ease into life in rural Italy, and each finds herself transformed by the experience.",
+            "popularity": 0.5664,
+            "poster_path": "/b4Jrg23Q3y7p8GS7aMnPdFiEcnP.jpg",
+            "release_date": "1991-11-27",
+            "title": "Enchanted April",
+            "video": false,
+            "vote_average": 6.75,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5HVwz8cImMEwcV2z1SMFyJHY51q.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 9609,
+            "original_language": "en",
+            "original_title": "Of Mice and Men",
+            "overview": "Two drifters, one a gentle but slow giant, try to make money working the fields during the Depression so they can fulfill their dreams.",
+            "popularity": 2.6206,
+            "poster_path": "/qAHLUMZyoW3iwj2b01B2nKcePTA.jpg",
+            "release_date": "1992-09-16",
+            "title": "Of Mice and Men",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 672
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/PFrzqXuT0yEGEmcbXDwPOUKCsS.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 41791,
+            "original_language": "en",
+            "original_title": "Mississippi Masala",
+            "overview": "Years after her Indian family was forced to flee their home in Uganda, twentysomething Mina finds herself helping to run a motel in the faraway land of Mississippi. It's there that a passionate romance with the charming Black carpet cleaner Demetrius challenges the prejudices of their conservative families and exposes the rifts between the region's Indian and African American communities.",
+            "popularity": 0.8706,
+            "poster_path": "/b2Gks4Stt98FRI5isaL6Wu1luhh.jpg",
+            "release_date": "1991-09-18",
+            "title": "Mississippi Masala",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kb2FuXGruaPA6ErjOpcifpCyPyY.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 11287,
+            "original_language": "en",
+            "original_title": "A League of Their Own",
+            "overview": "As America's stock of athletic young men is depleted during World War II, a professional all-female baseball league springs up in the Midwest, funded by publicity-hungry candy maker Walter Harvey. Competitive sisters Dottie Hinson and Kit Keller spar with each other, scout Ernie Capadino and grumpy has-been coach Jimmy Dugan on their way to fame.",
+            "popularity": 2.6849,
+            "poster_path": "/7xpFXAOjgzFPE3vyVerFGfrXhFK.jpg",
+            "release_date": "1992-07-01",
+            "title": "A League of Their Own",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1449
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 681138,
+            "original_language": "en",
+            "original_title": "Earth and the American Dream",
+            "overview": "A beautiful and disturbing film recounts America\u2019s story from the environment\u2019s point of view. From the arrival of Columbus to the simple wilderness living of the 16th and 17th centuries, through the agrarian lifestyle of the 18th century, the changes from the Industrial Revolution, to the 20th century when most of the planet\u2019s resources have been depleted \u2014 this film examines the North American landscape and all the wildlife destruction, deforestation, soil depletion and pollution that have been wrought to make the American Dream come true.",
+            "popularity": 0.4281,
+            "poster_path": "/5zcLVCa1FSTAmYB4C7JHhpotp0q.jpg",
+            "release_date": "1992-10-01",
+            "title": "Earth and the American Dream",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6I7aIw8zeHdUYVUct2G7Y6qCKd8.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 12143,
+            "original_language": "en",
+            "original_title": "Bad Lieutenant",
+            "overview": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
+            "popularity": 1.2509,
+            "poster_path": "/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+            "release_date": "1992-11-20",
+            "title": "Bad Lieutenant",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 903
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+            "genre_ids": [
+                10749,
+                27
+            ],
+            "id": 6114,
+            "original_language": "en",
+            "original_title": "Bram Stoker's Dracula",
+            "overview": "In 19th century England, Count Dracula travels to London and meets Mina Harker, a young woman who appears as the reincarnation of his lost love.",
+            "popularity": 5.3673,
+            "poster_path": "/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+            "release_date": "1992-11-13",
+            "title": "Bram Stoker's Dracula",
+            "video": false,
+            "vote_average": 7.448,
+            "vote_count": 5385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bkyugLf910U8TahWO9ChTunSMfU.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 11796,
+            "original_language": "fr",
+            "original_title": "Le Mari de la coiffeuse",
+            "overview": "The film begins with a flashback from the titular character, Antoine. We are introduced to his fixation with female hairdressers which began at a young age. The film uses flashbacks throughout and there are frequent parallels drawn with the past. We are unsure what Antoine has done with his life, however, we know he has fulfilled his childhood ambition, to marry a hairdresser.",
+            "popularity": 1.4927,
+            "poster_path": "/d0CCZOP1VILxL33O6OiVzUYVNPT.jpg",
+            "release_date": "1990-10-03",
+            "title": "The Hairdresser's Husband",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 216
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gYapxyWZXFYcCHtf5dVB2Ub9RTy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 2007,
+            "original_language": "en",
+            "original_title": "Lorenzo's Oil",
+            "overview": "Augusto and Michaela Odone are dealt a cruel blow by fate when their five-year-old son Lorenzo is diagnosed with a rare and incurable disease. But the Odones' persistence and faith leads to an unorthodox cure which saves their boy and re-writes medical history.",
+            "popularity": 1.9789,
+            "poster_path": "/suRf59zRu1h8Zq4Gxekn6UiLGaM.jpg",
+            "release_date": "1992-12-30",
+            "title": "Lorenzo's Oil",
+            "video": false,
+            "vote_average": 7.097,
+            "vote_count": 539
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A3qvUUd36LUF5sfPYOHEd3ahDp2.jpg",
+            "genre_ids": [
+                35,
+                878,
+                14
+            ],
+            "id": 892,
+            "original_language": "fr",
+            "original_title": "Delicatessen",
+            "overview": "In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes.",
+            "popularity": 2.047,
+            "poster_path": "/gNtOgQHxE5B8e08zuNRAdDpmK5Z.jpg",
+            "release_date": "1991-04-17",
+            "title": "Delicatessen",
+            "video": false,
+            "vote_average": 7.29,
+            "vote_count": 1529
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AiKGSLRxaEp7IMCsLCcAEf3L7Gt.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 41768,
+            "original_language": "en",
+            "original_title": "Passion Fish",
+            "overview": "After an accident leaves her a paraplegic, a former soap opera star struggles to recover both emotionally and mentally, until she meets her newest nurse, who has struggles of her own.",
+            "popularity": 0.4292,
+            "poster_path": "/g60GELLr2oGnlJX5Yidkl9ufFYv.jpg",
+            "release_date": "1992-12-11",
+            "title": "Passion Fish",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5WIQCtc5FqQ62ohB8rnSEG9Du7.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 61418,
+            "original_language": "en",
+            "original_title": "The Waterdance",
+            "overview": "Author Joel Garcia breaks his neck while hiking, and finds himself in a rehab center with Raymond, an exaggerating ladies man, and Bloss, a racist biker. Considerable tension builds as each character tries to deal with his new found handicap and the problems that go with it, especially Joel, whose lover Anna is having as difficult a time as he is.",
+            "popularity": 0.7902,
+            "poster_path": "/6fLc2xBZ3lK6AToG7iO1v1UAeqJ.jpg",
+            "release_date": "1992-05-13",
+            "title": "The Waterdance",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7I0CXY3hhwsix5esdwMNrhew62I.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 1482,
+            "original_language": "en",
+            "original_title": "Laws of Gravity",
+            "overview": "The lives of two incompetent young men from Brooklyn spin out of control after a friend returns from Florida with guns to sell.",
+            "popularity": 0.2801,
+            "poster_path": "/zFN3C7flx1xj3dxGEAsSK7Uz7bB.jpg",
+            "release_date": "1992-03-21",
+            "title": "Laws of Gravity",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qDDaOIwlahViQMFMOnPeBYcUp3X.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                36
+            ],
+            "id": 23908,
+            "original_language": "en",
+            "original_title": "A Midnight Clear",
+            "overview": "In 1944 France, an American Intelligence Squad locates a German Platoon wishing to surrender rather than die in Germany's final war offensive. The two groups of men, isolated from the war at present, put aside their differences and spend Christmas together before the surrender plan turns bad and both sides are forced to fight the other.",
+            "popularity": 0.7733,
+            "poster_path": "/cOLBAnK2PvHxwjdEHQl4n3pZI14.jpg",
+            "release_date": "1992-04-24",
+            "title": "A Midnight Clear",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dineJzDZLuEXNNy261vFcJgqhxr.jpg",
+            "genre_ids": [
+                80,
+                36,
+                18
+            ],
+            "id": 10410,
+            "original_language": "en",
+            "original_title": "Hoffa",
+            "overview": "A portrait of union leader James R. Hoffa, as seen through the eyes of his friend, Bobby Ciaro. The film follows Hoffa through his countless battles with the RTA and President Roosevelt.",
+            "popularity": 1.0765,
+            "poster_path": "/aMGhaSkhkFwz33hKEsBrJ3ptx3g.jpg",
+            "release_date": "1992-12-25",
+            "title": "Hoffa",
+            "video": false,
+            "vote_average": 6.274,
+            "vote_count": 325
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 9475,
+            "original_language": "en",
+            "original_title": "Scent of a Woman",
+            "overview": "Charlie Simms is a student at a private preparatory school who comes from a poor family. To earn the money for his flight home to Gresham, Oregon for Christmas, Charlie takes a job over Thanksgiving looking after retired U.S. Army officer Lieutenant Colonel Frank Slade, a cantankerous middle-aged man who lives with his niece and her family.",
+            "popularity": 4.9541,
+            "poster_path": "/4adI7IaveWb7EidYXfLb3MK3CgO.jpg",
+            "release_date": "1992-12-23",
+            "title": "Scent of a Woman",
+            "video": false,
+            "vote_average": 7.784,
+            "vote_count": 3628
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lAvf5zzyOgTZmpRBRJFa7IVVqCK.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 8872,
+            "original_language": "en",
+            "original_title": "Wayne's World",
+            "overview": "The adventures of two amiably aimless metal-head friends, Wayne and Garth. From Wayne's basement, the pair broadcast a talk-show called \"Wayne's World\" on local public access television. The show comes to the attention of a sleazy network executive who wants to produce a big-budget version of \"Wayne's World\"\u2014and he also wants Wayne's girlfriend, a rock singer named Cassandra. Wayne and Garth have to battle the executive not only to save their show, but also Cassandra.",
+            "popularity": 3.0254,
+            "poster_path": "/j2PXBHjYxg1PLBl0YQ8Tiblnqdn.jpg",
+            "release_date": "1992-02-14",
+            "title": "Wayne's World",
+            "video": false,
+            "vote_average": 6.702,
+            "vote_count": 2322
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8gWKkEWaUy1cSORno7Mva3Im3BE.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10402,
+                10749
+            ],
+            "id": 41804,
+            "original_language": "fr",
+            "original_title": "Tous les matins du monde",
+            "overview": "Following the death of his wife, a renowned musician ostracises himself from the outer world and dedicates his life to music. However, his life changes when a young man approaches him to learn music.",
+            "popularity": 0.6653,
+            "poster_path": "/mTXJgweEbR3LVMQPqNLtycxsbOJ.jpg",
+            "release_date": "1991-12-18",
+            "title": "All the Mornings of the World",
+            "video": false,
+            "vote_average": 7.106,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ab96F3BQ5V4wf7JPdaIzTJnudhu.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 21828,
+            "original_language": "en",
+            "original_title": "Flirting",
+            "overview": "Two freethinking teenagers - a boy and a girl - confront with authoritarian teachers in their boarding schools. The other students treat this differently.",
+            "popularity": 0.4895,
+            "poster_path": "/a4WVST3uUSzxwKR5wlsiREVj50d.jpg",
+            "release_date": "1991-03-20",
+            "title": "Flirting",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qeaXS1MTcCiSXm614msFqMpmYJQ.jpg",
+            "genre_ids": [
+                18,
+                35,
+                14
+            ],
+            "id": 56321,
+            "original_language": "fr",
+            "original_title": "Toto le h\u00e9ros",
+            "overview": "80-year-old Thomas recounts his childhood and middle age through a series of flashbacks and dream sequences. Thomas believes he\u2019s been taken away from a better life at birth; following a hospital fire, he vividly recalls being swapped with another new-born, and subsequently grows up in a poorer neighbouring household.",
+            "popularity": 0.624,
+            "poster_path": "/fxIzSyOMrOFxwCIWIW4bwtgMpds.jpg",
+            "release_date": "1991-05-17",
+            "title": "Toto the Hero",
+            "video": false,
+            "vote_average": 7.094,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a19BZX1HZoJYTxS0k0tUV0szc3H.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 36346,
+            "original_language": "ru",
+            "original_title": "Урга — территория любви",
+            "overview": "A farmer and his wife live in a rural part of Inner Mongolia with their three children. Chinese population control policies prevent them from having any more. The farmer sets out for the nearest town to obtain birth control. He comes upon a Russian truck driver who has ended up in a lake. The farmer takes the man back to his farm, and after initially being appalled, the Russian becomes enchanted with the peaceful life of the countryside and decides to stay. But his presence presages big changes for the peasants.",
+            "popularity": 0.4457,
+            "poster_path": "/jeUzgLOzvIMK07Xg1sTpmyqNhxv.jpg",
+            "release_date": "1991-09-25",
+            "title": "Close to Eden",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/krhj4Fhb0G3QCmyBtEADxgFFmRX.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11012,
+            "original_language": "en",
+            "original_title": "Damage",
+            "overview": "The life of a respected British politician at the height of his career crumbles when he becomes obsessed with his son's lover.",
+            "popularity": 4.0525,
+            "poster_path": "/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg",
+            "release_date": "1992-12-02",
+            "title": "Damage",
+            "video": false,
+            "vote_average": 6.614,
+            "vote_count": 627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e6Aou8rs5ILXovenfPK67g7xTa6.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 32881,
+            "original_language": "en",
+            "original_title": "The Hours and Times",
+            "overview": "A fictionalized account of what may have happened when John Lennon and Brian Epstein went on holiday together to Spain in 1963.",
+            "popularity": 0.1611,
+            "poster_path": "/26OR8tO2BC1BfbnoQQ0woRixLqz.jpg",
+            "release_date": "1991-09-07",
+            "title": "The Hours and Times",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7v4l2FnrpreaV19gY4xYiuPDPL2.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "id": 11139,
+            "original_language": "fr",
+            "original_title": "L\u00e9olo",
+            "overview": "The story of an imaginative boy who pretends he is the child of a sperm-laden Sicilian tomato upon which his mother accidentally fell.",
+            "popularity": 0.731,
+            "poster_path": "/1HDTXmngKg6NHKGVnKADpxGPye5.jpg",
+            "release_date": "1992-09-16",
+            "title": "L\u00e9olo",
+            "video": false,
+            "vote_average": 7.164,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uwtXXJc7T8hGC4T8U80OqsYKmAf.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 26755,
+            "original_language": "en",
+            "original_title": "Brother's Keeper",
+            "overview": "This documentary by Joe Berlinger and Bruce Sinofsky details the murder trial of Delbert Ward. Delbert was a member of a family of four elderly brothers, working as semi-literate farmers and living together in isolation from the rest of society until William's death.",
+            "popularity": 0.1576,
+            "poster_path": "/AjumCYR6VPXGDKlYekGkx5jMdfi.jpg",
+            "release_date": "1992-09-09",
+            "title": "Brother's Keeper",
+            "video": false,
+            "vote_average": 6.991,
+            "vote_count": 55
+        }
+    ]
+}

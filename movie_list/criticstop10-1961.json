@@ -1,0 +1,761 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1961",
+    "source": "https://criticstop10.com/best-movies-of-1961/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+            "genre_ids": [
+                10752,
+                12,
+                53,
+                28
+            ],
+            "id": 10911,
+            "original_language": "en",
+            "original_title": "The Guns of Navarone",
+            "overview": "A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+            "popularity": 3.0081,
+            "poster_path": "/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+            "release_date": "1961-04-27",
+            "title": "The Guns of Navarone",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 816
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 990,
+            "original_language": "en",
+            "original_title": "The Hustler",
+            "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+            "popularity": 1.7355,
+            "poster_path": "/snItsSViawjaadW9mlWUmGwR41R.jpg",
+            "release_date": "1961-09-25",
+            "title": "The Hustler",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 1010
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 164,
+            "original_language": "en",
+            "original_title": "Breakfast at Tiffany's",
+            "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+            "popularity": 4.3616,
+            "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+            "release_date": "1961-10-06",
+            "title": "Breakfast at Tiffany's",
+            "video": false,
+            "vote_average": 7.642,
+            "vote_count": 4291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lR6w55w1XYU9udAPWmCv6EA9Nib.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 84050,
+            "original_language": "en",
+            "original_title": "Fanny",
+            "overview": "Almost 19-year-old Marius feels himself in a rut in Marseille, his life planned for him by his cafe'-owning father, and he longs for the sea. The night before he is to leave on a 5-year voyage, Fanny, a girl he grew up with, reveals that she is in love with him, and he discovers that he is in love with her. He must choose between an exciting life at sea, and a boring life with the woman he loves. And Fanny must choose between keeping the man she loves, and letting him live the life he seems to want.",
+            "popularity": 0.3633,
+            "poster_path": "/8hEQpSE3D9rsMw37N30T9EZwLoa.jpg",
+            "release_date": "1961-06-28",
+            "title": "Fanny",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 1725,
+            "original_language": "en",
+            "original_title": "West Side Story",
+            "overview": "In the slums of the upper West Side of Manhattan, tensions are high as a gang of Polish-Americans compete against a gang of recently immigrated Puerto Ricans, but this doesn't stop two romantics from each gang falling in love.",
+            "popularity": 3.4471,
+            "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+            "release_date": "1961-12-13",
+            "title": "West Side Story",
+            "video": false,
+            "vote_average": 7.244,
+            "vote_count": 1946
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bDsXa3PV3biQ8ZK1tQyK4vlkvCc.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 821,
+            "original_language": "en",
+            "original_title": "Judgment at Nuremberg",
+            "overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner.",
+            "popularity": 2.4538,
+            "poster_path": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+            "release_date": "1961-12-18",
+            "title": "Judgment at Nuremberg",
+            "video": false,
+            "vote_average": 8.027,
+            "vote_count": 854
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wl7imDwEkYt1HnlsdEcUDXuxnRw.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                10749
+            ],
+            "id": 19186,
+            "original_language": "en",
+            "original_title": "The Parent Trap",
+            "overview": "Two identical twin sisters, separated at birth by their parents' divorce, are reunited years later at a summer camp, where they scheme to bring their parents back together. The girls, one of whom has been living with their mother and the other with their father, switch places after camp and go to work on their plan, the first objective being to scare off a gold-digger pursuing their father.",
+            "popularity": 2.7417,
+            "poster_path": "/jaZFWy6ZAvQoMW2mo9xP5gx4URo.jpg",
+            "release_date": "1961-05-13",
+            "title": "The Parent Trap",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 395
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Knw79HXoPpHIqa9TscDlwbuRJV.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 1941,
+            "original_language": "en",
+            "original_title": "Exodus",
+            "overview": "Ari Ben Canaan, a passionate member of the Jewish paramilitary group Haganah, attempts to transport 600 Jewish refugees on a dangerous voyage from Cyprus to Palestine on a ship named the Exodus. He faces obstruction from British forces, who will not grant the ship passage to its destination.",
+            "popularity": 2.1266,
+            "poster_path": "/1JXFJRztd43gCf4TAodNUwkfZoi.jpg",
+            "release_date": "1960-12-15",
+            "title": "Exodus",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 209
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3VIlHshnxV6Vwxz6Ega6llvGZiF.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 28569,
+            "original_language": "en",
+            "original_title": "Splendor in the Grass",
+            "overview": "A fragile Kansas girl's unrequited and forbidden love for a handsome young man from the town's most powerful family drives her to heartbreak and madness.",
+            "popularity": 1.5491,
+            "poster_path": "/n6Kw8Ui93SMhrk1MupCFwUg04vq.jpg",
+            "release_date": "1961-10-10",
+            "title": "Splendor in the Grass",
+            "video": false,
+            "vote_average": 7.471,
+            "vote_count": 276
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dAZHTUshMem8EvyumRDQcNH6nUU.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 153652,
+            "original_language": "en",
+            "original_title": "The Mark",
+            "overview": "A man who served prison time for intent to molest a child tries to build a new life with the help of a sympathetic psychiatrist.",
+            "popularity": 0.278,
+            "poster_path": "/qMnIbQWrU38YNqwlNw7eZVJzHpq.jpg",
+            "release_date": "1961-01-26",
+            "title": "The Mark",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8H4aMPXzGEGdtErrHqGoeohIU0D.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 45608,
+            "original_language": "en",
+            "original_title": "The World of Suzie Wong",
+            "overview": "A Hong Kong prostitute tries modeling and falls for the artist who's painting her.",
+            "popularity": 0.8633,
+            "poster_path": "/5EzuPR3FEBKp2ytdFVJfvOLmFrs.jpg",
+            "release_date": "1960-11-10",
+            "title": "The World of Suzie Wong",
+            "video": false,
+            "vote_average": 6.417,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ljFZlaGaB9fixUXhJYzIBPRrUTH.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 29478,
+            "original_language": "en",
+            "original_title": "A Raisin in the Sun",
+            "overview": "Walter Lee Younger is a young man struggling with his station in life. Sharing a tiny apartment with his wife, son, sister and mother, he seems like an imprisoned man. Until, that is, the family gets an unexpected financial windfall.",
+            "popularity": 0.4254,
+            "poster_path": "/fxGAJFfryAgdi4ONkVyrBWKDBbI.jpg",
+            "release_date": "1961-05-28",
+            "title": "A Raisin in the Sun",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/leDO2O7HywKWZhk15feAQ3Gc37p.jpg",
+            "genre_ids": [
+                10752,
+                12,
+                36,
+                37
+            ],
+            "id": 11209,
+            "original_language": "en",
+            "original_title": "The Alamo",
+            "overview": "The legendary true story of a small band of soldiers who sacrificed their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+            "popularity": 2.7127,
+            "poster_path": "/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg",
+            "release_date": "1960-10-23",
+            "title": "The Alamo",
+            "video": false,
+            "vote_average": 7.077,
+            "vote_count": 371
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjkxPcfjw1YUt1SHrizfxLTqibE.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 94917,
+            "original_language": "en",
+            "original_title": "Summer and Smoke",
+            "overview": "In a small Mississippi town in 1916, an eccentric spinster battles her romantic yearnings for the randy boy next door.",
+            "popularity": 0.2222,
+            "poster_path": "/eFpVZFokirARldwjvvoEwGQhUXW.jpg",
+            "release_date": "1961-11-16",
+            "title": "Summer and Smoke",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f48vRLX90jlgwg9Ff2fq3ckfFsY.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 36362,
+            "original_language": "en",
+            "original_title": "King of Kings",
+            "overview": "Who is Jesus, and why does he impact all he meets? He is respected and reviled, emulated and accused, beloved, betrayed, and finally crucified. Yet that terrible fate would not be the end of the story.",
+            "popularity": 2.2006,
+            "poster_path": "/fp1Nx4FASTGldFuQyGXN0HF6Jgk.jpg",
+            "release_date": "1961-10-11",
+            "title": "King of Kings",
+            "video": false,
+            "vote_average": 7.136,
+            "vote_count": 217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3x8JFMv2SNgnlFKs9HalQOoEaDn.jpg",
+            "genre_ids": [
+                10402,
+                10749,
+                35
+            ],
+            "id": 25105,
+            "original_language": "en",
+            "original_title": "Flower Drum Song",
+            "overview": "A young woman arrives in San Francisco's Chinatown, from Hong Kong, with the intention of marrying a rakish nightclub owner, unaware he is involved with one of his singers.",
+            "popularity": 0.381,
+            "poster_path": "/d87EHTG1F1uNOWzu8i0yYssWRX5.jpg",
+            "release_date": "1961-11-09",
+            "title": "Flower Drum Song",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fqcf7OgkgnYu71ZegbsE3bjKkyI.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 40894,
+            "original_language": "en",
+            "original_title": "Lover Come Back",
+            "overview": "Jerry Webster and Carol Templeton are rival Madison Avenue advertising executives who each dislike each other\u2019s methods. After he steals a client out from under her cute little nose, revenge prompts her to infiltrate his secret \"VIP\" campaign in order to persuade the mystery product\u2019s scientist to switch to her firm.",
+            "popularity": 0.8692,
+            "poster_path": "/uY5MvhzoH25LMTgEjRR2XtGLdMi.jpg",
+            "release_date": "1961-12-20",
+            "title": "Lover Come Back",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kYaqmkeCSqNSat8nKgdLSz0A20l.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 248,
+            "original_language": "en",
+            "original_title": "Pocketful of Miracles",
+            "overview": "A New York gangster and his girlfriend attempt to turn street beggar Apple Annie into a society lady when the peddler learns her daughter is marrying royalty.",
+            "popularity": 0.8323,
+            "poster_path": "/xjXwcGJjT5tE22wazQUYH32HwU8.jpg",
+            "release_date": "1961-12-18",
+            "title": "Pocketful of Miracles",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tastycTYBJkloAVcZgjdeYnc1Fo.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 37230,
+            "original_language": "en",
+            "original_title": "Saturday Night and Sunday Morning",
+            "overview": "A 22-year-old factory worker lets loose on the weekends: drinking, brawling, and dating two women, one of whom is older and married.",
+            "popularity": 0.7936,
+            "poster_path": "/fHHKxB71EzVzny3ZakxZRGe5Evw.jpg",
+            "release_date": "1960-10-27",
+            "title": "Saturday Night and Sunday Morning",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lVceRZ2dc1XJQQBfLuwzhUWPhz1.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                878
+            ],
+            "id": 17984,
+            "original_language": "en",
+            "original_title": "The Absent-Minded Professor",
+            "overview": "Bumbling professor Ned Brainard accidentally invents flying rubber, or \"Flubber\", an incredible material that gains energy every time it strikes a hard surface. It allows for the invention of shoes that can allow jumps of amazing heights and enables a modified Model-T to fly. Unfortunately, no one is interested in the material except for Alonzo Hawk, a corrupt businessman who wants to steal the material for himself.",
+            "popularity": 0.7776,
+            "poster_path": "/gCnuDDqoyaBdeeItQ4BjKtYpzF6.jpg",
+            "release_date": "1961-01-20",
+            "title": "The Absent-Minded Professor",
+            "video": false,
+            "vote_average": 6.451,
+            "vote_count": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c34lzH24bX4SJJIZCRbIbYShM1K.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 18647,
+            "original_language": "en",
+            "original_title": "One-Eyed Jacks",
+            "overview": "Running from the law after a bank robbery in Mexico, Dad Longworth finds an opportunity to take the stolen gold and leave his partner Rio to be captured. Years later, Rio escapes from the prison where he has been since, and hunts down Dad for revenge. Dad is now a respectable sheriff in California, and has been living in fear of Rio's return.",
+            "popularity": 2.8498,
+            "poster_path": "/xal47bRKVIxErB7h2CScY3GBnoT.jpg",
+            "release_date": "1961-03-30",
+            "title": "One-Eyed Jacks",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eWYGiJ14CBkypnlhEXLoLgjTR6B.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 36731,
+            "original_language": "en",
+            "original_title": "The Roman Spring of Mrs. Stone",
+            "overview": "Critics and the public say Karen Stone is too old -- as she approaches 50 -- for her role in a play she is about to take to Broadway. Her businessman husband, 20 years her senior, has been the angel for the play and gives her a way out: They are off to a holiday in Rome for his health. He suffers a fatal heart attack on the plane. Mrs. Stone stays in Rome. She leases a magnificent apartment with a view of the seven hills from the terrace. Then the contessa comes calling to introduce a young man named Paolo to her. The contessa knows many presentable young men and lonely American widows.",
+            "popularity": 0.6901,
+            "poster_path": "/frw7Z2CMR8S0VaciAo335YKNtUA.jpg",
+            "release_date": "1961-12-28",
+            "title": "The Roman Spring of Mrs. Stone",
+            "video": false,
+            "vote_average": 6.894,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zlSnlktvzpzEE0w7pjPKccnMLj.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 22386,
+            "original_language": "en",
+            "original_title": "Come September",
+            "overview": "Robert Talbot, an American millionaire, arrives early for his annual vacation at his luxurious Italian villa. His long-time girlfriend Lisa has given up waiting for him and has decided to marry another man. Meanwhile, his sneaky business associate Maurice secretly misappropriates the villa as a hotel while Talbot is away. The current guests of the \"hotel\" are a group of young American girls.",
+            "popularity": 0.633,
+            "poster_path": "/zCG13x6TxmsXJCsW0BAhBOTxxOI.jpg",
+            "release_date": "1961-08-09",
+            "title": "Come September",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vNijAksUUekLP0sMuuGctkSFK2L.jpg",
+            "genre_ids": [
+                12,
+                10751
+            ],
+            "id": 18444,
+            "original_language": "en",
+            "original_title": "Swiss Family Robinson",
+            "overview": "After being shipwrecked, the Robinson family is marooned on an island inhabited only by an impressive array of wildlife. In true pioneer spirit, they quickly make themselves at home but soon face a danger even greater than nature: dastardly pirates.",
+            "popularity": 1.3861,
+            "poster_path": "/3ZItm1RcdwNuPnCaaqEFGrbVlcO.jpg",
+            "release_date": "1960-12-21",
+            "title": "Swiss Family Robinson",
+            "video": false,
+            "vote_average": 6.869,
+            "vote_count": 329
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hyy0mqJtpj1Z9AQ39k1avhNlCam.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 52841,
+            "original_language": "en",
+            "original_title": "Bachelor in Paradise",
+            "overview": "A bachelor author of sleazy books moves to a family-oriented subdivision where he becomes an unofficial relationship advisor to unhappy local housewives, to the dismay of their respective husbands who suspect him of sexual misconduct.",
+            "popularity": 0.286,
+            "poster_path": "/9NzqZKKtEK4PiGUIiLAnNg3n0fo.jpg",
+            "release_date": "1961-11-01",
+            "title": "Bachelor in Paradise",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cZgUATpU4NDlsfGj7sRriKJEiLB.jpg",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751
+            ],
+            "id": 12230,
+            "original_language": "en",
+            "original_title": "One Hundred and One Dalmatians",
+            "overview": "When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+            "popularity": 5.5621,
+            "poster_path": "/v62BSVTUmFoVLW3v0ffXo7kzhL9.jpg",
+            "release_date": "1961-01-25",
+            "title": "One Hundred and One Dalmatians",
+            "video": false,
+            "vote_average": 7.175,
+            "vote_count": 6428
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oYmQAaH4NM6xuAH3jMEE2t5gmWR.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 43049,
+            "original_language": "en",
+            "original_title": "Where the Boys Are",
+            "overview": "Good girls Merritt, Melanie, Tuggle and Angie - all students at mid-western Penmore University - are planning on going to Fort Lauderdale, Florida for spring break to get away from the mid-western snow despite not having much money to spend once there. On the drive down, they admit their real purpose is to go where the boys are.",
+            "popularity": 0.7811,
+            "poster_path": "/if6vjNZZX2JEclfd4rcus9kOHwT.jpg",
+            "release_date": "1960-12-28",
+            "title": "Where the Boys Are",
+            "video": false,
+            "vote_average": 6.03,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fUhx4x5QZwNVdvpdbPNEdMF1oY0.jpg",
+            "genre_ids": [
+                12,
+                18,
+                53
+            ],
+            "id": 31916,
+            "original_language": "en",
+            "original_title": "The Devil at 4 O'Clock",
+            "overview": "A crusty, eccentric priest recruits three reluctant convicts to help him rescue a children's leper colony from a Pacific island menaced by a smoldering volcano.",
+            "popularity": 0.3109,
+            "poster_path": "/logIGBhfPnevLP8qlfTP0mnKq3Z.jpg",
+            "release_date": "1961-10-18",
+            "title": "The Devil at 4 O'Clock",
+            "video": false,
+            "vote_average": 6.28,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kBDQja5cwHYVba8MfJOAtdwNo7e.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 82792,
+            "original_language": "en",
+            "original_title": "Pepe",
+            "overview": "Mario \"Cantinflas\" Moreno is a hired hand, Pepe, employed on a ranch. A boozing Hollywood director buys a white stallion that belongs to Pepe's boss. Pepe, determined to get the horse back (as he considers it his family), decides to take off to Hollywood. There he meets film stars including Jimmy Durante, Frank Sinatra, Zsa Zsa Gabór, Bing Crosby, Maurice Chevalier and Jack Lemmon in drag as Daphne from Some Like It Hot. He is also surprised by things that were new in America at the time, such as automatic swinging doors. When he finally reaches the man who bought the horse, he is led to believe there is no hope of getting it back. However, the last scene shows both him and the stallion back at the ranch with several foals.",
+            "popularity": 0.6015,
+            "poster_path": "/th8c4sGS5ZAOW7zhyGWyhykuL0M.jpg",
+            "release_date": "1960-12-21",
+            "title": "Pepe",
+            "video": false,
+            "vote_average": 6.24,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mMkD8IGHdyExU2pMB4X3hsjx5Nd.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 110493,
+            "original_language": "en",
+            "original_title": "The Pleasure of His Company",
+            "overview": "Biddeford \"Pogo\" Poole, an urbane charmer, has been absent for most of the life of his daughter, Jessica, but he pops up again as she prepares to marry a California rancher. Though Pogo's ex-wife remains unimpressed, Jessica quickly falls for her father's charismatic offensive. Soon, however, his reappearance causes complications for the bride-to-be, and she must decide whether or not to go ahead with the wedding.",
+            "popularity": 0.1036,
+            "poster_path": "/90GiYW7FGSnbpi60N5pZbY2bH34.jpg",
+            "release_date": "1961-06-01",
+            "title": "The Pleasure of His Company",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lepTHhiKVcnwLOLJ1NGTl143jz2.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 46623,
+            "original_language": "en",
+            "original_title": "Cimarron",
+            "overview": "The epic story of a family involved in the Oklahoma Land Rush of April 22, 1889.",
+            "popularity": 0.8543,
+            "poster_path": "/9xPw8iIAWymvNBG0D7kSt45M9c2.jpg",
+            "release_date": "1960-12-01",
+            "title": "Cimarron",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t3D4fBDYxtV32P6VqQMbzJB0pD4.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 98010,
+            "original_language": "en",
+            "original_title": "Francis of Assisi",
+            "overview": "In 13th century Italy, Francis Bernardone, the son of an Assisi merchant, renounces a promising army career in favor of a monastic life and starts his own religious order, sanctioned by the Pope.",
+            "popularity": 0.2824,
+            "poster_path": "/gYkyJuB8T8ygZGP2Jy6rPewDcRF.jpg",
+            "release_date": "1961-07-12",
+            "title": "Francis of Assisi",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Af2K5kjutkGztrCQRnijvRZNxTi.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 111024,
+            "original_language": "en",
+            "original_title": "Romanoff and Juliet",
+            "overview": "Political satire has Shakespeare's Romeo &amp; Juliet story updated for the cold war era, with the children of the US and Russian ambassadors falling in love.",
+            "popularity": 0.1127,
+            "poster_path": "/yFWOlDdzsowJcxDxEZE2ZgncdcP.jpg",
+            "release_date": "1961-06-08",
+            "title": "Romanoff and Juliet",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rDTpZ2vd6XVq6Ty3Sn7IVZfkM4k.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 28284,
+            "original_language": "en",
+            "original_title": "Parrish",
+            "overview": "Parrish McLean lives with his mother Ellen on Sala Post's tobacco plantation in the Connecticut River Valley. His mother winds up marrying Sala's rival Judd Raike, ruthless planter who wants to drive Sala out of business. Judd insists that Parrish learn the business from the ground up.",
+            "popularity": 0.4271,
+            "poster_path": "/Ap2J9y6tdgU0ErqH8ncbVQ2vj0P.jpg",
+            "release_date": "1961-05-04",
+            "title": "Parrish",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vMcjWMPfqApH2kK3jKcnZsD07za.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 63887,
+            "original_language": "en",
+            "original_title": "The Great Impostor",
+            "overview": "Fictionalized account of Ferdinand Waldo Demara Jr., who stole or created fictional identities and worked in a variety of occupations, most quite successfully.",
+            "popularity": 0.4818,
+            "poster_path": "/geTOtU4S4nM5By8aA49nLpppwya.jpg",
+            "release_date": "1960-12-23",
+            "title": "The Great Impostor",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/VKRZIiRgpV0VobAPrpag0dWGnD.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 25767,
+            "original_language": "en",
+            "original_title": "The Grass Is Greener",
+            "overview": "Victor and Hillary are down on their luck to the point that they allow tourists to take guided tours of their castle. But Charles Delacro, a millionaire oil tycoon, visits, and takes a liking to more than the house. Soon, Hattie Durant gets involved and they have a good old fashioned love triangle.",
+            "popularity": 0.6581,
+            "poster_path": "/3peOV81MRImLDX8bnGUHOJSB0lN.jpg",
+            "release_date": "1960-12-23",
+            "title": "The Grass Is Greener",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uaEfEkb2tjl4hN1oaSyzcxt4cEg.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 439,
+            "original_language": "it",
+            "original_title": "La dolce vita",
+            "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+            "popularity": 3.5128,
+            "poster_path": "/2KU52apQyvyZuPsqEGMcWb4BKu2.jpg",
+            "release_date": "1960-02-05",
+            "title": "La Dolce Vita",
+            "video": false,
+            "vote_average": 8.069,
+            "vote_count": 1942
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tlQ2OBQAC7woOTZgk1vE9U69vQT.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 11773,
+            "original_language": "en",
+            "original_title": "Village of the Damned",
+            "overview": "In a small English village everyone suddenly falls unconscious. When they awake every woman of child bearing age is pregnant. The resulting children have the same strange blond hair, eyes and a strong connection to each other.",
+            "popularity": 1.1304,
+            "poster_path": "/qcpXud1UjQzlSe9A062w8Wqgira.jpg",
+            "release_date": "1960-06-16",
+            "title": "Village of the Damned",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 459
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cPFZ9BswZdBO9wCjceWC61OTAVc.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 111017,
+            "original_language": "en",
+            "original_title": "Return to Peyton Place",
+            "overview": "Residents of the small town of Peyton Place aren't pleased when they realize they're the characters in local writer Allison MacKenzie's controversial first novel. A sequel to the hit 1957 film.",
+            "popularity": 0.3139,
+            "poster_path": "/p4TVDg0Q4TkuDi0q8k4x89kTyTA.jpg",
+            "release_date": "1961-05-05",
+            "title": "Return to Peyton Place",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 39
+        }
+    ]
+}

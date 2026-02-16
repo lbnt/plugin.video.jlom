@@ -1,0 +1,747 @@
+{
+    "type": "movie_list",
+    "title": "Filmsite - 300 Greatest Films - 1960s",
+    "source": "https://www.filmsite.org/300films.html",
+    "created_by": "lbnt",
+    "added": "04/28/24",
+    "modified": "04/28/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 284,
+            "original_language": "en",
+            "original_title": "The Apartment",
+            "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+            "popularity": 41.663,
+            "poster_path": "/68TOfadzkikVABaxz0KJtT29UA4.jpg",
+            "release_date": "1960-06-21",
+            "title": "The Apartment",
+            "video": false,
+            "vote_average": 8.209,
+            "vote_count": 2158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1908,
+            "original_language": "en",
+            "original_title": "Inherit the Wind",
+            "overview": "Schoolteacher Bertram Cates is arrested for teaching his students Darwin's theory of evolution. The case receives national attention and one of the newspaper reporters, E.K. Hornbeck, arranges to bring in renowned defense attorney and atheist Henry Drummond to defend Cates. The prosecutor, Matthew Brady is a former presidential candidate, famous evangelist, and old adversary of Drummond.",
+            "popularity": 21.062,
+            "poster_path": "/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+            "release_date": "1960-07-07",
+            "title": "Inherit the Wind",
+            "video": false,
+            "vote_average": 7.703,
+            "vote_count": 386
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 539,
+            "original_language": "en",
+            "original_title": "Psycho",
+            "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+            "popularity": 142.721,
+            "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+            "release_date": "1960-06-22",
+            "title": "Psycho",
+            "video": false,
+            "vote_average": 8.435,
+            "vote_count": 9699
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+            "genre_ids": [
+                36,
+                10752,
+                18,
+                12
+            ],
+            "id": 967,
+            "original_language": "en",
+            "original_title": "Spartacus",
+            "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+            "popularity": 56.795,
+            "poster_path": "/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+            "release_date": "1960-10-13",
+            "title": "Spartacus",
+            "video": false,
+            "vote_average": 7.55,
+            "vote_count": 2046
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 990,
+            "original_language": "en",
+            "original_title": "The Hustler",
+            "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+            "popularity": 29.296,
+            "poster_path": "/snItsSViawjaadW9mlWUmGwR41R.jpg",
+            "release_date": "1961-09-25",
+            "title": "The Hustler",
+            "video": false,
+            "vote_average": 7.685,
+            "vote_count": 913
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zyJ9IIfr8xydxvYtf9XOOcabci.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 28569,
+            "original_language": "en",
+            "original_title": "Splendor in the Grass",
+            "overview": "A fragile Kansas girl's unrequited and forbidden love for a handsome young man from the town's most powerful family drives her to heartbreak and madness.",
+            "popularity": 22.655,
+            "poster_path": "/n6Kw8Ui93SMhrk1MupCFwUg04vq.jpg",
+            "release_date": "1961-10-10",
+            "title": "Splendor in the Grass",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rNr3W7GuSpIRjuSr0TM6vSTrIdx.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 1725,
+            "original_language": "en",
+            "original_title": "West Side Story",
+            "overview": "In the slums of the upper West Side of Manhattan, New York, a gang of Polish-American teenagers called the Jets compete with a rival gang of recently immigrated Puerto Ricans, the Sharks, to \"own\" the neighborhood streets. Tensions are high between the gangs but two romantics, one from each gang, fall in love leading to tragedy.",
+            "popularity": 25.179,
+            "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+            "release_date": "1961-12-13",
+            "title": "West Side Story",
+            "video": false,
+            "vote_average": 7.262,
+            "vote_count": 1803
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mx2jS5Kaa5rmaldEFzKeKpDN9Q2.jpg",
+            "genre_ids": [
+                12,
+                36,
+                10752
+            ],
+            "id": 947,
+            "original_language": "en",
+            "original_title": "Lawrence of Arabia",
+            "overview": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+            "popularity": 81.794,
+            "poster_path": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+            "release_date": "1962-12-11",
+            "title": "Lawrence of Arabia",
+            "video": false,
+            "vote_average": 7.999,
+            "vote_count": 2839
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h1vBJ0uN4QCbBb5WVKxmtfTrHoY.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 11697,
+            "original_language": "en",
+            "original_title": "The Man Who Shot Liberty Valance",
+            "overview": "A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.",
+            "popularity": 25.321,
+            "poster_path": "/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+            "release_date": "1962-04-13",
+            "title": "The Man Who Shot Liberty Valance",
+            "video": false,
+            "vote_average": 7.783,
+            "vote_count": 1063
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7dX07NQv4p6kfzSkA9rf9LvlvVD.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 982,
+            "original_language": "en",
+            "original_title": "The Manchurian Candidate",
+            "overview": "Near the end of the Korean War, a platoon of U.S. soldiers is captured by communists and brainwashed. Following the war, the platoon is returned home, and Sergeant Raymond Shaw is lauded as a hero by the rest of his platoon. However, the platoon commander, Captain Bennett Marco, finds himself plagued by strange nightmares and soon races to uncover a terrible plot.",
+            "popularity": 30.977,
+            "poster_path": "/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+            "release_date": "1962-10-24",
+            "title": "The Manchurian Candidate",
+            "video": false,
+            "vote_average": 7.515,
+            "vote_count": 666
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mbJIERhLu25fyZb8DQIq1JN3AOR.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 595,
+            "original_language": "en",
+            "original_title": "To Kill a Mockingbird",
+            "overview": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+            "popularity": 36.334,
+            "poster_path": "/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
+            "release_date": "1962-12-20",
+            "title": "To Kill a Mockingbird",
+            "video": false,
+            "vote_average": 7.998,
+            "vote_count": 2486
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2PDUrK5b9ZerXSMq3EolhSt8nXt.jpg",
+            "genre_ids": [
+                53,
+                18,
+                27
+            ],
+            "id": 10242,
+            "original_language": "en",
+            "original_title": "What Ever Happened to Baby Jane?",
+            "overview": "A former child star torments her paraplegic sister in their decaying Hollywood mansion.",
+            "popularity": 27.247,
+            "poster_path": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+            "release_date": "1962-10-12",
+            "title": "What Ever Happened to Baby Jane?",
+            "video": false,
+            "vote_average": 7.937,
+            "vote_count": 986
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/il5zDHC5sGe3ZHLhVi3tNFZ9Tt5.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 571,
+            "original_language": "en",
+            "original_title": "The Birds",
+            "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+            "popularity": 37.814,
+            "poster_path": "/ADoJaT1s9Jlcfx3Tw2MIZ1BMxo.jpg",
+            "release_date": "1963-03-28",
+            "title": "The Birds",
+            "video": false,
+            "vote_average": 7.525,
+            "vote_count": 3890
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 935,
+            "original_language": "en",
+            "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike.",
+            "popularity": 45.292,
+            "poster_path": "/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
+            "release_date": "1964-01-29",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "video": false,
+            "vote_average": 8.121,
+            "vote_count": 5369
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mM4WeXqJd2tu1gCF5GYyAZf2Npl.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 658,
+            "original_language": "en",
+            "original_title": "Goldfinger",
+            "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
+            "popularity": 51.768,
+            "poster_path": "/hsHVGBINg9bactVjE91wFBgd51J.jpg",
+            "release_date": "1964-09-20",
+            "title": "Goldfinger",
+            "video": false,
+            "vote_average": 7.348,
+            "vote_count": 3396
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 704,
+            "original_language": "en",
+            "original_title": "A Hard Day's Night",
+            "overview": "Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.",
+            "popularity": 18.677,
+            "poster_path": "/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+            "release_date": "1964-07-07",
+            "title": "A Hard Day's Night",
+            "video": false,
+            "vote_average": 7.369,
+            "vote_count": 634
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749,
+                18
+            ],
+            "id": 11113,
+            "original_language": "en",
+            "original_title": "My Fair Lady",
+            "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+            "popularity": 33.218,
+            "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+            "release_date": "1964-10-21",
+            "title": "My Fair Lady",
+            "video": false,
+            "vote_average": 7.518,
+            "vote_count": 1230
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
+            "genre_ids": [
+                18,
+                53,
+                27
+            ],
+            "id": 11481,
+            "original_language": "en",
+            "original_title": "Repulsion",
+            "overview": "Beautiful young manicurist Carole suffers from androphobia (the pathological fear of interaction with men). When her sister and roommate, Helen, leaves their London flat to go on an Italian holiday with her married boyfriend, Carole withdraws into her apartment. She begins to experience frightful hallucinations, her fear gradually mutating into madness.",
+            "popularity": 32.404,
+            "poster_path": "/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+            "release_date": "1965-06-01",
+            "title": "Repulsion",
+            "video": false,
+            "vote_average": 7.418,
+            "vote_count": 937
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                10402,
+                10749
+            ],
+            "id": 15121,
+            "original_language": "en",
+            "original_title": "The Sound of Music",
+            "overview": "In the years before the Second World War, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.",
+            "popularity": 51.556,
+            "poster_path": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+            "release_date": "1965-03-29",
+            "title": "The Sound of Music",
+            "video": false,
+            "vote_average": 7.724,
+            "vote_count": 3114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1TOB9YhatqxIj5IMIZmnrwdL7AL.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 1052,
+            "original_language": "en",
+            "original_title": "Blow-Up",
+            "overview": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.",
+            "popularity": 30.669,
+            "poster_path": "/iVtUdWsT6Ed2DK762zZxjaQAdHy.jpg",
+            "release_date": "1966-12-18",
+            "title": "Blow-Up",
+            "video": false,
+            "vote_average": 7.372,
+            "vote_count": 1180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4WPdeIyF35N4Enppd7UCiEGo8s3.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 874,
+            "original_language": "en",
+            "original_title": "A Man for All Seasons",
+            "overview": "A depiction of the conflict between King Henry VIII of England and his Lord Chancellor, Sir Thomas More, who refuses to swear the Oath of Supremacy declaring Henry Supreme Head of the Church in England.",
+            "popularity": 24.853,
+            "poster_path": "/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+            "release_date": "1966-12-13",
+            "title": "A Man for All Seasons",
+            "video": false,
+            "vote_average": 7.351,
+            "vote_count": 395
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 396,
+            "original_language": "en",
+            "original_title": "Who's Afraid of Virginia Woolf?",
+            "overview": "A history professor and his wife entertain a young couple who are new to the university's faculty. As the drinks flow, secrets come to light, and the middle-aged couple unload onto their guests the full force of the bitterness, dysfunction, and animosity that defines their marriage.",
+            "popularity": 26.466,
+            "poster_path": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+            "release_date": "1966-06-22",
+            "title": "Who's Afraid of Virginia Woolf?",
+            "video": false,
+            "vote_average": 7.729,
+            "vote_count": 768
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 475,
+            "original_language": "en",
+            "original_title": "Bonnie and Clyde",
+            "overview": "In the 1930s, bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+            "popularity": 36.258,
+            "poster_path": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+            "release_date": "1967-08-14",
+            "title": "Bonnie and Clyde",
+            "video": false,
+            "vote_average": 7.497,
+            "vote_count": 1530
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yW9mPUhrsIzKvogNJKQKuWO8fJO.jpg",
+            "genre_ids": [
+                28,
+                18,
+                80
+            ],
+            "id": 903,
+            "original_language": "en",
+            "original_title": "Cool Hand Luke",
+            "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+            "popularity": 31.681,
+            "poster_path": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+            "release_date": "1967-11-01",
+            "title": "Cool Hand Luke",
+            "video": false,
+            "vote_average": 7.728,
+            "vote_count": 1336
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5OqXwHDlYSMCdqoQBXtgv130GhI.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 37247,
+            "original_language": "en",
+            "original_title": "The Graduate",
+            "overview": "Benjamin, a recent college graduate very worried about his future, finds himself in a love triangle with an older woman and her daughter.",
+            "popularity": 47.33,
+            "poster_path": "/qtVvdSsm2hvau6ItLe4gWdFKe2M.jpg",
+            "release_date": "1967-12-21",
+            "title": "The Graduate",
+            "video": false,
+            "vote_average": 7.651,
+            "vote_count": 3187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xY5sgU09cOsvEAgJZaYo2aOZEFi.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 10633,
+            "original_language": "en",
+            "original_title": "In the Heat of the Night",
+            "overview": "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth.",
+            "popularity": 24.944,
+            "poster_path": "/fvqHTabYej3LwzKRRZCm6jV3g0O.jpg",
+            "release_date": "1967-08-02",
+            "title": "In the Heat of the Night",
+            "video": false,
+            "vote_average": 7.627,
+            "vote_count": 997
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 18988,
+            "original_language": "en",
+            "original_title": "The Lion in Winter",
+            "overview": "Henry II and his estranged queen battle over the choice of an heir.",
+            "popularity": 23.383,
+            "poster_path": "/wOeavbzqkciFGxPD9UJYzPMlVAW.jpg",
+            "release_date": "1968-10-30",
+            "title": "The Lion in Winter",
+            "video": false,
+            "vote_average": 7.418,
+            "vote_count": 318
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/km8dM4ppakS5KUXl3TgtpTRgbBX.jpg",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "id": 10331,
+            "original_language": "en",
+            "original_title": "Night of the Living Dead",
+            "overview": "A group of strangers trapped in a farmhouse find themselves fending off a horde of recently dead, flesh-eating ghouls.",
+            "popularity": 39.27,
+            "poster_path": "/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+            "release_date": "1968-10-04",
+            "title": "Night of the Living Dead",
+            "video": false,
+            "vote_average": 7.619,
+            "vote_count": 2311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/26SUDI2iKhZTIKcU4ZzezTH1G15.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 335,
+            "original_language": "it",
+            "original_title": "C'era una volta il West",
+            "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+            "popularity": 62.283,
+            "poster_path": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+            "release_date": "1968-12-21",
+            "title": "Once Upon a Time in the West",
+            "video": false,
+            "vote_average": 8.289,
+            "vote_count": 4114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+            "genre_ids": [
+                878,
+                12,
+                18,
+                28
+            ],
+            "id": 871,
+            "original_language": "en",
+            "original_title": "Planet of the Apes",
+            "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+            "popularity": 113.612,
+            "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+            "release_date": "1968-02-07",
+            "title": "Planet of the Apes",
+            "video": false,
+            "vote_average": 7.654,
+            "vote_count": 3290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kzxSkAGUWUA1niS9uHfby5aMFAv.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 30197,
+            "original_language": "en",
+            "original_title": "The Producers",
+            "overview": "Broadway producer, Max Bialystock and his accountant, Leo Bloom plan to make money by charming little old ladies to invest in a production many times over what it will actually cost, and then put on a sure-fire flop, so nobody will ask for their money back \u2013 and what can be a more certain flop than a tasteless musical celebrating Hitler.",
+            "popularity": 55.695,
+            "poster_path": "/5TYUsAygWKtufAC78ep2AiohEiR.jpg",
+            "release_date": "1968-03-18",
+            "title": "The Producers",
+            "video": false,
+            "vote_average": 7.088,
+            "vote_count": 735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/daPiSBV6j02w4dAqpONa1ZQSfRr.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 6003,
+            "original_language": "en",
+            "original_title": "Romeo and Juliet",
+            "overview": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+            "popularity": 35.287,
+            "poster_path": "/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+            "release_date": "1968-04-02",
+            "title": "Romeo and Juliet",
+            "video": false,
+            "vote_average": 7.373,
+            "vote_count": 636
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sDNpacyIpSL8YRNkVR4qOmteXBX.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 805,
+            "original_language": "en",
+            "original_title": "Rosemary's Baby",
+            "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+            "popularity": 30.095,
+            "poster_path": "/nclYFGpVzfbiORO5ELVVdxzt9Vg.jpg",
+            "release_date": "1968-06-12",
+            "title": "Rosemary's Baby",
+            "video": false,
+            "vote_average": 7.826,
+            "vote_count": 3722
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+            "genre_ids": [
+                878,
+                9648,
+                12
+            ],
+            "id": 62,
+            "original_language": "en",
+            "original_title": "2001: A Space Odyssey",
+            "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+            "popularity": 309.507,
+            "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+            "release_date": "1968-04-02",
+            "title": "2001: A Space Odyssey",
+            "video": false,
+            "vote_average": 8.077,
+            "vote_count": 11050
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 642,
+            "original_language": "en",
+            "original_title": "Butch Cassidy and the Sundance Kid",
+            "overview": "In late 1890s Wyoming, Butch Cassidy is the affable, clever and talkative leader of the outlaw Hole in the Wall Gang. His closest companion is the laconic dead-shot Sundance Kid. As the west rapidly becomes civilized, the law finally catches up to Butch, Sundance and their gang.  Chased doggedly by a special posse, the two decide to make their way to South America in hopes of evading their pursuers once and for all.  Preserved by the Academy Film Archive in partnership with Twentieth Century Fox Film Corporation in 1998.",
+            "popularity": 34.863,
+            "poster_path": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+            "release_date": "1969-01-15",
+            "title": "Butch Cassidy and the Sundance Kid",
+            "video": false,
+            "vote_average": 7.609,
+            "vote_count": 2086
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/66nV6EJgNpGeNQ5Ad2yXtkAtE4D.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 624,
+            "original_language": "en",
+            "original_title": "Easy Rider",
+            "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+            "popularity": 30.669,
+            "poster_path": "/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
+            "release_date": "1969-06-26",
+            "title": "Easy Rider",
+            "video": false,
+            "vote_average": 7.073,
+            "vote_count": 1876
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cQv1NptKgJNN7x40YUt0FFacO2C.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 3116,
+            "original_language": "en",
+            "original_title": "Midnight Cowboy",
+            "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+            "popularity": 40.732,
+            "poster_path": "/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+            "release_date": "1969-05-25",
+            "title": "Midnight Cowboy",
+            "video": false,
+            "vote_average": 7.513,
+            "vote_count": 1318
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8D0tbahTduvTkSo1Aqn3dVVg9mk.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 576,
+            "original_language": "en",
+            "original_title": "The Wild Bunch",
+            "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+            "popularity": 28.8,
+            "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+            "release_date": "1969-06-19",
+            "title": "The Wild Bunch",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1119
+        }
+    ]
+}

@@ -1,0 +1,1946 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2021",
+    "source": "https://criticstop10.com/best-movies-of-2021/",
+    "created_by": "lbnt",
+    "added": "07/16/25",
+    "modified": "07/16/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 600583,
+            "original_language": "en",
+            "original_title": "The Power of the Dog",
+            "overview": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.",
+            "popularity": 2.2736,
+            "poster_path": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+            "release_date": "2021-10-25",
+            "title": "The Power of the Dog",
+            "video": false,
+            "vote_average": 6.765,
+            "vote_count": 2768
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f1azMRlp6YOLHf2PkzukyGPcpnX.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 718032,
+            "original_language": "en",
+            "original_title": "Licorice Pizza",
+            "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+            "popularity": 3.351,
+            "poster_path": "/jD98aUKHQZNAmrk0wQQ9wmNQPnP.jpg",
+            "release_date": "2021-11-26",
+            "title": "Licorice Pizza",
+            "video": false,
+            "vote_average": 6.967,
+            "vote_count": 2392
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 758866,
+            "original_language": "ja",
+            "original_title": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30ab\u30fc",
+            "overview": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
+            "popularity": 3.0144,
+            "poster_path": "/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg",
+            "release_date": "2021-08-18",
+            "title": "Drive My Car",
+            "video": false,
+            "vote_average": 7.437,
+            "vote_count": 1350
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 438631,
+            "original_language": "en",
+            "original_title": "Dune",
+            "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+            "popularity": 20.2277,
+            "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+            "release_date": "2021-09-15",
+            "title": "Dune",
+            "video": false,
+            "vote_average": 7.783,
+            "vote_count": 13710
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                80
+            ],
+            "id": 511809,
+            "original_language": "en",
+            "original_title": "West Side Story",
+            "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+            "popularity": 2.6063,
+            "poster_path": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+            "release_date": "2021-12-08",
+            "title": "West Side Story",
+            "video": false,
+            "vote_average": 6.97,
+            "vote_count": 1641
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
+            "genre_ids": [
+                12,
+                18,
+                14
+            ],
+            "id": 559907,
+            "original_language": "en",
+            "original_title": "The Green Knight",
+            "overview": "An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.",
+            "popularity": 4.0918,
+            "poster_path": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+            "release_date": "2021-07-29",
+            "title": "The Green Knight",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 2003
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uFvueAhlKsXQacjiKxGBgnBqarf.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 635731,
+            "original_language": "en",
+            "original_title": "Pig",
+            "overview": "A truffle hunter who lives alone in the Oregon wilderness must visit Portland to find the mysterious person who stole his beloved foraging pig.",
+            "popularity": 2.0348,
+            "poster_path": "/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg",
+            "release_date": "2021-07-16",
+            "title": "Pig",
+            "video": false,
+            "vote_average": 6.661,
+            "vote_count": 1553
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 660120,
+            "original_language": "no",
+            "original_title": "Verdens verste menneske",
+            "overview": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
+            "popularity": 4.3026,
+            "poster_path": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
+            "release_date": "2021-10-13",
+            "title": "The Worst Person in the World",
+            "video": false,
+            "vote_average": 7.465,
+            "vote_count": 1526
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1LYWnmr5K3Hs3XEZ323bY0dBZsK.jpg",
+            "genre_ids": [
+                10402,
+                99,
+                36
+            ],
+            "id": 776527,
+            "original_language": "en",
+            "original_title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+            "overview": "During the same summer as Woodstock, over 300,000 people attended the Harlem Cultural Festival, celebrating African American music and culture, and promoting Black pride and unity. The footage from the festival sat in a basement, unseen for over 50 years, keeping this incredible event in America's history lost \u2014 until now.",
+            "popularity": 1.078,
+            "poster_path": "/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+            "release_date": "2021-07-02",
+            "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+            "video": false,
+            "vote_average": 7.617,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nvTD2DO96mEwOga34lQZgBKpdEQ.jpg",
+            "genre_ids": [
+                18,
+                878,
+                9648
+            ],
+            "id": 511819,
+            "original_language": "es",
+            "original_title": "Memoria",
+            "overview": "After hearing a loud \u2018bang\u2019 at daybreak, a Scottish woman begins experiencing a mysterious sensory syndrome while traversing the jungles of Colombia.",
+            "popularity": 1.0594,
+            "poster_path": "/uZ4GABzjCIiQNlYSgjXoaf6rpK5.jpg",
+            "release_date": "2021-09-30",
+            "title": "Memoria",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dVOlJVHYRWx7DhMQRNLnbf5bT1q.jpg",
+            "genre_ids": [
+                18,
+                53,
+                27
+            ],
+            "id": 630240,
+            "original_language": "fr",
+            "original_title": "Titane",
+            "overview": "A woman with a metal plate in her head from a childhood car accident embarks on a bizarre journey, bringing her into contact with a firefighter who's reunited with his missing son after 10 years.",
+            "popularity": 2.9267,
+            "poster_path": "/AeQC4gFwkIvjAwnSd2RPAlgs1VE.jpg",
+            "release_date": "2021-07-14",
+            "title": "Titane",
+            "video": false,
+            "vote_average": 6.347,
+            "vote_count": 1528
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jf31WjladY3xIHJ110RtPWZ84gf.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 542178,
+            "original_language": "en",
+            "original_title": "The French Dispatch",
+            "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+            "popularity": 3.7303,
+            "poster_path": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+            "release_date": "2021-10-21",
+            "title": "The French Dispatch",
+            "video": false,
+            "vote_average": 7.029,
+            "vote_count": 2739
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yuXZXuS4RCTnCYScrRWBCNz2ywB.jpg",
+            "genre_ids": [
+                18,
+                14,
+                10751
+            ],
+            "id": 749004,
+            "original_language": "fr",
+            "original_title": "Petite Maman",
+            "overview": "After the death of her beloved grandmother, eight-year-old Nelly meets a strangely familiar girl her own age in the woods. Instantly forming a connection with this mysterious new friend, Nelly embarks on a fantastical journey of discovery which helps her come to terms with this newfound loss.",
+            "popularity": 0.8472,
+            "poster_path": "/fxl2ARZO2vRfUGDfqSz2bostauE.jpg",
+            "release_date": "2021-06-02",
+            "title": "Petite Maman",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 407
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 776503,
+            "original_language": "en",
+            "original_title": "CODA",
+            "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+            "popularity": 5.3774,
+            "poster_path": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+            "release_date": "2021-08-13",
+            "title": "CODA",
+            "video": false,
+            "vote_average": 7.918,
+            "vote_count": 2360
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l1Z9PLy8AXiqlZmFEgiGWeSFdSX.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 777270,
+            "original_language": "en",
+            "original_title": "Belfast",
+            "overview": "Buddy is a young boy on the cusp of adolescence, whose life is filled with familial love, childhood hijinks, and a blossoming romance. Yet, with his beloved hometown caught up in increasing turmoil, his family faces a momentous choice: hope the conflict will pass or leave everything they know behind for a new life.",
+            "popularity": 1.4642,
+            "poster_path": "/4xs6nHNBjYpRymw8ZQmnVIbJ8Xa.jpg",
+            "release_date": "2021-11-12",
+            "title": "Belfast",
+            "video": false,
+            "vote_average": 7.067,
+            "vote_count": 1563
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cDVWsqsnGwIUqOSzAuDS0PIhNdW.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 424277,
+            "original_language": "fr",
+            "original_title": "Annette",
+            "overview": "The story of Henry, a stand-up comedian with a fierce sense of humour and Ann, a singer of international renown. In the spotlight, they are the perfect couple, healthy, happy, and glamourous. The birth of their first child, Annette, a mysterious girl with an exceptional destiny, will change their lives.",
+            "popularity": 1.6231,
+            "poster_path": "/4FTnypxpGltJdIARrfFsP31pGTp.jpg",
+            "release_date": "2021-07-07",
+            "title": "Annette",
+            "video": false,
+            "vote_average": 6.718,
+            "vote_count": 705
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r7dJqfmspzVlHYWXBiKn7NP8ZBw.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 643532,
+            "original_language": "en",
+            "original_title": "The Card Counter",
+            "overview": "William Tell just wants to play cards. His spartan existence on the casino trail is shattered when he is approached by Cirk, a vulnerable and angry young man seeking help to execute his plan for revenge on a military colonel. Tell sees a chance at redemption through his relationship with Cirk. But keeping Cirk on the straight-and-narrow proves impossible, dragging Tell back into the darkness of his past.",
+            "popularity": 2.1453,
+            "poster_path": "/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg",
+            "release_date": "2021-09-03",
+            "title": "The Card Counter",
+            "video": false,
+            "vote_average": 6.132,
+            "vote_count": 1008
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 763329,
+            "original_language": "en",
+            "original_title": "Red Rocket",
+            "overview": "After hitting rock bottom in Los Angeles, former porn star Mikey Saber returns to his hometown in Texas to stay with his estranged wife and mother-in-law. Just as tensions begin to ease, he becomes infatuated with a young doughnut shop worker named Strawberry.",
+            "popularity": 1.9879,
+            "poster_path": "/345gLhiNpItU1ICx8OxJQwjgPmH.jpg",
+            "release_date": "2021-12-10",
+            "title": "Red Rocket",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 545
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6jRHaYJyje5RNS3L353udrPU3ME.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 554230,
+            "original_language": "en",
+            "original_title": "The Lost Daughter",
+            "overview": "A woman's seaside vacation takes a dark turn when her obsession with a young mother forces her to confront secrets from her past.",
+            "popularity": 2.2459,
+            "poster_path": "/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+            "release_date": "2021-12-15",
+            "title": "The Lost Daughter",
+            "video": false,
+            "vote_average": 6.489,
+            "vote_count": 1019
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zs1I3ZFUDEWa5rFyph7OrMH1aJ9.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 632617,
+            "original_language": "en",
+            "original_title": "C'mon C'mon",
+            "overview": "Johnny and his young nephew forge a tenuous but transformational relationship when they embark on a cross-country trip to see life away from Los Angeles.",
+            "popularity": 1.6632,
+            "poster_path": "/1oOyJsdcJnnE7cl9bZdUQvBjKNH.jpg",
+            "release_date": "2021-11-19",
+            "title": "C'mon C'mon",
+            "video": false,
+            "vote_average": 7.217,
+            "vote_count": 715
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jyXmcVTExHdtAmil5nldFMGlJd0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 473021,
+            "original_language": "en",
+            "original_title": "The Souvenir: Part II",
+            "overview": "In the aftermath of her tumultuous relationship with a charismatic and manipulative older man, Julie begins to untangle her fraught love for him in making her graduation film, sorting fact from his elaborately constructed fiction.",
+            "popularity": 0.784,
+            "poster_path": "/fYNvmZ1vW7bNcUhrAzYjUBgKJWP.jpg",
+            "release_date": "2021-10-11",
+            "title": "The Souvenir: Part II",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uAf1Ua3UDm8cDR2CgNGbZepOqDV.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 716612,
+            "original_language": "en",
+            "original_title": "Spencer",
+            "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
+            "popularity": 1.9874,
+            "poster_path": "/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg",
+            "release_date": "2021-11-04",
+            "title": "Spencer",
+            "video": false,
+            "vote_average": 6.753,
+            "vote_count": 1712
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rKe3MR2u4ZZ0y9uKivzKJRrqBCe.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 537116,
+            "original_language": "en",
+            "original_title": "tick, tick... BOOM!",
+            "overview": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.",
+            "popularity": 2.9283,
+            "poster_path": "/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+            "release_date": "2021-11-11",
+            "title": "tick, tick... BOOM!",
+            "video": false,
+            "vote_average": 7.621,
+            "vote_count": 2162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/58IBSEDDSzOEFowz9qs9QbUZ8bg.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 795811,
+            "original_language": "ja",
+            "original_title": "\u5076\u7136\u3068\u60f3\u50cf",
+            "overview": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
+            "popularity": 1.6773,
+            "poster_path": "/z3xqVWOsetW6pSEgx1uiqXfzRet.jpg",
+            "release_date": "2021-04-11",
+            "title": "Wheel of Fortune and Fantasy",
+            "video": false,
+            "vote_average": 7.163,
+            "vote_count": 322
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/muSfF6zobLEiPr3XurDSi1CpCJ.jpg",
+            "genre_ids": [
+                16,
+                28,
+                18,
+                878
+            ],
+            "id": 623409,
+            "original_language": "ja",
+            "original_title": "\u5287\u5834\u7248 \u30cf\u30a4\u30b9\u30af\u30fc\u30eb\u30fb\u30d5\u30ea\u30fc\u30c8",
+            "overview": "Living by the sea, protecting the sea, and journeying across the sea\u2026They\u2019re the BLUE MERMAIDS! Because of a shift in tectonic plates around 100 years ago, Japan lost much of its area to submergence. To preserve Japan\u2019s territories, Coastal Cities sprung up, one after the other. Eventually, they became Marine Cities, and along with the expansion of sea-lanes to connect them, the need arose for a sizable staff to protect the seas. At the same time, maritime jobs were becoming more popular among women. Hence, the BLUE MERMAIDS had become every female student\u2019s dream job.",
+            "popularity": 0.6852,
+            "poster_path": "/ylnIQ3Cx9srhRyQHNpv51KDSHvj.jpg",
+            "release_date": "2020-01-18",
+            "title": "High School Fleet Movie",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+            "genre_ids": [
+                36,
+                18,
+                28
+            ],
+            "id": 617653,
+            "original_language": "en",
+            "original_title": "The Last Duel",
+            "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+            "popularity": 4.5565,
+            "poster_path": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+            "release_date": "2021-10-13",
+            "title": "The Last Duel",
+            "video": false,
+            "vote_average": 7.432,
+            "vote_count": 3550
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7mH9nwyEyiGrODuq1khFEXyk5iY.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 541524,
+            "original_language": "en",
+            "original_title": "Passing",
+            "overview": "In 1920s New York City, a Black woman finds her world upended when her life becomes intertwined with a former childhood friend who's passing as white.",
+            "popularity": 0.9927,
+            "poster_path": "/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg",
+            "release_date": "2021-10-27",
+            "title": "Passing",
+            "video": false,
+            "vote_average": 6.284,
+            "vote_count": 315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 634649,
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "popularity": 25.2614,
+            "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+            "release_date": "2021-12-15",
+            "title": "Spider-Man: No Way Home",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 20900
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35
+            ],
+            "id": 501929,
+            "original_language": "en",
+            "original_title": "The Mitchells vs. the Machines",
+            "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+            "popularity": 7.3538,
+            "poster_path": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+            "release_date": "2021-04-22",
+            "title": "The Mitchells vs. the Machines",
+            "video": false,
+            "vote_average": 7.88,
+            "vote_count": 3090
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w81qHqr1CdbdRco8jpmu6lXMqyk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 766798,
+            "original_language": "es",
+            "original_title": "Madres paralelas",
+            "overview": "Two unmarried women who have become pregnant by accident and are about to give birth meet in a hospital room: Janis, in her late-thirties, unrepentant and happy; Ana, a teenager, remorseful and frightened.",
+            "popularity": 1.6843,
+            "poster_path": "/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg",
+            "release_date": "2021-10-08",
+            "title": "Parallel Mothers",
+            "video": false,
+            "vote_average": 6.82,
+            "vote_count": 973
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3s7uwQKH0WmaeO7VCqAOK3C5gjF.jpg",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "id": 170,
+            "original_language": "en",
+            "original_title": "28 Days Later",
+            "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+            "popularity": 30.2498,
+            "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+            "release_date": "2002-10-31",
+            "title": "28 Days Later",
+            "video": false,
+            "vote_average": 7.234,
+            "vote_count": 7540
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zL7CozbpAbGSdhBsuTI847tu5Fo.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 539565,
+            "original_language": "en",
+            "original_title": "Zola",
+            "overview": "A waitress agrees to accompany an exotic dancer, her put-upon boyfriend, and her mysterious and domineering roommate on a road trip to Florida to seek their fortune at a high-end strip club.",
+            "popularity": 1.7958,
+            "poster_path": "/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+            "release_date": "2021-06-30",
+            "title": "Zola",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 241
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7EazpcvoCfNZZysgljUAkQCBvW.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 614917,
+            "original_language": "en",
+            "original_title": "King Richard",
+            "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+            "popularity": 3.6021,
+            "poster_path": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+            "release_date": "2021-11-18",
+            "title": "King Richard",
+            "video": false,
+            "vote_average": 7.629,
+            "vote_count": 2625
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 591538,
+            "original_language": "en",
+            "original_title": "The Tragedy of Macbeth",
+            "overview": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+            "popularity": 3.9228,
+            "poster_path": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+            "release_date": "2021-12-05",
+            "title": "The Tragedy of Macbeth",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 807
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b2L7jOgo5cHiRIvljD2GCqZiYO2.jpg",
+            "genre_ids": [
+                36,
+                18,
+                10749
+            ],
+            "id": 454527,
+            "original_language": "fr",
+            "original_title": "Benedetta",
+            "overview": "A 17th-century nun becomes entangled in a forbidden lesbian affair with a novice. But it is Benedetta's shocking religious visions that threaten to shake the Church to its core.",
+            "popularity": 4.5796,
+            "poster_path": "/yofVXmLYQbr8pdOeyDRrf9N8rF4.jpg",
+            "release_date": "2021-07-09",
+            "title": "Benedetta",
+            "video": false,
+            "vote_average": 6.611,
+            "vote_count": 1068
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cqXKCHjYAbFfQdNJROyaeqiQ73Q.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 477044,
+            "original_language": "en",
+            "original_title": "Bergman Island",
+            "overview": "An English-German filmmaking couple retreat to F\u00e5r\u00f6 for the summer to each write screenplays for their upcoming films in an act of pilgrimage to the place that inspired Ingmar Bergman. As the summer and their screenplays advance, the lines between reality and fiction start to blur against the backdrop of the Island's wild landscape.",
+            "popularity": 0.9716,
+            "poster_path": "/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg",
+            "release_date": "2021-07-14",
+            "title": "Bergman Island",
+            "video": false,
+            "vote_average": 6.29,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cv6Nn8Yt9mgFoUSievEdW9JK82A.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 423333,
+            "original_language": "en",
+            "original_title": "Mass",
+            "overview": "Two couples meet for a painful and raw conversation in the aftermath of a violent tragedy.",
+            "popularity": 1.0293,
+            "poster_path": "/c3MQ3YZKJadrH2Yv45i07qMHGPM.jpg",
+            "release_date": "2021-10-08",
+            "title": "Mass",
+            "video": false,
+            "vote_average": 7.442,
+            "vote_count": 265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uEJuqp08dH6IQwZJGASlPZOXqKu.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 467909,
+            "original_language": "en",
+            "original_title": "In the Heights",
+            "overview": "The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.",
+            "popularity": 1.6576,
+            "poster_path": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+            "release_date": "2021-06-10",
+            "title": "In the Heights",
+            "video": false,
+            "vote_average": 7.142,
+            "vote_count": 741
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fatz1aegtBGh7KS0gipcsw9MqUn.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 583406,
+            "original_language": "en",
+            "original_title": "Judas and the Black Messiah",
+            "overview": "Bill O'Neal infiltrates the Black Panthers on the orders of FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends\u2014falling for a fellow revolutionary en route\u2014a battle wages for O\u2019Neal\u2019s soul.",
+            "popularity": 2.2606,
+            "poster_path": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+            "release_date": "2021-02-12",
+            "title": "Judas and the Black Messiah",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1594
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 600354,
+            "original_language": "en",
+            "original_title": "The Father",
+            "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+            "popularity": 4.2574,
+            "poster_path": "/xxHNaCMycynHMKdEZHHQCzaPbZl.jpg",
+            "release_date": "2020-12-23",
+            "title": "The Father",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 3361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 597208,
+            "original_language": "en",
+            "original_title": "Nightmare Alley",
+            "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychologist who is even more dangerous than he is.",
+            "popularity": 3.5483,
+            "poster_path": "/680klE0dIreQQOyWKFgNnCAJtws.jpg",
+            "release_date": "2021-12-02",
+            "title": "Nightmare Alley",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 3087
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mKsHlQZyunCSdtC1jOfn9zd9zEl.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 790496,
+            "original_language": "ro",
+            "original_title": "Babardeala cu bucluc sau porno balamuc",
+            "overview": "Emi, a school teacher, finds her career and reputation under threat after a personal sex tape is leaked on the Internet. Forced to meet the parents demanding her dismissal, Emi refuses to surrender to their pressure.",
+            "popularity": 0.1263,
+            "poster_path": "/zUTkjET8VUwvbvSHtn0Lou7xwyZ.jpg",
+            "release_date": "2021-04-29",
+            "title": "Bad Luck Banging or Loony Porn",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/feQvRl67oc4AOWN4LhAwkrMWdX4.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 664300,
+            "original_language": "en",
+            "original_title": "Shiva Baby",
+            "overview": "College student Danielle must cover her tracks when she unexpectedly runs into her sugar daddy at a shiva - with her parents, ex-girlfriend and family friends also in attendance.",
+            "popularity": 1.8898,
+            "poster_path": "/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+            "release_date": "2021-03-26",
+            "title": "Shiva Baby",
+            "video": false,
+            "vote_average": 7.165,
+            "vote_count": 685
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mjf3c6oWvsaEOipue79mAA31Ic1.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 543836,
+            "original_language": "en",
+            "original_title": "The Velvet Underground",
+            "overview": "Experience the iconic rock band's legacy in the first major documentary to tell their story. Directed with the era\u2019s avant-garde spirit by Todd Haynes, this kaleidoscopic oral history combines exclusive interviews with dazzling archival footage.",
+            "popularity": 1.752,
+            "poster_path": "/9uRF6vERWfhlSZKc1sAJTTdG2Ix.jpg",
+            "release_date": "2021-10-15",
+            "title": "The Velvet Underground",
+            "video": false,
+            "vote_average": 6.86,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bz7pwNGCbV576COsDcYN9MbEACC.jpg",
+            "genre_ids": [
+                28,
+                53,
+                12
+            ],
+            "id": 370172,
+            "original_language": "en",
+            "original_title": "No Time to Die",
+            "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+            "popularity": 8.9752,
+            "poster_path": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+            "release_date": "2021-09-29",
+            "title": "No Time to Die",
+            "video": false,
+            "vote_average": 7.362,
+            "vote_count": 6577
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/laoolYvTVis3Ld5tVm8ACdBgdG7.jpg",
+            "genre_ids": [
+                14,
+                18,
+                10749
+            ],
+            "id": 615761,
+            "original_language": "de",
+            "original_title": "Undine",
+            "overview": "Undine is a historian and tour guide at the Berlin City Museum specializing in urban development, while Christoph is an industrial diver. Linked by a love of the water, the two form an intense bond, which can only do so much to help Undine overcome the considerable baggage of her former affair.",
+            "popularity": 0.8734,
+            "poster_path": "/7PeaXj2EKef84zEZazxiGL8bXRH.jpg",
+            "release_date": "2020-07-01",
+            "title": "Undine",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+            "genre_ids": [
+                35,
+                878
+            ],
+            "id": 646380,
+            "original_language": "en",
+            "original_title": "Don't Look Up",
+            "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+            "popularity": 5.443,
+            "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+            "release_date": "2021-12-08",
+            "title": "Don't Look Up",
+            "video": false,
+            "vote_average": 7.071,
+            "vote_count": 8666
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rAksPS6LjBONzY84szQBz5gGej6.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 566525,
+            "original_language": "en",
+            "original_title": "Shang-Chi and the Legend of the Ten Rings",
+            "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+            "popularity": 12.8495,
+            "poster_path": "/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
+            "release_date": "2021-09-01",
+            "title": "Shang-Chi and the Legend of the Ten Rings",
+            "video": false,
+            "vote_average": 7.519,
+            "vote_count": 9831
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mvxR0mbDVQkQp3K1OhEU9iDbGcA.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 595813,
+            "original_language": "en",
+            "original_title": "Barb & Star Go to Vista Del Mar",
+            "overview": "The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain\u2019s evil plot to kill everyone in town.",
+            "popularity": 2.0021,
+            "poster_path": "/8oiV8GtBG7GDJa3ejvxZzJnBgff.jpg",
+            "release_date": "2021-03-29",
+            "title": "Barb & Star Go to Vista Del Mar",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 247
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b4KKwxgMZu1rMHm19QmxczA6Yk2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 662401,
+            "original_language": "ko",
+            "original_title": "\ub3c4\ub9dd\uce5c \uc5ec\uc790",
+            "overview": "While her husband is on a business trip, Gam-hee meets three of her friends on the outskirts of Seoul.",
+            "popularity": 0.5028,
+            "poster_path": "/uAxE3xIGDAlqQXGtOgLKaBADVHh.jpg",
+            "release_date": "2020-09-17",
+            "title": "The Woman Who Ran",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iVls8472HFJNBLAek0afJmDI1ve.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                14
+            ],
+            "id": 795815,
+            "original_language": "ka",
+            "original_title": "\u10e0\u10d0\u10e1 \u10d5\u10ee\u10d4\u10d3\u10d0\u10d5\u10d7, \u10e0\u10dd\u10d3\u10d4\u10e1\u10d0\u10ea \u10ea\u10d0\u10e1 \u10d5\u10e3\u10e7\u10e3\u10e0\u10d4\u10d1\u10d7?",
+            "overview": "In the Georgian riverside town of Kutaisi, summertime romance and World Cup fever are in the air. After a pair of chance encounters, pharmacist Lisa and soccer player Giorgi find their plans for a date undone when they both awaken magically transformed with no way to recognize each other.",
+            "popularity": 0.8118,
+            "poster_path": "/w4n2Furdryy0tAsJZWNiB8CsYvI.jpg",
+            "release_date": "2021-11-12",
+            "title": "What Do We See When We Look at the Sky?",
+            "video": false,
+            "vote_average": 6.782,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 618162,
+            "original_language": "en",
+            "original_title": "The Harder They Fall",
+            "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.",
+            "popularity": 3.1968,
+            "poster_path": "/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+            "release_date": "2021-10-22",
+            "title": "The Harder They Fall",
+            "video": false,
+            "vote_average": 6.652,
+            "vote_count": 1108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "id": 436969,
+            "original_language": "en",
+            "original_title": "The Suicide Squad",
+            "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+            "popularity": 16.1579,
+            "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+            "release_date": "2021-07-28",
+            "title": "The Suicide Squad",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 8976
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 823754,
+            "original_language": "en",
+            "original_title": "Bo Burnham: Inside",
+            "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+            "popularity": 1.124,
+            "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+            "release_date": "2021-07-22",
+            "title": "Bo Burnham: Inside",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 538
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aFGFVXvqOzrK07jnRaSrzIJYp95.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 31900,
+            "original_language": "fr",
+            "original_title": "Gainsbourg (vie h\u00e9ro\u00efque)",
+            "overview": "A glimpse at the life of French singer Serge Gainsbourg, from growing up in 1940s Nazi-occupied Paris through his successful song-writing years in the 1960s to his death in 1991 at the age of 62.",
+            "popularity": 0.8914,
+            "poster_path": "/e1zGOGjIVxzRudOq0SQteQQKfmr.jpg",
+            "release_date": "2010-01-20",
+            "title": "Gainsbourg: A Heroic Life",
+            "video": false,
+            "vote_average": 6.898,
+            "vote_count": 343
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/koO1QBG9FcuO3BuY09tDQz0XLfn.jpg",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "id": 923403,
+            "original_language": "en",
+            "original_title": "The Beatles: Get Back - The Rooftop Concert",
+            "overview": "On the 30th of January, 1969, the Beatles performed an unannounced concert from the rooftop of their Apple Corps headquarters at Savile Row, within central London's office and fashion district. Experience the final and unforgettable iconic performance of The Beatles in a special 60-minute presentation, digitally remastered into the image and sound quality of IMAX DMR technology.",
+            "popularity": 0.3473,
+            "poster_path": "/4MPsj31FTnfXg1NO93lzr3PqNuE.jpg",
+            "release_date": "2022-01-30",
+            "title": "The Beatles: Get Back - The Rooftop Concert",
+            "video": false,
+            "vote_average": 8.025,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 576845,
+            "original_language": "en",
+            "original_title": "Last Night in Soho",
+            "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+            "popularity": 3.7751,
+            "poster_path": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+            "release_date": "2021-10-21",
+            "title": "Last Night in Soho",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3580
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/waTbfLl1ZbwadqVvbNGEv4HeVnr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 820517,
+            "original_language": "ko",
+            "original_title": "\ub2f9\uc2e0\uc5bc\uad74 \uc55e\uc5d0\uc11c",
+            "overview": "She has never lived in a high-rise apartment, and she wonders how her sister can live at this height every day. A few days ago she kind of burst into stay with her sister, and she is now becoming re-accustomed to life in Korea. While seeming to keep a grave secret to herself, she manages life one day at a time with a sense of mindfulness. Meanwhile a certain director, some years younger than her, has asked her to join his project, and after a polite refusal, they have agreed to meet for the first time today. Downtown Seoul is filled with narrow alleys that harbor tiny old bars, and that's where they meet. As they are getting drunk, there is sudden rainfall and thunder.",
+            "popularity": 0.3176,
+            "poster_path": "/vAoV0wQB3015O0mdAsXPnV06yk5.jpg",
+            "release_date": "2021-10-21",
+            "title": "In Front of Your Face",
+            "video": false,
+            "vote_average": 6.814,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6mVfpqwvlbAOzk8pZr7LS1tkFyJ.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 728118,
+            "original_language": "sr",
+            "original_title": "Quo Vadis, Aida?",
+            "overview": "Bosnia, July 1995. Aida is a translator for the UN in the small town of Srebrenica. When the Serbian army takes over the town, her family is among the thousands of citizens looking for shelter in the UN camp. As an insider to the negotiations Aida has access to crucial information that she needs to interpret. What is at the horizon for her family and people \u2013 rescue or death? Which move should she take?",
+            "popularity": 3.1944,
+            "poster_path": "/eQy2Tgvmx0FkK8vMMqMW4aX5UXQ.jpg",
+            "release_date": "2021-02-26",
+            "title": "Quo Vadis, Aida?",
+            "video": false,
+            "vote_average": 7.659,
+            "vote_count": 428
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/61bIyX4wA7KyXWGHN9DNSBduR6i.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 807070,
+            "original_language": "fr",
+            "original_title": "Vortex",
+            "overview": "Lui, a struggling author with a heart condition, and his wife Elle, a retired psychiatrist, find their idyllic life shattered when Elle begins to succumb to the effects of dementia.",
+            "popularity": 0.844,
+            "poster_path": "/okyVOselOriFXctq86U8Jol7Rls.jpg",
+            "release_date": "2022-01-27",
+            "title": "Vortex",
+            "video": false,
+            "vote_average": 7.094,
+            "vote_count": 235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 619778,
+            "original_language": "en",
+            "original_title": "Malignant",
+            "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.",
+            "popularity": 4.2213,
+            "poster_path": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+            "release_date": "2021-09-01",
+            "title": "Malignant",
+            "video": false,
+            "vote_average": 6.767,
+            "vote_count": 2427
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wLewdoshX7fqzsDoMlTP5njnckP.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 607430,
+            "original_language": "en",
+            "original_title": "Nine Days",
+            "overview": "A bureaucrat interviews five souls to decide which of them will be given a life on Earth. But he soon faces an existential challenge of his own.",
+            "popularity": 1.069,
+            "poster_path": "/kl8J3WvzJq6QGX7qNmP0ps4ZTSO.jpg",
+            "release_date": "2021-07-15",
+            "title": "Nine Days",
+            "video": false,
+            "vote_average": 6.822,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dTvGUMFc5WCziTzXZKZ2EfW2bEM.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 722778,
+            "original_language": "it",
+            "original_title": "\u00c8 stata la mano di Dio",
+            "overview": "In 1980s Naples, Italy, an awkward Italian teen struggling to find his place experiences heartbreak and liberation after he's inadvertently saved from a freak accident by football legend Diego Maradona.",
+            "popularity": 1.3286,
+            "poster_path": "/kreVxr5moB7K52IGGV1BGAn6nq1.jpg",
+            "release_date": "2021-11-24",
+            "title": "The Hand of God",
+            "video": false,
+            "vote_average": 7.54,
+            "vote_count": 1693
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mFebVehvN5FvhRR9QUFzorG0R4E.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 869623,
+            "original_language": "en",
+            "original_title": "Procession",
+            "overview": "Six men who were sexually abused by Catholic clergy as boys find empowerment by creating short films inspired by their trauma.",
+            "popularity": 0.4569,
+            "poster_path": "/cVhtXaXqCjy8Gdu3TspYPRq4zeP.jpg",
+            "release_date": "2021-11-12",
+            "title": "Procession",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bZnESI2ScmKqFxzfnHqaCgzoyGo.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 574086,
+            "original_language": "en",
+            "original_title": "All Light, Everywhere",
+            "overview": "Filmmaker Theo Anthony offers a far-ranging look at the biases in how people see things, focusing on the recorded image.",
+            "popularity": 0.136,
+            "poster_path": "/uJQaKblsdHgqFZd4FT4kKmLl4f6.jpg",
+            "release_date": "2021-06-04",
+            "title": "All Light, Everywhere",
+            "video": false,
+            "vote_average": 6.357,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ok7RdHhVngnwkvKj09tvtOvypG.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 649409,
+            "original_language": "en",
+            "original_title": "No Sudden Move",
+            "overview": "A group of criminals are brought together under mysterious circumstances and have to work together to uncover what's really going on when their simple job goes completely sideways.",
+            "popularity": 1.926,
+            "poster_path": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+            "release_date": "2021-06-24",
+            "title": "No Sudden Move",
+            "video": false,
+            "vote_average": 6.388,
+            "vote_count": 735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dB0CxRwLXJoOrRPUvsJjb2hnPtq.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 624860,
+            "original_language": "en",
+            "original_title": "The Matrix Resurrections",
+            "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+            "popularity": 8.6001,
+            "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+            "release_date": "2021-12-16",
+            "title": "The Matrix Resurrections",
+            "video": false,
+            "vote_average": 6.374,
+            "vote_count": 6026
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1EwMiDKMDbKHK89JpaSZr8FQcOg.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 602334,
+            "original_language": "fr",
+            "original_title": "France",
+            "overview": "A celebrity journalist, juggling her busy career and personal life, has her life over-turned by a freak car accident.",
+            "popularity": 0.957,
+            "poster_path": "/xV2HdOOKjsLVWvSzuOiBL5ccEcW.jpg",
+            "release_date": "2021-08-25",
+            "title": "France",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+            "genre_ids": [
+                16,
+                35,
+                14,
+                12,
+                10751
+            ],
+            "id": 508943,
+            "original_language": "en",
+            "original_title": "Luca",
+            "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water\u2019s surface.",
+            "popularity": 11.5771,
+            "poster_path": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+            "release_date": "2021-06-17",
+            "title": "Luca",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 8585
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cfDQh8STZvzXtyr1iyb4cXzkLju.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 730047,
+            "original_language": "en",
+            "original_title": "Cyrano",
+            "overview": "A man ahead of his time, Cyrano de Bergerac dazzles whether with ferocious wordplay at a verbal joust or with brilliant swordplay in a duel. But, convinced that his appearance renders him unworthy of the love of a devoted friend, the luminous Roxanne, Cyrano has yet to declare his feelings for her\u2014and Roxanne has fallen in love, at first sight, with Christian.",
+            "popularity": 2.0538,
+            "poster_path": "/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
+            "release_date": "2021-04-14",
+            "title": "Cyrano",
+            "video": false,
+            "vote_average": 6.347,
+            "vote_count": 308
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ckP7tL0mkRWSnFXSb3FLZs75SEn.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 776536,
+            "original_language": "es",
+            "original_title": "El Planeta",
+            "overview": "Amidst the devastation of post-crisis Spain, mother and daughter bluff and grift to keep up the lifestyle they think they deserve, bonding over common tragedy and an impending eviction.",
+            "popularity": 0.2861,
+            "poster_path": "/fsjc9edVdY7kxuC3889h1XWxTsv.jpg",
+            "release_date": "2021-09-24",
+            "title": "El Planeta",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7XZsVVnqTsMJXg3J4CHzeV2Lro9.jpg",
+            "genre_ids": [
+                28,
+                35,
+                18,
+                53
+            ],
+            "id": 663870,
+            "original_language": "da",
+            "original_title": "Retf\u00e6rdighedens ryttere",
+            "overview": "Markus returns home to care for his daughter when his wife dies in a tragic train accident. However, when a survivor of the wreck surfaces and claims foul play, Markus suspects his wife was murdered and embarks on a mission to find those responsible.",
+            "popularity": 2.0651,
+            "poster_path": "/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
+            "release_date": "2020-11-19",
+            "title": "Riders of Justice",
+            "video": false,
+            "vote_average": 7.272,
+            "vote_count": 931
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AsqUSUqXrK8JfH8WEQnCXVbIAv6.jpg",
+            "genre_ids": [
+                878,
+                53,
+                27
+            ],
+            "id": 520763,
+            "original_language": "en",
+            "original_title": "A Quiet Place Part II",
+            "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+            "popularity": 8.1363,
+            "poster_path": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+            "release_date": "2021-05-21",
+            "title": "A Quiet Place Part II",
+            "video": false,
+            "vote_average": 7.468,
+            "vote_count": 6882
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wfA61Mi6E8GncUn8ze4w0jz0Za.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 517088,
+            "original_language": "en",
+            "original_title": "Being the Ricardos",
+            "overview": "Lucille Ball and Desi Arnaz face a crisis that could end their careers and another that could end their marriage.",
+            "popularity": 1.2867,
+            "poster_path": "/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+            "release_date": "2021-12-10",
+            "title": "Being the Ricardos",
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 659
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g6wufgtycJCP508tlC3crSYFCgC.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 749274,
+            "original_language": "en",
+            "original_title": "Cry Macho",
+            "overview": "A one-time rodeo star and washed-up horse breeder takes a job from an ex-boss to bring the man's young son home from Mexico.",
+            "popularity": 1.9235,
+            "poster_path": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+            "release_date": "2021-09-16",
+            "title": "Cry Macho",
+            "video": false,
+            "vote_average": 5.957,
+            "vote_count": 1057
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h0uGdJyZ5o74p0E600oKYyaoDhw.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 588182,
+            "original_language": "fi",
+            "original_title": "Hytti nro 6",
+            "overview": "A young Finnish woman escapes an enigmatic love affair in Moscow by boarding a train to the arctic port of Murmansk. Forced to share the long ride and a tiny sleeping car with a larger than life Russian miner, the unexpected encounter leads the occupants of Compartment No. 6 to face major truths about human connection.",
+            "popularity": 0.9657,
+            "poster_path": "/3KUsYQmQXVCMrnGnQIoqkj5MJUP.jpg",
+            "release_date": "2021-10-29",
+            "title": "Compartment No. 6",
+            "video": false,
+            "vote_average": 6.984,
+            "vote_count": 418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mZ8sJuUtX5uZ5w5bpEKPMCTUxTE.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 776551,
+            "original_language": "om",
+            "original_title": "Faya Dayi",
+            "overview": "A spiritual journey into the highlands of Harar, immersed in the rituals of khat, a leaf Sufi Muslims chewed for centuries for religious meditations \u2013 and Ethiopia\u2019s most lucrative cash crop today. A tapestry of intimate stories offers a window into the dreams of youth under a repressive regime.",
+            "popularity": 0.1682,
+            "poster_path": "/hAox3Mf8n0B0H9jIWlx03paC6bb.jpg",
+            "release_date": "2021-09-03",
+            "title": "Faya Dayi",
+            "video": false,
+            "vote_average": 7.643,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gOBKWe6lHlt8srk11TFlDuBtl0H.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 680058,
+            "original_language": "en",
+            "original_title": "The Rescue",
+            "overview": "The enthralling, against-all-odds story that transfixed the world in 2018: the daring rescue of twelve boys and their coach from deep inside a flooded cave in Northern Thailand.",
+            "popularity": 0.7965,
+            "poster_path": "/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg",
+            "release_date": "2021-10-08",
+            "title": "The Rescue",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
+            "genre_ids": [
+                35,
+                12,
+                878
+            ],
+            "id": 550988,
+            "original_language": "en",
+            "original_title": "Free Guy",
+            "overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+            "popularity": 10.1298,
+            "poster_path": "/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg",
+            "release_date": "2021-08-11",
+            "title": "Free Guy",
+            "video": false,
+            "vote_average": 7.477,
+            "vote_count": 9153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nU4o2WDFKG18FZMC5XHrR2Dndjv.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 517815,
+            "original_language": "de",
+            "original_title": "Das M\u00e4dchen und die Spinne",
+            "overview": "Lisa is moving. Upheaval all around: Her mother flirts with a handyman. An eccentric woman seems to be preparing for a glamorous event, a family next door returns from vacation, and a girl documents the adventurous day. As boxes are transported, walls painted white, and furniture is assembled, underlying problems in need of fixing are revealed, a to-do list expands, and desires and needs flair up.",
+            "popularity": 0.2161,
+            "poster_path": "/4tBtcy3vidUUvKm0MU29dyvfxQD.jpg",
+            "release_date": "2021-05-13",
+            "title": "The Girl and the Spider",
+            "video": false,
+            "vote_average": 5.809,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/huzHIuaWRMDIAB8jIXYAwE7CJzS.jpg",
+            "genre_ids": [
+                35,
+                80,
+                12
+            ],
+            "id": 337404,
+            "original_language": "en",
+            "original_title": "Cruella",
+            "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella\u2019s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+            "popularity": 12.9376,
+            "poster_path": "/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
+            "release_date": "2021-05-26",
+            "title": "Cruella",
+            "video": false,
+            "vote_average": 7.991,
+            "vote_count": 9648
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xVZijHBpoQCuH1RjLDmDHjwrCzM.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 588367,
+            "original_language": "en",
+            "original_title": "The Humans",
+            "overview": "Erik Blake has gathered three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter\u2019s apartment in lower Manhattan. As darkness falls outside and eerie things start to go bump in the night, the group\u2019s deepest fears are laid bare.",
+            "popularity": 1.1085,
+            "poster_path": "/gQsDWmkvzzJxlrc3HCqkfQRH11.jpg",
+            "release_date": "2021-11-24",
+            "title": "The Humans",
+            "video": false,
+            "vote_average": 6.113,
+            "vote_count": 194
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/32yqxyLlWcO81UCx51Jfq9aeJdA.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                27
+            ],
+            "id": 631843,
+            "original_language": "en",
+            "original_title": "Old",
+            "overview": "A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly \u2013 reducing their entire lives into a single day.",
+            "popularity": 4.6727,
+            "poster_path": "/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
+            "release_date": "2021-07-21",
+            "title": "Old",
+            "video": false,
+            "vote_average": 6.33,
+            "vote_count": 4626
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6VZF8JVNOgJX56WCapYaqcVQiAw.jpg",
+            "genre_ids": [
+                18,
+                80,
+                36
+            ],
+            "id": 644495,
+            "original_language": "en",
+            "original_title": "House of Gucci",
+            "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately\u2026 murder.",
+            "popularity": 4.087,
+            "poster_path": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+            "release_date": "2021-11-24",
+            "title": "House of Gucci",
+            "video": false,
+            "vote_average": 6.59,
+            "vote_count": 3231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 791373,
+            "original_language": "en",
+            "original_title": "Zack Snyder's Justice League",
+            "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+            "popularity": 19.8043,
+            "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+            "release_date": "2021-03-18",
+            "title": "Zack Snyder's Justice League",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 10289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WToT7QLZMkupWysQKLUpyJYnAf.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                80
+            ],
+            "id": 835975,
+            "original_language": "de",
+            "original_title": "Gro\u00dfe Freiheit",
+            "overview": "In post-war Germany, liberation by the Allies does not mean freedom for everyone. Hans Hoffmann is repeatedly imprisoned under Paragraph 175, which criminalizes homosexuality. Nevertheless, over the decades, he continues his quest for freedom and love, even if he finds it in the most unusual places.",
+            "popularity": 0.7168,
+            "poster_path": "/vbx3xp83wLo3ocdzhs3BvGHcrsF.jpg",
+            "release_date": "2021-11-18",
+            "title": "Great Freedom",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 174
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dqcZi5qWufkKUZXAxG3EqWjAM9c.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 659954,
+            "original_language": "fr",
+            "original_title": "Azor",
+            "overview": "Yvan De Wiel, a private banker from Geneva, is going to Argentina in the midst of a dictatorship to replace his partner, the object of the most worrying rumors, who disappeared overnight. Between hushed lounges, swimming pools, and gardens under surveillance, a remote duel takes place between two bankers who, despite different methods, are the accomplices of a discreet and merciless form of colonization.",
+            "popularity": 0.5122,
+            "poster_path": "/qciSIhwpjS3NtzW4VcgSzxK04sG.jpg",
+            "release_date": "2021-09-10",
+            "title": "Azor",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8elBDylFThvAsuwYdBAsCQC9l0Z.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 776485,
+            "original_language": "en",
+            "original_title": "The Sparks Brothers",
+            "overview": "Take a musical odyssey through five weird and wonderful decades with brothers Ron & Russell Mael, celebrating the inspiring legacy of Sparks: your favorite band\u2019s favorite band.",
+            "popularity": 0.571,
+            "poster_path": "/e8jtG3WS0Ku7Dh4fBne1rgriXZt.jpg",
+            "release_date": "2021-06-18",
+            "title": "The Sparks Brothers",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5AlTT97P209obOB9zRoyYDrzLkZ.jpg",
+            "genre_ids": [
+                878,
+                35,
+                10749
+            ],
+            "id": 795813,
+            "original_language": "de",
+            "original_title": "Ich bin dein Mensch",
+            "overview": "Alma is a scientist coerced into participating in an extraordinary study in order to obtain research funds for her work. For three weeks, she has to live with a humanoid robot tailored to her character and needs, whose artificial intelligence is designed to be the perfect life partner for her. Enter Tom, a machine in human form in a class of its own, created solely to make her happy.",
+            "popularity": 1.0302,
+            "poster_path": "/v13p6KlgD7Y1Tas6X8GLJzv5zRe.jpg",
+            "release_date": "2021-07-01",
+            "title": "I'm Your Man",
+            "video": false,
+            "vote_average": 6.787,
+            "vote_count": 329
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uWeffFhprUohUL5GO3YfQqdsVrI.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 615457,
+            "original_language": "en",
+            "original_title": "Nobody",
+            "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor \u2014 a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+            "popularity": 11.3912,
+            "poster_path": "/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+            "release_date": "2021-03-18",
+            "title": "Nobody",
+            "video": false,
+            "vote_average": 7.924,
+            "vote_count": 7486
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family\u2014every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+            "popularity": 16.1905,
+            "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "release_date": "2021-10-13",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.589,
+            "vote_count": 9784
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x5t4isLoBmetWszgZRD1LI1VgQX.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 637254,
+            "original_language": "en",
+            "original_title": "Test Pattern",
+            "overview": "A relationship is put to the test after the girlfriend is sexually assaulted and the boyfriend drives her from hospital to hospital in search of a rape kit.",
+            "popularity": 0.32,
+            "poster_path": "/26TUusJoyE5G1KVpu2IijUi9hbi.jpg",
+            "release_date": "2021-02-19",
+            "title": "Test Pattern",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4EzACZzvKwPdS0qkU6hCuwG5pa7.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 900877,
+            "original_language": "en",
+            "original_title": "Playground",
+            "overview": "2006, Northern Italy. In a provincial playground, a young mother and her children are waiting for their friends. Their arrival is imminent, the chessboard is ready.",
+            "popularity": 0.2228,
+            "poster_path": "/z2ROBKMuGON5tWw0tV6h3gcFY2c.jpg",
+            "release_date": "2021-10-14",
+            "title": "Playground",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WMm3FiXamite35YGKDQpbmFF6w.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 838148,
+            "original_language": "hr",
+            "original_title": "Murina",
+            "overview": "A teenage girl decides to replace her controlling father with his wealthy foreign friend during a weekend trip to the Adriatic Sea.",
+            "popularity": 0.8255,
+            "poster_path": "/gK51yeJpaSFjQhBZdljYYiBXBTS.jpg",
+            "release_date": "2022-04-08",
+            "title": "Murina",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/biUrxGIyrJjMGwASrPECVbrh6w4.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 663866,
+            "original_language": "en",
+            "original_title": "Censor",
+            "overview": "A screener at the British Board of Film Classification (BBFC), who has earned an unsavory reputation for being the strictest censor of violent films, begins to spiral out of control after viewing a low-budget horror with similarities to the disappearance of her sister.",
+            "popularity": 1.1795,
+            "poster_path": "/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg",
+            "release_date": "2021-06-11",
+            "title": "Censor",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 411
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rBulXOnHzR95TL35U9SMAaAMD58.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 660708,
+            "original_language": "it",
+            "original_title": "Il buco",
+            "overview": "In August 1961, speleologists from Italy\u2019s booming North arrive on a Calabrian plateau where time stands still. The intruders discover one of the world\u2019s deepest caves, the Bifurto Abyss, under the gaze of an old shepherd, the only witness of the pristine territory.",
+            "popularity": 0.404,
+            "poster_path": "/7KCL9qcY4gqtb1uzCqdsdvmVLBK.jpg",
+            "release_date": "2021-09-22",
+            "title": "Il Buco",
+            "video": false,
+            "vote_average": 6.282,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xY4DoPy001VhpirlSu9iNyPS4t5.jpg",
+            "genre_ids": [
+                878,
+                28,
+                18
+            ],
+            "id": 818914,
+            "original_language": "ja",
+            "original_title": "\u30bc\u30ed\u30ef\u30f3 Others \u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u6ec5\u4ea1\u8fc5\u96f7",
+            "overview": "ZAIA Enterprise CEO Leon Arkland has abducted Jin away from Metsuboujinrai.net. A large number of soldier-model Huma Gears \"Sold\" were seen by Naki and Ikazuchi while rescuing Jin. The intention of Leon Arkland was to mass-produce \"Sold\" and sell them as weapons all over the world. Jin is indignant at the fact that Humagears are about to be used as a weapon, and tells the other members of Metsuboujinrai.net that he wants to free the \"Solds\".  Four people who transform into Kamen Riders will fight to release the \"Solds\". However, something unexpected happened... What happened to Jin, while he was captured by Leon? According to Leon's plan, the being that poses the \"greatest threat\" to humankind is about to be born in a surprising way...",
+            "popularity": 0.3774,
+            "poster_path": "/tuPKJyp8tPS5gqnDzVRjk4Q6A8J.jpg",
+            "release_date": "2021-03-26",
+            "title": "Zero-One Others: Kamen Rider Metsuboujinrai",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qzdNr1PyxNVBO7T9tjreXLGZCdq.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 838146,
+            "original_language": "pt",
+            "original_title": "Di\u00e1rios de Otsoga",
+            "overview": "Crista, Carloto and Jo\u00e3o are building an airy greenhouse for butterflies in the garden. The three of them share household routines, day after day\u2026 And they are not the only ones.",
+            "popularity": 0.2375,
+            "poster_path": "/1IFh89w4BrQNxFbmpuko7WqZLGo.jpg",
+            "release_date": "2021-07-14",
+            "title": "The Tsugua Diaries",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/K6O04LC7yMfvJNd65RCPKKINzV.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 838145,
+            "original_language": "bn",
+            "original_title": "\u0915\u0941\u091b \u092d\u0940 \u0928 \u091c\u093e\u0928\u0928\u0947 \u0915\u0940 \u090f\u0915 \u0930\u093e\u0924",
+            "overview": "L, a student in India witness to the government's violent response to university protests, writes letters to her estranged lover while he is away.",
+            "popularity": 0.4931,
+            "poster_path": "/34tv7dVLl1arMD1ZB4v07GYqsAb.jpg",
+            "release_date": "2022-04-13",
+            "title": "A Night of Knowing Nothing",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kAWuPB29NxE5DlDrgJklAFDwfQC.jpg",
+            "genre_ids": [
+                16,
+                14
+            ],
+            "id": 776660,
+            "original_language": "en",
+            "original_title": "Cryptozoo",
+            "overview": "Cryptozookeepers try to capture a Baku, a dream-eating hybrid creature of legend, and start wondering if they should display these beasts or keep them hidden and unknown.",
+            "popularity": 0.6101,
+            "poster_path": "/xABkUfBl7YG0Z2uIkYMMd5SjTum.jpg",
+            "release_date": "2021-08-20",
+            "title": "Cryptozoo",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o7qbLdslYik6b8TDpepzTAo2RBx.jpg",
+            "genre_ids": [
+                37,
+                28,
+                18
+            ],
+            "id": 785663,
+            "original_language": "en",
+            "original_title": "Old Henry",
+            "overview": "A widowed farmer and his son warily take in a mysterious, injured man with a satchel of cash. When a posse of men claiming to be the law come for the money, the farmer must decide who to trust. Defending a siege of his homestead, the farmer reveals a talent for gun-slinging that surprises everyone calling his true identity into question.",
+            "popularity": 2.0536,
+            "poster_path": "/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
+            "release_date": "2021-10-01",
+            "title": "Old Henry",
+            "video": false,
+            "vote_average": 7.26,
+            "vote_count": 605
+        }
+    ]
+}

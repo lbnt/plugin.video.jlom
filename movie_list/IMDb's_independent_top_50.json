@@ -1,0 +1,977 @@
+{
+    "type": "movie_list",
+    "title": "IMDb's Independent Top 50",
+    "source": "https://wwww.imdb.com",
+    "created_by": "lbnt",
+    "added": "11/21/25",
+    "modified": "11/21/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+            "genre_ids": [
+                53,
+                80,
+                35
+            ],
+            "id": 680,
+            "original_language": "en",
+            "original_title": "Pulp Fiction",
+            "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+            "popularity": 18.0921,
+            "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "release_date": "1994-09-10",
+            "title": "Pulp Fiction",
+            "video": false,
+            "vote_average": 8.488,
+            "vote_count": 29287
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 429,
+            "original_language": "it",
+            "original_title": "Il buono, il brutto, il cattivo",
+            "overview": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+            "popularity": 9.7953,
+            "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+            "release_date": "1966-12-22",
+            "title": "The Good, the Bad and the Ugly",
+            "video": false,
+            "vote_average": 8.463,
+            "vote_count": 9258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hkKTtlHjiVUW5XRfkQfl3FmJUfX.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 807,
+            "original_language": "en",
+            "original_title": "Se7en",
+            "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+            "popularity": 13.7786,
+            "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+            "release_date": "1995-09-22",
+            "title": "Se7en",
+            "video": false,
+            "vote_average": 8.377,
+            "vote_count": 22294
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/umaoScaCsfl9g2dyrXrvMPp59Q7.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 280,
+            "original_language": "en",
+            "original_title": "Terminator 2: Judgment Day",
+            "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+            "popularity": 10.5957,
+            "poster_path": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+            "release_date": "1991-07-03",
+            "title": "Terminator 2: Judgment Day",
+            "video": false,
+            "vote_average": 8.134,
+            "vote_count": 13697
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Oa3zTiluBz2W8D2ou1MY16dUiF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 510,
+            "original_language": "en",
+            "original_title": "One Flew Over the Cuckoo's Nest",
+            "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.",
+            "popularity": 11.346,
+            "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+            "release_date": "1975-11-19",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "video": false,
+            "vote_average": 8.413,
+            "vote_count": 11041
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                14
+            ],
+            "id": 1585,
+            "original_language": "en",
+            "original_title": "It's a Wonderful Life",
+            "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+            "popularity": 7.6251,
+            "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+            "release_date": "1946-12-20",
+            "title": "It's a Wonderful Life",
+            "video": false,
+            "vote_average": 8.275,
+            "vote_count": 4647
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 539,
+            "original_language": "en",
+            "original_title": "Psycho",
+            "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+            "popularity": 7.8506,
+            "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+            "release_date": "1960-06-22",
+            "title": "Psycho",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 10625
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 629,
+            "original_language": "en",
+            "original_title": "The Usual Suspects",
+            "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor \u2013 leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+            "popularity": 8.182,
+            "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+            "release_date": "1995-07-19",
+            "title": "The Usual Suspects",
+            "video": false,
+            "vote_average": 8.173,
+            "vote_count": 10966
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jynfI114q3kOAbIiVjVfFFmttU2.jpg",
+            "genre_ids": [
+                80,
+                18,
+                28
+            ],
+            "id": 101,
+            "original_language": "fr",
+            "original_title": "L\u00e9on",
+            "overview": "L\u00e9on, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in L\u00e9on's footsteps.",
+            "popularity": 10.4994,
+            "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+            "release_date": "1994-09-14",
+            "title": "L\u00e9on: The Professional",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 15572
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 77,
+            "original_language": "en",
+            "original_title": "Memento",
+            "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "popularity": 10.6669,
+            "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_date": "2000-10-11",
+            "title": "Memento",
+            "video": false,
+            "vote_average": 8.178,
+            "vote_count": 15674
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 28,
+            "original_language": "en",
+            "original_title": "Apocalypse Now",
+            "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+            "popularity": 6.5325,
+            "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+            "release_date": "1979-05-19",
+            "title": "Apocalypse Now",
+            "video": false,
+            "vote_average": 8.271,
+            "vote_count": 8734
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+            "genre_ids": [
+                36,
+                10402,
+                18
+            ],
+            "id": 279,
+            "original_language": "en",
+            "original_title": "Amadeus",
+            "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+            "popularity": 4.5205,
+            "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+            "release_date": "1984-09-19",
+            "title": "Amadeus",
+            "video": false,
+            "vote_average": 8.026,
+            "vote_count": 4537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 975,
+            "original_language": "en",
+            "original_title": "Paths of Glory",
+            "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+            "popularity": 6.4185,
+            "poster_path": "/hGg1UCQSHlXfv2HI9bDHT2OQBam.jpg",
+            "release_date": "1957-10-25",
+            "title": "Paths of Glory",
+            "video": false,
+            "vote_average": 8.26,
+            "vote_count": 3129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 489,
+            "original_language": "en",
+            "original_title": "Good Will Hunting",
+            "overview": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+            "popularity": 11.6278,
+            "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+            "release_date": "1997-12-05",
+            "title": "Good Will Hunting",
+            "video": false,
+            "vote_average": 8.157,
+            "vote_count": 13259
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7tZt3PA948fvSTFx0699YF44Tdt.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 641,
+            "original_language": "en",
+            "original_title": "Requiem for a Dream",
+            "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "popularity": 2.7363,
+            "poster_path": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "release_date": "2000-10-06",
+            "title": "Requiem for a Dream",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 10582
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/744ybMaYRry1IQKoDakMc4GEU4L.jpg",
+            "genre_ids": [
+                878,
+                18,
+                10749
+            ],
+            "id": 38,
+            "original_language": "en",
+            "original_title": "Eternal Sunshine of the Spotless Mind",
+            "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "popularity": 8.8797,
+            "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_date": "2004-03-19",
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "video": false,
+            "vote_average": 8.092,
+            "vote_count": 15811
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kXluiwt2DIIqoiEGR5AMA0QobCt.jpg",
+            "genre_ids": [
+                878,
+                9648,
+                12
+            ],
+            "id": 62,
+            "original_language": "en",
+            "original_title": "2001: A Space Odyssey",
+            "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+            "popularity": 10.7673,
+            "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+            "release_date": "1968-04-02",
+            "title": "2001: A Space Odyssey",
+            "video": false,
+            "vote_average": 8.063,
+            "vote_count": 12155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eohMDv8x1XRSkPdjWv5xsFct4Dj.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 500,
+            "original_language": "en",
+            "original_title": "Reservoir Dogs",
+            "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+            "popularity": 8.1349,
+            "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+            "release_date": "1992-09-02",
+            "title": "Reservoir Dogs",
+            "video": false,
+            "vote_average": 8.118,
+            "vote_count": 14959
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 935,
+            "original_language": "en",
+            "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+            "popularity": 3.2385,
+            "poster_path": "/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
+            "release_date": "1964-01-29",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "video": false,
+            "vote_average": 8.125,
+            "vote_count": 5939
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 24,
+            "original_language": "en",
+            "original_title": "Kill Bill: Vol. 1",
+            "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+            "popularity": 9.6061,
+            "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+            "release_date": "2003-10-10",
+            "title": "Kill Bill: Vol. 1",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 18289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 938,
+            "original_language": "it",
+            "original_title": "Per qualche dollaro in pi\u00f9",
+            "overview": "Two bounty hunters both pursue the brutal and sadistic bandit, El Indio, who has a large bounty on his head.",
+            "popularity": 4.8469,
+            "poster_path": "/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+            "release_date": "1965-12-18",
+            "title": "For a Few Dollars More",
+            "video": false,
+            "vote_average": 8.017,
+            "vote_count": 4260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+            "genre_ids": [
+                12,
+                35,
+                14
+            ],
+            "id": 762,
+            "original_language": "en",
+            "original_title": "Monty Python and the Holy Grail",
+            "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+            "popularity": 5.1549,
+            "poster_path": "/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
+            "release_date": "1975-04-03",
+            "title": "Monty Python and the Holy Grail",
+            "video": false,
+            "vote_average": 7.806,
+            "vote_count": 6151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mlxKite1x1PgmIhJgAxNS9eHmH8.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35,
+                14
+            ],
+            "id": 508965,
+            "original_language": "en",
+            "original_title": "Klaus",
+            "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
+            "popularity": 4.755,
+            "poster_path": "/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+            "release_date": "2019-11-08",
+            "title": "Klaus",
+            "video": false,
+            "vote_average": 8.23,
+            "vote_count": 4395
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 218,
+            "original_language": "en",
+            "original_title": "The Terminator",
+            "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+            "popularity": 11.5017,
+            "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+            "release_date": "1984-10-26",
+            "title": "The Terminator",
+            "video": false,
+            "vote_average": 7.673,
+            "vote_count": 13985
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wlpjRBQdRSVdu2a8icYZaIp2xmt.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 115,
+            "original_language": "en",
+            "original_title": "The Big Lebowski",
+            "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+            "popularity": 7.6927,
+            "poster_path": "/9mprbw31MGdd66LR0AQKoDMoFRv.jpg",
+            "release_date": "1998-03-06",
+            "title": "The Big Lebowski",
+            "video": false,
+            "vote_average": 7.841,
+            "vote_count": 11777
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wUc83y8kXNdRK66o0HU5X8eBri4.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 627,
+            "original_language": "en",
+            "original_title": "Trainspotting",
+            "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+            "popularity": 3.8449,
+            "poster_path": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+            "release_date": "1996-02-23",
+            "title": "Trainspotting",
+            "video": false,
+            "vote_average": 7.961,
+            "vote_count": 10090
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 275,
+            "original_language": "en",
+            "original_title": "Fargo",
+            "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+            "popularity": 5.4907,
+            "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+            "release_date": "1996-03-08",
+            "title": "Fargo",
+            "video": false,
+            "vote_average": 7.852,
+            "vote_count": 8667
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1366,
+            "original_language": "en",
+            "original_title": "Rocky",
+            "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time \u2014 a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+            "popularity": 9.1184,
+            "poster_path": "/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+            "release_date": "1976-11-20",
+            "title": "Rocky",
+            "video": false,
+            "vote_average": 7.792,
+            "vote_count": 8308
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "id": 96721,
+            "original_language": "en",
+            "original_title": "Rush",
+            "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+            "popularity": 4.9531,
+            "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+            "release_date": "2013-09-02",
+            "title": "Rush",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 7552
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 100,
+            "original_language": "en",
+            "original_title": "Lock, Stock and Two Smoking Barrels",
+            "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+            "popularity": 2.0585,
+            "poster_path": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+            "release_date": "1998-08-28",
+            "title": "Lock, Stock and Two Smoking Barrels",
+            "video": false,
+            "vote_average": 8.104,
+            "vote_count": 6934
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 80,
+            "original_language": "en",
+            "original_title": "Before Sunset",
+            "overview": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+            "popularity": 5.5558,
+            "poster_path": "/gycdE1ARByGQcK4fYR2mgpU6OO.jpg",
+            "release_date": "2004-06-16",
+            "title": "Before Sunset",
+            "video": false,
+            "vote_average": 7.807,
+            "vote_count": 3622
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jkvvXaN7FPVKGlk8oj9PL0FHNtj.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 205,
+            "original_language": "en",
+            "original_title": "Hotel Rwanda",
+            "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+            "popularity": 6.9319,
+            "poster_path": "/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+            "release_date": "2004-12-22",
+            "title": "Hotel Rwanda",
+            "video": false,
+            "vote_average": 7.715,
+            "vote_count": 3023
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+            "genre_ids": [
+                16,
+                35,
+                18
+            ],
+            "id": 24238,
+            "original_language": "en",
+            "original_title": "Mary and Max",
+            "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+            "popularity": 3.6757,
+            "poster_path": "/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+            "release_date": "2009-04-09",
+            "title": "Mary and Max",
+            "video": false,
+            "vote_average": 7.88,
+            "vote_count": 2144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rqODzehgQ8Hl0tcUd7qIcy8Pc9Z.jpg",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                36
+            ],
+            "id": 26842,
+            "original_language": "en",
+            "original_title": "The Message",
+            "overview": "In sixth-century Mecca, Prophet Muhammad receives his first revelation from God as a messenger. Three years later, he's not alone in his quest and publicly declares his prophecy. Muhammad is fought by Abu Sufian and his wife Hind, rulers of Mecca. Muhammad's followers are hunted and tortured but he continues his calling.",
+            "popularity": 4.6072,
+            "poster_path": "/qVCBMg4ZuLPnWhIWJHD9IP4nIuY.jpg",
+            "release_date": "1976-03-09",
+            "title": "The Message",
+            "video": false,
+            "vote_average": 7.212,
+            "vote_count": 377
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+            "genre_ids": [
+                14,
+                18,
+                9648
+            ],
+            "id": 141,
+            "original_language": "en",
+            "original_title": "Donnie Darko",
+            "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+            "popularity": 6.1996,
+            "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+            "release_date": "2001-01-19",
+            "title": "Donnie Darko",
+            "video": false,
+            "vote_average": 7.767,
+            "vote_count": 13007
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1YRtgjLb5xxUb2rsNRnr54Oc0B2.jpg",
+            "genre_ids": [
+                16,
+                53
+            ],
+            "id": 10494,
+            "original_language": "ja",
+            "original_title": "PERFECT BLUE",
+            "overview": "Rising pop star Mima quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+            "popularity": 6.0583,
+            "poster_path": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+            "release_date": "1998-02-28",
+            "title": "Perfect Blue",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 2977
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/87tmTU1NSR5EUGTKsF5rhLwZtZc.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 5915,
+            "original_language": "en",
+            "original_title": "Into the Wild",
+            "overview": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+            "popularity": 3.9848,
+            "poster_path": "/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+            "release_date": "2007-09-21",
+            "title": "Into the Wild",
+            "video": false,
+            "vote_average": 7.799,
+            "vote_count": 9875
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 187,
+            "original_language": "en",
+            "original_title": "Sin City",
+            "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark\u2026 Hard-boiled. Then there are those who call it home \u2014 Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+            "popularity": 6.5911,
+            "poster_path": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+            "release_date": "2005-04-01",
+            "title": "Sin City",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 8540
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+            "genre_ids": [
+                12,
+                18,
+                37
+            ],
+            "id": 581,
+            "original_language": "en",
+            "original_title": "Dances with Wolves",
+            "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide\u2014and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+            "popularity": 8.6589,
+            "poster_path": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+            "release_date": "1990-03-30",
+            "title": "Dances with Wolves",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4507
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 45269,
+            "original_language": "en",
+            "original_title": "The King's Speech",
+            "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+            "popularity": 4.7674,
+            "poster_path": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+            "release_date": "2010-11-26",
+            "title": "The King's Speech",
+            "video": false,
+            "vote_average": 7.736,
+            "vote_count": 9055
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 37247,
+            "original_language": "en",
+            "original_title": "The Graduate",
+            "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+            "popularity": 4.9601,
+            "poster_path": "/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg",
+            "release_date": "1967-12-21",
+            "title": "The Graduate",
+            "video": false,
+            "vote_average": 7.634,
+            "vote_count": 3548
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+            "genre_ids": [
+                53,
+                18,
+                27
+            ],
+            "id": 10242,
+            "original_language": "en",
+            "original_title": "What Ever Happened to Baby Jane?",
+            "overview": "A former vaudeville child star viciously torments her paraplegic sister in their decaying Hollywood mansion.",
+            "popularity": 2.0778,
+            "poster_path": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+            "release_date": "1962-10-31",
+            "title": "What Ever Happened to Baby Jane?",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+            "genre_ids": [
+                16,
+                878,
+                28
+            ],
+            "id": 149,
+            "original_language": "ja",
+            "original_title": "AKIRA",
+            "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+            "popularity": 7.8334,
+            "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+            "release_date": "1988-06-10",
+            "title": "Akira",
+            "video": false,
+            "vote_average": 7.938,
+            "vote_count": 4557
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fmd17jnQxHanXC6wqqXRLocm60O.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 5924,
+            "original_language": "en",
+            "original_title": "Papillon",
+            "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+            "popularity": 2.7847,
+            "poster_path": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+            "release_date": "1973-12-16",
+            "title": "Papillon",
+            "video": false,
+            "vote_average": 7.828,
+            "vote_count": 2031
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y2FNZLHynsevBnVTocGW6c3pQpr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 422,
+            "original_language": "it",
+            "original_title": "8\u00bd",
+            "overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers\u2014his producer, staff, actors, wife, mistress, and relatives\u2014each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+            "popularity": 3.3743,
+            "poster_path": "/d7wXtJ173oHtoCwxbe7Z5uXZ4Gv.jpg",
+            "release_date": "1963-02-14",
+            "title": "8\u00bd",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 2439
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uEDizvdHBsarl50THlJ9CXpClqq.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 55,
+            "original_language": "es",
+            "original_title": "Amores perros",
+            "overview": "A fatalistic car crash in Mexico city sets off a chain of events in the lives of three people: a supermodel, a young man wanting to run off with his sister-in-law, and a homeless man. Their lives are catapulted into unforeseen situations instigated by the seemingly inconsequential destiny of a dog.",
+            "popularity": 8.6182,
+            "poster_path": "/60AQ3SfsejgSJrEUQUk89yP6LTr.jpg",
+            "release_date": "2000-06-16",
+            "title": "Amores Perros",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 2783
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 404,
+            "original_language": "en",
+            "original_title": "The Straight Story",
+            "overview": "A retired farmer and widower in his 70s, Alvin Straight learns one day that his distant brother Lyle has suffered a stroke and may not recover. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. Then he hits on the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+            "popularity": 4.5422,
+            "poster_path": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+            "release_date": "1999-10-15",
+            "title": "The Straight Story",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 1698
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s0MYaSiEZy9H0cXxxay5LEdcxYs.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 12498,
+            "original_language": "en",
+            "original_title": "Sling Blade",
+            "overview": "Karl Childers, a mentally disabled man, has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, he is deemed fit to be released into the outside world.",
+            "popularity": 4.718,
+            "poster_path": "/ivBIBd1LNaozcmytZUyE1yIXZms.jpg",
+            "release_date": "1996-08-30",
+            "title": "Sling Blade",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 829
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oYOZay9hyW3uI5paKWLIYkWZlzv.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 925,
+            "original_language": "en",
+            "original_title": "Do the Right Thing",
+            "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+            "popularity": 1.9063,
+            "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+            "release_date": "1989-06-14",
+            "title": "Do the Right Thing",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1906
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 29845,
+            "original_language": "en",
+            "original_title": "A Woman Under the Influence",
+            "overview": "Mabel Longhetti, desperate and lonely, is married to a Los Angeles municipal construction worker, Nick. Increasingly unstable, especially in the company of others, she craves happiness, but her extremely volatile behavior convinces Nick that she poses a danger to their family and decides to commit her to an institution for six months. Alone with a trio of kids to raise on his own, he awaits her return, which holds more than a few surprises.",
+            "popularity": 3.22,
+            "poster_path": "/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+            "release_date": "1974-11-18",
+            "title": "A Woman Under the Influence",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 536
+        }
+    ]
+}

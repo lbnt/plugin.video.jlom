@@ -1,0 +1,18 @@
+{
+    "type" : "folder_list",
+    "title" : "Adventure",
+    "added" : "10/10/24",
+    "modified" : "10/10/24",
+    "folders" : [
+        {
+            "title" : "Rotten Tomatoes - 60 Essential Adventure Movies",
+            "id" : "rottentomatoes-60_essential_adventure_movies",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Adventure Top 50",
+            "id" : "IMDb's_adventure_top_50",
+            "type" : "movie_list"
+        }
+    ]
+}

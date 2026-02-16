@@ -1,0 +1,88 @@
+{
+    "type" : "folder_list",
+    "title" : "By genre",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "Science-Fiction",
+            "id" : "scifi",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Comedies",
+            "id" : "comedy",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Action",
+            "id" : "action",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Adventure",
+            "id" : "adventure",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Drama",
+            "id" : "drama",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Horror",
+            "id" : "horror",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Romance",
+            "id" : "romance",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Musicals",
+            "id" : "musicals",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "War",
+            "id" : "war",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Western",
+            "id" : "western",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Historical",
+            "id" : "historical",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Sports",
+            "id" : "sports",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Fantasy",
+            "id" : "fantasy",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Animation",
+            "id" : "animation",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Thriller",
+            "id" : "thriller",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Other",
+            "id" : "other",
+            "type" : "folder_list"
+        }
+    ]
+}

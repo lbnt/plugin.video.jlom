@@ -1,0 +1,974 @@
+{
+    "type": "movie_list",
+    "title": "IMDb's Film Noir Top 50",
+    "source": "https://wwww.imdb.com",
+    "created_by": "lbnt",
+    "added": "11/21/25",
+    "modified": "11/21/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 599,
+            "original_language": "en",
+            "original_title": "Sunset Boulevard",
+            "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+            "popularity": 2.824,
+            "poster_path": "/oOZIN0sbRNLKQC4RRCQnmAx1PlV.jpg",
+            "release_date": "1950-08-10",
+            "title": "Sunset Boulevard",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 2792
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 996,
+            "original_language": "en",
+            "original_title": "Double Indemnity",
+            "overview": "A seductive housewife draws an insurance salesman into a plot of adultery and crime to collect on her husband's life insurance.",
+            "popularity": 2.148,
+            "poster_path": "/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg",
+            "release_date": "1944-07-06",
+            "title": "Double Indemnity",
+            "video": false,
+            "vote_average": 8.103,
+            "vote_count": 1928
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nWLMIG4xY4MO2ESGoVfoVemu2a5.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 29740,
+            "original_language": "en",
+            "original_title": "I Am a Fugitive from a Chain Gang",
+            "overview": "A World War I veteran\u2019s dreams of becoming a master architect evaporate in the cold light of economic realities. Things get even worse when he\u2019s falsely convicted of a crime and sent to work on a chain gang.",
+            "popularity": 1.9354,
+            "poster_path": "/jer6lim61i8V6a5HOZq2i07UQQf.jpg",
+            "release_date": "1932-11-09",
+            "title": "I Am a Fugitive from a Chain Gang",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 219
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l2iY1AgqQ8dEa3FtWkN5TQ5aVbU.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 1092,
+            "original_language": "en",
+            "original_title": "The Third Man",
+            "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+            "popularity": 3.1441,
+            "poster_path": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+            "release_date": "1949-08-31",
+            "title": "The Third Man",
+            "video": false,
+            "vote_average": 7.914,
+            "vote_count": 2009
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cap8458wFeRCJSKxL758dI82TRK.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 15794,
+            "original_language": "en",
+            "original_title": "White Heat",
+            "overview": "A psychopathic criminal with a mother complex makes a daring break from prison and then leads his old gang in a chemical plant payroll heist. After the heist, events take a crazy turn.",
+            "popularity": 3.5991,
+            "poster_path": "/v7cPOHKKZI9qChi7HDUxNIhEcLR.jpg",
+            "release_date": "1949-09-02",
+            "title": "White Heat",
+            "video": false,
+            "vote_average": 7.649,
+            "vote_count": 510
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zVJWPKbyv8ZPIbO6qcjE19dTgyn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25364,
+            "original_language": "en",
+            "original_title": "Ace in the Hole",
+            "overview": "An arrogant reporter exploits a story about a man trapped in a cave to revitalize his career.",
+            "popularity": 3.88,
+            "poster_path": "/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+            "release_date": "1951-06-29",
+            "title": "Ace in the Hole",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 708
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ngh5pnvXPceZYdeKZqO4OYS9VHF.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 3112,
+            "original_language": "en",
+            "original_title": "The Night of the Hunter",
+            "overview": "In Depression-era West Virginia, a serial-killing preacher hunts two young children who know the whereabouts of a stash of money.",
+            "popularity": 5.8085,
+            "poster_path": "/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+            "release_date": "1955-07-27",
+            "title": "The Night of the Hunter",
+            "video": false,
+            "vote_average": 7.875,
+            "vote_count": 1731
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9qGWOflC5WNhaKk2UPYu55SjjNj.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 678,
+            "original_language": "en",
+            "original_title": "Out of the Past",
+            "overview": "The peaceful life of a gas station owner is disrupted when a man from his past arrives in town and forces him to return to the dark world he had tried to escape.",
+            "popularity": 5.5068,
+            "poster_path": "/lnUK6Cg5ARM0qaq0B5SG20VAM0h.jpg",
+            "release_date": "1947-11-25",
+            "title": "Out of the Past",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 624
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 976,
+            "original_language": "en",
+            "original_title": "Sweet Smell of Success",
+            "overview": "New York City newspaper writer J.J. Hunsecker holds considerable sway over public opinion with his Broadway column, but one thing that he can't control is his younger sister, Susan, who is in a relationship with aspiring jazz guitarist Steve Dallas. Hunsecker strongly disapproves of the romance and recruits publicist Sidney Falco to find a way to split the couple, no matter how ruthless the method.",
+            "popularity": 3.6454,
+            "poster_path": "/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+            "release_date": "1957-07-04",
+            "title": "Sweet Smell of Success",
+            "video": false,
+            "vote_average": 7.591,
+            "vote_count": 552
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Tnn2UOlecCKNLKG8ZK5Mu6bK94.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 845,
+            "original_language": "en",
+            "original_title": "Strangers on a Train",
+            "overview": "A charming psychopath tries to coerce a tennis star into his theory that two strangers can commit the perfect crime by exchanging murders\u2014each killing the other\u2019s most-hated person.",
+            "popularity": 2.022,
+            "poster_path": "/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+            "release_date": "1951-06-27",
+            "title": "Strangers on a Train",
+            "video": false,
+            "vote_average": 7.665,
+            "vote_count": 1795
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 247,
+            "original_language": "en",
+            "original_title": "The Killing",
+            "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own.",
+            "popularity": 9.0226,
+            "poster_path": "/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
+            "release_date": "1956-06-06",
+            "title": "The Killing",
+            "video": false,
+            "vote_average": 7.649,
+            "vote_count": 1642
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/40Rl5nZRxXQ4kHV4Lhghj5iQZZN.jpg",
+            "genre_ids": [
+                53,
+                10749,
+                9648
+            ],
+            "id": 303,
+            "original_language": "en",
+            "original_title": "Notorious",
+            "overview": "In order to help bring Nazis to justice, U.S. government agent T.R. Devlin recruits Alicia Huberman, the American daughter of a convicted German war criminal, as a spy. As they begin to fall for one another, Alicia is instructed to win the affections of Alexander Sebastian, a Nazi hiding out in Brazil. When Sebastian becomes serious about his relationship with Alicia, the stakes get higher, and Devlin must watch her slip further undercover.",
+            "popularity": 5.2914,
+            "poster_path": "/4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg",
+            "release_date": "1946-08-21",
+            "title": "Notorious",
+            "video": false,
+            "vote_average": 7.747,
+            "vote_count": 1680
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                53
+            ],
+            "id": 963,
+            "original_language": "en",
+            "original_title": "The Maltese Falcon",
+            "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+            "popularity": 2.3066,
+            "poster_path": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+            "release_date": "1941-10-18",
+            "title": "The Maltese Falcon",
+            "video": false,
+            "vote_average": 7.707,
+            "vote_count": 1800
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hSmX0ZyYZk2ECIWtJ1JSHINPZIK.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                53
+            ],
+            "id": 910,
+            "original_language": "en",
+            "original_title": "The Big Sleep",
+            "overview": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
+            "popularity": 4.0956,
+            "poster_path": "/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+            "release_date": "1946-08-23",
+            "title": "The Big Sleep",
+            "video": false,
+            "vote_average": 7.602,
+            "vote_count": 1106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ousBoWTm1CltjAGSYOELYP0jFFC.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 1480,
+            "original_language": "en",
+            "original_title": "Touch of Evil",
+            "overview": "When a car bomb explodes on the American side of the U.S./Mexico border, Mexican drug enforcement agent Miguel Vargas begins his investigation, along with American police captain Hank Quinlan. When Vargas begins to suspect that Quinlan and his shady partner, Menzies, are planting evidence to frame an innocent man, his investigations into their possible corruption quickly put himself and his new bride, Susie, in jeopardy.",
+            "popularity": 4.4994,
+            "poster_path": "/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+            "release_date": "1958-03-30",
+            "title": "Touch of Evil",
+            "video": false,
+            "vote_average": 7.76,
+            "vote_count": 1532
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 1939,
+            "original_language": "en",
+            "original_title": "Laura",
+            "overview": "A police detective falls in love with the woman whose murder he's investigating.",
+            "popularity": 1.8791,
+            "poster_path": "/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg",
+            "release_date": "1944-11-26",
+            "title": "Laura",
+            "video": false,
+            "vote_average": 7.627,
+            "vote_count": 865
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aqZookq6pJmIT9lVIjDsBY2MNpK.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 14580,
+            "original_language": "en",
+            "original_title": "The Big Heat",
+            "overview": "After the suspicious suicide of a fellow cop, tough homicide detective Dave Bannion takes the law into his own hands when he sets out to smash a vicious crime syndicate.",
+            "popularity": 3.4332,
+            "poster_path": "/ezt6fb4JbghGKmaMzzuMtxpz0Kb.jpg",
+            "release_date": "1953-10-14",
+            "title": "The Big Heat",
+            "video": false,
+            "vote_average": 7.654,
+            "vote_count": 528
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 3309,
+            "original_language": "en",
+            "original_title": "Mildred Pierce",
+            "overview": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
+            "popularity": 6.3212,
+            "poster_path": "/3bqF5bJPjeITNeC8ydbUOQZfuqP.jpg",
+            "release_date": "1945-10-20",
+            "title": "Mildred Pierce",
+            "video": false,
+            "vote_average": 7.616,
+            "vote_count": 427
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a3eYLIK5eYSHAJTtOy9PdciVjxx.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28580,
+            "original_language": "en",
+            "original_title": "The Lost Weekend",
+            "overview": "Don Birnam, a long-time alcoholic, has been sober for ten days and appears to be over the worst... but his craving has just become more insidious. Evading a country weekend planned by his brother and girlfriend, he begins a four-day bender that just might be his last - one way or another.",
+            "popularity": 3.7541,
+            "poster_path": "/8ggIOoCzt8xT2ePl8DdlRtXgcOh.jpg",
+            "release_date": "1945-11-29",
+            "title": "The Lost Weekend",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 633
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/OfH6y4NfYpzHcA67nwT5TjhSzJ.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                9648
+            ],
+            "id": 17057,
+            "original_language": "en",
+            "original_title": "In a Lonely Place",
+            "overview": "A violent screenwriter and a female neighbor fall in love after she clears him of murder, but she begins to have second thoughts.",
+            "popularity": 1.2903,
+            "poster_path": "/vbdgtwzLOpE6MppZlyYChMagvQq.jpg",
+            "release_date": "1950-05-17",
+            "title": "In a Lonely Place",
+            "video": false,
+            "vote_average": 7.603,
+            "vote_count": 635
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bb36aEZwEvK2L01mgWQuC506CZg.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 13696,
+            "original_language": "en",
+            "original_title": "Angels with Dirty Faces",
+            "overview": "Childhood chums Rocky Sullivan and Jerry Connelly grow up on opposite sides of the fence: Rocky matures into a prominent gangster, while Jerry becomes a priest, tending to the needs of his old tenement neighborhood.",
+            "popularity": 4.0012,
+            "poster_path": "/k23E4UAcow8eczLRmVCMdukL4Mx.jpg",
+            "release_date": "1938-11-26",
+            "title": "Angels with Dirty Faces",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1p78xI6mywlqhb3tfw6oTJt7X3t.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 21734,
+            "original_language": "en",
+            "original_title": "Shadow of a Doubt",
+            "overview": "In sleepy Santa Rosa, restless young Charlie\u2019s world brightens when her sophisticated Uncle Charlie arrives for a long visit. But as his behavior grows increasingly strange, she begins to suspect that her beloved uncle may be hiding a terrible secret\u2014and that danger has quietly entered her home.",
+            "popularity": 2.2411,
+            "poster_path": "/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+            "release_date": "1943-01-15",
+            "title": "Shadow of a Doubt",
+            "video": false,
+            "vote_average": 7.51,
+            "vote_count": 1097
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uYRnUnBE4kk5ocvyBckRfMAsZpJ.jpg",
+            "genre_ids": [
+                12,
+                10749,
+                10752
+            ],
+            "id": 22584,
+            "original_language": "en",
+            "original_title": "To Have and Have Not",
+            "overview": "A Martinique charter boat skipper gets mixed up with the underground French resistance operatives during WWII.",
+            "popularity": 2.7467,
+            "poster_path": "/m9RYIio23yClaO3fy5tcpYac1Gf.jpg",
+            "release_date": "1945-01-20",
+            "title": "To Have and Have Not",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 545
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pDGkMdMHkl1qRAYmQjdLKVx3euQ.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 16958,
+            "original_language": "en",
+            "original_title": "The Asphalt Jungle",
+            "overview": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
+            "popularity": 0.9471,
+            "poster_path": "/8xsUnT0P2fJWQv9jGDhs3i9Zx2l.jpg",
+            "release_date": "1950-05-12",
+            "title": "The Asphalt Jungle",
+            "video": false,
+            "vote_average": 7.488,
+            "vote_count": 514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nRBw8JYA3Li1d40kJN4AFMi5TT3.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 14615,
+            "original_language": "en",
+            "original_title": "Fury",
+            "overview": "Joe, who owns a gas station along with his brothers and is about to marry Katherine, travels to the small town where she lives to visit her, but is wrongly mistaken for a wanted kidnapper and arrested.",
+            "popularity": 2.5901,
+            "poster_path": "/u1kjLTUqmqjDMlRxcwCqWagjf6r.jpg",
+            "release_date": "1936-06-05",
+            "title": "Fury",
+            "video": false,
+            "vote_average": 7.428,
+            "vote_count": 242
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/15mrnCjsVRJafPhdsRKvmbhu3S0.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 19119,
+            "original_language": "en",
+            "original_title": "Night and the City",
+            "overview": "Londoner Harry Fabian is a second-rate con man looking for an angle. After years of putting up with Harry's schemes, his girlfriend, Mary, becomes fed up when he taps her for yet another loan.",
+            "popularity": 2.715,
+            "poster_path": "/2NBmzm8z5fd283eWeECkPrkwta8.jpg",
+            "release_date": "1950-06-15",
+            "title": "Night and the City",
+            "video": false,
+            "vote_average": 7.478,
+            "vote_count": 268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mkI2oI6OdL8asZY3tJhI95UbvBD.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 17218,
+            "original_language": "en",
+            "original_title": "The Set-Up",
+            "overview": "Expecting the usual loss, a boxing manager takes bribes from a betting gangster without telling his fighter.",
+            "popularity": 2.0587,
+            "poster_path": "/uxE5LZP0RClXKsAqtrHQPiNLHzf.jpg",
+            "release_date": "1949-03-29",
+            "title": "The Set-Up",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w6XdWl6L2WDHJGw2FKySbi86WDg.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 14638,
+            "original_language": "en",
+            "original_title": "The Killers",
+            "overview": "Two hit men walk into a diner asking for a man called \"the Swede\". When the killers find the Swede, he's expecting them and doesn't put up a fight. Since the Swede had a life insurance policy, an investigator, on a hunch, decides to look into the murder. As the Swede's past is laid bare, it comes to light that he was in love with a beautiful woman who may have lured him into pulling off a bank robbery overseen by another man.",
+            "popularity": 1.1587,
+            "poster_path": "/uXnuc6pW01s1MDwb6QwBWg2JQeX.jpg",
+            "release_date": "1946-08-30",
+            "title": "The Killers",
+            "video": false,
+            "vote_average": 7.352,
+            "vote_count": 410
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m2SXRnAd0d5N6qH2cbgluRgMX4z.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 11016,
+            "original_language": "en",
+            "original_title": "Key Largo",
+            "overview": "A hurricane swells outside, but it's nothing compared to the storm within the hotel at Key Largo. There, sadistic mobster Johnny Rocco holes up - and holds at gunpoint hotel owner James Temple, his widowed daughter-in-law Nora, and ex-GI Frank McCloud.",
+            "popularity": 1.1529,
+            "poster_path": "/rySfmQQZhS7RswOiJcJrww6FcHy.jpg",
+            "release_date": "1948-07-16",
+            "title": "Key Largo",
+            "video": false,
+            "vote_average": 7.446,
+            "vote_count": 561
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3i6H4cVfvWh55sN1iXyeb8Q50nY.jpg",
+            "genre_ids": [
+                80,
+                28,
+                18
+            ],
+            "id": 877,
+            "original_language": "en",
+            "original_title": "Scarface",
+            "overview": "In 1920s Chicago, Italian immigrant and notorious thug, Antonio 'Tony' Camonte, aka Scarface, shoots his way to the top of the mobs while trying to protect his sister from the criminal life.",
+            "popularity": 1.829,
+            "poster_path": "/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
+            "release_date": "1932-04-09",
+            "title": "Scarface",
+            "video": false,
+            "vote_average": 7.442,
+            "vote_count": 650
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 17058,
+            "original_language": "en",
+            "original_title": "Scarlet Street",
+            "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much.",
+            "popularity": 5.403,
+            "poster_path": "/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg",
+            "release_date": "1945-12-25",
+            "title": "Scarlet Street",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 410
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x6z4EGl6KCqAnhFRH1ACRvpXgCM.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 19169,
+            "original_language": "en",
+            "original_title": "Nightmare Alley",
+            "overview": "A roustabout joins a traveling carny and unsuccessfully schemes to figure out the mind-reading act of Mademoiselle Zeena and her alcoholic husband.",
+            "popularity": 2.2947,
+            "poster_path": "/odlV13MZEswVyMBQ4fmmxLRHYT0.jpg",
+            "release_date": "1947-10-09",
+            "title": "Nightmare Alley",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 224
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3XHpq2c2gGWthqL9hk348PmZhSP.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10749
+            ],
+            "id": 17645,
+            "original_language": "en",
+            "original_title": "Leave Her to Heaven",
+            "overview": "A socialite marries a prominent novelist, which spurs a violent, obsessive, and dangerous jealousy in her.",
+            "popularity": 4.5401,
+            "poster_path": "/aUzQZt2UlaurZ3wlhzVXQb6PQk8.jpg",
+            "release_date": "1945-12-25",
+            "title": "Leave Her to Heaven",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2oQ9hnAYsoZH61PnjSkuX4Uvd2d.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                53
+            ],
+            "id": 3767,
+            "original_language": "en",
+            "original_title": "Gilda",
+            "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
+            "popularity": 3.8291,
+            "poster_path": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+            "release_date": "1946-04-25",
+            "title": "Gilda",
+            "video": false,
+            "vote_average": 7.473,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6vXnGv5ly9leE6QGBRCzrUuG2tG.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 17136,
+            "original_language": "en",
+            "original_title": "The Woman in the Window",
+            "overview": "A seductive woman gets an innocent professor mixed up in murder.",
+            "popularity": 4.3569,
+            "poster_path": "/i8jDpAWByVYaQZJXbsg8XqDOF5y.jpg",
+            "release_date": "1944-10-25",
+            "title": "The Woman in the Window",
+            "video": false,
+            "vote_average": 7.356,
+            "vote_count": 368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eR9S6iMbk4ycV7DcqvVxFp8lNFV.jpg",
+            "genre_ids": [
+                80,
+                10749
+            ],
+            "id": 18671,
+            "original_language": "en",
+            "original_title": "Gun Crazy",
+            "overview": "Bart Tare is an ex-Army man who has a lifelong fixation with guns, he meets a kindred spirit in sharpshooter Annie Starr and goes to work at a carnival. After upsetting the carnival owner who lusts after Starr, they both get fired. Soon, on Starr's behest, they embark on a crime spree for cash.",
+            "popularity": 2.6981,
+            "poster_path": "/kC1IIitCJTZLwZyuQnKw4zaOaXc.jpg",
+            "release_date": "1950-01-20",
+            "title": "Gun Crazy",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 292
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wrX24LRWYGZyvPr3W3SSM35QOd7.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 25955,
+            "original_language": "en",
+            "original_title": "Pickup on South Street",
+            "overview": "In New York City, an insolent pickpocket, Skip McCoy, inadvertently sets off a chain of events when he targets ex-prostitute Candy and steals her wallet. Unaware that she has been making deliveries of highly classified information to the communists, Candy, who has been trailed by FBI agents for months in hopes of nabbing the spy ringleader, is sent by her ex-boyfriend, Joey, to find Skip and retrieve the valuable microfilm he now holds.",
+            "popularity": 1.6404,
+            "poster_path": "/et4fY4BxLyAPwxvUFUbzCUrGsjR.jpg",
+            "release_date": "1953-05-27",
+            "title": "Pickup on South Street",
+            "video": false,
+            "vote_average": 7.343,
+            "vote_count": 306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eb4aHemLxnyjqTqPNAQA0q1oyCw.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 43461,
+            "original_language": "en",
+            "original_title": "Odd Man Out",
+            "overview": "Belfast police conduct a door-to-door manhunt for an IRA gunman wounded in a daring robbery.",
+            "popularity": 4.6656,
+            "poster_path": "/zfNkremz9WlWK5gIaqqFwElc7rz.jpg",
+            "release_date": "1947-01-30",
+            "title": "Odd Man Out",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 218
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/drtVPcIOUllCL5iVkEpe4XHikIr.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 19974,
+            "original_language": "en",
+            "original_title": "The Big Clock",
+            "overview": "George Stroud, a crime magazine's crusading editor, has to postpone a vacation with his wife - again - when a glamorous blonde is murdered and he is assigned by his publishing boss to find the killer. As the investigation proceeds to its conclusion, Stroud must try to disrupt his ordinarily brilliant investigative team as they increasingly build evidence that he is the killer.",
+            "popularity": 1.9517,
+            "poster_path": "/urnKMXbvNubipGbdqmXpXoNS2OO.jpg",
+            "release_date": "1948-03-18",
+            "title": "The Big Clock",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 171
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oUQm9dtU0vQsOLPbeVBolqGV1ie.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 29381,
+            "original_language": "en",
+            "original_title": "Caged",
+            "overview": "A single mistake puts a 19-year old girl behind bars, where she experiences the terrors and torments of women in prison.",
+            "popularity": 2.7959,
+            "poster_path": "/vvGyjfwGOQkB91XbzLJHmItiBIl.jpg",
+            "release_date": "1950-05-19",
+            "title": "Caged",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9A88YZ2qZhpE0RM7e6BDJeDX2fh.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 21631,
+            "original_language": "en",
+            "original_title": "The Fallen Idol",
+            "overview": "Phillipe, the son of an ambassador in London, hero-worships his father's butler Baines. His perception of the man changes when he accidentally discovers the secret that Baines keeps and witnesses the consequences that adults' lies can cause.",
+            "popularity": 2.967,
+            "poster_path": "/qoNRned9ZFgc32OBXEcaBCryPjc.jpg",
+            "release_date": "1948-09-30",
+            "title": "The Fallen Idol",
+            "video": false,
+            "vote_average": 7.156,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yFUFyxPrlMeo110xX9gzRic3CHC.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 31713,
+            "original_language": "en",
+            "original_title": "The Narrow Margin",
+            "overview": "A tough cop meets his match when he has to guard a gangster's widow on a train journey from Chicago to Los Angeles.",
+            "popularity": 0.6509,
+            "poster_path": "/kdlCfBmTZ7CoJoCvS1b56Xj1qJi.jpg",
+            "release_date": "1952-05-03",
+            "title": "The Narrow Margin",
+            "video": false,
+            "vote_average": 7.258,
+            "vote_count": 157
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wbky6s7YnNgUBE9ENAe4pJfFaUr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 17487,
+            "original_language": "en",
+            "original_title": "Body and Soul",
+            "overview": "Charley Davis, against the wishes of his mother, becomes a boxer. As he becomes more successful the fighter becomes surrounded by shady characters, including an unethical promoter named Roberts, who tempt the man with a number of vices. Charley finds himself faced with increasingly difficult choices.",
+            "popularity": 4.0899,
+            "poster_path": "/lnKYS1A1k78X5v5IpLA96e6EYoe.jpg",
+            "release_date": "1947-11-11",
+            "title": "Body and Soul",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dYv4io2HcRMxFGgnErTbvpqSGXe.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                10749
+            ],
+            "id": 4174,
+            "original_language": "en",
+            "original_title": "Spellbound",
+            "overview": "When Dr. Anthony Edwardes arrives at a Vermont mental hospital to replace the outgoing hospital director, Dr. Constance Peterson, a psychoanalyst, discovers Edwardes is actually an impostor. The man confesses that the real Dr. Edwardes is dead and fears he may have killed him, but cannot recall anything. Dr. Peterson, however is convinced his impostor is innocent of the man's murder, and joins him on a quest to unravel his amnesia through psychoanalysis.",
+            "popularity": 1.8488,
+            "poster_path": "/dPAox7jGScLBvxKLeRptJIBF7v.jpg",
+            "release_date": "1945-11-08",
+            "title": "Spellbound",
+            "video": false,
+            "vote_average": 7.416,
+            "vote_count": 935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/loE8zQAj5GROl4BAYNcUTWFJKAx.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                53
+            ],
+            "id": 3766,
+            "original_language": "en",
+            "original_title": "The Lady from Shanghai",
+            "overview": "A romantic drifter gets caught between a corrupt tycoon and his voluptuous wife.",
+            "popularity": 1.0607,
+            "poster_path": "/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
+            "release_date": "1947-12-24",
+            "title": "The Lady from Shanghai",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 700
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 17801,
+            "original_language": "en",
+            "original_title": "The Letter",
+            "overview": "After a woman shoots a man to death, a damning letter she wrote raises suspicions.",
+            "popularity": 3.1903,
+            "poster_path": "/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+            "release_date": "1940-11-21",
+            "title": "The Letter",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4768HzjdlNZOl1r9zKhz6mlqCMv.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                80
+            ],
+            "id": 18030,
+            "original_language": "en",
+            "original_title": "Kiss Me Deadly",
+            "overview": "One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that \"something big\" is behind it all, decides to pursue the case.",
+            "popularity": 2.1605,
+            "poster_path": "/z7me91nrpWLHY1mZOB2v20cK0zY.jpg",
+            "release_date": "1955-04-28",
+            "title": "Kiss Me Deadly",
+            "video": false,
+            "vote_average": 7.213,
+            "vote_count": 395
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sdiSlc86WlzhozqkWnQn73Wq5UW.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 19171,
+            "original_language": "en",
+            "original_title": "Sudden Fear",
+            "overview": "Actor Lester Blaine has all but landed the lead in Myra Hudson's new play when Myra vetoes him because, to her, he doesn't look like a romantic leading man. On a train from New York to San Francisco, Blaine sets out to prove Myra wrong...by romancing her. Is he sincere, or does he have a dark ulterior motive?",
+            "popularity": 4.964,
+            "poster_path": "/xDDRhGX99c7smveM3UelCVmi6xi.jpg",
+            "release_date": "1952-08-07",
+            "title": "Sudden Fear",
+            "video": false,
+            "vote_average": 7.254,
+            "vote_count": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nFCXzdeJbJiYZF6rvSQnkkHAL7G.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 16227,
+            "original_language": "en",
+            "original_title": "Dark Passage",
+            "overview": "A man convicted of murdering his wife escapes from prison and works with a woman to try and prove his innocence.",
+            "popularity": 4.3091,
+            "poster_path": "/dvwmiD6qQ05gojrFQRaFbdhbNDF.jpg",
+            "release_date": "1947-09-05",
+            "title": "Dark Passage",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjEoHzWo4O8tTa7lrVNv2okVkLz.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 20482,
+            "original_language": "en",
+            "original_title": "The Naked City",
+            "overview": "After a former model is drowned in her bathtub, Detective James Halloran and Lieutenant Dan Muldoon attempt to piece together her murder.",
+            "popularity": 4.5614,
+            "poster_path": "/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
+            "release_date": "1948-03-04",
+            "title": "The Naked City",
+            "video": false,
+            "vote_average": 7.198,
+            "vote_count": 270
+        }
+    ]
+}

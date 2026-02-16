@@ -1,0 +1,952 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1949",
+    "source": "https://criticstop10.com/best-movies-of-1949/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/feSYboaBumxLbMKjfk3ASMcRP36.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                9648
+            ],
+            "id": 45578,
+            "original_language": "en",
+            "original_title": "A Letter to Three Wives",
+            "overview": "A letter is addressed to three wives from their \"best friend\" Addie Ross, announcing that she is running away with one of their husbands - but she does not say which one.",
+            "popularity": 0.562,
+            "poster_path": "/bSfwTLt2K8IeEeppsiDq7svikbV.jpg",
+            "release_date": "1949-01-20",
+            "title": "A Letter to Three Wives",
+            "video": false,
+            "vote_average": 7.214,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5tl6cv6AU44WcvMbzD1x0OGjqu0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25918,
+            "original_language": "en",
+            "original_title": "Champion",
+            "overview": "An unscrupulous boxer fights his way to the top, but eventually alienates all of the people who helped him on the way up.",
+            "popularity": 0.6502,
+            "poster_path": "/luBAS7aD9Iu6RwEumfXbQewjO1g.jpg",
+            "release_date": "1949-04-09",
+            "title": "Champion",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A9cz3ZrsrFT7NgTZNgYevHIfjwF.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43440,
+            "original_language": "en",
+            "original_title": "The Stratton Story",
+            "overview": "Star major league pitcher Monty Stratton loses a leg in a hunting accident, but becomes determined to leave the game on his own terms.",
+            "popularity": 0.4993,
+            "poster_path": "/pp301J6FXlnHAoeY5zExdfui42N.jpg",
+            "release_date": "1949-05-12",
+            "title": "The Stratton Story",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bDYgODkocRo0lVzAEOseBZIfORX.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 120481,
+            "original_language": "en",
+            "original_title": "Come to the Stable",
+            "overview": "Two nuns arrive unannounced in the small New England town of Bethlehem, where they recruit various townspeople to help them build a children's hospital.",
+            "popularity": 0.3676,
+            "poster_path": "/5S8e0COr9OmIeuy9nGL6x0H1oda.jpg",
+            "release_date": "1949-07-27",
+            "title": "Come to the Stable",
+            "video": false,
+            "vote_average": 6.44,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gR1qe43Sz2uayZWpSKrIuEFSmiP.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 90807,
+            "original_language": "en",
+            "original_title": "Home of the Brave",
+            "overview": "A sensitive, educated black man's World War II-time problems. This is essentially the duplicate of his peace-time problems which are pointed up in a flashback of his life, and primarily of his war-time adventures with four white soldiers on a dangerous reconnaissance mission on a Japanese-held island.",
+            "popularity": 0.1324,
+            "poster_path": "/5DCIWBuKVZmJcM61gOcPDzm4sRU.jpg",
+            "release_date": "1949-05-12",
+            "title": "Home of the Brave",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hh33QdKGio3Vdr4dpvP3M7JDZD9.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 62727,
+            "original_language": "en",
+            "original_title": "Pinky",
+            "overview": "Pinky, a light skinned black woman, returns to her grandmother's house in the South after graduating from a Northern nursing school. Pinky tells her grandmother that she has been \"passing\" for white while at school in the North. In addition, she has fallen in love with a young white doctor, who knows nothing about her black heritage.",
+            "popularity": 1.0276,
+            "poster_path": "/4KF6DKLq5vVVjLriBnCttJGTiHA.jpg",
+            "release_date": "1949-09-28",
+            "title": "Pinky",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/56eHAxXfZTz5pGiVDCFnuiHw2fp.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                36
+            ],
+            "id": 28571,
+            "original_language": "en",
+            "original_title": "The Heiress",
+            "overview": "In 1840s New York, the uneventful and boring days of the daughter of a wealthy doctor come to an end when she meets a dashing poorer man \u2014 who may or may not be after her inheritance.",
+            "popularity": 0.9388,
+            "poster_path": "/1oN0zsjw3iS1HaOLoZbmptzrD1W.jpg",
+            "release_date": "1949-10-06",
+            "title": "The Heiress",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bE7cALvejeh3vXCK3bO8KpeKgQK.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 113237,
+            "original_language": "en",
+            "original_title": "Lost Boundaries",
+            "overview": "A light-skinned African-American family are \"passing\" in an all-white New England town. When the truth comes out, the more prejudiced neighbors demand their expulsion from the community.",
+            "popularity": 0.1324,
+            "poster_path": "/g2SsOErhrmOBtAbKIFEJQeQuFOj.jpg",
+            "release_date": "1949-07-02",
+            "title": "Lost Boundaries",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7DAmOH52a1rm4bsdSBV2PJeLDLy.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10752
+            ],
+            "id": 23567,
+            "original_language": "en",
+            "original_title": "I Was a Male War Bride",
+            "overview": "After marrying an American lieutenant with whom he was assigned to work in post-war Germany, a French captain attempts to find a way to accompany her back to the States under the terms of the War Bride Act.",
+            "popularity": 0.4989,
+            "poster_path": "/gwliIJs9TWlZAcp6k0cx0I81W5e.jpg",
+            "release_date": "1949-08-26",
+            "title": "I Was a Male War Bride",
+            "video": false,
+            "vote_average": 6.899,
+            "vote_count": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rZBPCvuVlxtkFwCnQLEco0ScjHy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 100257,
+            "original_language": "en",
+            "original_title": "Quartet",
+            "overview": "Somerset Maugham introduces four of his tales in this anthology film: \"The Facts of Life,\" \"The Alien Corn,\" \"The Kite,\" and \"The Colonel's Lady.\"",
+            "popularity": 0.1694,
+            "poster_path": "/hCPWlJus4LXWigzsRtJpJwlmD9o.jpg",
+            "release_date": "1948-10-26",
+            "title": "Quartet",
+            "video": false,
+            "vote_average": 6.233,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sckxtq50B8Eue9URqT6lo1GJZas.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 43435,
+            "original_language": "en",
+            "original_title": "Jolson Sings Again",
+            "overview": "In this sequel to The Jolson Story, we pick up the singer's career just as he has returned to the stage after a premature retirement. But his wife has left him and the appeal of the spotlight isn't what it used to be. This time Jolson trades in the stage for life in the fast lane: women, horses, travel. It takes the death of Moma Yoelson and World War II to bring Jolson back to earth - and to the stage. Once again teamed with manager Steve Martin, Jolson travels the world entertaining troops everywhere from Alaska to Africa. When he finally collapses from exhaustion it takes young, pretty nurse Ellen Clark to show him there's more to life than \"just rushing around\".",
+            "popularity": 0.2068,
+            "poster_path": "/sswaVzdGmBrDL1Ki0KfpLcclww2.jpg",
+            "release_date": "1949-08-17",
+            "title": "Jolson Sings Again",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7cVQJWjlyUw7Gl2h2walQGytmXg.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 32684,
+            "original_language": "en",
+            "original_title": "The Window",
+            "overview": "An imaginative boy who frequently makes things up witnesses a murder, but can't get his parents or the police to believe him. The only people taking him seriously are the killers - who live upstairs, know that he saw what they did, and are out to permanently silence him.",
+            "popularity": 0.437,
+            "poster_path": "/pez60cVCRjy2os36iI4YXYWTrRT.jpg",
+            "release_date": "1949-05-10",
+            "title": "The Window",
+            "video": false,
+            "vote_average": 6.868,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A2eEFV6b3gmzXZTVAyi5qCp9GP2.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 77012,
+            "original_language": "en",
+            "original_title": "Mr. Belvedere Goes to College",
+            "overview": "A middle-aged genius goes to college for the first time.",
+            "popularity": 0.5002,
+            "poster_path": "/2q5UUR0ytGqMal3brK3T8RrJmcT.jpg",
+            "release_date": "1949-04-15",
+            "title": "Mr. Belvedere Goes to College",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uTPHXSCC7KS1WBSmSSxu3jmypbS.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                10751
+            ],
+            "id": 43436,
+            "original_language": "en",
+            "original_title": "Little Women",
+            "overview": "Louisa May Alcott's autobiographical account of her life with her three sisters in Concord Mass in the 1860s. With their father fighting in the civil war, the sisters: Jo, Meg, Amy and Beth are at home with their mother - a very outspoken women for her time. The story is of how the sisters grow up, find love and find their place in the world.",
+            "popularity": 1.4918,
+            "poster_path": "/qrshhX8dywIOljtITGHGNK6TJcB.jpg",
+            "release_date": "1949-03-10",
+            "title": "Little Women",
+            "video": false,
+            "vote_average": 7.404,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lraknsIRsxNE38469HayRlmM8Lm.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 29885,
+            "original_language": "en",
+            "original_title": "The Barkleys of Broadway",
+            "overview": "Josh and Dinah Barkley are a successful musical-comedy team, known for their stormy but passionate relationship. Dinah feels overshadowed by Josh and limited by the lighthearted musical roles he directs her in. So she decides to stretch her skills by taking a role in a serious drama, directed by another man.",
+            "popularity": 0.4419,
+            "poster_path": "/gSBFe63y0xkeBzhhmD1621FDSSN.jpg",
+            "release_date": "1949-05-04",
+            "title": "The Barkleys of Broadway",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6hQFcXhD57hzwf6HQY8N6sUZDqj.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 61262,
+            "original_language": "en",
+            "original_title": "Task Force",
+            "overview": "After learning the finer points of carrier aviation in the 1920s, career officer Jonathan Scott and his pals spend the next two decades promoting the superiority of naval air power. But military and political \"red tape\" continually frustrate their efforts, prompting Scott to even consider leaving the Navy for a more lucrative civilian job. Then the world enters a second World War and Scott finally gets the opportunity to prove to Washington the valuable role aircraft carriers could play in winning the conflict. But what will it cost him and his comrades personally?",
+            "popularity": 0.3023,
+            "poster_path": "/av1YqGB6yXTumCq2K3DpbCkP1C1.jpg",
+            "release_date": "1949-08-30",
+            "title": "Task Force",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7AHYt8RanRRMhLpazdlWXh3ehoY.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 24650,
+            "original_language": "en",
+            "original_title": "The Fountainhead",
+            "overview": "An uncompromising, visionary architect struggles to maintain his integrity and individualism despite personal, professional and economic pressures to conform to popular standards.",
+            "popularity": 0.9047,
+            "poster_path": "/2uo8tfSwzrDeRS5YpmLVSXHSjOl.jpg",
+            "release_date": "1949-06-25",
+            "title": "The Fountainhead",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cap8458wFeRCJSKxL758dI82TRK.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 15794,
+            "original_language": "en",
+            "original_title": "White Heat",
+            "overview": "A psychopathic criminal with a mother complex makes a daring break from prison and then leads his old gang in a chemical plant payroll heist. After the heist, events take a crazy turn.",
+            "popularity": 1.0655,
+            "poster_path": "/v7cPOHKKZI9qChi7HDUxNIhEcLR.jpg",
+            "release_date": "1949-09-02",
+            "title": "White Heat",
+            "video": false,
+            "vote_average": 7.657,
+            "vote_count": 502
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/npDnqGGKvjaLMCYWaZ9AIwjCv87.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 20003,
+            "original_language": "en",
+            "original_title": "House of Strangers",
+            "overview": "Gino Monetti is a ruthless Italian-American banker who is engaged in a number of criminal activities. Three of his four grown sons refuse to help their father stay out of prison after he's arrested for his questionable business practices. Three of the sons take over the business but kick their father out. Max, a lawyer, is the only son that stays loyal to his father.",
+            "popularity": 0.5849,
+            "poster_path": "/BrhMI1iWT4arbn7mcDkHTc0Gy6.jpg",
+            "release_date": "1949-07-01",
+            "title": "House of Strangers",
+            "video": false,
+            "vote_average": 6.908,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/90RUkFDU9xa5asnlU6FGBVuKGt7.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 27563,
+            "original_language": "en",
+            "original_title": "Flamingo Road",
+            "overview": "A stranded carnival dancer takes on a corrupt political boss when she marries into small-town society.",
+            "popularity": 0.3136,
+            "poster_path": "/yBISF3qpoDTN82Tz2RbPLNVGda8.jpg",
+            "release_date": "1949-04-30",
+            "title": "Flamingo Road",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Y1rjxSizHpbQcHjm8ySgr488Jl.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 57693,
+            "original_language": "en",
+            "original_title": "Sorrowful Jones",
+            "overview": "A young girl is left with the notoriously cheap Sorrowful Jones as a marker for a bet. When her father doesn't return, he learns that taking care of a child interferes with his free-wheeling lifestyle. Sorrowful must also evade crooked gangsters and indulge in a bit of horse-thieving.",
+            "popularity": 0.2594,
+            "poster_path": "/nXBch0q1ZfILe7KbBqciJ7rkVqP.jpg",
+            "release_date": "1949-07-04",
+            "title": "Sorrowful Jones",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mkI2oI6OdL8asZY3tJhI95UbvBD.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 17218,
+            "original_language": "en",
+            "original_title": "The Set-Up",
+            "overview": "Expecting the usual loss, a boxing manager takes bribes from a betting gangster without telling his fighter.",
+            "popularity": 0.8478,
+            "poster_path": "/uxE5LZP0RClXKsAqtrHQPiNLHzf.jpg",
+            "release_date": "1949-03-29",
+            "title": "The Set-Up",
+            "video": false,
+            "vote_average": 7.339,
+            "vote_count": 165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1EvJFAFyMHe5dhDdtTNgyIjutmx.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 41214,
+            "original_language": "en",
+            "original_title": "Knock on Any Door",
+            "overview": "An attorney defends a hoodlum of murder, using the oppressiveness of the slums to appeal to the court.",
+            "popularity": 0.4085,
+            "poster_path": "/aig0a88U0gHQw1dfnqqbwo5bjZv.jpg",
+            "release_date": "1949-02-22",
+            "title": "Knock on Any Door",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5F0xj4bHiC6iaTO5cKFj86zTAsw.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 76991,
+            "original_language": "en",
+            "original_title": "That Midnight Kiss",
+            "overview": "Opera singer Prudence Budell, overhears truck driver Johnny Donnetti singing opera, and persuades her opera company to give him a chance in her new opera. They fall in love, but on meeting his colleague Mary while visiting Johnny's work, Prudence becomes convinced Johnny is in love with her.",
+            "popularity": 0.1433,
+            "poster_path": "/wfEmnG7S4GkVlZoG0Qj36gLGTSt.jpg",
+            "release_date": "1949-09-22",
+            "title": "That Midnight Kiss",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4qJx4Ng41BeIPzzRlj5rrtuQFEV.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 94615,
+            "original_language": "en",
+            "original_title": "Look for the Silver Lining",
+            "overview": "After getting her start in her parents' vaudeville act, Marilyn Miller is taken under the wing of dance sensation Jack Donahue. He senses the girl's enormous talent, and before long she's performing on Broadway. There, she is extremely successful and finds love with songwriter Frank Carter. Yet obstacles remain for the rising star, especially when he proposes marriage just before he's set to be deployed in World War I.",
+            "popularity": 0.2492,
+            "poster_path": "/7KfosTIPKf53Sbbams5cqI6DN7D.jpg",
+            "release_date": "1949-07-30",
+            "title": "Look for the Silver Lining",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AtHgVNKU1ydVdYRdU7dbCUXn26f.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 209179,
+            "original_language": "en",
+            "original_title": "Anna Lucasta",
+            "overview": "A prostitute is thrown out of her house by her alcoholic father, and her scheming brother-in-law tries to devise a plan to marry her off and make some money in the process.",
+            "popularity": 0.2262,
+            "poster_path": "/blssvMUqfKvDfo3KocEYeXxRvRk.jpg",
+            "release_date": "1949-07-11",
+            "title": "Anna Lucasta",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k91si3A9xAyDN2OL0dvtJHHqqvG.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 260681,
+            "original_language": "en",
+            "original_title": "Everybody Does It",
+            "overview": "Leonard Borland loves his monied wife, but with his wrecking business looking shaky he treasures her all the more. So when she decides to try again to become an opera singer he indulges her. While organising a concert for her he meets glamorous Cecil Carver. She in turn discovers Leonard has a splendid voice, and encourages him to use it for reasons very much her own.",
+            "popularity": 0.2553,
+            "poster_path": "/Ag73KkgaG3byRBB4cD7mzYhfTpx.jpg",
+            "release_date": "1949-10-24",
+            "title": "Everybody Does It",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1qqEBx5St17JrO6t0cMWVTRSU7i.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 80890,
+            "original_language": "en",
+            "original_title": "The Great Gatsby",
+            "overview": "Nick Carraway, a young Midwesterner now living on Long Island, finds himself fascinated by the mysterious past and lavish lifetyle of his landlord, the nouveau riche Jay Gatsby. He is drawn into Gatsby's circle, becoming a witness to obsession and tragedy.",
+            "popularity": 0.4964,
+            "poster_path": "/s6vyGa1OTOOpG3oZMbat80ihVx8.jpg",
+            "release_date": "1949-07-13",
+            "title": "The Great Gatsby",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5NCVJR1pS9DZQvqFTVN2SUK5AHU.jpg",
+            "genre_ids": [
+                12,
+                18,
+                36
+            ],
+            "id": 40718,
+            "original_language": "en",
+            "original_title": "Wake of the Red Witch",
+            "overview": "Captain Ralls fights Dutch shipping magnate Mayrant Sidneye for the woman he loves, Angelique Desaix, and for a fortune in gold aboard the Red Witch.",
+            "popularity": 0.3262,
+            "poster_path": "/ln7zx4wFEtnA3AhoZRR1Z1tgPxw.jpg",
+            "release_date": "1948-12-30",
+            "title": "Wake of the Red Witch",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/45tJCXfr3S08qb5fVP86duFUUzx.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 13909,
+            "original_language": "en",
+            "original_title": "She Wore a Yellow Ribbon",
+            "overview": "On the eve of retirement, Captain Nathan Brittles takes out a last patrol to stop an impending massive Indian attack. Encumbered by women who must be evacuated, Brittles finds his mission imperiled.",
+            "popularity": 2.6528,
+            "poster_path": "/2IXtuwkTVcDsaa09AiQnlkfxe7I.jpg",
+            "release_date": "1949-10-22",
+            "title": "She Wore a Yellow Ribbon",
+            "video": false,
+            "vote_average": 6.877,
+            "vote_count": 375
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oUQSSukadfSwfH1N1YzSPbCyZLe.jpg",
+            "genre_ids": [
+                12,
+                18,
+                53
+            ],
+            "id": 15481,
+            "original_language": "en",
+            "original_title": "Rope of Sand",
+            "overview": "Story of a South African diamond mine watched over by a sadistic policeman tasked with looking out for smugglers.",
+            "popularity": 0.4183,
+            "poster_path": "/jRhr83DBbOG6kPROTbpbwR4nRy0.jpg",
+            "release_date": "1949-08-03",
+            "title": "Rope of Sand",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ZWHx8diG4gQQb2Q8AW57opmA0Q.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10402
+            ],
+            "id": 33738,
+            "original_language": "en",
+            "original_title": "Take Me Out to the Ball Game",
+            "overview": "The Wolves baseball team gets steamed when they find they've been inherited by one K.C. Higgins, a suspected \"fathead\" who intends to take an active interest in running the team. But K.C. turns outs to be a beautiful woman who really knows her baseball. Second baseman Dennis Ryan promptly falls in love. But his playboy roommate Eddie O'Brien has his own notions about how to treat the new lady owner and some unsavory gamblers have their own ideas about how to handle Eddie.",
+            "popularity": 0.4558,
+            "poster_path": "/icP984Ob3Sa4hcA47a5KUEMqdfb.jpg",
+            "release_date": "1949-03-09",
+            "title": "Take Me Out to the Ball Game",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/naRUQ7gNgz0Q9VjBuQGewJlRKmf.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                16
+            ],
+            "id": 29682,
+            "original_language": "en",
+            "original_title": "So Dear to My Heart",
+            "overview": "The tale of Jeremiah Kincaid and his quest to raise his 'champion' lamb, Danny. Jeremiah's dream of showing Danny at the Pike County Fair must overcome the obstinate objections of his loving, yet strict, grandmother Granny. Jeremiah's confidant, Uncle Hiram, is the boy's steady ally.",
+            "popularity": 0.4889,
+            "poster_path": "/sWoOc4tkxlTf0i8YYia25sPRinY.jpg",
+            "release_date": "1948-11-29",
+            "title": "So Dear to My Heart",
+            "video": false,
+            "vote_average": 6.489,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3SnfrqhypSXRw15EliwJouPBYfs.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 96432,
+            "original_language": "en",
+            "original_title": "My Friend Irma",
+            "overview": "Prototype dumb blonde Irma and her slacker, wheeler-dealer boyfriend Al interfere in the love life of Irma's level-headed room mate Jane.",
+            "popularity": 0.2613,
+            "poster_path": "/o7mNkoLDstiYPUELgaRD5jXPtmA.jpg",
+            "release_date": "1949-10-14",
+            "title": "My Friend Irma",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/arC834SbhtecAw3W4hiz2VKGPmN.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 25698,
+            "original_language": "en",
+            "original_title": "In the Good Old Summertime",
+            "overview": "Two co-workers in a music shop dislike one another during business hours but unwittingly carry on an anonymous romance through the mail.",
+            "popularity": 0.6308,
+            "poster_path": "/5kPe0U01FrHaS1GsvBe9ZkWdg6d.jpg",
+            "release_date": "1949-07-29",
+            "title": "In the Good Old Summertime",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o82GZeidFbK5MXafnihhHng7ukJ.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 29846,
+            "original_language": "en",
+            "original_title": "The Accused",
+            "overview": "A prim psychology professor fights to hide a murder she committed in self-defense.",
+            "popularity": 0.3296,
+            "poster_path": "/cazrLbE894pXLIiUxa8snxj2D7Q.jpg",
+            "release_date": "1949-01-12",
+            "title": "The Accused",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tKjS4qUrtJw5Hg4kFpZaVEPrQOT.jpg",
+            "genre_ids": [
+                27,
+                14,
+                16,
+                10751
+            ],
+            "id": 13465,
+            "original_language": "en",
+            "original_title": "The Adventures of Ichabod and Mr. Toad",
+            "overview": "The Wind in the Willows: Concise version of Kenneth Grahame's story of the same name. J. Thaddeus Toad, owner of Toad Hall, is prone to fads, such as the newfangled motor car. This desire for the very latest lands him in much trouble with the wrong crowd, and it is up to his friends, Mole, Rat and Badger to save him from himself. - The Legend of Sleepy Hollow: Retelling of Washington Irving's story set in a tiny New England town. Ichabod Crane, the new schoolmaster, falls for the town beauty, Katrina Van Tassel, and the town Bully Brom Bones decides that he is a little too successful and needs \"convincing\" that Katrina is not for him.",
+            "popularity": 3.3743,
+            "poster_path": "/o6GfVkgPaaHJnXNywDLpHJII2tW.jpg",
+            "release_date": "1949-10-05",
+            "title": "The Adventures of Ichabod and Mr. Toad",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 641
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rF35vILVjqI2ryfiiKkP8EQNvU8.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 4175,
+            "original_language": "en",
+            "original_title": "Under Capricorn",
+            "overview": "A native Briton banished to Australia for murder, and his wife, Henrietta, the disturbed sister of the man he was convicted on killing, set out to help her conquer her demons and return her life to normal.",
+            "popularity": 1.1899,
+            "poster_path": "/90wKMRxhGFrWXt4rJvVfqVEjpQ1.jpg",
+            "release_date": "1949-09-08",
+            "title": "Under Capricorn",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 174
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rJMfeNRWWCn9NUamHgFVVFIGSsY.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10402,
+                10749
+            ],
+            "id": 36848,
+            "original_language": "en",
+            "original_title": "A Connecticut Yankee in King Arthur's Court",
+            "overview": "A bump on the head sends Hank Martin, 1905 auto mechanic, to Arthurian England, 528 A.D., where he is befriended by Sir Sagramore le Desirous and gains power by judicious use of technology. He and Alisande, the King's niece, fall in love at first sight, which draws unwelcome attention from her fianc\u00e9e Sir Lancelot; but worse trouble befalls when Hank meddles in the kingdom's politics.",
+            "popularity": 1.8348,
+            "poster_path": "/2LYlMNGXmes2tMlMn6KgSNwUpCo.jpg",
+            "release_date": "1949-04-18",
+            "title": "A Connecticut Yankee in King Arthur's Court",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Kr5Hqd6NcCKkokGX5HbqxVpKQ9.jpg",
+            "genre_ids": [
+                28,
+                10752,
+                18
+            ],
+            "id": 293258,
+            "original_language": "en",
+            "original_title": "Sword in the Desert",
+            "overview": "First American film about the conflict between Jewish nationalists and the British in the creation of the state of Israel.",
+            "popularity": 0.2744,
+            "poster_path": "/8V9Bi4XG98SukAK14c9SGNTsp84.jpg",
+            "release_date": "1949-08-24",
+            "title": "Sword in the Desert",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ha2SjOAlGkNBZWMx2VKyTycD1hZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 126265,
+            "original_language": "en",
+            "original_title": "Not Wanted",
+            "overview": "After a beautiful but unsophisticated girl is seduced by a worldly piano player and gives up her out-of-wedlock baby, her guilt compels her to kidnap another child.",
+            "popularity": 1.5814,
+            "poster_path": "/ubSC4Ryy1RjNmGPutHedrwCdPEN.jpg",
+            "release_date": "1949-06-24",
+            "title": "Not Wanted",
+            "video": false,
+            "vote_average": 6.774,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mtGnrJPCnxxmxwWaE97nfnnTg2s.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 62091,
+            "original_language": "en",
+            "original_title": "City Across the River",
+            "overview": "Brooklyn youth Frank Cusack, good son and brother by day, is a gang member by night. The Dukes, seemingly likable dead-end-kids, are dangerously involved with racketeer Gaggsy Steens. Despite the efforts of Franks's parents, he and pal Benny get involved in a serious crime. Can Stan Albert, head of the community center, prevent them from becoming full-time crooks?",
+            "popularity": 0.1652,
+            "poster_path": "/lcFSi4PppbyGc6U1N2KbTJhuAF0.jpg",
+            "release_date": "1949-04-07",
+            "title": "City Across the River",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yGPFov1DE75jLB50bHcvVXq3ogS.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                36
+            ],
+            "id": 157283,
+            "original_language": "en",
+            "original_title": "Christopher Columbus",
+            "overview": "Christopher Columbus overcomes intrigue at the Spanish court and convinces Queen Isabella that his plan to reach the East by sailing west is practical.",
+            "popularity": 0.2385,
+            "poster_path": "/AhA9L5AgzjE7Y20cHWOoUeQzSXI.jpg",
+            "release_date": "1949-10-12",
+            "title": "Christopher Columbus",
+            "video": false,
+            "vote_average": 5.692,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vcnZoekmQvQtEbDAoeHq3f44ho.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 95504,
+            "original_language": "en",
+            "original_title": "Family Honeymoon",
+            "overview": "Grant Jordan, bachelor botany professor, marries Katie, a widow with three kids, despite the machinations of Grant's former girlfriend Minna. But on the wedding day, Aunt Jo, who was to babysit, breaks a leg; so the kids come along on the honeymoon.",
+            "popularity": 0.3009,
+            "poster_path": "/bykKceX4Fu4SPZO7UoCqb4kcnw7.jpg",
+            "release_date": "1948-12-06",
+            "title": "Family Honeymoon",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9QA5D4Y4KvNn8hZbBbqoSulOVX8.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 35896,
+            "original_language": "en",
+            "original_title": "Beyond the Forest",
+            "overview": "Rosa, the self-serving wife of a small-town doctor, gets a better offer when a wealthy big-city man insists she get a divorce and marry him instead. Soon she demonstrates she is capable of rather deplorable acts -- including murder.",
+            "popularity": 0.2537,
+            "poster_path": "/vKVNZQpyGldpYhEudwJmeAWdSW3.jpg",
+            "release_date": "1949-10-21",
+            "title": "Beyond the Forest",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9A88YZ2qZhpE0RM7e6BDJeDX2fh.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 21631,
+            "original_language": "en",
+            "original_title": "The Fallen Idol",
+            "overview": "Phillipe, the son of an ambassador in London, idolizes Baines, his father's butler, a kind of hero in the eyes of the child, whose perception changes when he accidentally discovers the secret that Baines keeps and witnesses the consequences that adults' lies can cause.",
+            "popularity": 0.7182,
+            "poster_path": "/qoNRned9ZFgc32OBXEcaBCryPjc.jpg",
+            "release_date": "1948-09-30",
+            "title": "The Fallen Idol",
+            "video": false,
+            "vote_average": 7.152,
+            "vote_count": 178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xC6suee08ve5VGuVpKKfeBCweqg.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 30095,
+            "original_language": "en",
+            "original_title": "Passport to Pimlico",
+            "overview": "When an unexploded WWII bomb is accidentally detonated in Pimlico, it reveals a treasure trove and documents proving that the region is in fact part of Burgundy, France and thus foreign territory. The British government attempts to regain control by setting up border controls and cutting off services to the area.",
+            "popularity": 4.6986,
+            "poster_path": "/tYPQny9ZFJo9ZkObdQkiT9N69lN.jpg",
+            "release_date": "1949-10-26",
+            "title": "Passport to Pimlico",
+            "video": false,
+            "vote_average": 6.89,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v2bJPNQ84qsWBrgj9vRyCpsGyEn.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 43437,
+            "original_language": "en",
+            "original_title": "Neptune's Daughter",
+            "overview": "Scatterbrained Betty Barrett mistakes masseur Jack Spratt for Jose O'Rourke, the captain of the South American polo team. Spratt goes along with the charade, but the situation becomes more complicated when they fall in love. Meanwhile, Betty's sensible older sister Eve fears Betty's heart will be broken when Jose returns to South America. She arranges to meet with the real O'Rourke and love soon blossoms between them as well.",
+            "popularity": 0.3281,
+            "poster_path": "/d9O19EfkPl9FCmGh6QfklCDcoIv.jpg",
+            "release_date": "1949-06-10",
+            "title": "Neptune's Daughter",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bam6RudCnYDj8YIZt2vi3bUTxSp.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                10752
+            ],
+            "id": 31623,
+            "original_language": "en",
+            "original_title": "Battleground",
+            "overview": "Members of the U.S. Army's 101st Airborne Division are fighting for their country amidst the rugged terrain of Bastogne, Belgium, in December 1944. Holley and his American compatriots have already seen one of their own, Roderigues, perish under enemy fire. The men try to rebuff another series of Nazi attacks, but what they really need is a change in the weather. Without clear skies, they'll never get the air support they need.",
+            "popularity": 0.8417,
+            "poster_path": "/qSrcs7zmF61aRtzmOVPxeBBowap.jpg",
+            "release_date": "1949-11-09",
+            "title": "Battleground",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 92
+        }
+    ]
+}

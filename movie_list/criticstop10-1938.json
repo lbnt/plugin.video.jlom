@@ -1,0 +1,976 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1938",
+    "source": "https://criticstop10.com/best-movies-of-1938/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/As4GJO5V3SxbSDW8ZEWPnYtSZIg.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 34106,
+            "original_language": "en",
+            "original_title": "You Can't Take It with You",
+            "overview": "Alice, the only relatively normal member of the eccentric Sycamore family, falls in love with Tony Kirby, but his wealthy banker father and snobbish mother strongly disapprove of the match. When the Kirbys are invited to dinner to become better acquainted with their future in-laws, things don't turn out the way Alice had hoped.",
+            "popularity": 1.2455,
+            "poster_path": "/9JltqbDyWstYW6gnvqDO6L5bOrx.jpg",
+            "release_date": "1938-09-01",
+            "title": "You Can't Take It with You",
+            "video": false,
+            "vote_average": 7.487,
+            "vote_count": 418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9R4Zmk9vDP2Lk0JNOaAw09LG3lU.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 25016,
+            "original_language": "en",
+            "original_title": "Pygmalion",
+            "overview": "When linguistics professor Henry Higgins boasts that he can pass off Cockney flower girl Eliza Doolittle as a princess with only six months' training, Colonel George Pickering takes him up on the bet. Eliza moves into Higgins's home and begins her rigorous training after the professor comes to a financial agreement with her dustman father, Alfred. But the plucky young woman is not the only one undergoing a transformation.",
+            "popularity": 1.7168,
+            "poster_path": "/aoaSwi4nCKoRWpSv607IVe33x6m.jpg",
+            "release_date": "1939-03-03",
+            "title": "Pygmalion",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 43839,
+            "original_language": "en",
+            "original_title": "Alexander's Ragtime Band",
+            "overview": "Classical violinist Roger Grant disappoints his family and teacher when he organizes a jazz band, but he and the band become successful. Roger falls in love with the band's singer, Stella, but his reluctance to lose her leads him to thwart her efforts to become a solo star. When the World War separates them in 1917, Stella marries Roger's best friend and, when Roger returns home after the war, an important concert at Carnegie Hall brings the corners of the romantic triangle together.",
+            "popularity": 0.4003,
+            "poster_path": "/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+            "release_date": "1938-05-24",
+            "title": "Alexander's Ragtime Band",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pvvUqgvDXu8aLd5VqgrfOccnrnP.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42390,
+            "original_language": "en",
+            "original_title": "Boys Town",
+            "overview": "Devout but iron-willed Father Flanagan leads a community called Boys Town, a different sort of juvenile detention facility where, instead of being treated as underage criminals, the boys are shepherded into making themselves better people. But hard-nosed petty thief and pool shark Whitey Marsh, the impulsive and violent younger brother of an imprisoned murderer, might be too much for the good father's tough-love system.",
+            "popularity": 0.703,
+            "poster_path": "/jGwKOZvPItNSocHFAg1USbhKR6c.jpg",
+            "release_date": "1938-09-08",
+            "title": "Boys Town",
+            "video": false,
+            "vote_average": 6.739,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u3IsKWC05Cuz8gh4dWR7RGVXxtG.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 43847,
+            "original_language": "en",
+            "original_title": "Marie Antoinette",
+            "overview": "The young Austrian princess Marie Antoinette is arranged to marry Louis XVI, future king of France, in a politically advantageous marriage for the rival countries. The opulent Marie indulges in various whims and flirtations. When Louis XV passes and Louis XVI ascends the French throne, his queen's extravagant lifestyle earns the hatred of the French people, who despise her Austrian heritage.",
+            "popularity": 0.5322,
+            "poster_path": "/nmsqzJUN6B0guVHfXINhofe4Myt.jpg",
+            "release_date": "1938-08-26",
+            "title": "Marie Antoinette",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sin7FXNbMpNUxGltvPWkswsxmW1.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 78734,
+            "original_language": "en",
+            "original_title": "In Old Chicago",
+            "overview": "The O'Leary brothers -- honest Jack and roguish Dion -- become powerful figures, and eventually rivals, in Chicago on the eve of its Great Fire.",
+            "popularity": 0.3932,
+            "poster_path": "/s3DPtiEGx4thHOGcIjdgBlWp8D0.jpg",
+            "release_date": "1938-04-15",
+            "title": "In Old Chicago",
+            "video": false,
+            "vote_average": 6.476,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+            "genre_ids": [
+                12,
+                10749,
+                36,
+                28
+            ],
+            "id": 10907,
+            "original_language": "en",
+            "original_title": "The Adventures of Robin Hood",
+            "overview": "Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.",
+            "popularity": 1.9852,
+            "poster_path": "/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
+            "release_date": "1938-05-13",
+            "title": "The Adventures of Robin Hood",
+            "video": false,
+            "vote_average": 7.468,
+            "vote_count": 789
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aYUtvuhnTjxrrARa5UNhn5NvgtY.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 84090,
+            "original_language": "en",
+            "original_title": "The Citadel",
+            "overview": "Andrew Manson, a young, idealistic, newly qualified Scottish doctor arrives in Wales takes his first job in a mining town, and begins to wonder at the persistent cough many of the miners have. When his attempts to prove its cause are thwarted, he moves to London. His new practice does badly. But when a friend shows him how to make a lucrative practice from rich hypochondriacs, it will take a great shock to show him what the truth of being a doctor really is.",
+            "popularity": 0.3298,
+            "poster_path": "/ryCTGHbqCj1OhzF4CfQNAc3nBEp.jpg",
+            "release_date": "1938-10-29",
+            "title": "The Citadel",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u83bKahLAsAhYCbcP4C1XzEDt4p.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 43846,
+            "original_language": "en",
+            "original_title": "Love Finds Andy Hardy",
+            "overview": "Andy Hardy becomes entangled with three different girls all at the same time.",
+            "popularity": 0.4304,
+            "poster_path": "/eemy6iN41zgrKFmPUZo49SaJVbo.jpg",
+            "release_date": "1938-07-22",
+            "title": "Love Finds Andy Hardy",
+            "video": false,
+            "vote_average": 6.161,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pnWD5Sni0B8LI24Pxwt2qEzlQ03.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 67880,
+            "original_language": "en",
+            "original_title": "Four Daughters",
+            "overview": "Musician Adam Lemp and his four equally musical daughters, Emma, Ann, Kay, and Thea, live happily together. Each daughter has an upstanding young man for whom she cares. However, the arrival of a cynical, slovenly young composer named Mickey Borden turns the household upside-down, and romantic and tragic complications ensue.",
+            "popularity": 0.4592,
+            "poster_path": "/b537l9ogYQY3y66G4zLXvP970Lj.jpg",
+            "release_date": "1938-08-09",
+            "title": "Four Daughters",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kH7H0GLLQDN1qTndYFScfIFtIjQ.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                12
+            ],
+            "id": 43155,
+            "original_language": "en",
+            "original_title": "Test Pilot",
+            "overview": "Jim is a test pilot. His wife Ann and best friend Gunner try their best to keep him sober. But the life of a test pilot is anything but safe.",
+            "popularity": 0.4845,
+            "poster_path": "/vdZ5rv7Cg6HTM6UaMvjezKO0juk.jpg",
+            "release_date": "1938-04-16",
+            "title": "Test Pilot",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iedio5AiyYPM4AqxoTq2f7QRebd.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1976,
+            "original_language": "en",
+            "original_title": "Jezebel",
+            "overview": "In 1850s Louisiana, the willfulness of a tempestuous Southern belle threatens to destroy all who care for her.",
+            "popularity": 1.1317,
+            "poster_path": "/xewvSLrr0Ru6qVMwVqVheFLaGm4.jpg",
+            "release_date": "1938-03-26",
+            "title": "Jezebel",
+            "video": false,
+            "vote_average": 6.998,
+            "vote_count": 206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qFn0x3FzBiBWtbBLXSvXlrVNcDL.jpg",
+            "genre_ids": [
+                12,
+                36
+            ],
+            "id": 126777,
+            "original_language": "en",
+            "original_title": "If I Were King",
+            "overview": "King Louis XI masquerades as a commoner in Paris, seeking out the treachery he is sure lurks in his kingdom. At a local tavern, he overhears the brash poet Fran\u00e7ois Villon extolling why he would be a better king. Annoyed yet intrigued, the King bestows on Villon the title of Grand Constable. Soon Villon begins work and falls for a lovely lady-in-waiting, but then must flee execution when the King turns on him.",
+            "popularity": 0.3296,
+            "poster_path": "/zqyhx8mpoRDqf6sdf2HlssNcP8G.jpg",
+            "release_date": "1938-09-28",
+            "title": "If I Were King",
+            "video": false,
+            "vote_average": 6.75,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4SDCCaaiIZ0zUoKvjWwatjWuBbQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 109970,
+            "original_language": "en",
+            "original_title": "Three Comrades",
+            "overview": "A love story centered on the lives of three young German soldiers in the years following World War I. Their close friendship is strengthened by their shared love for the same woman who is dying of tuberculosis.",
+            "popularity": 0.3626,
+            "poster_path": "/dTLmTBNa2UesT8Sa3cYEE6P8qJd.jpg",
+            "release_date": "1938-06-02",
+            "title": "Three Comrades",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wmfTTdJCxJfyQYsSn9PiuPhJiCR.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                10749,
+                80
+            ],
+            "id": 22657,
+            "original_language": "en",
+            "original_title": "Algiers",
+            "overview": "Pepe Le Moko is a notorious thief, who escaped from France. Since his escape, Moko has become a resident and leader of the immense Casbah of Algiers. French officials arrive insisting on Pepe's capture are met with unfazed local detectives, led by Inspector Slimane, who are biding their time. Meanwhile, Pepe meets the beautiful Gaby, which arouses the jealousy of Ines.",
+            "popularity": 0.6352,
+            "poster_path": "/cvNQjlXJxRQrmB5VCcyssjKIwW8.jpg",
+            "release_date": "1938-01-16",
+            "title": "Algiers",
+            "video": false,
+            "vote_average": 6.225,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i3BXBwbig629GMAOuItwodTdGSF.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 61646,
+            "original_language": "en",
+            "original_title": "Mad About Music",
+            "overview": "A young woman at a girl's school in Switzerland makes up stories about and writes herself letters from an imaginary explorer-adventurer father; and is eventually put in a position where she has to produce him. Interesting things happen as she talks a visiting Englishman into helping her out.",
+            "popularity": 0.1907,
+            "poster_path": "/1zuVmfuqQq8WEd6ZEf17LvmbXU6.jpg",
+            "release_date": "1938-02-27",
+            "title": "Mad About Music",
+            "video": false,
+            "vote_average": 6.889,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9tKAjDczgfwDTkh9btaMpYHdr72.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 180954,
+            "original_language": "en",
+            "original_title": "Vessel of Wrath",
+            "overview": "Ginger Ted, AKA Edward Claude Wilson, a drunkard and womanizer, and Miss Jones, a missionary, live in the Alas Islands. During a cholera epidemic, Ginger Ted and Miss Jones are sent to an outlying part of the islands to run a hospital; on their return, their motorboat breaks down, and they are marooned overnight on a small island.",
+            "popularity": 0.1904,
+            "poster_path": "/4MMiOGVPUDkEEKbIiXz9mFtvyCW.jpg",
+            "release_date": "1938-03-04",
+            "title": "Vessel of Wrath",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kQSyHdO0XxO7wqRAwnDv0qyqYaC.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 148675,
+            "original_language": "en",
+            "original_title": "Suez",
+            "overview": "Ferdinand de Lesseps, disappointed in love, is sent as a junior diplomat to the Isthmus of Suez, and realizes it's just the place for a canal.",
+            "popularity": 0.1983,
+            "poster_path": "/cBMgf5cIBIYuHvCuOVQN7TXDECS.jpg",
+            "release_date": "1938-10-28",
+            "title": "Suez",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rfmteAhaxOCHFiedOi4c7xiJRfQ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 122884,
+            "original_language": "en",
+            "original_title": "Of Human Hearts",
+            "overview": "This is a story about family relationships, set in the time before and during the American Civil War. Ethan Wilkins is a poor and honest man who ministers to the human soul, while his son Jason yearns to be a doctor, helping people in the earthly realm. It is a rich story about striving for excellence, the tension of father-son rebellion, and the love of a mother that can never die.",
+            "popularity": 0.3003,
+            "poster_path": "/tZaet6DUhDh4pKRHRovdVXokJfd.jpg",
+            "release_date": "1938-02-11",
+            "title": "Of Human Hearts",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Q7zgPAavMUu2yaG5Z1ydeOMyEc.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 62567,
+            "original_language": "en",
+            "original_title": "The Great Waltz",
+            "overview": "Composer Johann Strauss risks his marriage over his infatuation with a beautiful singer.",
+            "popularity": 0.3619,
+            "poster_path": "/n1jm062DHhr6JoYLXHSSOaYpqcJ.jpg",
+            "release_date": "1938-11-04",
+            "title": "The Great Waltz",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aFSi56mazIWDA5H6k4WOSjpRZyB.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10749,
+                36
+            ],
+            "id": 115425,
+            "original_language": "en",
+            "original_title": "The Buccaneer",
+            "overview": "French pirate Jean Lafitte rescues a girl and joins the War of 1812.",
+            "popularity": 0.4715,
+            "poster_path": "/1AkDvp2eSrpfiqOPn7aCyg4Wt5X.jpg",
+            "release_date": "1938-02-04",
+            "title": "The Buccaneer",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zzcQAZmtb20h9JWMy6e9J594Q99.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 177436,
+            "original_language": "en",
+            "original_title": "A Man to Remember",
+            "overview": "On the day of his funeral, a dedicated smalltown doctor is remembered by his neighbors and patients.",
+            "popularity": 0.1782,
+            "poster_path": "/rp9NSZKz7lzMG4f40oWJmXN0jjR.jpg",
+            "release_date": "1938-10-14",
+            "title": "A Man to Remember",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uuSzQ3pT7le2q7WZbLoTzCAQEVA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 123452,
+            "original_language": "en",
+            "original_title": "White Banners",
+            "overview": "A homeless woman named Hannah drifts into the lives of the kindly Ward family, in a small Indiana town in 1919. Hannah makes herself useful as a cook and housekeeper and stays with the Wards... but her real interest is in meeting their neighbor, teenager Peter Trimble. It turns out that Peter is the son she bore out of wedlock and gave up for adoption, and now Hannah has returned to town to see what sort of young man her son has become.",
+            "popularity": 0.2594,
+            "poster_path": "/iPRDvS1r6WMNNETe2aEVBEuYzKL.jpg",
+            "release_date": "1938-06-23",
+            "title": "White Banners",
+            "video": false,
+            "vote_average": 5.833,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/15HEZcSKtLcl69avXfmjoIJBuay.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 940,
+            "original_language": "en",
+            "original_title": "The Lady Vanishes",
+            "overview": "On a train headed for England a group of travelers is delayed by an avalanche. Holed up in a hotel in a fictional European country, young Iris befriends elderly Miss Froy. When the train resumes, Iris suffers a bout of unconsciousness and wakes to find the old woman has disappeared. The other passengers ominously deny Miss Froy ever existed, so Iris begins to investigate with another traveler and, as the pair sleuth, romantic sparks fly.",
+            "popularity": 2.577,
+            "poster_path": "/c1t9LB76LvEARPanfEzXmkm7fwY.jpg",
+            "release_date": "1938-10-07",
+            "title": "The Lady Vanishes",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 965
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sG0TscXVp7817uDwdAnorbml2BA.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 16274,
+            "original_language": "en",
+            "original_title": "Holiday",
+            "overview": "Johnny Case, a freethinking financier, has finally found the girl of his dreams \u2014 Julia Seton, the spoiled daughter of a socially prominent millionaire \u2014 and she's agreed to marry him. But when Johnny plans a holiday for the two to enjoy life while they are still young, his fianc\u00e9e has other plans & that is for Johnny to work in her father's bank!",
+            "popularity": 0.7635,
+            "poster_path": "/vTswoixIge9o84NLlWGaWl5lrHO.jpg",
+            "release_date": "1938-05-26",
+            "title": "Holiday",
+            "video": false,
+            "vote_average": 7.309,
+            "vote_count": 267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qYIa5GSc7fDpgNeL1KKb810ltLh.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 140995,
+            "original_language": "en",
+            "original_title": "The Sisters",
+            "overview": "Three daughters of a small down pharmacist undergo trials and tribulations in their problematic marriages between 1904 and 1908.",
+            "popularity": 0.3642,
+            "poster_path": "/1AfBGWRxMPKmlQnyVe3v2PW1FAT.jpg",
+            "release_date": "1938-10-14",
+            "title": "The Sisters",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AihvfNHfqs6KFTZe5DlxKaGz228.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 61649,
+            "original_language": "en",
+            "original_title": "That Certain Age",
+            "overview": "Dashing reporter Vincent Bullit has just returned from covering the Spanish Civil War. His boss, newspaper magnate Fullerton, has more plans to send him off to China. However, first Fullerton invites Bullit to the peace and quiet of his own home to write a series of European affair articles. When Fullerton's adolescent daughter Alice develops a crush on Bullit, her suitor, boyscout Ken Warren, doesn't seem to stand a chance. Mr. and Mrs. Fullerton, Ken Warren, and even Vincent Bullit himself do their best to sway young Alice's feelings away from the older man. It's a difficult task though, as she is at 'that certain age.'",
+            "popularity": 0.1698,
+            "poster_path": "/uVIvRmiSV2ZmPJmGSpEjASUySfv.jpg",
+            "release_date": "1938-10-06",
+            "title": "That Certain Age",
+            "video": false,
+            "vote_average": 5.143,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uTD8QNP0POhf7cKRh9ScaNJ2CXf.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 246519,
+            "original_language": "en",
+            "original_title": "Men with Wings",
+            "overview": "Reporter Nicholas Ranson is jubilant when, on 17 Dec 1903, in Kitty Hawk, North Carolina, Orville and Wilbur Wright take their first airplane flight. Back home in Underwood, Maryland, however, his uncle Hiram F. Jenkins, owner and editor of the local newspaper, refuses to print the story. Nicholas quits and continues to work on his own airplane, with the devoted help of his little daughter Peggy. Peggy is actually the first in her family to fly when her friends, Patrick Falconer and Scott Barnes, induce her to get inside a large kite they have made, and run with it in a field until she is airborne. The kite is caught in a tree, however, and Peggy gets a black eye. Later, Nicholas dies when his experimental airplane crashes, leaving his wife and children alone. By Peggy's adulthood, planes are capable of flying at an altitude of 11,000 feet, and speeds of nearly 100 m.p.h. Peggy continues her father's obsession with flight by helping Scott and Pat to build a plane.",
+            "popularity": 0.1589,
+            "poster_path": "/nAd5hnP9awud8uVV5dRpBXOFBHp.jpg",
+            "release_date": "1938-07-16",
+            "title": "Men with Wings",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/snJQPWkmNhfkqafXa0wknEAz4Md.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 114838,
+            "original_language": "en",
+            "original_title": "Brother Rat",
+            "overview": "Story of three buddies at the Virginia Military Institute. Cadet Bing Edwards is secretly married and soon to be a father.",
+            "popularity": 0.082,
+            "poster_path": "/v98Bo1kCIc8rRyntGIAs2adOksp.jpg",
+            "release_date": "1938-10-29",
+            "title": "Brother Rat",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qGW7uWGJndTCdcuID7W9PAKDsH2.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 151911,
+            "original_language": "en",
+            "original_title": "Blockade",
+            "overview": "A simple peasant is forced to take up arms to defend his farm during the Spanish Civil War. Along the way he falls in love with a Russian girl whose father is involved in espionage.",
+            "popularity": 0.2096,
+            "poster_path": "/zvE961Nkem8niL1Q5dxkarei7jx.jpg",
+            "release_date": "1938-06-17",
+            "title": "Blockade",
+            "video": false,
+            "vote_average": 5.417,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/26OlUKUTR3lKKCFfNF9yyrnRYGL.jpg",
+            "genre_ids": [
+                10749,
+                12
+            ],
+            "id": 119645,
+            "original_language": "en",
+            "original_title": "The Adventures of Marco Polo",
+            "overview": "The Venetian traveler Marco Polo meets Kublai Khan and foils a plotter with fireworks in medieval China.",
+            "popularity": 0.3005,
+            "poster_path": "/iXZoxhfhJGByz1zP72PtELPhrLs.jpg",
+            "release_date": "1938-04-07",
+            "title": "The Adventures of Marco Polo",
+            "video": false,
+            "vote_average": 6.031,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jaoybJZUaXoPDvkikGMRCF7N62A.jpg",
+            "genre_ids": [
+                18,
+                36,
+                9648,
+                10749,
+                10752
+            ],
+            "id": 158724,
+            "original_language": "en",
+            "original_title": "Yellow Jack",
+            "overview": "A fairly accurate historical account of Walter Reed's search for the cause of \"Yellow Jack\" or Yellow Fever and those who risked their lives in the pursuit.",
+            "popularity": 0.1716,
+            "poster_path": "/xhf8ps0B1fKJmL9XPugg5qRr3kA.jpg",
+            "release_date": "1938-05-19",
+            "title": "Yellow Jack",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jQHoxAWkjlr7YTCXnRBChCshK7c.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18,
+                10402
+            ],
+            "id": 112756,
+            "original_language": "en",
+            "original_title": "Sing, You Sinners",
+            "overview": "Of the singing Beebe brothers, young Mike just wants to be a kid; responsible Dave wants to work in his garage and marry Martha; but feckless Joe thinks his only road to success is through swapping and gambling. It seems the only thing all three can join in is their singing act, which Mike and Dave hate. Finally, all Joe's hopes are pinned on a race horse he's acquired swapping, but it's a bigger gamble than his family knows.",
+            "popularity": 0.1347,
+            "poster_path": "/wRcRLCycf47X2EHScKvASTkGrbk.jpg",
+            "release_date": "1938-09-02",
+            "title": "Sing, You Sinners",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bMDTT7pMvmP7m3mbLoWGaJMiUTz.jpg",
+            "genre_ids": [
+                10751,
+                12
+            ],
+            "id": 30977,
+            "original_language": "en",
+            "original_title": "The Adventures of Tom Sawyer",
+            "overview": "Tom Sawyer and his pal Huckleberry Finn have great adventures on the Mississippi River, pretending to be pirates, attending their own funeral and witnessing a murder.",
+            "popularity": 0.7443,
+            "poster_path": "/wE4V8Rav9puZ3gEuKTrfaAN84mv.jpg",
+            "release_date": "1938-02-11",
+            "title": "The Adventures of Tom Sawyer",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjYxjOy9KlB6mcYNTlHoP3rjzbl.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 118889,
+            "original_language": "en",
+            "original_title": "Kentucky",
+            "overview": "Young lovers Jack and Sally are from families that compete to send horses to the 1938 Kentucky Derby, but during the Civil War, her family sided with the South while his sided with the North--and her Uncle Peter will have nothing to do with Jack's family.",
+            "popularity": 0.2374,
+            "poster_path": "/s7sKkeaXl2wVbLHCONorHMQHYqu.jpg",
+            "release_date": "1938-12-30",
+            "title": "Kentucky",
+            "video": false,
+            "vote_average": 5.833,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xNUMYhWIhxmbgEFq6bIiVwCiZSC.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 38023,
+            "original_language": "en",
+            "original_title": "The Young in Heart",
+            "overview": "A family of confidence tricksters sets their sights on a very rich, very lonely old lady named Miss Fortune.",
+            "popularity": 0.2595,
+            "poster_path": "/ecimQFwdSBQTNwdznb1d2EMuYLh.jpg",
+            "release_date": "1938-07-06",
+            "title": "The Young in Heart",
+            "video": false,
+            "vote_average": 6.442,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3fBlfSDQGkP02JZfdwXX0uMOsCb.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 34006,
+            "original_language": "en",
+            "original_title": "A Slight Case of Murder",
+            "overview": "Former bootlegger Remy Marco has a slight problem with foreclosing bankers, a prospective son-in-law, and four hard-to-explain corpses.",
+            "popularity": 0.4866,
+            "poster_path": "/3fC4dLkZ8NXw51v84ASCG2OsFpC.jpg",
+            "release_date": "1938-02-26",
+            "title": "A Slight Case of Murder",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8iLq0TWmnezj4hRcMILh9mf4Okj.jpg",
+            "genre_ids": [
+                12,
+                10752
+            ],
+            "id": 43852,
+            "original_language": "en",
+            "original_title": "The Drum",
+            "overview": "Set in the India of the British Raj, the evil and untrustworthy Prince Guhl (Raymond Massey) plans to wipe out the British troops as they enjoy the hospitality of Guhl's spacious palace. It's up to the loyal young Prince Azim (Sabu) to warn the troops of Guhl's treachery by tapping out a message on his drum.",
+            "popularity": 0.282,
+            "poster_path": "/7Opkwzeohwz2II4nMvYvbSqucFj.jpg",
+            "release_date": "1938-09-29",
+            "title": "The Drum",
+            "video": false,
+            "vote_average": 5.804,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qMdIbpdTCcNdt2IwXCFRCIlw6CT.jpg",
+            "genre_ids": [
+                35,
+                12,
+                10749
+            ],
+            "id": 33028,
+            "original_language": "en",
+            "original_title": "Too Hot to Handle",
+            "overview": "While in Shanghai reporting on the Sino-Japanese war, Chris Hunter, a shrewd news reporter, meets pilot Alma Harding. She does not trust him, but he manages to hire her as his assistant. During an adventurous expedition through the jungles of South America, her opinion of him begins to change.",
+            "popularity": 0.1979,
+            "poster_path": "/bdfmUhmuWT0QJllnIJcoJ0aCVuB.jpg",
+            "release_date": "1938-09-16",
+            "title": "Too Hot to Handle",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bb36aEZwEvK2L01mgWQuC506CZg.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 13696,
+            "original_language": "en",
+            "original_title": "Angels with Dirty Faces",
+            "overview": "Childhood chums Rocky Sullivan and Jerry Connelly grow up on opposite sides of the fence: Rocky matures into a prominent gangster, while Jerry becomes a priest, tending to the needs of his old tenement neighborhood.",
+            "popularity": 0.6771,
+            "poster_path": "/k23E4UAcow8eczLRmVCMdukL4Mx.jpg",
+            "release_date": "1938-11-26",
+            "title": "Angels with Dirty Faces",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 329
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dZa1nezQNL8jEpoCZvLjY2TXraV.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 103197,
+            "original_language": "en",
+            "original_title": "Letter of Introduction",
+            "overview": "An aging actor, trying to make a comeback on Broadway, is surprised when his estranged daughter shows up. It seems that she is an actress and is also trying to make it on Broadway. He tries to re-establish his relationship with her while also trying to hide the fact that she is his daughter from the press.",
+            "popularity": 2.5364,
+            "poster_path": "/sbNO28bIf7Xb0siuYpv7RwwGkph.jpg",
+            "release_date": "1938-08-05",
+            "title": "Letter of Introduction",
+            "video": false,
+            "vote_average": 5.667,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x8yq5KRHvAPDhJUzEnLRbC6yOck.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                10752
+            ],
+            "id": 99318,
+            "original_language": "en",
+            "original_title": "The Shopworn Angel",
+            "overview": "During WWI Bill Pettigrew, a naive young Texan soldier is sent to New York for basic training. He meets worldly wise actress Daisy Heath when her car nearly runs him over.",
+            "popularity": 0.1611,
+            "poster_path": "/3ZBMVD7YXX32ddNjXn13BB3Jiiw.jpg",
+            "release_date": "1938-07-15",
+            "title": "The Shopworn Angel",
+            "video": false,
+            "vote_average": 6.944,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bFU8mIZ4iZJK66IwEqd36jGybi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 208409,
+            "original_language": "en",
+            "original_title": "Stablemates",
+            "overview": "A boozy former veterinarian and a teenage orphan team together with dreams of entering a broken-down horse in the big race.",
+            "popularity": 0.1547,
+            "poster_path": "/oYWL9CQ0EMWkr9g9vf3pKoUqCC5.jpg",
+            "release_date": "1938-10-07",
+            "title": "Stablemates",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9MP44gCgyGaiDujyoQiIijJfeWz.jpg",
+            "genre_ids": [
+                28,
+                10749,
+                12
+            ],
+            "id": 78092,
+            "original_language": "en",
+            "original_title": "Spawn of the North",
+            "overview": "Two Alaskan salmon fisherman find their friendship at risk when one aligns with Russian fish pirates and the other aligns with local vigilantes.",
+            "popularity": 0.1378,
+            "poster_path": "/rRAo2WbAbRze1z2PpgTewQsE8rW.jpg",
+            "release_date": "1938-08-26",
+            "title": "Spawn of the North",
+            "video": false,
+            "vote_average": 5.55,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/DrvvSlCJJGc5d8hv2khCt01u3F.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 124381,
+            "original_language": "en",
+            "original_title": "Judge Hardy's Children",
+            "overview": "Judge Hardy takes a business trip to Washington, DC, where Andy promptly falls for the French ambassador's daughter.",
+            "popularity": 0.1392,
+            "poster_path": "/A27Dphz5HswWsJMBnFBl3QB9aha.jpg",
+            "release_date": "1938-03-26",
+            "title": "Judge Hardy's Children",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c2lP10UnZ4UINtrqAYmMPyQWhbG.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10752
+            ],
+            "id": 46688,
+            "original_language": "en",
+            "original_title": "The Dawn Patrol",
+            "overview": "In 1915 France, Major Brand commands the 39th Squadron of the Royal Flying Corps. The young airmen go up in bullet-riddled \"crates\" and the casualty rate is appalling, but Brand can't make the \"brass hats\" at headquarters see reason. Insubordinate air ace Captain Courtney is another thorn in Brand's side...but finds the smile wiped from his face when he rises to command the squadron himself. Everyone keeps a stiff upper lip.",
+            "popularity": 0.2466,
+            "poster_path": "/ncrQ21mjMTznDZDTmAcT3j5berB.jpg",
+            "release_date": "1938-12-24",
+            "title": "The Dawn Patrol",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7KhVqYFkMfa1diBneGOauvvGZSn.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 133840,
+            "original_language": "fr",
+            "original_title": "L'\u00c9trange Monsieur Victor",
+            "overview": "Outwardly, Monsieur Victor would appear to be the model citizen.  A respectable Toulon shopkeeper, he has a devoted wife and is courteous and considerate to all who know him.  However, beneath this veneer of respectability hides a notorious receiver of stolen goods, who trades with hardened criminals.  Victor manages to keep up his double life without any difficulty until the fateful day when one of his partners in crime threatens to expose him.  Fearing a scandal, Victor kills the crook in a moment of panic, using a shoemaker's tool.  Naturally, the murder is blamed on a local shoemaker, who is sentenced to ten years' hard labour. Seven years later, the former shoemaker reappears in Toulon, having escaped from prison.  The first person to recognise him is Monsieur Victor...",
+            "popularity": 0.4857,
+            "poster_path": "/799QZHQDvij2le5nund5GfdXgJG.jpg",
+            "release_date": "1938-05-04",
+            "title": "The Strange Monsieur Victor",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qFn0x3FzBiBWtbBLXSvXlrVNcDL.jpg",
+            "genre_ids": [
+                12,
+                36
+            ],
+            "id": 126777,
+            "original_language": "en",
+            "original_title": "If I Were King",
+            "overview": "King Louis XI masquerades as a commoner in Paris, seeking out the treachery he is sure lurks in his kingdom. At a local tavern, he overhears the brash poet Fran\u00e7ois Villon extolling why he would be a better king. Annoyed yet intrigued, the King bestows on Villon the title of Grand Constable. Soon Villon begins work and falls for a lovely lady-in-waiting, but then must flee execution when the King turns on him.",
+            "popularity": 0.3296,
+            "poster_path": "/zqyhx8mpoRDqf6sdf2HlssNcP8G.jpg",
+            "release_date": "1938-09-28",
+            "title": "If I Were King",
+            "video": false,
+            "vote_average": 6.75,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zk8dHHRlBvN5yxBIP97fcCDP3dM.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 111315,
+            "original_language": "en",
+            "original_title": "Merrily We Live",
+            "overview": "Society matron Emily Kilbourne has a habit of hiring ex-cons and hobos as servants. Her latest find is a handsome tramp who shows up at her doorstep and ends up in a chauffeur's uniform. He also catches the eye of Geraldine.",
+            "popularity": 0.4048,
+            "poster_path": "/zLnhWe9hLIFyq6PrhcCdbaIg9ah.jpg",
+            "release_date": "1938-03-04",
+            "title": "Merrily We Live",
+            "video": false,
+            "vote_average": 7.027,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8aPNj1OK7rSY33RZk4T2jBKCw7D.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 17885,
+            "original_language": "en",
+            "original_title": "The Amazing Dr. Clitterhouse",
+            "overview": "A wealthy society doctor decides to research the medical aspects of criminal behaviour by becoming one himself. He joins a gang of thieves and proceeds to wrest leadership of the gang away from its extremely resentful leader.",
+            "popularity": 0.4309,
+            "poster_path": "/7fPKRTXMbDMER4UG1FP4mr09Lll.jpg",
+            "release_date": "1938-07-20",
+            "title": "The Amazing Dr. Clitterhouse",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 50
+        }
+    ]
+}

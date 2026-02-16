@@ -1,0 +1,33 @@
+{
+    "type" : "folder_list",
+    "title" : "",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "The very best",
+            "id" : "the_very_best",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "By genre",
+            "id" : "by_genre",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "By decade/year",
+            "id" : "by_decade",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "By award",
+            "id" : "by_award",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Other criteria",
+            "id" : "other_criteria",
+            "type" : "folder_list"
+        }
+    ]
+}

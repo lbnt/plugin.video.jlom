@@ -1,0 +1,264 @@
+{
+    "type": "movie_list",
+    "title": "Filmsite - 300 Greatest Films - 1920s",
+    "source": "https://www.filmsite.org/300films.html",
+    "created_by": "lbnt",
+    "added": "04/28/24",
+    "modified": "04/28/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/mAhCW7QbpL5kwvCWGsfyY3ILoW6.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 10098,
+            "original_language": "en",
+            "original_title": "The Kid",
+            "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
+            "popularity": 34.69,
+            "poster_path": "/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+            "release_date": "1921-01-21",
+            "title": "The Kid",
+            "video": false,
+            "vote_average": 8.182,
+            "vote_count": 1988
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zc5vjonSbXUUazuQSi0R2bUfWNP.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 1405,
+            "original_language": "en",
+            "original_title": "Greed",
+            "overview": "A lottery win of $5,000 forever changes the lives of a miner turned dentist and his wife.",
+            "popularity": 18.61,
+            "poster_path": "/zT8XclM0tX5nVsnU3Idsn2Nzdo5.jpg",
+            "release_date": "1924-12-04",
+            "title": "Greed",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRKCNvOjXkRTIA3D3KAve7GRu4k.jpg",
+            "genre_ids": [
+                28,
+                35,
+                9648
+            ],
+            "id": 992,
+            "original_language": "en",
+            "original_title": "Sherlock Jr.",
+            "overview": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+            "popularity": 26.538,
+            "poster_path": "/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+            "release_date": "1924-04-17",
+            "title": "Sherlock Jr.",
+            "video": false,
+            "vote_average": 8.073,
+            "vote_count": 928
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cuMvdjZVYKeCLBtWFc2FDiNAsUR.jpg",
+            "genre_ids": [
+                10749,
+                12,
+                14
+            ],
+            "id": 28963,
+            "original_language": "en",
+            "original_title": "The Thief of Bagdad",
+            "overview": "A recalcitrant thief vies with a duplicitous Mongol ruler for the hand of a beautiful princess.",
+            "popularity": 14.104,
+            "poster_path": "/8t4CJ591N2FATf2yUiQNQk9p0tB.jpg",
+            "release_date": "1924-03-18",
+            "title": "The Thief of Bagdad",
+            "video": false,
+            "vote_average": 7.332,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sht6I2skgyihxaRGD0vx2kxBtxj.jpg",
+            "genre_ids": [
+                10749,
+                10752,
+                18
+            ],
+            "id": 3060,
+            "original_language": "en",
+            "original_title": "The Big Parade",
+            "overview": "The story of an idle rich boy who joins the US Army's Rainbow Division and is sent to France to fight in World War I, becomes friends with two working class men, experiences the horrors of trench warfare, and finds love with a French girl.",
+            "popularity": 7.182,
+            "poster_path": "/8aBXJEkAHcwG2ghNYh6GIFd9ool.jpg",
+            "release_date": "1925-11-05",
+            "title": "The Big Parade",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kKRDECULj8d81IAshuJ8k04B53Y.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 42359,
+            "original_language": "en",
+            "original_title": "The Freshman",
+            "overview": "Harold Lamb is so excited about going to college that he has been working to earn spending money, practicing college yells, and learning a special way of introducing himself that he saw in a movie. When he arrives at Tate University, he soon becomes the target of practical jokes and ridicule. With the help of his one real friend Peggy, he resolves to make every possible effort to become popular.",
+            "popularity": 11.784,
+            "poster_path": "/3531lJNSMhrpcNWXrDIYYoYH6Rp.jpg",
+            "release_date": "1925-09-20",
+            "title": "The Freshman",
+            "video": false,
+            "vote_average": 6.975,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+            "genre_ids": [
+                12,
+                35,
+                18
+            ],
+            "id": 962,
+            "original_language": "en",
+            "original_title": "The Gold Rush",
+            "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+            "popularity": 20.34,
+            "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+            "release_date": "1925-07-12",
+            "title": "The Gold Rush",
+            "video": false,
+            "vote_average": 8.002,
+            "vote_count": 1515
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h68ilwiTesb5wmDgy2mHYkVuOBP.jpg",
+            "genre_ids": [
+                35,
+                28,
+                12,
+                10752
+            ],
+            "id": 961,
+            "original_language": "en",
+            "original_title": "The General",
+            "overview": "During America\u2019s Civil War, Union spies steal engineer Johnny Gray's beloved locomotive, 'The General'\u2014with Johnnie's lady love aboard an attached boxcar\u2014and he single-handedly must do all in his power to both get The General back and to rescue Annabelle.",
+            "popularity": 155.186,
+            "poster_path": "/nIp4gIXogCjfB1QABNsWwa9gSca.jpg",
+            "release_date": "1926-12-25",
+            "title": "The General",
+            "video": false,
+            "vote_average": 7.963,
+            "vote_count": 1166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oBNJAxtRdqa7xfhRc6LRk7AMnaa.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 939,
+            "original_language": "en",
+            "original_title": "The Jazz Singer",
+            "overview": "A young Jewish man is torn between tradition and individuality when his old-fashioned family objects to his career as a jazz singer. This is the first full length feature film to use synchronized sound, and is the original film musical.",
+            "popularity": 19.081,
+            "poster_path": "/wr8Pt1GO87cwB3210TO3JTNDsUc.jpg",
+            "release_date": "1927-10-06",
+            "title": "The Jazz Singer",
+            "video": false,
+            "vote_average": 6.127,
+            "vote_count": 201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rnN9yJfwso6JA64wIPqK1m6K6e1.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 19,
+            "original_language": "de",
+            "original_title": "Metropolis",
+            "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+            "popularity": 195.631,
+            "poster_path": "/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg",
+            "release_date": "1927-02-06",
+            "title": "Metropolis",
+            "video": false,
+            "vote_average": 8.138,
+            "vote_count": 2595
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 631,
+            "original_language": "en",
+            "original_title": "Sunrise: A Song of Two Humans",
+            "overview": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
+            "popularity": 18.156,
+            "poster_path": "/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg",
+            "release_date": "1927-11-04",
+            "title": "Sunrise: A Song of Two Humans",
+            "video": false,
+            "vote_average": 7.855,
+            "vote_count": 753
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ezQueOrGZyViNqdQcxOIaGIP2v.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 3061,
+            "original_language": "en",
+            "original_title": "The Crowd",
+            "overview": "John, an ambitious but undisciplined New York City office worker, meets and marries Mary. They start a family, struggle to cope with marital stress, financial setbacks, and tragedy, all while lost amid the anonymous, pitiless throngs of the big city.",
+            "popularity": 13.948,
+            "poster_path": "/jftzHLCZLE2DOLQWY0mENOIPjxc.jpg",
+            "release_date": "1928-03-03",
+            "title": "The Crowd",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mieB1ghpEBgTdGiYvewlLPN24jZ.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 31416,
+            "original_language": "en",
+            "original_title": "The Wind",
+            "overview": "When Letty Mason relocates to West Texas, she finds herself unsettled by the ever-present wind and sand. Arriving at her new home at the ranch of her cousin, Beverly, she receives a surprisingly cold welcome from his wife, Cora. Soon tensions in the family and unwanted attention from a trio of suitors leave Letty increasingly disturbed.",
+            "popularity": 12.12,
+            "poster_path": "/iW16HdJtw9qEDd84nI7cF9VDrK9.jpg",
+            "release_date": "1928-09-15",
+            "title": "The Wind",
+            "video": false,
+            "vote_average": 7.464,
+            "vote_count": 97
+        }
+    ]
+}
