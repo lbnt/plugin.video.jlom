@@ -1,0 +1,784 @@
+{
+    "type": "movie_list",
+    "title": "Filmsite - 300 Greatest Films - 1970s",
+    "source": "https://www.filmsite.org/300films.html",
+    "created_by": "lbnt",
+    "added": "04/28/24",
+    "modified": "04/28/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/xc8qVfiOQd45pLYGT4hdzCSJ09T.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 26617,
+            "original_language": "en",
+            "original_title": "Five Easy Pieces",
+            "overview": "A drop-out from upper-class America picks up work along the way on oil-rigs when his life isn't spent in a squalid succession of bars, motels, and other points of interest.",
+            "popularity": 12.786,
+            "poster_path": "/AciLTjLqyHiEA0lq35CV4Atnm4v.jpg",
+            "release_date": "1970-09-12",
+            "title": "Five Easy Pieces",
+            "video": false,
+            "vote_average": 7.142,
+            "vote_count": 493
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u4u4c5I12Vt6lZI3j6e8CAbOMnW.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 651,
+            "original_language": "en",
+            "original_title": "M*A*S*H",
+            "overview": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.",
+            "popularity": 84.989,
+            "poster_path": "/xZHNAcCVd5gUy68MBc4CmDqmely.jpg",
+            "release_date": "1970-02-18",
+            "title": "M*A*S*H",
+            "video": false,
+            "vote_average": 6.976,
+            "vote_count": 970
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3oa1aBgFEfm5d1fbSwafo9a4RG4.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 11202,
+            "original_language": "en",
+            "original_title": "Patton",
+            "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+            "popularity": 28.266,
+            "poster_path": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+            "release_date": "1970-01-25",
+            "title": "Patton",
+            "video": false,
+            "vote_average": 7.503,
+            "vote_count": 1029
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+            "genre_ids": [
+                878,
+                80
+            ],
+            "id": 185,
+            "original_language": "en",
+            "original_title": "A Clockwork Orange",
+            "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+            "popularity": 55.179,
+            "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+            "release_date": "1971-12-19",
+            "title": "A Clockwork Orange",
+            "video": false,
+            "vote_average": 8.206,
+            "vote_count": 12431
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Hzis2aTSKcHgT6TPFRthBh6ONW.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 1051,
+            "original_language": "en",
+            "original_title": "The French Connection",
+            "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+            "popularity": 21.585,
+            "poster_path": "/qZNslvZNbZxmdSB1fs0GTLqxEWm.jpg",
+            "release_date": "1971-10-09",
+            "title": "The French Connection",
+            "video": false,
+            "vote_average": 7.524,
+            "vote_count": 1735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvmbYtOzQJqj0Y60UwyIB9iAaMD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25188,
+            "original_language": "en",
+            "original_title": "The Last Picture Show",
+            "overview": "High school seniors and best friends, Sonny and Duane, live in a dying Texas town. The handsome Duane is dating a local beauty, while Sonny is having an affair with the coach's wife. As graduation nears and both boys contemplate their futures, Duane eyes the army and Sonny takes over a local business. Each struggles to figure out if he can escape this dead-end town and build a better life somewhere else.",
+            "popularity": 18.206,
+            "poster_path": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+            "release_date": "1971-10-03",
+            "title": "The Last Picture Show",
+            "video": false,
+            "vote_average": 7.636,
+            "vote_count": 638
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aycQMGPRA8LrNWPziPfj1quH5Qp.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 29005,
+            "original_language": "en",
+            "original_title": "McCabe & Mrs. Miller",
+            "overview": "A gambler and a prostitute become business partners in a remote Old West mining town, and their enterprise thrives until a large corporation arrives on the scene.",
+            "popularity": 16.235,
+            "poster_path": "/s08TlP0kKcpK50XZhg9oL7aGpbz.jpg",
+            "release_date": "1971-06-24",
+            "title": "McCabe & Mrs. Miller",
+            "video": false,
+            "vote_average": 7.147,
+            "vote_count": 368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 10784,
+            "original_language": "en",
+            "original_title": "Cabaret",
+            "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+            "popularity": 42.057,
+            "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+            "release_date": "1972-02-13",
+            "title": "Cabaret",
+            "video": false,
+            "vote_average": 7.385,
+            "vote_count": 841
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aAU15YKA5s64hKzzf12DZyH1DL4.jpg",
+            "genre_ids": [
+                18,
+                12,
+                53
+            ],
+            "id": 10669,
+            "original_language": "en",
+            "original_title": "Deliverance",
+            "overview": "Intent on seeing the Cahulawassee River before it's turned into one huge lake, outdoor fanatic Lewis Medlock takes his friends on a river-rafting trip they'll never forget into the dangerous American back-country.",
+            "popularity": 37.686,
+            "poster_path": "/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg",
+            "release_date": "1972-08-18",
+            "title": "Deliverance",
+            "video": false,
+            "vote_average": 7.318,
+            "vote_count": 1493
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 238,
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+            "popularity": 147.733,
+            "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "release_date": "1972-03-14",
+            "title": "The Godfather",
+            "video": false,
+            "vote_average": 8.695,
+            "vote_count": 19747
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1643,
+            "original_language": "it",
+            "original_title": "Ultimo tango a Parigi",
+            "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
+            "popularity": 25.291,
+            "poster_path": "/vDuI72CpwWYIWJzNNA01PA2Utdr.jpg",
+            "release_date": "1972-10-14",
+            "title": "Last Tango in Paris",
+            "video": false,
+            "vote_average": 6.982,
+            "vote_count": 1160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6kzYm1u9DOVhKZ2DyqZNUZ9yLdy.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 838,
+            "original_language": "en",
+            "original_title": "American Graffiti",
+            "overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+            "popularity": 43.654,
+            "poster_path": "/zjoHTqwbXQkG7eX00Vno8NkvCKc.jpg",
+            "release_date": "1973-08-11",
+            "title": "American Graffiti",
+            "video": false,
+            "vote_average": 7.03,
+            "vote_count": 1352
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 3133,
+            "original_language": "en",
+            "original_title": "Badlands",
+            "overview": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+            "popularity": 46.845,
+            "poster_path": "/z81rBzHNgiNLean2JTGHgxjJ8nq.jpg",
+            "release_date": "1974-01-05",
+            "title": "Badlands",
+            "video": false,
+            "vote_average": 7.511,
+            "vote_count": 1119
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8qi3gplNf48uLZnne09iiL4OvFG.jpg",
+            "genre_ids": [
+                53,
+                18,
+                27
+            ],
+            "id": 931,
+            "original_language": "en",
+            "original_title": "Don't Look Now",
+            "overview": "While grieving a terrible loss, a married couple meet two mysterious sisters, one of whom gives them a message sent from the afterlife.",
+            "popularity": 19.151,
+            "poster_path": "/ivWsU3QtcstImCTOjItsH0SAbNn.jpg",
+            "release_date": "1973-01-18",
+            "title": "Don't Look Now",
+            "video": false,
+            "vote_average": 6.925,
+            "vote_count": 969
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+            "genre_ids": [
+                27,
+                53,
+                18
+            ],
+            "id": 9552,
+            "original_language": "en",
+            "original_title": "The Exorcist",
+            "overview": "When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the devil--and that her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.",
+            "popularity": 74.111,
+            "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+            "release_date": "1973-12-26",
+            "title": "The Exorcist",
+            "video": false,
+            "vote_average": 7.73,
+            "vote_count": 7662
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/67wnCEO924khdR4lnGoFHY8S1Hk.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 203,
+            "original_language": "en",
+            "original_title": "Mean Streets",
+            "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+            "popularity": 29.344,
+            "poster_path": "/rzVTH9ylCw0owKkMZQVz2Eve97E.jpg",
+            "release_date": "1973-10-14",
+            "title": "Mean Streets",
+            "video": false,
+            "vote_average": 7.089,
+            "vote_count": 1985
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVTEJPLof6fizkWvmhxEprut9oQ.jpg",
+            "genre_ids": [
+                35,
+                878
+            ],
+            "id": 11561,
+            "original_language": "en",
+            "original_title": "Sleeper",
+            "overview": "Miles Monroe, a clarinet-playing health food store proprietor, is revived out of cryostasis 200 years into a future world in order to help rebels fight an oppressive government regime.",
+            "popularity": 16.857,
+            "poster_path": "/YTYSziZZP5aXt5CDvdEMwKDzme.jpg",
+            "release_date": "1973-12-17",
+            "title": "Sleeper",
+            "video": false,
+            "vote_average": 6.917,
+            "vote_count": 736
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 829,
+            "original_language": "en",
+            "original_title": "Chinatown",
+            "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+            "popularity": 171.337,
+            "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+            "release_date": "1974-06-20",
+            "title": "Chinatown",
+            "video": false,
+            "vote_average": 7.916,
+            "vote_count": 3619
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "id": 592,
+            "original_language": "en",
+            "original_title": "The Conversation",
+            "overview": "Surveillance expert Harry Caul is hired by a mysterious client's brusque aide to tail a young couple. Tracking the pair through San Francisco's Union Square, Caul and his associate Stan manage to record a cryptic conversation between them. Tormented by memories of a previous case that ended badly, Caul becomes obsessed with the resulting tape, trying to determine if the couple is in danger.",
+            "popularity": 34.35,
+            "poster_path": "/leZtiWJXHEp2x7jVW7djhcSboSJ.jpg",
+            "release_date": "1974-04-07",
+            "title": "The Conversation",
+            "video": false,
+            "vote_average": 7.526,
+            "vote_count": 1612
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather Part II",
+            "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "popularity": 124.15,
+            "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+            "release_date": "1974-12-20",
+            "title": "The Godfather Part II",
+            "video": false,
+            "vote_average": 8.577,
+            "vote_count": 11932
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 3034,
+            "original_language": "en",
+            "original_title": "Young Frankenstein",
+            "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+            "popularity": 45.398,
+            "poster_path": "/tQJAWbIjvvqVKLLbIZHtwGw2HTf.jpg",
+            "release_date": "1974-12-15",
+            "title": "Young Frankenstein",
+            "video": false,
+            "vote_average": 7.883,
+            "vote_count": 3020
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+            "genre_ids": [
+                27,
+                53,
+                12
+            ],
+            "id": 578,
+            "original_language": "en",
+            "original_title": "Jaws",
+            "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+            "popularity": 209.422,
+            "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+            "release_date": "1975-06-20",
+            "title": "Jaws",
+            "video": false,
+            "vote_average": 7.66,
+            "vote_count": 9968
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+            "genre_ids": [
+                12,
+                35,
+                14
+            ],
+            "id": 762,
+            "original_language": "en",
+            "original_title": "Monty Python and the Holy Grail",
+            "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+            "popularity": 33.998,
+            "poster_path": "/xZ0rC0kuIsjk6RncpNK73kwstEP.jpg",
+            "release_date": "1975-03-14",
+            "title": "Monty Python and the Holy Grail",
+            "video": false,
+            "vote_average": 7.804,
+            "vote_count": 5534
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2mSkRoxHisjTgh6NPZfkp1IeZ2Y.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                35
+            ],
+            "id": 3121,
+            "original_language": "en",
+            "original_title": "Nashville",
+            "overview": "The intersecting stories of twenty-four characters\u2014from country star to wannabe to reporter to waitress\u2014connect to the music business in Nashville, Tennessee.",
+            "popularity": 41.779,
+            "poster_path": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+            "release_date": "1975-06-11",
+            "title": "Nashville",
+            "video": false,
+            "vote_average": 7.23,
+            "vote_count": 374
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oje9d0EXQyQcxsqHQor4xFVGjrd.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 510,
+            "original_language": "en",
+            "original_title": "One Flew Over the Cuckoo's Nest",
+            "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.",
+            "popularity": 56.717,
+            "poster_path": "/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+            "release_date": "1975-11-19",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "video": false,
+            "vote_average": 8.421,
+            "vote_count": 10074
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5DU39tmUzbXtD6UXgm7iZqxpwoV.jpg",
+            "genre_ids": [
+                35,
+                878,
+                14,
+                27
+            ],
+            "id": 36685,
+            "original_language": "en",
+            "original_title": "The Rocky Horror Picture Show",
+            "overview": "Sweethearts Brad and Janet, stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter, a transvestite scientist. As their innocence is lost, Brad and Janet meet a houseful of wild characters, including a rocking biker and a creepy butler. Through elaborate dances and rock songs, Frank-N-Furter unveils his latest creation: a muscular man named 'Rocky'. Harriet then spawns in and says hello and the credits roll!",
+            "popularity": 20.551,
+            "poster_path": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+            "release_date": "1975-08-14",
+            "title": "The Rocky Horror Picture Show",
+            "video": false,
+            "vote_average": 7.458,
+            "vote_count": 2686
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bODIl4B857k20AhrHylKzpLprk4.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10774,
+            "original_language": "en",
+            "original_title": "Network",
+            "overview": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
+            "popularity": 59.535,
+            "poster_path": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+            "release_date": "1976-11-14",
+            "title": "Network",
+            "video": false,
+            "vote_average": 7.824,
+            "vote_count": 1619
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kK9v1wclQxug6ZUJucD4DTaHgVF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1366,
+            "original_language": "en",
+            "original_title": "Rocky",
+            "overview": "An uneducated collector for a Philadelphia loan shark is given a once-in-a-lifetime opportunity to fight against the world heavyweight boxing champion.",
+            "popularity": 302.746,
+            "poster_path": "/cqxg1CihGR5ge0i1wYXr4Rdeppu.jpg",
+            "release_date": "1976-11-21",
+            "title": "Rocky",
+            "video": false,
+            "vote_average": 7.787,
+            "vote_count": 7502
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 103,
+            "original_language": "en",
+            "original_title": "Taxi Driver",
+            "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+            "popularity": 263.872,
+            "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+            "release_date": "1976-02-09",
+            "title": "Taxi Driver",
+            "video": false,
+            "vote_average": 8.153,
+            "vote_count": 11726
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 703,
+            "original_language": "en",
+            "original_title": "Annie Hall",
+            "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+            "popularity": 66.702,
+            "poster_path": "/jj46Biz1WYQZoVZfXxeT9u4XRrS.jpg",
+            "release_date": "1977-04-19",
+            "title": "Annie Hall",
+            "video": false,
+            "vote_average": 7.751,
+            "vote_count": 3744
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yBCekmb7vK70xUhtsRQBcTu65sB.jpg",
+            "genre_ids": [
+                878,
+                18
+            ],
+            "id": 840,
+            "original_language": "en",
+            "original_title": "Close Encounters of the Third Kind",
+            "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+            "popularity": 40.482,
+            "poster_path": "/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+            "release_date": "1977-12-14",
+            "title": "Close Encounters of the Third Kind",
+            "video": false,
+            "vote_average": 7.355,
+            "vote_count": 4027
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iihMna17sTxP3zwlWBsKZbvDiGZ.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 11009,
+            "original_language": "en",
+            "original_title": "Saturday Night Fever",
+            "overview": "Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie.",
+            "popularity": 39.511,
+            "poster_path": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+            "release_date": "1977-12-16",
+            "title": "Saturday Night Fever",
+            "video": false,
+            "vote_average": 6.732,
+            "vote_count": 1832
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 11,
+            "original_language": "en",
+            "original_title": "Star Wars",
+            "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+            "popularity": 323.945,
+            "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+            "release_date": "1977-05-25",
+            "title": "Star Wars",
+            "video": false,
+            "vote_average": 8.203,
+            "vote_count": 19924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Upbup1xrQuTDbspIh9aytEH5xA.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 16642,
+            "original_language": "en",
+            "original_title": "Days of Heaven",
+            "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+            "popularity": 26.385,
+            "poster_path": "/siE1XQ544MLO27geLYDbUDy3oTt.jpg",
+            "release_date": "1978-09-13",
+            "title": "Days of Heaven",
+            "video": false,
+            "vote_average": 7.483,
+            "vote_count": 954
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 11778,
+            "original_language": "en",
+            "original_title": "The Deer Hunter",
+            "overview": "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+            "popularity": 40.807,
+            "poster_path": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+            "release_date": "1978-12-08",
+            "title": "The Deer Hunter",
+            "video": false,
+            "vote_average": 8.012,
+            "vote_count": 3646
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 948,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+            "popularity": 181.974,
+            "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+            "release_date": "1978-10-24",
+            "title": "Halloween",
+            "video": false,
+            "vote_average": 7.554,
+            "vote_count": 5310
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 348,
+            "original_language": "en",
+            "original_title": "Alien",
+            "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+            "popularity": 345.128,
+            "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "release_date": "1979-05-25",
+            "title": "Alien",
+            "video": false,
+            "vote_average": 8.152,
+            "vote_count": 13871
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8viWxsL4lwmQZB8QHOCHwMvBGXd.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 28,
+            "original_language": "en",
+            "original_title": "Apocalypse Now",
+            "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+            "popularity": 60.268,
+            "poster_path": "/8LHWi5GWEWKL2adSlNI6bZ4wpUW.jpg",
+            "release_date": "1979-08-15",
+            "title": "Apocalypse Now",
+            "video": false,
+            "vote_average": 8.283,
+            "vote_count": 7865
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 10322,
+            "original_language": "en",
+            "original_title": "Being There",
+            "overview": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+            "popularity": 20.706,
+            "poster_path": "/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+            "release_date": "1979-12-19",
+            "title": "Being There",
+            "video": false,
+            "vote_average": 7.604,
+            "vote_count": 925
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/odXPsc6GyLlAHa64orhAkpmYNLU.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 696,
+            "original_language": "en",
+            "original_title": "Manhattan",
+            "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+            "popularity": 136.48,
+            "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+            "release_date": "1979-04-25",
+            "title": "Manhattan",
+            "video": false,
+            "vote_average": 7.746,
+            "vote_count": 2281
+        }
+    ]
+}

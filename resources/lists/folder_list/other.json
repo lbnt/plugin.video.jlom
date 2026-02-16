@@ -1,0 +1,33 @@
+{
+    "type" : "folder_list",
+    "title" : "Other genres",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "IndieWire - The top 21 teen movies of all time",
+            "id" : "IndieWire-the_top_21_teen_movies_of_all_time",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Rotten Tomatoes - 88 Best Heist Movies Of All Time",
+            "id" : "rottentomatoes-best_heist_movies_of_all_time",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Independent Top 50",
+            "id" : "IMDb's_independent_top_50",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Film Noir Top 50",
+            "id" : "IMDb's_film-noir_top_50",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Crime Top 50",
+            "id" : "IMDb's_crime_top_50",
+            "type" : "movie_list"
+        }
+    ]
+}

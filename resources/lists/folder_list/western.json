@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "Western",
+    "added" : "10/10/24",
+    "modified" : "10/10/24",
+    "folders" : [
+        {
+            "title" : "Rotten Tomatoes - 100 Best Western Movies Of All Time",
+            "id" : "rottentomatoes-best_western_movies",
+            "type" : "movie_list"
+        }
+    ]
+}

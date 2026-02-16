@@ -1,0 +1,980 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1990",
+    "source": "https://criticstop10.com/best-movies-of-1990/",
+    "created_by": "lbnt",
+    "added": "07/29/25",
+    "modified": "07/29/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 769,
+            "original_language": "en",
+            "original_title": "GoodFellas",
+            "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+            "popularity": 15.6433,
+            "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+            "release_date": "1990-09-12",
+            "title": "GoodFellas",
+            "video": false,
+            "vote_average": 8.455,
+            "vote_count": 13498
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+            "genre_ids": [
+                12,
+                18,
+                37
+            ],
+            "id": 581,
+            "original_language": "en",
+            "original_title": "Dances with Wolves",
+            "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide\u2014and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+            "popularity": 6.4188,
+            "poster_path": "/AqhFSd5J3OPz24BGrWL7HK7brt.jpg",
+            "release_date": "1990-03-30",
+            "title": "Dances with Wolves",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4429
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/efFQxWf7EmhPwyXogl9JUXILgln.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 38718,
+            "original_language": "en",
+            "original_title": "Reversal of Fortune",
+            "overview": "Wealthy Sunny von B\u00fclow lies brain-dead, husband Claus guilty of attempted murder; but he says he's innocent and hires Alan Dershowitz for his appeal.",
+            "popularity": 1.605,
+            "poster_path": "/jEmFeHPsoyHk6RRZslKzC5NVFad.jpg",
+            "release_date": "1990-10-19",
+            "title": "Reversal of Fortune",
+            "video": false,
+            "vote_average": 6.624,
+            "vote_count": 327
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lwaItfvrlvCZl1rAnRZ1d3JMFVi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 2302,
+            "original_language": "en",
+            "original_title": "Avalon",
+            "overview": "A Polish-Jewish family comes to the U.S. at the beginning of the twentieth century. There, the family and their children try to make themselves a better future in the so-called promised land.",
+            "popularity": 0.6974,
+            "poster_path": "/lsyPs8pU6hIJCS5sw0H9Q8Tl1nJ.jpg",
+            "release_date": "1990-10-05",
+            "title": "Avalon",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 242,
+            "original_language": "en",
+            "original_title": "The Godfather Part III",
+            "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+            "popularity": 11.4469,
+            "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+            "release_date": "1990-12-25",
+            "title": "The Godfather Part III",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 6455
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cEsnLkTCJ4jh9Oym7nPAPGnOMm3.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 379,
+            "original_language": "en",
+            "original_title": "Miller's Crossing",
+            "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
+            "popularity": 3.8507,
+            "poster_path": "/ab3pnsTKp3BgcAFy0FgWBFBg9FL.jpg",
+            "release_date": "1990-09-21",
+            "title": "Miller's Crossing",
+            "video": false,
+            "vote_average": 7.459,
+            "vote_count": 1726
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
+            "genre_ids": [
+                14,
+                18,
+                10749
+            ],
+            "id": 162,
+            "original_language": "en",
+            "original_title": "Edward Scissorhands",
+            "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+            "popularity": 8.1921,
+            "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+            "release_date": "1990-12-07",
+            "title": "Edward Scissorhands",
+            "video": false,
+            "vote_average": 7.718,
+            "vote_count": 13238
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                53
+            ],
+            "id": 11092,
+            "original_language": "en",
+            "original_title": "Presumed Innocent",
+            "overview": "Rusty Sabich is a deputy prosecutor engaged in an obsessive affair with a coworker who is murdered. Soon after, he's accused of the crime. And his fight to clear his name becomes a whirlpool of lies and hidden passions.",
+            "popularity": 1.9259,
+            "poster_path": "/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+            "release_date": "1990-07-27",
+            "title": "Presumed Innocent",
+            "video": false,
+            "vote_average": 6.806,
+            "vote_count": 741
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i8vHWue4YFBQPI4wsnnBJq2RQV9.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 18129,
+            "original_language": "en",
+            "original_title": "The Grifters",
+            "overview": "A small-time conman has his loyalties torn between his estranged mother and his new girlfriend, both of whom are high-stakes grifters with their own angles to play.",
+            "popularity": 0.9577,
+            "poster_path": "/zMpGfkiDIdg5bB7WGcAT3Fdrfpt.jpg",
+            "release_date": "1990-08-08",
+            "title": "The Grifters",
+            "video": false,
+            "vote_average": 6.505,
+            "vote_count": 438
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k3SBILYxHRgjORb5tbvA5dm2N4h.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11216,
+            "original_language": "it",
+            "original_title": "Nuovo Cinema Paradiso",
+            "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+            "popularity": 9.0915,
+            "poster_path": "/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+            "release_date": "1988-11-17",
+            "title": "Cinema Paradiso",
+            "video": false,
+            "vote_average": 8.433,
+            "vote_count": 4567
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+            "genre_ids": [
+                18,
+                35,
+                36,
+                10749
+            ],
+            "id": 11673,
+            "original_language": "fr",
+            "original_title": "Cyrano de Bergerac",
+            "overview": "Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane. He has never expressed his love for her as he his large nose undermines his self-confidence. Then he finds a way to express his love to her, indirectly.",
+            "popularity": 0.749,
+            "poster_path": "/80XJ5UkGuYTKDuALeG03BLk1OT1.jpg",
+            "release_date": "1990-03-28",
+            "title": "Cyrano de Bergerac",
+            "video": false,
+            "vote_average": 7.332,
+            "vote_count": 788
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tRKTlMoTsAhYpuq19V8Wk3RFY4O.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11005,
+            "original_language": "en",
+            "original_title": "Awakenings",
+            "overview": "Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to \"awaken\" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",
+            "popularity": 3.9188,
+            "poster_path": "/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+            "release_date": "1990-12-04",
+            "title": "Awakenings",
+            "video": false,
+            "vote_average": 7.775,
+            "vote_count": 2661
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hyHp1MgvUXw40GLjhqfjxwMWD4.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 15389,
+            "original_language": "en",
+            "original_title": "Metropolitan",
+            "overview": "A radical student is adopted by a group of young New Yorkers, serves as a catalyst to alter his and their lives. Gathering in a Manhattan apartment, the group of friends meet to discuss social mobility, Fourier's socialism and play bridge in their cocoon of upper-class society - until they are joined by a man with a critical view of their way of life.",
+            "popularity": 0.7047,
+            "poster_path": "/852ZwTRj9tRxkGOT0Pu0Ep8yimk.jpg",
+            "release_date": "1990-08-03",
+            "title": "Metropolitan",
+            "video": false,
+            "vote_average": 6.886,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zR9JPzQljgjmcxM0caE316VsBv9.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 94725,
+            "original_language": "en",
+            "original_title": "To Sleep with Anger",
+            "overview": "An enigmatic drifter from the South comes to visit an old acquaintance who now lives in South-Central LA.",
+            "popularity": 0.2065,
+            "poster_path": "/k97OYGAbHIP6MNuOOGDUgYDnncW.jpg",
+            "release_date": "1990-10-12",
+            "title": "To Sleep with Anger",
+            "video": false,
+            "vote_average": 6.721,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tiJ6FupEHWyK5w7uSH5Hsje3B0V.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 7452,
+            "original_language": "en",
+            "original_title": "The Cook, the Thief, His Wife & Her Lover",
+            "overview": "The wife of an abusive criminal finds solace in the arms of a kind regular guest in her husband's restaurant.",
+            "popularity": 1.8166,
+            "poster_path": "/fNkl7o1VQQqy1nEX9x56CDHULmr.jpg",
+            "release_date": "1989-10-13",
+            "title": "The Cook, the Thief, His Wife & Her Lover",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 659
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xbYDtVWOOL84KaZjM5JnQ5QYAuX.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 10168,
+            "original_language": "en",
+            "original_title": "The Freshman",
+            "overview": "After a film student gets his belongings stolen, he meets a mobster bearing a startling resemblance to a certain cinematic godfather. Soon, he finds himself caught up in a caper involving endangered species and fine dining.",
+            "popularity": 0.8815,
+            "poster_path": "/tKeZDE3Hbne5w43k7ASFolDKroC.jpg",
+            "release_date": "1990-07-20",
+            "title": "The Freshman",
+            "video": false,
+            "vote_average": 6.287,
+            "vote_count": 287
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/owdE5943OXuCMzgGAB1bg7WC7a9.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 4339,
+            "original_language": "de",
+            "original_title": "Das schreckliche M\u00e4dchen",
+            "overview": "When a young woman investigates her town's Nazi past, the community turns against her.",
+            "popularity": 0.609,
+            "poster_path": "/vMgWMJe7crXnj3MZ39tKSSjFSPD.jpg",
+            "release_date": "1990-02-15",
+            "title": "The Nasty Girl",
+            "video": false,
+            "vote_average": 6.649,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6J8K5uTcaFwPvG0r87s15f1il3E.jpg",
+            "genre_ids": [
+                80,
+                27,
+                53,
+                18
+            ],
+            "id": 10692,
+            "original_language": "en",
+            "original_title": "Henry: Portrait of a Serial Killer",
+            "overview": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer.",
+            "popularity": 1.149,
+            "poster_path": "/diVMzTarVLgjc3jyODyhZMadfwD.jpg",
+            "release_date": "1986-09-24",
+            "title": "Henry: Portrait of a Serial Killer",
+            "video": false,
+            "vote_average": 6.739,
+            "vote_count": 733
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aiyrszCc3vxLDRjAPw7KodZzCKj.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 39934,
+            "original_language": "en",
+            "original_title": "Longtime Companion",
+            "overview": "During the summer of 1981, a group of friends in New York are completely unprepared for the onslaught of AIDS. What starts as a rumor about a mysterious \"gay cancer\" soon turns into a major crisis as, one by one, some of the friends begin to fall ill, leaving the others to panic about who will be next. As death takes its toll, the lives of these friends are forever redefined by an unconditional display of love, hope and courage.",
+            "popularity": 0.366,
+            "poster_path": "/lHIGo1VI71DQgDbbm6XWBjaPxCz.jpg",
+            "release_date": "1989-10-11",
+            "title": "Longtime Companion",
+            "video": false,
+            "vote_average": 6.794,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/16idNRmOLHtNymKpsn0TnxltbQr.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 65015,
+            "original_language": "en",
+            "original_title": "Sweetie",
+            "overview": "The buttoned-down, superstitious Kay is attempting to lead a normal existence with her new boyfriend Louis. That\u2019s until Sweetie, her rampaging, devil-may-care sister, returns home after an absence, exposing the rotten roots of their family and placing a strain on Kay and Louis\u2019 relationship.",
+            "popularity": 0.4821,
+            "poster_path": "/25lpQtxNWXzOimnXmbwF0Y0GYej.jpg",
+            "release_date": "1989-09-28",
+            "title": "Sweetie",
+            "video": false,
+            "vote_average": 6.042,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+            "genre_ids": [
+                80,
+                53,
+                10749
+            ],
+            "id": 483,
+            "original_language": "en",
+            "original_title": "Wild at Heart",
+            "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula\u2019s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers\u2019 surreal honeymoon short.",
+            "popularity": 2.2254,
+            "poster_path": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+            "release_date": "1990-08-17",
+            "title": "Wild at Heart",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1778
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xjC3S6d65X4twHwzmYQeCGKUXjJ.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 41936,
+            "original_language": "fr",
+            "original_title": "La Vie et rien d'autre",
+            "overview": "In 1920, Major Dellaplane, a man of honor and ethics, searches for missing French soldiers. He meets Madame Ir\u00e8ne de Courtil, a politically connected Parisian, and their paths cross.",
+            "popularity": 0.2783,
+            "poster_path": "/qxyXttnO7UkKovpFo0QmxxgZNAP.jpg",
+            "release_date": "1989-09-06",
+            "title": "Life and Nothing But",
+            "video": false,
+            "vote_average": 7.244,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kEaYlYkb5wZQ6ZtydGfNhoujbQn.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 4486,
+            "original_language": "fr",
+            "original_title": "J\u00e9sus de Montr\u00e9al",
+            "overview": "A group of actors putting on an interpretive Passion Play in Montreal begin to experience a meshing of their characters and their private lives as the production takes form against the growing opposition of the Catholic church.",
+            "popularity": 0.4526,
+            "poster_path": "/evtfMmuJyCQch2JIdWO2SdGWgJA.jpg",
+            "release_date": "1989-05-15",
+            "title": "Jesus of Montreal",
+            "video": false,
+            "vote_average": 6.959,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sitF7vQxxm3bBsB59WX0DiqOFod.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 38695,
+            "original_language": "fr",
+            "original_title": "Monsieur Hire",
+            "overview": "A French man spies on a lovely younger woman across the way. When he's spotted by the woman shortly after being questioned by the police about a local murder, the man's simple life becomes more complicated.",
+            "popularity": 0.47,
+            "poster_path": "/5wezMu0b1w2QYHOIN8zMZ0dadKF.jpg",
+            "release_date": "1989-05-24",
+            "title": "Monsieur Hire",
+            "video": false,
+            "vote_average": 7.288,
+            "vote_count": 165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+            "genre_ids": [
+                14,
+                18,
+                53,
+                9648,
+                10749
+            ],
+            "id": 251,
+            "original_language": "en",
+            "original_title": "Ghost",
+            "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+            "popularity": 6.7648,
+            "poster_path": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+            "release_date": "1990-07-13",
+            "title": "Ghost",
+            "video": false,
+            "vote_average": 7.226,
+            "vote_count": 5738
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ZZmVV83jc1fUwSwRnXsLBBcPxN.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 22414,
+            "original_language": "en",
+            "original_title": "Postcards from the Edge",
+            "overview": "Substance-addicted Hollywood actress, Suzanne Vale is on the skids. After a spell at a detox centre her film company insists as a condition of continuing to employ her that she live with her mother, herself once a star and now a champion drinker. Such a set-up is bad news for Suzanne who has struggled for years to get out of her mother's shadow, and who still treats her like a child. Despite these and other problems, Suzanne begins to see the funny side of her situation, and also realises that not only do daughters have mothers\u2014mothers do too.",
+            "popularity": 1.0029,
+            "poster_path": "/uF7bO5UcenRgag0jpbVvKsGyfBK.jpg",
+            "release_date": "1990-09-14",
+            "title": "Postcards from the Edge",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mMVmRtcAvVDRe9VpusjoCL1pw6s.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 55309,
+            "original_language": "en",
+            "original_title": "Vincent & Theo",
+            "overview": "The tragic story of Vincent van Gogh broadened by focusing as well on his brother Theodore, who helped support Vincent. Based on the letters written between the two.",
+            "popularity": 0.4941,
+            "poster_path": "/hKsYwJoncAf42hqzCVbp1LBwUxv.jpg",
+            "release_date": "1990-12-02",
+            "title": "Vincent & Theo",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/egl2Z6XhIaUcDo1MnCIDQ4OQpjk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 111815,
+            "original_language": "en",
+            "original_title": "Mr. & Mrs. Bridge",
+            "overview": "Set during World War II, an upper-class family begins to fall apart due to the conservative nature of the patriarch and the progressive values of his children.",
+            "popularity": 0.3441,
+            "poster_path": "/e7YO2jyW4jmLGZybpTWIKtN7F1.jpg",
+            "release_date": "1990-11-23",
+            "title": "Mr. & Mrs. Bridge",
+            "video": false,
+            "vote_average": 6.042,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6jF3HdLkHsEJtw8qKoEyZ9oJ7qB.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 17993,
+            "original_language": "en",
+            "original_title": "Henry & June",
+            "overview": "While traveling in Paris, author Henry Miller and his wife, June, meet Anais Nin, and sexual sparks fly as Nin starts an affair with the openly bisexual June. When June is forced to return to the U.S., she gives Nin her blessing to sleep with her husband. Then, when June returns to France, an unexpected, and sometimes contentious, threesome forms.",
+            "popularity": 1.1669,
+            "poster_path": "/cDMQLwT5LpdbA4dc4Twn43sbGRw.jpg",
+            "release_date": "1990-09-28",
+            "title": "Henry & June",
+            "video": false,
+            "vote_average": 6.071,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zkIMr5t0B95nZPhY4AvI4v3qYH.jpg",
+            "genre_ids": [
+                12,
+                35,
+                80
+            ],
+            "id": 8592,
+            "original_language": "en",
+            "original_title": "Dick Tracy",
+            "overview": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
+            "popularity": 1.3949,
+            "poster_path": "/lCDo9N4zufnCCheWsisgu9hljeJ.jpg",
+            "release_date": "1990-04-05",
+            "title": "Dick Tracy",
+            "video": false,
+            "vote_average": 6.155,
+            "vote_count": 973
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 114,
+            "original_language": "en",
+            "original_title": "Pretty Woman",
+            "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+            "popularity": 10.1114,
+            "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+            "release_date": "1990-03-23",
+            "title": "Pretty Woman",
+            "video": false,
+            "vote_average": 7.462,
+            "vote_count": 8578
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r0W2dFpNgQKzowI7q9IbJ5P5vLI.jpg",
+            "genre_ids": [
+                18,
+                80,
+                36
+            ],
+            "id": 21344,
+            "original_language": "en",
+            "original_title": "The Krays",
+            "overview": "The Krays is a film based on the lives and crimes of the British gangsters Ronald and Reginald Kray, twins who are often referred to as The Krays and were active in London in the 1960s.",
+            "popularity": 1.0707,
+            "poster_path": "/ksofVCjM3oOFhZMRNz2kF4pogpg.jpg",
+            "release_date": "1990-04-27",
+            "title": "The Krays",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rtvK9piiHSdwevyfBoGHYkTBeMy.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 91217,
+            "original_language": "en",
+            "original_title": "Men Don't Leave",
+            "overview": "A widowed mother and her two sons move to Baltimore and struggle to adjust to urban life, encountering numerous eccentric characters along the way.",
+            "popularity": 0.4103,
+            "poster_path": "/zv39FUpO7xdubXwMFM8FYRQqwDM.jpg",
+            "release_date": "1990-02-02",
+            "title": "Men Don't Leave",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g2Y4A9qgkHhecPBnYMaAIzTlmcN.jpg",
+            "genre_ids": [
+                14,
+                18
+            ],
+            "id": 12516,
+            "original_language": "ja",
+            "original_title": "\u5922",
+            "overview": "A collection of magical tales based upon the actual dreams of director Akira Kurosawa.",
+            "popularity": 1.5046,
+            "poster_path": "/ua17wrOrUjyqxuYmnUrmOVBMf4G.jpg",
+            "release_date": "1990-05-11",
+            "title": "Dreams",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 503
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tkMPZ6sPmK2SH93Nkkc9qb5UwnC.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "id": 14931,
+            "original_language": "en",
+            "original_title": "Miami Blues",
+            "overview": "After Junior is released from prison, he plans on starting a new life in Miami. But when he kills a man in the airport, he flees the scene and finds Susie, a mild-mannered prostitute searching for stability. The two opposites become romantically involved, and Junior steals a badge and gun from a veteran detective. Using the officer's identity, Junior embarks on a crime spree and convinces Susie that he is the perfect man.",
+            "popularity": 0.7377,
+            "poster_path": "/eOqOf2qG0sjsfhFdYp6SbZuorSF.jpg",
+            "release_date": "1990-04-20",
+            "title": "Miami Blues",
+            "video": false,
+            "vote_average": 6.013,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5jCpCFrku6wmCZOYZWhHOC2j8IU.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 1669,
+            "original_language": "en",
+            "original_title": "The Hunt for Red October",
+            "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
+            "popularity": 4.5076,
+            "poster_path": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+            "release_date": "1990-03-02",
+            "title": "The Hunt for Red October",
+            "video": false,
+            "vote_average": 7.38,
+            "vote_count": 3416
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pTKFWLYVuS1vlWq9pLgLj22OOWw.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 8740,
+            "original_language": "nl",
+            "original_title": "Spoorloos",
+            "overview": "Rex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor.",
+            "popularity": 1.8329,
+            "poster_path": "/eE5bbuRJluooG2MjEAsLEYyuJoa.jpg",
+            "release_date": "1988-10-27",
+            "title": "The Vanishing",
+            "video": false,
+            "vote_average": 7.464,
+            "vote_count": 707
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 1700,
+            "original_language": "en",
+            "original_title": "Misery",
+            "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+            "popularity": 4.5917,
+            "poster_path": "/23Y65uWaVMpqfbZTN3CT0aei4D5.jpg",
+            "release_date": "1990-11-30",
+            "title": "Misery",
+            "video": false,
+            "vote_average": 7.745,
+            "vote_count": 4858
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bOo5rzF607aPI9VL0r0jFK70Ufd.jpg",
+            "genre_ids": [
+                12,
+                18,
+                36
+            ],
+            "id": 33796,
+            "original_language": "en",
+            "original_title": "Mountains of the Moon",
+            "overview": "The story of Captain Richard Francis Burton's and Lt. John Hanning Speke's expedition to find the source of the Nile river in the name of Queen Victoria's British Empire. The film tells the story of their meeting, their friendship emerging amidst hardship, and then dissolving after their journey.",
+            "popularity": 0.4147,
+            "poster_path": "/uWWrigxf4yU1WmaTkxg3qYNMezG.jpg",
+            "release_date": "1990-02-16",
+            "title": "Mountains of the Moon",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qQWlRTI59a9wtj43pE9WToKdBoT.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 31598,
+            "original_language": "en",
+            "original_title": "Q & A",
+            "overview": "A young district attorney seeking to prove a case against a corrupt police detective encounters a former lover and her new protector, a crime boss who refuses to help him.",
+            "popularity": 1.4315,
+            "poster_path": "/ukvDaASAsiFVnPp16NYfdTIYTJ4.jpg",
+            "release_date": "1990-04-27",
+            "title": "Q & A",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 181
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2qbTqZGOOpDxUp2kmfacDsTQCti.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10749
+            ],
+            "id": 10170,
+            "original_language": "en",
+            "original_title": "The Russia House",
+            "overview": "Barley Scott Blair, a Lisbon-based editor of Russian literature who unexpectedly begins working for British intelligence, is commissioned to investigate the purposes of Dante, a dissident scientist trapped in the decaying Soviet Union that is crumbling under the new open-minded policies.",
+            "popularity": 1.501,
+            "poster_path": "/fFvwQGcpEdXkuPJaS15Xtl6h6P4.jpg",
+            "release_date": "1990-12-21",
+            "title": "The Russia House",
+            "video": false,
+            "vote_average": 6.055,
+            "vote_count": 311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5swI23sPOvSjd5LJ9TQDsMYkCPc.jpg",
+            "genre_ids": [
+                18,
+                35,
+                80,
+                14
+            ],
+            "id": 20123,
+            "original_language": "sh",
+            "original_title": "Dom za ve\u0161anje",
+            "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves.",
+            "popularity": 1.0695,
+            "poster_path": "/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+            "release_date": "1988-12-21",
+            "title": "Time of the Gypsies",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 403
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ae6AzOM7GjIlNSPjsujbUPavXh.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 28761,
+            "original_language": "en",
+            "original_title": "White Hunter, Black Heart",
+            "overview": "Renowned filmmaker John Wilson travels to Africa to direct a new movie, but constantly leaves to hunt elephants and other game, to the dismay of his cast and crew. He eventually becomes obsessed with hunting down and killing one specific elephant.",
+            "popularity": 0.833,
+            "poster_path": "/tbLYzI4rB7qQy0gete68v2gHVZV.jpg",
+            "release_date": "1990-05-16",
+            "title": "White Hunter, Black Heart",
+            "video": false,
+            "vote_average": 6.371,
+            "vote_count": 286
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gzj6i2yOON6i30NrihTsDWEYOm7.jpg",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "id": 9556,
+            "original_language": "en",
+            "original_title": "Darkman",
+            "overview": "Dr. Peyton Westlake is on the verge of realizing a major breakthrough in synthetic skin when his laboratory is destroyed by gangsters. Having been burned beyond recognition and forever altered by an experimental medical procedure, Westlake becomes known as Darkman, assuming alternate identities in his quest for revenge and a new life with a former love.",
+            "popularity": 1.531,
+            "poster_path": "/u3CHG0I5VPFaIbA6pdU0n2W813s.jpg",
+            "release_date": "1990-08-24",
+            "title": "Darkman",
+            "video": false,
+            "vote_average": 6.432,
+            "vote_count": 1423
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 10264,
+            "original_language": "en",
+            "original_title": "Hamlet",
+            "overview": "Hamlet, Prince of Denmark, finds out that his uncle Claudius killed his father to obtain the throne, and plans revenge.",
+            "popularity": 0.6472,
+            "poster_path": "/ycM8gwwyOLXW4qxkcu6nhLlfgcA.jpg",
+            "release_date": "1990-12-19",
+            "title": "Hamlet",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 415
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/27nvfP0Y7cBP2Bd7ewqv90HZltq.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 24016,
+            "original_language": "en",
+            "original_title": "The Sheltering Sky",
+            "overview": "An American couple drift toward emptiness in postwar North Africa.",
+            "popularity": 0.8501,
+            "poster_path": "/mcaypmWykltQMLjjSuD2vxylZHV.jpg",
+            "release_date": "1990-10-25",
+            "title": "The Sheltering Sky",
+            "video": false,
+            "vote_average": 6.507,
+            "vote_count": 280
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j1Q9PSiRxpUZPtzislzEsyDgRCy.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 8428,
+            "original_language": "en",
+            "original_title": "Pump Up the Volume",
+            "overview": "Mark Hunter, a lonely high school student, uses his shortwave radio to moonlight as the popular pirate DJ \"Hard Harry.\" When his show gets blamed for a teen committing suicide, the students clash with high school faculty and the authorities.",
+            "popularity": 1.1609,
+            "poster_path": "/s1SyKrARJG2R7FyS4zkNdaekLAW.jpg",
+            "release_date": "1990-08-22",
+            "title": "Pump Up the Volume",
+            "video": false,
+            "vote_average": 7.067,
+            "vote_count": 374
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8sCgnu9ijQdfo6CVLFjseBHrZ9E.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 12774,
+            "original_language": "en",
+            "original_title": "Last Exit to Brooklyn",
+            "overview": "A gallery of characters in Brooklyn in the 1950s are crushed by their surroundings and selves: a union strike leader discovers he is gay; a prostitute falls in love with one of her clients; a family cannot cope with the fact that their daughter is illegitimately pregnant.",
+            "popularity": 0.8983,
+            "poster_path": "/89Lg30XE7gwVZpJUk0RKqV8CtND.jpg",
+            "release_date": "1989-07-26",
+            "title": "Last Exit to Brooklyn",
+            "video": false,
+            "vote_average": 6.55,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 861,
+            "original_language": "en",
+            "original_title": "Total Recall",
+            "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+            "popularity": 8.9949,
+            "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+            "release_date": "1990-06-01",
+            "title": "Total Recall",
+            "video": false,
+            "vote_average": 7.308,
+            "vote_count": 6046
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wgKWecDF29zSa0nfCx589S4Dejy.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 51763,
+            "original_language": "en",
+            "original_title": "The Long Walk Home",
+            "overview": "Two women, black and white, in 1955 Montgomery Alabama, must decide what they are going to do in response to the famous bus boycott led by Martin Luther King.",
+            "popularity": 1.4397,
+            "poster_path": "/7T2oVjLHHIDY6FQH9e04oOgPWQa.jpg",
+            "release_date": "1990-12-21",
+            "title": "The Long Walk Home",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 144
+        }
+    ]
+}

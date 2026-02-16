@@ -1,0 +1,53 @@
+{
+    "type" : "folder_list",
+    "title" : "Academy Awards - Oscars",
+    "added" : "09/01/26",
+    "modified" : "09/01/26",
+    "folders" : [
+        {
+            "title" : "Academy Awards - Best Picture",
+            "id" : "academy_awards-best_picture",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Academy Awards - Best Director",
+            "id" : "academy_awards-best_director",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Academy Awards - Best Cinematography",
+            "id" : "academy_awards-best_cinematography",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Academy Awards - Best Actor",
+            "id" : "academy_awards-best_actor",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Academy Awards - Best Actress",
+            "id" : "academy_awards-best_actress",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Academy Awards - Best Supporting Actor",
+            "id" : "academy_awards-best_supporting_actor",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Academy Awards - Best Supporting Actress",
+            "id" : "academy_awards-best_supporting_actress",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Academy Awards - Best Original Screenplay",
+            "id" : "academy_awards-best_original_screenplay",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Academy Awards - Best Adapted Screenplay",
+            "id" : "academy_awards-best_adapted_screenplay",
+            "type" : "movie_list"
+        }
+    ]
+}

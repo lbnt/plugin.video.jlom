@@ -1,0 +1,605 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1958",
+    "source": "https://criticstop10.com/best-movies-of-1958/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/3Yz8IcUBPZ8zDff0ktHZk24Rot0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 261,
+            "original_language": "en",
+            "original_title": "Cat on a Hot Tin Roof",
+            "overview": "An alcoholic ex-football player drinks his days away, having failed to come to terms with his sexuality and his real feelings for his football buddy who died after an ambiguous accident. His wife is crucified by her desperation to make him desire her: but he resists the affections of his wife. His reunion with his father\u2014who is dying of cancer\u2014jogs a host of memories and revelations for both father and son.",
+            "popularity": 1.2491,
+            "poster_path": "/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+            "release_date": "1958-08-29",
+            "title": "Cat on a Hot Tin Roof",
+            "video": false,
+            "vote_average": 7.654,
+            "vote_count": 785
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6aIpiwQB2qvVHSlhsXYZD3lmmSV.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 17281,
+            "original_language": "en",
+            "original_title": "Gigi",
+            "overview": "A home, a motorcar, servants, the latest fashions: the most eligible and most finicky bachelor in Paris offers them all to Gigi. But she, who's gone from girlish gawkishness to cultured glamour before our eyes, yearns for that wonderful something money can't buy.",
+            "popularity": 0.8429,
+            "poster_path": "/v4jPy20pdYIFiqtsNvrek7l6ALl.jpg",
+            "release_date": "1958-05-15",
+            "title": "Gigi",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 326
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kCFkOwAQFMZ7YhldEpvNZzWLCCv.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 16347,
+            "original_language": "en",
+            "original_title": "Auntie Mame",
+            "overview": "Mame Dennis, a progressive and independent woman of the 1920s, is left to care for her nephew Patrick after his wealthy father dies. Conflict ensues when the executor of the father's estate objects to the aunt's lifestyle and tries to force her to send Patrick to prep school.",
+            "popularity": 0.9724,
+            "poster_path": "/uH810rwkYEbUaV6IlwTaAExbXUm.jpg",
+            "release_date": "1958-12-04",
+            "title": "Auntie Mame",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
+            "genre_ids": [
+                80,
+                18,
+                28,
+                12,
+                53
+            ],
+            "id": 11414,
+            "original_language": "en",
+            "original_title": "The Defiant Ones",
+            "overview": "Two convicts\u2014a white racist and an angry black man\u2014escape while chained to each other.",
+            "popularity": 0.8662,
+            "poster_path": "/tGGNyImEXgedDjrCORbC9cTJp0X.jpg",
+            "release_date": "1958-08-14",
+            "title": "The Defiant Ones",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6jjv2DMqejxhp08mAJ0lrOWauz2.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43136,
+            "original_language": "en",
+            "original_title": "Separate Tables",
+            "overview": "The lives of a disparate group of unfulfilled people converge at a small, seaside English hotel in this adaptation of Terence Rattigan's classic play.",
+            "popularity": 0.7879,
+            "poster_path": "/moH80gzp0VZQJTgHwjmdxJLRUaU.jpg",
+            "release_date": "1958-12-18",
+            "title": "Separate Tables",
+            "video": false,
+            "vote_average": 6.958,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bRk1G4RJ7OqAahpozmx9LnGWOl9.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 28577,
+            "original_language": "en",
+            "original_title": "I Want to Live!",
+            "overview": "Brazen perpetual offender Barbara Graham tries to go straight but she finds herself implicated in a murder and sent to death row.",
+            "popularity": 0.5973,
+            "poster_path": "/cQoSMLJFPV3d8Mi8iPwwtNto370.jpg",
+            "release_date": "1958-11-18",
+            "title": "I Want to Live!",
+            "video": false,
+            "vote_average": 6.927,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nC57cswfpk1a3sXQjwp5dwxinMl.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 38724,
+            "original_language": "en",
+            "original_title": "Some Came Running",
+            "overview": "A former novelist returns to his small Midwest town after serving in the Army during WWII, to the chagrin of his social-climbing brother, and becomes close with an easy-going professional gambler and torn between two very different women.",
+            "popularity": 0.4804,
+            "poster_path": "/1MU776Znpod129nuoZenRhdlALv.jpg",
+            "release_date": "1958-12-25",
+            "title": "Some Came Running",
+            "video": false,
+            "vote_average": 6.929,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3R8lX1mqTeBFLlFSyfnxRSYiEgk.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 37451,
+            "original_language": "en",
+            "original_title": "The Inn of the Sixth Happiness",
+            "overview": "All her life, Englishwoman Gladys Aylward knew that China was the place where she belonged. Not qualified to be sent there as a missionary, Gladys works as a domestic to earn the money to send herself to a poor, remote village. There she eventually lives a full and happy life: running the inn, acting as \"foot inspector\", advising the local Mandarin, and even winning the heart of mixed race Captain Lin Nan. But Gladys discovers her real destiny when the country is invaded by Japan and the Chinese children need her to save their lives. Based on a true story.",
+            "popularity": 0.8425,
+            "poster_path": "/qSkuoH1e3pUO2sbwESHqq2CNPel.jpg",
+            "release_date": "1958-12-11",
+            "title": "The Inn of the Sixth Happiness",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lnXz5krhKNLFSQcKqjYv3V4tn6i.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 40085,
+            "original_language": "en",
+            "original_title": "The Long, Hot Summer",
+            "overview": "Accused barn burner and conman Ben Quick arrives in a small Mississippi town and quickly ingratiates himself with its richest family, the Varners.",
+            "popularity": 1.324,
+            "poster_path": "/4Pa7LA7zQPIfadLWhGWQtm7ymNv.jpg",
+            "release_date": "1958-05-17",
+            "title": "The Long, Hot Summer",
+            "video": false,
+            "vote_average": 7.08,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5E4359lwKUHAi48eybPrFZtW28T.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                28
+            ],
+            "id": 40739,
+            "original_language": "en",
+            "original_title": "The Young Lions",
+            "overview": "The lives of three young men, a German and two Americans, during WWII.",
+            "popularity": 1.0505,
+            "poster_path": "/7o0UhkzH01DhAP3JsMLoNPQnoqc.jpg",
+            "release_date": "1958-04-02",
+            "title": "The Young Lions",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9IVF9S6A2tQv0L1TdtwKdCbbf0.jpg",
+            "genre_ids": [
+                18,
+                37,
+                10749
+            ],
+            "id": 12501,
+            "original_language": "en",
+            "original_title": "The Big Country",
+            "overview": "Retired wealthy sea captain Jim McKay arrives in the Old West, where he becomes embroiled in a feud between his future father-in-law, Major Terrill, and the rough and lawless Hannasseys over a valuable patch of land.",
+            "popularity": 2.3302,
+            "poster_path": "/aTjIUBmo7qbiu5FuvSoBA0UONWk.jpg",
+            "release_date": "1958-09-30",
+            "title": "The Big Country",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fdEDV6cT9SbhDmJHcypOsxnO8Cu.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 56156,
+            "original_language": "en",
+            "original_title": "The Last Hurrah",
+            "overview": "In a changing world where television has become the main source of information, Adam Caulfield, a young sports journalist, witnesses how his uncle, Frank Skeffington, a veteran and honest politician, mayor of a New England town, tries to be reelected while bankers and captains of industry conspire in the shadows to place a weak and manageable candidate in the city hall.",
+            "popularity": 0.4969,
+            "poster_path": "/yM0BC9XLB67494CNcKQVB43lBuG.jpg",
+            "release_date": "1958-12-31",
+            "title": "The Last Hurrah",
+            "video": false,
+            "vote_average": 7.119,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8wvwfM2Ig5cH8gYZlfMgMULwShR.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 43138,
+            "original_language": "en",
+            "original_title": "The Brothers Karamazov",
+            "overview": "Ryevsk, Russia, 1870. Tensions abound in the Karamazov family. Fyodor is a wealthy libertine who holds his purse strings tightly. His four grown sons include Dmitri, the eldest, an elegant officer, always broke and at odds with his father, betrothed to Katya, herself lovely and rich. The other brothers include a sterile aesthete, a factotum who is a bastard, and a monk. Family tensions erupt when Dmitri falls in love with one of his father's mistresses, the coquette Grushenka. Two brothers see Dmitri's jealousy of their father as an opportunity to inherit sooner. Acts of violence lead to the story's conclusion: trials of honor, conscience, forgiveness, and redemption.",
+            "popularity": 0.5015,
+            "poster_path": "/ebehR57SnzCmA9ce8hZXVQgl0lU.jpg",
+            "release_date": "1958-02-20",
+            "title": "The Brothers Karamazov",
+            "video": false,
+            "vote_average": 6.591,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pNqropWft9qTTF0BM9edTO52mmH.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 22874,
+            "original_language": "en",
+            "original_title": "Indiscreet",
+            "overview": "Anna Kalman is an accomplished actress who has given up hope of finding the man of her dreams. She is in the middle of taking off her face cream, while talking about this subject with her sister, when in walks Philip Adams. She loses her concentration for a moment as she realizes that this is the charming, smart, and handsome man she has been waiting for.",
+            "popularity": 0.707,
+            "poster_path": "/sv4ao2ceHx2Ii1I2SsAmCqr7k6K.jpg",
+            "release_date": "1958-07-16",
+            "title": "Indiscreet",
+            "video": false,
+            "vote_average": 6.575,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jfGgCSFMUlf8DklzUkpz1GfieHA.jpg",
+            "genre_ids": [
+                10402,
+                35
+            ],
+            "id": 41253,
+            "original_language": "en",
+            "original_title": "Damn Yankees",
+            "overview": "Film adaptation of the George Abbott Broadway musical about a Washington Senators fan who makes a pact with the Devil to help his baseball team win the league pennant.",
+            "popularity": 0.2288,
+            "poster_path": "/iSw0Fb4pdXDqm9Bl8iqsSwfn5u7.jpg",
+            "release_date": "1958-09-26",
+            "title": "Damn Yankees",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y5e5MTZtbMesmJ7EYgBdlceMcWq.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10749
+            ],
+            "id": 2006,
+            "original_language": "en",
+            "original_title": "Bell, Book and Candle",
+            "overview": "A modern-day witch likes her neighbor but despises his fianc\u00e9e, so she enchants him to love her instead... only to fall in love with him for real.",
+            "popularity": 1.1314,
+            "poster_path": "/z3MLtVFPT2wIkKCBSE2yBgDmeXI.jpg",
+            "release_date": "1958-12-25",
+            "title": "Bell, Book and Candle",
+            "video": false,
+            "vote_average": 6.439,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4fobpKsoeNrJ8BtbYiHP4AdSVjU.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 19968,
+            "original_language": "en",
+            "original_title": "No Time for Sergeants",
+            "overview": "Georgia farm boy Will Stockdale is about to bust with pride. He\u2019s been drafted. Will\u2019s ready. But is Uncle Sam ready for Will?",
+            "popularity": 0.2828,
+            "poster_path": "/yCoIRzy6C5TCXN0ibD2IqEqqOgl.jpg",
+            "release_date": "1958-07-05",
+            "title": "No Time for Sergeants",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q8wy0x1TJobGYOVcVchrozhVN2c.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 114060,
+            "original_language": "en",
+            "original_title": "Me and the Colonel",
+            "overview": "Nazis are about to overrun France, and a Jewish man named Jacobowsky is stranded in Paris. He hitches a ride with reluctant Polish serviceman Colonel Prokoszny, who harbors a bias against Jews. They are soon joined by Prokoszny's bride-to-be, Suzanne, who takes an immediate liking to the engaging Jacobowsky. This furthers the hostility between Jacobowsky and Prokoszny, but they must put their differences aside to evade the Nazis trailing them.",
+            "popularity": 0.1871,
+            "poster_path": "/i9Dz3TbEhc9v4w08IapLtIFjdeu.jpg",
+            "release_date": "1958-10-01",
+            "title": "Me and the Colonel",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yu8B4OYoVwDMYi7ozuke8FGrKvq.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 43137,
+            "original_language": "en",
+            "original_title": "Teacher's Pet",
+            "overview": "A rugged city editor poses as a journalism student and flirts with the professor.",
+            "popularity": 0.5925,
+            "poster_path": "/nScpsAfMBj0ehlisTOuwivnulH5.jpg",
+            "release_date": "1958-04-01",
+            "title": "Teacher's Pet",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rwecaG3p9Dw4GHRsWFmq4Ex0Fjh.jpg",
+            "genre_ids": [
+                12,
+                36,
+                28
+            ],
+            "id": 42661,
+            "original_language": "en",
+            "original_title": "The Vikings",
+            "overview": "Einar, brutal son of the viking Ragnar and future heir to his throne, tangles with clever slave Eric, for the hand of a beautiful English maiden.",
+            "popularity": 2.8213,
+            "poster_path": "/19iHfAoEyB3Ug3HCmaymLQkW67t.jpg",
+            "release_date": "1958-06-11",
+            "title": "The Vikings",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 339
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gm6olhE6677l4ZfuhV9I1ntvkng.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 1377,
+            "original_language": "en",
+            "original_title": "Houseboat",
+            "overview": "An Italian socialite on the run signs on as housekeeper for a widower with three children.",
+            "popularity": 2.2185,
+            "poster_path": "/nfaOBiZktPHOV0f3DTqTftgTo3B.jpg",
+            "release_date": "1958-11-19",
+            "title": "Houseboat",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
+            "genre_ids": [
+                9648,
+                10749,
+                53
+            ],
+            "id": 426,
+            "original_language": "en",
+            "original_title": "Vertigo",
+            "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+            "popularity": 5.067,
+            "poster_path": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+            "release_date": "1958-05-28",
+            "title": "Vertigo",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 5976
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q87fkPucgvWSv7D5nQUa0JXCMqd.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 102081,
+            "original_language": "en",
+            "original_title": "The Key",
+            "overview": "In wartime England, circa 1941, poorly-armed tugs are sent into \"U-Boat Alley\" to rescue damaged Allied ships. An American named David Ross arrives to captain one of these tugs. He's given a key by a fellow tugboat-man -- a key to an apartment and its pretty female resident. Should something happen to the friend, Ross can use the key.",
+            "popularity": 0.51,
+            "poster_path": "/30lPhoDVPyZNQ3cjjTlsYuO4x0Z.jpg",
+            "release_date": "1958-05-28",
+            "title": "The Key",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wOwfPyKUxgleihU7PILCx7qh6zA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 3081,
+            "original_language": "en",
+            "original_title": "The Goddess",
+            "overview": "A woman adored by the people around her ultimately struggles to be happy with herself.",
+            "popularity": 0.1811,
+            "poster_path": "/xwmz4SwQNChQVuffMRUKBiqtrNW.jpg",
+            "release_date": "1958-06-24",
+            "title": "The Goddess",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l6TDqqdZjaJ8LTxyWTE5Iby5EFc.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 43141,
+            "original_language": "en",
+            "original_title": "The Matchmaker",
+            "overview": "Thornton Wilder's tale of a matchmaker who desires the man she's supposed to be pairing with another woman.",
+            "popularity": 3.0827,
+            "poster_path": "/bcAFp0zgbX8c3zuwuLjHDkoSmk7.jpg",
+            "release_date": "1958-07-23",
+            "title": "The Matchmaker",
+            "video": false,
+            "vote_average": 7.033,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rYYYZdTUoiddvw3uTlniXIZ1txx.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 64382,
+            "original_language": "en",
+            "original_title": "The Reluctant Debutante",
+            "overview": "While visiting her father, an American teenage girl is thrown into London society during its final \"Debutante Season.\"",
+            "popularity": 0.3944,
+            "poster_path": "/prqscm98H6Ybt5AD8JvIhOgqXFO.jpg",
+            "release_date": "1958-08-14",
+            "title": "The Reluctant Debutante",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dE4eduoQ8MJ82ZcuktjtqzfJfwk.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 114503,
+            "original_language": "en",
+            "original_title": "White Wilderness",
+            "overview": "A fabulous new adventure in exciting entertainment.",
+            "popularity": 0.1446,
+            "poster_path": "/rSSzg9k5JL28xjCfqy1tvyzTLqf.jpg",
+            "release_date": "1958-08-12",
+            "title": "White Wilderness",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5S916KQ6Wmn0pDFoeknIvpMgL9v.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 11331,
+            "original_language": "en",
+            "original_title": "The Old Man and the Sea",
+            "overview": "Santiago is an aging, down-on-his-luck, Cuban fisherman who, after catching nothing for nearly 3 months, hooks a huge Marlin and struggles to land it far out in the Gulf Stream.",
+            "popularity": 0.6748,
+            "poster_path": "/6Q34dJL6m1vdzAr0jDDKDmNL52e.jpg",
+            "release_date": "1958-10-07",
+            "title": "The Old Man and the Sea",
+            "video": false,
+            "vote_average": 6.47,
+            "vote_count": 150
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5UpuptCgmqBfhjil0BukK0iLMXX.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 88431,
+            "original_language": "en",
+            "original_title": "The Proud Rebel",
+            "overview": "Searching for a doctor who can help him get his son to speak again--the boy hadn't uttered a word since he saw his mother die in the fire that burned down the family home--a Confederate veteran finds himself facing a 30-day jail sentence when he's unfairly accused of starting a brawl in a small town. A local woman pays his fine, providing that he works it off on her ranch. He soon finds himself involved in the woman's struggle to keep her ranch from a local landowner who wants it--and whose sons were responsible for the man being framed for the fight.",
+            "popularity": 0.8617,
+            "poster_path": "/Q94ZpugICOlgqLLR0TmoH05uuI.jpg",
+            "release_date": "1958-07-01",
+            "title": "The Proud Rebel",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cjZGSHreZ1Vllt0uRbGt4IKkFgh.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 225943,
+            "original_language": "en",
+            "original_title": "The Perfect Furlough",
+            "overview": "A love-starved soldier stationed at an Arctic base wins a furlough in Paris, but a pretty, no-nonsense military psychologist is ordered to accompany him as chaperone to keep him out of trouble.",
+            "popularity": 0.2053,
+            "poster_path": "/yrbtmgxifaVcM8C63UhaiubpzJ6.jpg",
+            "release_date": "1958-11-30",
+            "title": "The Perfect Furlough",
+            "video": false,
+            "vote_average": 6.639,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4mcrE2W30EyhUIY5fqejZDMi54y.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10749
+            ],
+            "id": 84079,
+            "original_language": "en",
+            "original_title": "A Time to Love and a Time to Die",
+            "overview": "A German soldier home on leave falls in love with a girl, then returns to World War II.",
+            "popularity": 0.6002,
+            "poster_path": "/nTN6eW0iYtLW2PEDveaHSAOq92X.jpg",
+            "release_date": "1958-07-09",
+            "title": "A Time to Love and a Time to Die",
+            "video": false,
+            "vote_average": 7.244,
+            "vote_count": 90
+        }
+    ]
+}

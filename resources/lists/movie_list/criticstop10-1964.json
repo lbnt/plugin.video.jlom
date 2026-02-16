@@ -1,0 +1,205 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1964",
+    "source": "https://criticstop10.com/best-movies-of-1964/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/5HpzmeVrvQKKhzIhMO1IFiB1UsI.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 11113,
+            "original_language": "en",
+            "original_title": "My Fair Lady",
+            "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+            "popularity": 2.3193,
+            "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+            "release_date": "1964-10-21",
+            "title": "My Fair Lady",
+            "video": false,
+            "vote_average": 7.513,
+            "vote_count": 1350
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bYwrsPgIloJsqD6nWfLycAp7tn6.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 15421,
+            "original_language": "en",
+            "original_title": "Becket",
+            "overview": "Thomas Becket, Henry II's longtime advisor, finds his friendship with the debauched king corroding when he is unwillingly appointed as Archbishop of Canterbury in an attempt to gain absolute loyalty from the Church.",
+            "popularity": 0.8615,
+            "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+            "release_date": "1964-03-11",
+            "title": "Becket",
+            "video": false,
+            "vote_average": 7.154,
+            "vote_count": 188
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t07Pdtl3rTbE5mBdV8hAggHcGVN.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                14
+            ],
+            "id": 433,
+            "original_language": "en",
+            "original_title": "Mary Poppins",
+            "overview": "Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.",
+            "popularity": 5.0232,
+            "poster_path": "/ei8hhYCMfURfPOXKBnyl61be2iV.jpg",
+            "release_date": "1964-12-17",
+            "title": "Mary Poppins",
+            "video": false,
+            "vote_average": 7.561,
+            "vote_count": 4810
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 935,
+            "original_language": "en",
+            "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+            "popularity": 4.2396,
+            "poster_path": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+            "release_date": "1964-01-29",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "video": false,
+            "vote_average": 8.122,
+            "vote_count": 5840
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jZQwv8GZXsCTXMiMhPylQ8kk7M7.jpg",
+            "genre_ids": [
+                35,
+                80,
+                12
+            ],
+            "id": 5052,
+            "original_language": "en",
+            "original_title": "Topkapi",
+            "overview": "Arthur Simon Simpson is a small-time crook biding his time in Greece. One of his potential victims turns out to be a gentleman thief planning to steal the emerald-encrusted dagger of the Mehmed II from Istanbul's Topkapi Museum.",
+            "popularity": 1.4514,
+            "poster_path": "/tvhWubbZfZTvCMtPu3ufIVePAp6.jpg",
+            "release_date": "1964-09-02",
+            "title": "Topkapi",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 704,
+            "original_language": "en",
+            "original_title": "A Hard Day's Night",
+            "overview": "Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.",
+            "popularity": 1.4156,
+            "poster_path": "/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+            "release_date": "1964-07-07",
+            "title": "A Hard Day's Night",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 703
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fO3x6euB6hWmGTYfxkqbnD7s7Sw.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749,
+                10752
+            ],
+            "id": 42791,
+            "original_language": "en",
+            "original_title": "The Americanization of Emily",
+            "overview": "American sailor Charlie Madison falls for a pretty Englishwoman while trying to avoid a senseless and dangerous D-Day mission concocted by a deranged admiral.",
+            "popularity": 0.3883,
+            "poster_path": "/bnTplh29akIWc4jF9yE2Zn24UH4.jpg",
+            "release_date": "1964-10-27",
+            "title": "The Americanization of Emily",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jqV50ENB0UUnKdbMlQduCv7Dg40.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 42797,
+            "original_language": "en",
+            "original_title": "The Unsinkable Molly Brown",
+            "overview": "The buoyant Molly Brown has survived the first crisis of her life\u2014a flood. Sixteen years later she sets out to make her way in the world. She assures the Leadville saloon keeper that she can sing and play the piano, and learns quickly. Soon she marries Johnny Brown, who in a few years will be able to replace the original cigar wrapper wedding ring with a replica in gold and gemstones. The Browns head for Europe and bring a few crowned heads back to Denver for a party that turns into a ballroom brawl. Molly goes to Europe alone, returning on the Titanic. She didn't survive a flood as a baby for the story to end here.",
+            "popularity": 0.6335,
+            "poster_path": "/f0hd12ajjQprxP3V90xfy0iqOvb.jpg",
+            "release_date": "1964-06-11",
+            "title": "The Unsinkable Molly Brown",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hhJwKAopKgZjW0bciNyKnpurRG8.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 66022,
+            "original_language": "en",
+            "original_title": "The Chalk Garden",
+            "overview": "The peculiar antics of Laurel, an emotionally troubled young girl, are the focus of The Chalk Garden \u2013 a stately household drama set on the cliffs of the English south coast. Edith Evans plays a matriarchal grandmother who, in raising her granddaughter, has neglected her other love \u2013 a barren chalk garden. Mayhem ensues as Laurel's behavior frightens away a succession of governesses until an enigmatic one is hired in spite of her mysterious references. She skillfully sets about tending to the girl's reckless emotions and the pitifully failed garden.",
+            "popularity": 0.349,
+            "poster_path": "/IXGqj9MoPFbaoBcUkUZf97XHlx.jpg",
+            "release_date": "1964-04-02",
+            "title": "The Chalk Garden",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jV9CT4UOpPkvMzoVkkMYFeMAI35.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 23518,
+            "original_language": "en",
+            "original_title": "Seven Days in May",
+            "overview": "A U.S. Marine Corps colonel alerts the president of a planned military coup against him.",
+            "popularity": 0.8748,
+            "poster_path": "/fgMwyNl7uZeUrnIAqlX7htSQ2O2.jpg",
+            "release_date": "1964-02-01",
+            "title": "Seven Days in May",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 204
+        }
+    ]
+}

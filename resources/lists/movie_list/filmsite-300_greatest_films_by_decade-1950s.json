@@ -1,0 +1,1055 @@
+{
+    "type": "movie_list",
+    "title": "Filmsite - 300 Greatest Films - 1950s",
+    "source": "https://www.filmsite.org/300films.html",
+    "created_by": "lbnt",
+    "added": "04/28/24",
+    "modified": "04/28/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/zbi0Ib6FSUHlUu3nC0t3Mzkm5D4.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 705,
+            "original_language": "en",
+            "original_title": "All About Eve",
+            "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+            "popularity": 25.183,
+            "poster_path": "/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+            "release_date": "1950-11-09",
+            "title": "All About Eve",
+            "video": false,
+            "vote_average": 8.102,
+            "vote_count": 1453
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gnu0rtxbrmhgjob4TXvIH8DHxB9.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 16958,
+            "original_language": "en",
+            "original_title": "The Asphalt Jungle",
+            "overview": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
+            "popularity": 22.329,
+            "poster_path": "/gECEOjjLjuHi9DDHeDLj28SXLHE.jpg",
+            "release_date": "1950-05-12",
+            "title": "The Asphalt Jungle",
+            "video": false,
+            "vote_average": 7.511,
+            "vote_count": 452
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eR9S6iMbk4ycV7DcqvVxFp8lNFV.jpg",
+            "genre_ids": [
+                80,
+                10749,
+                18,
+                53
+            ],
+            "id": 18671,
+            "original_language": "en",
+            "original_title": "Gun Crazy",
+            "overview": "Bart Tare is an ex-Army man who has a lifelong fixation with guns, he meets a kindred spirit in sharpshooter Annie Starr and goes to work at a carnival. After upsetting the carnival owner who lusts after Starr, they both get fired. Soon, on Starr's behest, they embark on a crime spree for cash.",
+            "popularity": 18.626,
+            "poster_path": "/kC1IIitCJTZLwZyuQnKw4zaOaXc.jpg",
+            "release_date": "1950-01-20",
+            "title": "Gun Crazy",
+            "video": false,
+            "vote_average": 7.477,
+            "vote_count": 257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hS9rKTtgYUBn26QTrLYUh8P07Yg.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                9648,
+                80
+            ],
+            "id": 17057,
+            "original_language": "en",
+            "original_title": "In a Lonely Place",
+            "overview": "An screenwriter with a violence record is a murder suspect until his lovely neighbor clears him. However, she soon starts to have her doubts.",
+            "popularity": 16.679,
+            "poster_path": "/vdlCUR7hu7BI8JRl46n66PiG17k.jpg",
+            "release_date": "1950-05-17",
+            "title": "In a Lonely Place",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 534
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 599,
+            "original_language": "en",
+            "original_title": "Sunset Boulevard",
+            "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+            "popularity": 53.761,
+            "poster_path": "/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+            "release_date": "1950-08-10",
+            "title": "Sunset Boulevard",
+            "video": false,
+            "vote_average": 8.313,
+            "vote_count": 2452
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zANbMKOJmhyrhKZ2uMCHToNMvjl.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 14551,
+            "original_language": "en",
+            "original_title": "Winchester '73",
+            "overview": "Lin McAdam rides into town on the trail of Dutch Henry Brown, only to find himself in a shooting competition against him. McAdam wins the prize, a one-in-a-thousand Winchester rifle, but Dutch steals it and leaves town. McAdam follows, intent on settling his old quarrel, while the rifle keeps changing hands and touching a number of lives.",
+            "popularity": 23.834,
+            "poster_path": "/iP2G8d36sC89CnU7TLaNOdD5Io8.jpg",
+            "release_date": "1950-07-12",
+            "title": "Winchester '73",
+            "video": false,
+            "vote_average": 7.274,
+            "vote_count": 330
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4GvEem97VxMtuhhwOZ4RtGXP37T.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25364,
+            "original_language": "en",
+            "original_title": "Ace in the Hole",
+            "overview": "An arrogant reporter exploits a story about a man trapped in a cave to revitalize his career.",
+            "popularity": 18.841,
+            "poster_path": "/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+            "release_date": "1951-06-29",
+            "title": "Ace in the Hole",
+            "video": false,
+            "vote_average": 7.842,
+            "vote_count": 623
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eE01BWyY5jjchTIbHwRLjRgOQHD.jpg",
+            "genre_ids": [
+                10749,
+                12
+            ],
+            "id": 488,
+            "original_language": "en",
+            "original_title": "The African Queen",
+            "overview": "At the start of the First World War, in the middle of Africa\u2019s nowhere, a gin soaked riverboat captain is persuaded by a strong-willed missionary to go down river and face-off a German warship.",
+            "popularity": 19.564,
+            "poster_path": "/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
+            "release_date": "1952-01-07",
+            "title": "The African Queen",
+            "video": false,
+            "vote_average": 7.349,
+            "vote_count": 905
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+            "genre_ids": [
+                10402,
+                10749,
+                35
+            ],
+            "id": 2769,
+            "original_language": "en",
+            "original_title": "An American in Paris",
+            "overview": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+            "popularity": 20.864,
+            "poster_path": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+            "release_date": "1951-09-26",
+            "title": "An American in Paris",
+            "video": false,
+            "vote_average": 7.044,
+            "vote_count": 541
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gdbiItlBZ5Fdr5tRnlrozkbKknW.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 828,
+            "original_language": "en",
+            "original_title": "The Day the Earth Stood Still",
+            "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+            "popularity": 26.24,
+            "poster_path": "/x2DquTpLTq54aPFDnqlwY7apCC3.jpg",
+            "release_date": "1951-09-28",
+            "title": "The Day the Earth Stood Still",
+            "video": false,
+            "vote_average": 7.459,
+            "vote_count": 1055
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                80
+            ],
+            "id": 25673,
+            "original_language": "en",
+            "original_title": "A Place in the Sun",
+            "overview": "An ambitious young man wins an heiress's heart but has to cope with his former girlfriend's pregnancy.",
+            "popularity": 26.409,
+            "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+            "release_date": "1951-06-12",
+            "title": "A Place in the Sun",
+            "video": false,
+            "vote_average": 7.294,
+            "vote_count": 357
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hAoTBCNBVafAoiilh4gtqqyhi8V.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 845,
+            "original_language": "en",
+            "original_title": "Strangers on a Train",
+            "overview": "Two strangers meet on a train. They\u2019ve never met before. Both of whom have someone they\u2019d like to murder. So, they swap murders. A psychopath shares this concept with tennis star Guy Haines, whose wife refuses to get a divorce. He agrees, thinking it is a joke. But now his wife is dead, Haines finds himself a prime suspect and the man wants Guy to kill his father.",
+            "popularity": 37.701,
+            "poster_path": "/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+            "release_date": "1951-06-27",
+            "title": "Strangers on a Train",
+            "video": false,
+            "vote_average": 7.68,
+            "vote_count": 1585
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uXd9qh7ZwxbfiIAb4g4wD1oCKzd.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 702,
+            "original_language": "en",
+            "original_title": "A Streetcar Named Desire",
+            "overview": "A fading southern belle moves in with her sister in New Orleans where her ferocious brother-in-law takes stabs at her sanity.",
+            "popularity": 24.111,
+            "poster_path": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+            "release_date": "1951-09-19",
+            "title": "A Streetcar Named Desire",
+            "video": false,
+            "vote_average": 7.629,
+            "vote_count": 1295
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/30aHDHSHGX4HEeKlrgCwhTU72QP.jpg",
+            "genre_ids": [
+                18,
+                27,
+                878
+            ],
+            "id": 10785,
+            "original_language": "en",
+            "original_title": "The Thing from Another World",
+            "overview": "Scientists and US Air Force officials fend off a blood-thirsty alien organism while investigating at a remote arctic outpost.",
+            "popularity": 18.605,
+            "poster_path": "/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg",
+            "release_date": "1951-04-05",
+            "title": "The Thing from Another World",
+            "video": false,
+            "vote_average": 6.749,
+            "vote_count": 553
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/omvyf5m1RKkZq7w8obrOEDhY5E0.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 32499,
+            "original_language": "en",
+            "original_title": "The Bad and the Beautiful",
+            "overview": "Told in flashback form, the film traces the rise and fall of a tough, ambitious Hollywood producer, Jonathan Shields, as seen through the eyes of various acquaintances, including a writer, James Lee Bartlow; a star, Georgia Lorrison; and a director, Fred Amiel. He is a hard-driving, ambitious man who ruthlessly uses everyone on the way to becoming one of Hollywood's top movie makers.",
+            "popularity": 17.648,
+            "poster_path": "/ajAXzTiPkL7JxeCRw5lQBqrKNGx.jpg",
+            "release_date": "1952-12-25",
+            "title": "The Bad and the Beautiful",
+            "video": false,
+            "vote_average": 7.336,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jyUcUMvLdUon3HPjbUdAsm754G6.jpg",
+            "genre_ids": [
+                37,
+                53
+            ],
+            "id": 288,
+            "original_language": "en",
+            "original_title": "High Noon",
+            "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+            "popularity": 34.06,
+            "poster_path": "/jUckD9kq8yi2MPzDHvhaGmD6XJk.jpg",
+            "release_date": "1952-06-09",
+            "title": "High Noon",
+            "video": false,
+            "vote_average": 7.679,
+            "vote_count": 1345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wUETmGLEmVT00iAIjAeZwSdjMxH.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 3109,
+            "original_language": "en",
+            "original_title": "The Quiet Man",
+            "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+            "popularity": 19.709,
+            "poster_path": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+            "release_date": "1952-07-21",
+            "title": "The Quiet Man",
+            "video": false,
+            "vote_average": 7.301,
+            "vote_count": 492
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mxf8hJJkHTCqZP3m4o8E1TtwHHs.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 872,
+            "original_language": "en",
+            "original_title": "Singin' in the Rain",
+            "overview": "In 1927 Hollywood, a silent film production company and cast make a difficult transition to sound.",
+            "popularity": 40.785,
+            "poster_path": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+            "release_date": "1952-04-09",
+            "title": "Singin' in the Rain",
+            "video": false,
+            "vote_average": 8.159,
+            "vote_count": 2992
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bPDR1GR4Bh8EdKQKKfudQpL14kD.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 29376,
+            "original_language": "en",
+            "original_title": "The Band Wagon",
+            "overview": "A Broadway artiste turns a faded film star's comeback vehicle into an artsy flop.",
+            "popularity": 15.781,
+            "poster_path": "/5CvUmTWK46rShfgLmw7LuKF2fYL.jpg",
+            "release_date": "1953-08-07",
+            "title": "The Band Wagon",
+            "video": false,
+            "vote_average": 7.119,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aqZookq6pJmIT9lVIjDsBY2MNpK.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 14580,
+            "original_language": "en",
+            "original_title": "The Big Heat",
+            "overview": "Tough cop Dave Bannion takes on a politically powerful crime syndicate.  Preserved by the Academy Film Archive in partnership with Sony Pictures Entertainment in 1997.",
+            "popularity": 22.359,
+            "poster_path": "/n1xdAX2g6PU3aqQXmZtY9gXvvEz.jpg",
+            "release_date": "1953-10-14",
+            "title": "The Big Heat",
+            "video": false,
+            "vote_average": 7.642,
+            "vote_count": 466
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tbEFMCBOZphuXXKnaCe8OjcHizt.jpg",
+            "genre_ids": [
+                10752,
+                10749,
+                18
+            ],
+            "id": 11426,
+            "original_language": "en",
+            "original_title": "From Here to Eternity",
+            "overview": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second in command are falling in love.",
+            "popularity": 26.3,
+            "poster_path": "/25Rm1YJSyhXAEu8abonZvW83aPL.jpg",
+            "release_date": "1953-08-28",
+            "title": "From Here to Eternity",
+            "video": false,
+            "vote_average": 7.305,
+            "vote_count": 593
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9p2oLEbktIrmwaZWRJkUtuQiSH8.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 804,
+            "original_language": "en",
+            "original_title": "Roman Holiday",
+            "overview": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way.",
+            "popularity": 39.332,
+            "poster_path": "/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+            "release_date": "1953-08-26",
+            "title": "Roman Holiday",
+            "video": false,
+            "vote_average": 7.886,
+            "vote_count": 1935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mPzUzA0iK50gBdMuux4Dojb7VQL.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 3110,
+            "original_language": "en",
+            "original_title": "Shane",
+            "overview": "A weary gunfighter attempts to settle down with a homestead family, but a smouldering settler and rancher conflict forces him to act.",
+            "popularity": 23.933,
+            "poster_path": "/svr5ADpjXTCOQv8hmuJnB7I14Qv.jpg",
+            "release_date": "1953-04-23",
+            "title": "Shane",
+            "video": false,
+            "vote_average": 7.411,
+            "vote_count": 561
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uvd1KXopHKelymR2JbSumRupRJo.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 521,
+            "original_language": "en",
+            "original_title": "Dial M for Murder",
+            "overview": "An ex-tennis pro carries out a plot to have his wealthy wife murdered after discovering she is having an affair, and assumes she will soon leave him for the other man anyway.",
+            "popularity": 26.209,
+            "poster_path": "/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+            "release_date": "1954-05-29",
+            "title": "Dial M for Murder",
+            "video": false,
+            "vote_average": 8.018,
+            "vote_count": 2465
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 654,
+            "original_language": "en",
+            "original_title": "On the Waterfront",
+            "overview": "A dim-witted yet kind-hearted boxer, Terry Malloy, who failed to succeed unintentionally lures a man to his death after being tricked by a criminal called Johnny Friendly whose men pick of every man who has the courage to speak up to their crimes. As he works on the waterfronts that Friendly owns, he is sent to a church meeting run by a good preacher about how to deal with the problem and runs into the dead man\u2019s sister. Slowly, he falls in love with her and begins to feel guilt about his crime.",
+            "popularity": 29.988,
+            "poster_path": "/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+            "release_date": "1954-06-22",
+            "title": "On the Waterfront",
+            "video": false,
+            "vote_average": 7.929,
+            "vote_count": 1488
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 567,
+            "original_language": "en",
+            "original_title": "Rear Window",
+            "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+            "popularity": 52.817,
+            "poster_path": "/o9U7kbBLY1jtis5dnEc2V1qRsvk.jpg",
+            "release_date": "1954-08-01",
+            "title": "Rear Window",
+            "video": false,
+            "vote_average": 8.351,
+            "vote_count": 6225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 3111,
+            "original_language": "en",
+            "original_title": "A Star Is Born",
+            "overview": "A movie star helps a young singer-actress find fame, even as age and alcoholism send his own career into a downward spiral.",
+            "popularity": 21.438,
+            "poster_path": "/zpg2SzpYhZk1D1seDfIIlwaqAxT.jpg",
+            "release_date": "1954-10-01",
+            "title": "A Star Is Born",
+            "video": false,
+            "vote_average": 7.092,
+            "vote_count": 282
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tQv32m6pufbJT2rKuKDzt0kVynQ.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                37
+            ],
+            "id": 14554,
+            "original_language": "en",
+            "original_title": "Bad Day at Black Rock",
+            "overview": "One-armed war veteran John J. Macreedy steps off a train at the sleepy little town of Black Rock.  Once there, he begins to unravel a web of lies, secrecy, and murder.",
+            "popularity": 13.42,
+            "poster_path": "/8EnhHjU0DyCckmZRtn46s3WXeEf.jpg",
+            "release_date": "1955-01-13",
+            "title": "Bad Day at Black Rock",
+            "video": false,
+            "vote_average": 7.281,
+            "vote_count": 345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u7i1XtbOubq0xwRy2Zbgmox6g9W.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 220,
+            "original_language": "en",
+            "original_title": "East of Eden",
+            "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+            "popularity": 20.839,
+            "poster_path": "/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+            "release_date": "1955-04-10",
+            "title": "East of Eden",
+            "video": false,
+            "vote_average": 7.567,
+            "vote_count": 708
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oWWNJNRMY5Ni1QlPfc370AIAYN3.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                80
+            ],
+            "id": 18030,
+            "original_language": "en",
+            "original_title": "Kiss Me Deadly",
+            "overview": "One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that \"something big\" is behind it all, decides to pursue the case.",
+            "popularity": 23.002,
+            "poster_path": "/z7me91nrpWLHY1mZOB2v20cK0zY.jpg",
+            "release_date": "1955-04-28",
+            "title": "Kiss Me Deadly",
+            "video": false,
+            "vote_average": 7.187,
+            "vote_count": 348
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zhZtaNcjtc6VgV8SC4VlokiaeNt.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 15919,
+            "original_language": "en",
+            "original_title": "Marty",
+            "overview": "Marty, a butcher who lives in the Bronx with his mother is unmarried at 34. Good-natured but socially awkward he faces constant badgering from family and friends to get married but has reluctantly resigned himself to bachelorhood. Marty meets Clara, an unattractive school teacher, realising their emotional connection, he promises to call but family and friends try to convince him not to.",
+            "popularity": 20.845,
+            "poster_path": "/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg",
+            "release_date": "1955-04-11",
+            "title": "Marty",
+            "video": false,
+            "vote_average": 7.43,
+            "vote_count": 356
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1axlogjim47RkS22abedZbpGhR.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 3112,
+            "original_language": "en",
+            "original_title": "The Night of the Hunter",
+            "overview": "In Depression-era West Virginia, a serial-killing preacher hunts two young children who know the whereabouts of a stash of money.",
+            "popularity": 29.435,
+            "poster_path": "/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+            "release_date": "1955-08-26",
+            "title": "The Night of the Hunter",
+            "video": false,
+            "vote_average": 7.894,
+            "vote_count": 1500
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oflZDGEo8rZqMIH98WmLRPPmqKY.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 221,
+            "original_language": "en",
+            "original_title": "Rebel Without a Cause",
+            "overview": "After moving to a new town, troublemaking teen Jim Stark is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato, and falls for local girl Judy. However, Judy is the girlfriend of neighborhood tough, Buzz. When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.",
+            "popularity": 27.842,
+            "poster_path": "/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+            "release_date": "1955-10-27",
+            "title": "Rebel Without a Cause",
+            "video": false,
+            "vote_average": 7.538,
+            "vote_count": 1545
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iF7wxLmiudwxrPoFF0f4QZVuoeT.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 40478,
+            "original_language": "en",
+            "original_title": "Baby Doll",
+            "overview": "Archie Lee Meighan is a failing cotton gin owner who is married to Baby Doll, a 19-year old childlike beauty whose father arranged the marriage for financial reasons. As Archie awaits the arrival of Baby Doll's 20th birthday, the day that they are supposed to consummate their marriage, he faces interference from business rival Silva Vacarro, who plots to seduce Baby Doll away from Meighan.",
+            "popularity": 14.889,
+            "poster_path": "/3AuLU0Zdhy2Oi5ig4TwGOh7pCJc.jpg",
+            "release_date": "1956-12-29",
+            "title": "Baby Doll",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 119
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Le00JbfjDA3Gc5wJDKunmZLJZq.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 24010,
+            "original_language": "en",
+            "original_title": "Bus Stop",
+            "overview": "Cowboys Beauregard Decker and Virgil Blessing attend a rodeo in Phoenix, where Decker falls in love with beautiful cafe singer Cherie. He wants to take Cherie back to his native Montana and marry her, but she dreams of traveling to Hollywood and becoming famous. When she resists his advances, Decker forces Cherie onto the bus back to Montana with him, but, when the bus makes an unscheduled stop due to bad weather, the tables are turned.",
+            "popularity": 19.853,
+            "poster_path": "/oXZiz5zIyynjQMJMBbXijS4434z.jpg",
+            "release_date": "1956-08-31",
+            "title": "Bus Stop",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9EUmwXS6EbY5djAhLtBGzUbBwNV.jpg",
+            "genre_ids": [
+                878,
+                12,
+                14,
+                10749
+            ],
+            "id": 830,
+            "original_language": "en",
+            "original_title": "Forbidden Planet",
+            "overview": "Starship C57D travels to planet Altair 4 in search of the crew of spaceship \"Bellerophon,\" a scientific expedition that has been missing for 20 years, only to find themselves unwelcome by the expedition's lone survivor and warned of destruction by an invisible force if they don't turn back immediately.",
+            "popularity": 40.719,
+            "poster_path": "/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg",
+            "release_date": "1956-03-23",
+            "title": "Forbidden Planet",
+            "video": false,
+            "vote_average": 7.265,
+            "vote_count": 883
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4OnfjVUg827FMn0096JOYeNcxw6.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 1712,
+            "original_language": "en",
+            "original_title": "Giant",
+            "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations.",
+            "popularity": 42.686,
+            "poster_path": "/oQ1Arue52pFLSvvwfcNTy16hTCG.jpg",
+            "release_date": "1956-11-08",
+            "title": "Giant",
+            "video": false,
+            "vote_average": 7.612,
+            "vote_count": 658
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg",
+            "genre_ids": [
+                878,
+                27,
+                53
+            ],
+            "id": 11549,
+            "original_language": "en",
+            "original_title": "Invasion of the Body Snatchers",
+            "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+            "popularity": 18.784,
+            "poster_path": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+            "release_date": "1956-02-05",
+            "title": "Invasion of the Body Snatchers",
+            "video": false,
+            "vote_average": 7.468,
+            "vote_count": 1009
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 247,
+            "original_language": "en",
+            "original_title": "The Killing",
+            "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own.",
+            "popularity": 42.998,
+            "poster_path": "/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
+            "release_date": "1956-06-06",
+            "title": "The Killing",
+            "video": false,
+            "vote_average": 7.663,
+            "vote_count": 1437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aQIoKc8PHE0MVEBMz2fXAQnosYK.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 3114,
+            "original_language": "en",
+            "original_title": "The Searchers",
+            "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+            "popularity": 33.635,
+            "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+            "release_date": "1956-05-16",
+            "title": "The Searchers",
+            "video": false,
+            "vote_average": 7.709,
+            "vote_count": 1327
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xoJiT00Koax8Zbj7pBzy6i6fOUh.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 69605,
+            "original_language": "en",
+            "original_title": "Written on the Wind",
+            "overview": "Mitch Wayne is a geologist working for the Hadleys, an oil-rich Texas family. While the patriarch, Jasper, works hard to establish the family business, his irresponsible son, Kyle, is an alcoholic playboy, and his daughter, Marylee, is the town tramp. Mitch harbors a secret love for Kyle's unsatisfied wife, Lucy -- a fact that leaves him exposed when the jealous Marylee accuses him of murder.",
+            "popularity": 18.193,
+            "poster_path": "/paeBU70fHsFAOooWM5V35q562f2.jpg",
+            "release_date": "1956-10-04",
+            "title": "Written on the Wind",
+            "video": false,
+            "vote_average": 6.889,
+            "vote_count": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 826,
+            "original_language": "en",
+            "original_title": "The Bridge on the River Kwai",
+            "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+            "popularity": 29.764,
+            "poster_path": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+            "release_date": "1957-10-11",
+            "title": "The Bridge on the River Kwai",
+            "video": false,
+            "vote_average": 7.829,
+            "vote_count": 1984
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kTFXaktj0cRqshYzWvlhCQ1yAGy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 21849,
+            "original_language": "en",
+            "original_title": "A Face in the Crowd",
+            "overview": "The rise of a raucous hayseed named Lonesome Rhodes from itinerant Ozark guitar picker to local media rabble-rouser to TV superstar and political king-maker. Marcia Jeffries is the innocent Sarah Lawrence girl who discovers the great man in a back-country jail and is the first to fall under his spell.",
+            "popularity": 16.817,
+            "poster_path": "/bjPvs6MY6Rv0DIiJ9rgx2TMEkAk.jpg",
+            "release_date": "1957-05-29",
+            "title": "A Face in the Crowd",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 222
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5k7TRCxU84BiOpibPAJByoG3cbe.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 15697,
+            "original_language": "en",
+            "original_title": "Jailhouse Rock",
+            "overview": "After serving time for manslaughter, young Vince Everett becomes a teenage rock star.",
+            "popularity": 16.509,
+            "poster_path": "/8wb4IYiEO03shWEwbakOwzw1Ap7.jpg",
+            "release_date": "1957-11-08",
+            "title": "Jailhouse Rock",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 975,
+            "original_language": "en",
+            "original_title": "Paths of Glory",
+            "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+            "popularity": 27.788,
+            "poster_path": "/p7OHwomA8UOhe3EhckF2IetBTh9.jpg",
+            "release_date": "1957-10-25",
+            "title": "Paths of Glory",
+            "video": false,
+            "vote_average": 8.269,
+            "vote_count": 2743
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 976,
+            "original_language": "en",
+            "original_title": "Sweet Smell of Success",
+            "overview": "New York City newspaper writer J.J. Hunsecker holds considerable sway over public opinion with his Broadway column, but one thing that he can't control is his younger sister, Susan, who is in a relationship with aspiring jazz guitarist Steve Dallas. Hunsecker strongly disapproves of the romance and recruits publicist Sidney Falco to find a way to split the couple, no matter how ruthless the method.",
+            "popularity": 15.984,
+            "poster_path": "/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
+            "release_date": "1957-07-04",
+            "title": "Sweet Smell of Success",
+            "video": false,
+            "vote_average": 7.618,
+            "vote_count": 461
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 389,
+            "original_language": "en",
+            "original_title": "12 Angry Men",
+            "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+            "popularity": 64.755,
+            "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+            "release_date": "1957-04-10",
+            "title": "12 Angry Men",
+            "video": false,
+            "vote_average": 8.542,
+            "vote_count": 8206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AetjwIIITWQ5ueKKk9LQNaOFwVa.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                80
+            ],
+            "id": 37257,
+            "original_language": "en",
+            "original_title": "Witness for the Prosecution",
+            "overview": "When Leonard Vole is arrested for the sensational murder of a rich, middle-aged widow, the famous Sir Wilfrid Robarts agrees to appear on his behalf. Sir Wilfrid, recovering from a near-fatal heart attack, is supposed to be on a diet of bland, civil suits\u2014but the lure of the criminal courts is too much for him, especially when the case is so difficult.",
+            "popularity": 35.019,
+            "poster_path": "/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+            "release_date": "1957-12-17",
+            "title": "Witness for the Prosecution",
+            "video": false,
+            "vote_average": 8.213,
+            "vote_count": 1308
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 11414,
+            "original_language": "en",
+            "original_title": "The Defiant Ones",
+            "overview": "Two convicts\u2014a white racist and an angry black man\u2014escape while chained to each other.",
+            "popularity": 19.222,
+            "poster_path": "/tGGNyImEXgedDjrCORbC9cTJp0X.jpg",
+            "release_date": "1958-08-14",
+            "title": "The Defiant Ones",
+            "video": false,
+            "vote_average": 7.124,
+            "vote_count": 242
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vZBHQfRbBZNsFbqw3B6MQPOa8S6.jpg",
+            "genre_ids": [
+                80,
+                53,
+                9648
+            ],
+            "id": 1480,
+            "original_language": "en",
+            "original_title": "Touch of Evil",
+            "overview": "When a car bomb explodes on the American side of the U.S./Mexico border, Mexican drug enforcement agent Miguel Vargas begins his investigation, along with American police captain Hank Quinlan. When Vargas begins to suspect that Quinlan and his shady partner, Menzies, are planting evidence to frame an innocent man, his investigations into their possible corruption quickly put himself and his new bride, Susie, in jeopardy.",
+            "popularity": 53.687,
+            "poster_path": "/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+            "release_date": "1958-03-30",
+            "title": "Touch of Evil",
+            "video": false,
+            "vote_average": 7.77,
+            "vote_count": 1357
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
+            "genre_ids": [
+                9648,
+                10749,
+                53
+            ],
+            "id": 426,
+            "original_language": "en",
+            "original_title": "Vertigo",
+            "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+            "popularity": 74.308,
+            "poster_path": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+            "release_date": "1958-05-28",
+            "title": "Vertigo",
+            "video": false,
+            "vote_average": 8.168,
+            "vote_count": 5489
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+            "genre_ids": [
+                36,
+                18,
+                12,
+                28
+            ],
+            "id": 665,
+            "original_language": "en",
+            "original_title": "Ben-Hur",
+            "overview": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+            "popularity": 84.033,
+            "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "release_date": "1959-11-18",
+            "title": "Ben-Hur",
+            "video": false,
+            "vote_average": 7.894,
+            "vote_count": 2623
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                12
+            ],
+            "id": 213,
+            "original_language": "en",
+            "original_title": "North by Northwest",
+            "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+            "popularity": 91.274,
+            "poster_path": "/i3g0KIoXYx5RvyVaraYx9n2LCli.jpg",
+            "release_date": "1959-07-08",
+            "title": "North by Northwest",
+            "video": false,
+            "vote_average": 7.983,
+            "vote_count": 3906
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                80
+            ],
+            "id": 239,
+            "original_language": "en",
+            "original_title": "Some Like It Hot",
+            "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
+            "popularity": 46.769,
+            "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+            "release_date": "1959-03-19",
+            "title": "Some Like It Hot",
+            "video": false,
+            "vote_average": 8.102,
+            "vote_count": 3322
+        }
+    ]
+}

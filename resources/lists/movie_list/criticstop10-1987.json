@@ -1,0 +1,878 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1987",
+    "source": "https://criticstop10.com/best-movies-of-1987/",
+    "created_by": "lbnt",
+    "added": "07/29/25",
+    "modified": "07/29/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/wHSZJ8s0JfWIjoHkRknq6ZtGlZr.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 12626,
+            "original_language": "en",
+            "original_title": "Broadcast News",
+            "overview": "Basket-case network news producer Jane Craig falls for new reporter Tom Grunnick, a pretty boy who represents the trend towards entertainment news she despises. Aaron Altman, a talented but plain correspondent, carries an unrequited torch for Jane. Sparks fly between the three as the network prepares for big changes, and both the news and Jane must decide between style and substance.",
+            "popularity": 0.9282,
+            "poster_path": "/kQNR1Lc0qAF5xuBySpDn481KVjb.jpg",
+            "release_date": "1987-12-16",
+            "title": "Broadcast News",
+            "video": false,
+            "vote_average": 6.742,
+            "vote_count": 428
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 600,
+            "original_language": "en",
+            "original_title": "Full Metal Jacket",
+            "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "popularity": 7.0005,
+            "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+            "release_date": "1987-06-26",
+            "title": "Full Metal Jacket",
+            "video": false,
+            "vote_average": 8.123,
+            "vote_count": 10895
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7PktT8qvNEvGi7iTa5FEjG5DzJA.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10751
+            ],
+            "id": 32054,
+            "original_language": "en",
+            "original_title": "Hope and Glory",
+            "overview": "A middle-aged man recalls his childhood growing up in and around London during World War II.",
+            "popularity": 0.6242,
+            "poster_path": "/4xE9oW222uiaJwMWqAdGQw4puOX.jpg",
+            "release_date": "1987-09-03",
+            "title": "Hope and Glory",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 746,
+            "original_language": "en",
+            "original_title": "The Last Emperor",
+            "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
+            "popularity": 2.709,
+            "poster_path": "/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+            "release_date": "1987-10-04",
+            "title": "The Last Emperor",
+            "video": false,
+            "vote_average": 7.607,
+            "vote_count": 1763
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zKqzUT0ZAljEYPLceye6ZT4H9By.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 8816,
+            "original_language": "sv",
+            "original_title": "Mitt liv som hund",
+            "overview": "A boy, obsessed with comparing himself with those less fortunate, experiences a different life at the home of his aunt and uncle in 1959 Sweden.",
+            "popularity": 1.0234,
+            "poster_path": "/eVg9IsX2HtR1BNYH0UAhF4JPHi7.jpg",
+            "release_date": "1985-12-12",
+            "title": "My Life as a Dog",
+            "video": false,
+            "vote_average": 7.239,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 30890,
+            "original_language": "en",
+            "original_title": "Radio Days",
+            "overview": "The Narrator tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
+            "popularity": 2.0424,
+            "poster_path": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+            "release_date": "1987-01-30",
+            "title": "Radio Days",
+            "video": false,
+            "vote_average": 7.052,
+            "vote_count": 598
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 4480,
+            "original_language": "fr",
+            "original_title": "Jean de Florette",
+            "overview": "In a rural French village, an old man and his only remaining relative cast their covetous eyes on an adjoining vacant property. They need its spring water for growing their flowers, and are dismayed to hear that the man who has inherited it is moving in. They block up the spring and watch as their new neighbour tries to keep his crops watered from wells far afield through the hot summer. Though they see his desperate efforts are breaking his health and his wife and daughter's hearts, they think only of getting the water.",
+            "popularity": 0.7711,
+            "poster_path": "/r9UAevVU0lhRKNGlxXXUeKiRwtM.jpg",
+            "release_date": "1986-08-27",
+            "title": "Jean de Florette",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 581
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rMZMcUchb7et72aVSATxhhO6ppM.jpg",
+            "genre_ids": [
+                80,
+                36,
+                53
+            ],
+            "id": 117,
+            "original_language": "en",
+            "original_title": "The Untouchables",
+            "overview": "Elliot Ness, an ambitious prohibition agent, is determined to take down Al Capone. In order to achieve this goal, he forms a group given the nickname \u201cThe Untouchables\u201d.",
+            "popularity": 5.4011,
+            "poster_path": "/8BquGK22zCcsmBWiaIakaaPpSZb.jpg",
+            "release_date": "1987-06-03",
+            "title": "The Untouchables",
+            "video": false,
+            "vote_average": 7.758,
+            "vote_count": 5873
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A3NklJi0P1tx9d05NZstJVmL5JS.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 10896,
+            "original_language": "en",
+            "original_title": "Tin Men",
+            "overview": "A minor car accident drives two rival aluminum-siding salesmen to the ridiculous extremes of man versus man in 1963 Baltimore.",
+            "popularity": 0.5631,
+            "poster_path": "/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+            "release_date": "1987-03-06",
+            "title": "Tin Men",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A4nFhxBKmT2Zlyojmq6VUhlTPJG.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 21309,
+            "original_language": "en",
+            "original_title": "River's Edge",
+            "overview": "A group of high-school friends must come to terms with the fact that one of them, Samson, killed another, Jamie. Faced with the brutality of death, each must decide whether to turn their friend in to the police, or to help him escape the consequences of his dreadful deed.",
+            "popularity": 1.0949,
+            "poster_path": "/bT68aKa9d7zDF7Z8MaskbWBRqzb.jpg",
+            "release_date": "1986-10-10",
+            "title": "River's Edge",
+            "video": false,
+            "vote_average": 6.524,
+            "vote_count": 293
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/95cYzbSp13ChoUYlDwj1fPL4Q6X.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 378,
+            "original_language": "en",
+            "original_title": "Raising Arizona",
+            "overview": "When a childless couple--an ex-con and an ex-cop--decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+            "popularity": 3.8734,
+            "poster_path": "/tPX13Qpq1SjqPzzMIaFtL8G4lYA.jpg",
+            "release_date": "1987-03-13",
+            "title": "Raising Arizona",
+            "video": false,
+            "vote_average": 7.061,
+            "vote_count": 2191
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qBayL198ACrAVX9ixzFPYtqvxQX.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 764,
+            "original_language": "en",
+            "original_title": "The Evil Dead",
+            "overview": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+            "popularity": 4.5964,
+            "poster_path": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+            "release_date": "1981-09-10",
+            "title": "The Evil Dead",
+            "video": false,
+            "vote_average": 7.28,
+            "vote_count": 4177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8YYg4SXMJK5Qc7ddxEXoGrNxTGH.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 11584,
+            "original_language": "en",
+            "original_title": "Roxanne",
+            "overview": "In this modern take on Edmond Rostand's classic play \"Cyrano de Bergerac,\" C. D. Bales is the witty, intelligent, and brave fire chief of a small Pacific Northwest town who, due to the size of his enormous nose, declines to pursue the girl of his dreams, lovely Roxanne Kowalski. Instead, when his shy underling Chris McConnell becomes smitten with Roxanne, C.D. feeds the handsome young man the words of love to win her heart.",
+            "popularity": 1.3999,
+            "poster_path": "/c2XSGkpAIIof6Oi8Sr6wBvwt1Lk.jpg",
+            "release_date": "1987-06-19",
+            "title": "Roxanne",
+            "video": false,
+            "vote_average": 6.409,
+            "vote_count": 643
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9wLetxZRpBtq3kyaNwBhWPAapUe.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 10110,
+            "original_language": "en",
+            "original_title": "Empire of the Sun",
+            "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
+            "popularity": 2.477,
+            "poster_path": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+            "release_date": "1987-12-09",
+            "title": "Empire of the Sun",
+            "video": false,
+            "vote_average": 7.509,
+            "vote_count": 2004
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ejcvnHxMFfCbnFi736cXi1ChH1.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 4481,
+            "original_language": "fr",
+            "original_title": "Manon des sources",
+            "overview": "In this, the sequel to Jean de Florette, Manon has grown into a beautiful young shepherdess living in the idyllic Provencal countryside. She plots vengeance on the men who greedily conspired to acquire her father's land years earlier.",
+            "popularity": 1.1071,
+            "poster_path": "/1qpu6Zc1PSDL3UbDNIZJ6YuhJDW.jpg",
+            "release_date": "1986-11-19",
+            "title": "Manon of the Spring",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 528
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 5548,
+            "original_language": "en",
+            "original_title": "RoboCop",
+            "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+            "popularity": 6.0108,
+            "poster_path": "/iPPelvG1AVXY3zOJ875oSVaN24W.jpg",
+            "release_date": "1987-07-17",
+            "title": "RoboCop",
+            "video": false,
+            "vote_average": 7.345,
+            "vote_count": 5382
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 2039,
+            "original_language": "en",
+            "original_title": "Moonstruck",
+            "overview": "37-year-old Italian-American widow Loretta Castorini believes she is unlucky in love, and so accepts a marriage proposal from her boyfriend Johnny, even though she doesn't love him. When she meets his estranged younger brother Ronny, an emotional and passionate man, she finds herself drawn to him. She tries to resist, but Ronny, who blames his brother for the loss of his hand, has no scruples about aggressively pursuing her while Johnny is out of the country. As Loretta falls for Ronny, she learns that she's not the only one in her family with a secret romance.",
+            "popularity": 4.7591,
+            "poster_path": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+            "release_date": "1987-12-16",
+            "title": "Moonstruck",
+            "video": false,
+            "vote_average": 6.863,
+            "vote_count": 1015
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                35,
+                10749
+            ],
+            "id": 2493,
+            "original_language": "en",
+            "original_title": "The Princess Bride",
+            "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "popularity": 5.9424,
+            "poster_path": "/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg",
+            "release_date": "1987-09-25",
+            "title": "The Princess Bride",
+            "video": false,
+            "vote_average": 7.682,
+            "vote_count": 4773
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2UlBdiveZcOVrlNe5MYcI6TYeA7.jpg",
+            "genre_ids": [
+                53,
+                18,
+                10749
+            ],
+            "id": 10998,
+            "original_language": "en",
+            "original_title": "Fatal Attraction",
+            "overview": "A married man's one-night stand comes back to haunt him when that lover begins to stalk him and his family.",
+            "popularity": 4.9311,
+            "poster_path": "/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg",
+            "release_date": "1987-09-18",
+            "title": "Fatal Attraction",
+            "video": false,
+            "vote_average": 6.841,
+            "vote_count": 1586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fPZIQ0l7zCvQQqpYXVeFvjcyGpj.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 26719,
+            "original_language": "en",
+            "original_title": "House of Games",
+            "overview": "A psychiatrist comes to the aid of a compulsive gambler and is led by a smooth-talking grifter into the shadowy but compelling world of stings, scams, and con men.",
+            "popularity": 0.7792,
+            "poster_path": "/kP3RVWf4N9WR2BLsiW1PkDvnQaV.jpg",
+            "release_date": "1987-10-11",
+            "title": "House of Games",
+            "video": false,
+            "vote_average": 6.807,
+            "vote_count": 321
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 10673,
+            "original_language": "en",
+            "original_title": "Wall Street",
+            "overview": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider, whom takes the youth under his wing.",
+            "popularity": 3.1219,
+            "poster_path": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+            "release_date": "1987-12-10",
+            "title": "Wall Street",
+            "video": false,
+            "vote_average": 7.164,
+            "vote_count": 2126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wGfuDcS3dJ1EFivBDWDQAQfsk0G.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 11830,
+            "original_language": "ja",
+            "original_title": "\u30bf\u30f3\u30dd\u30dd",
+            "overview": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life.",
+            "popularity": 1.4467,
+            "poster_path": "/2XLDb3RDQmtlxt5Snnig9W4moq4.jpg",
+            "release_date": "1985-11-23",
+            "title": "Tampopo",
+            "video": false,
+            "vote_average": 7.86,
+            "vote_count": 386
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/65FiYiD0cmo50lF8J1iSVMOLZLW.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 42015,
+            "original_language": "en",
+            "original_title": "Swimming to Cambodia",
+            "overview": "Spalding Gray sits behind a desk throughout the entire film and recounts his exploits and chance encounters while playing a minor role in the film 'The Killing Fields'. At the same time, he gives a background to the events occurring in Cambodia at the time the film was set.",
+            "popularity": 0.1179,
+            "poster_path": "/33gl89Dw4y51pVK2PcSWi0PaKVi.jpg",
+            "release_date": "1987-03-13",
+            "title": "Swimming to Cambodia",
+            "video": false,
+            "vote_average": 6.865,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9F6zZuETJWUtkcSEnOc0JLqBHAK.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 10083,
+            "original_language": "en",
+            "original_title": "No Way Out",
+            "overview": "Navy Lt. Tom Farrell meets a young woman, Susan Atwell , and they share a passionate fling. Farrell then finds out that his superior, Defense Secretary David Brice, is also romantically involved with Atwell. When the young woman turns up dead, Farrell is put in charge of the murder investigation. He begins to uncover shocking clues about the case, but when details of his encounter with Susan surface, he becomes a suspect as well.",
+            "popularity": 3.041,
+            "poster_path": "/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+            "release_date": "1987-08-14",
+            "title": "No Way Out",
+            "video": false,
+            "vote_average": 6.881,
+            "vote_count": 741
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Z2448JzjPf2THI0oJ0dsfSz56y.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 24276,
+            "original_language": "en",
+            "original_title": "Matewan",
+            "overview": "Filmed in the coal country of West Virginia, \"Matewan\" celebrates labor organizing in the context of a 1920s work stoppage. Union organizer, Joe Kenehan, a scab named \"Few Clothes\" Johnson and a sympathetic mayor and police chief heroically fight the power represented by a coal company and Matewan's vested interests so that justice and workers' rights need not take a back seat to squalid working conditions, exploitation and the bottom line.",
+            "popularity": 0.6811,
+            "poster_path": "/cESTph19WGOoOPjpqjyl7mPdL3T.jpg",
+            "release_date": "1987-08-28",
+            "title": "Matewan",
+            "video": false,
+            "vote_average": 7.354,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sETDgbocuqM3StaXxY0vamlZLUA.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 65501,
+            "original_language": "en",
+            "original_title": "Housekeeping",
+            "overview": "In the Pacific Northwest during the 1950s, two young sisters whose mother has abandoned them wind up living with their Aunt Sylvie, whose views of the world and its conventions don't quite live up to most people's expectations.",
+            "popularity": 0.2273,
+            "poster_path": "/udW4EimiwrzrBdZoQkmPCFWwU4y.jpg",
+            "release_date": "1987-11-25",
+            "title": "Housekeeping",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6yqN0PNIaXqapNNVh582vJUGvLi.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 10937,
+            "original_language": "en",
+            "original_title": "Barfly",
+            "overview": "Downtrodden writer Henry and distressed goddess Wanda aren't exactly husband and wife: they're wedded to their bar stools. But, they like each other's company\u2014and Barfly captures their giddy, gin-soaked attempts to make a go of life on the skids.",
+            "popularity": 0.6997,
+            "poster_path": "/uAsAVy7yoMZ2r5ZBQQXw4PKX3JY.jpg",
+            "release_date": "1987-09-02",
+            "title": "Barfly",
+            "video": false,
+            "vote_average": 6.85,
+            "vote_count": 356
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gnvq3Imx58HKx4Auy95a6HFcFNd.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 42013,
+            "original_language": "en",
+            "original_title": "Sammy and Rosie Get Laid",
+            "overview": "Sammy and Rosie are an unconventional middle-class London married couple. They live in the midst of inner-city chaos, surround themselves with intellectual street people, and sleep with everybody - except each other! Things become interesting when Sammy's father, Rafi, who is a former Indian government minister, comes to London for a visit. Sammy, Rosie, and Rafi try to find meaning through their lives and loves.",
+            "popularity": 0.1992,
+            "poster_path": "/1qqhHVnrIyQAIpJn9H4yqtAoTw1.jpg",
+            "release_date": "1987-10-30",
+            "title": "Sammy and Rosie Get Laid",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oNMNGqEq3e5t2T5p4KFb3p0zeZy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 27857,
+            "original_language": "en",
+            "original_title": "Prick Up Your Ears",
+            "overview": "When the young, attractive Joe Orton meets the older, more introverted Kenneth Halliwell at drama school, he befriends the kindred spirit and they start an affair. As Orton becomes more comfortable with his sexuality and starts to find success with his writing, Halliwell becomes increasingly alienated and jealous, ultimately tapping into a dangerous rage.",
+            "popularity": 0.4902,
+            "poster_path": "/yLrWxmqPqAQFjyefJtYjoaDxGpi.jpg",
+            "release_date": "1987-04-17",
+            "title": "Prick Up Your Ears",
+            "video": false,
+            "vote_average": 6.669,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pW4fqfsAKKGJv736xPvisSM91u2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 12506,
+            "original_language": "en",
+            "original_title": "Cry Freedom",
+            "overview": "A dramatic story, based on actual events, about the friendship between two men struggling against apartheid in South Africa in the 1970s. Donald Woods is a white liberal journalist in South Africa who begins to follow the activities of Stephen Biko, a courageous and outspoken black anti-apartheid activist.",
+            "popularity": 0.7066,
+            "poster_path": "/zEONV1NAzzoQGFFgSIEs7vJzDrN.jpg",
+            "release_date": "1987-11-06",
+            "title": "Cry Freedom",
+            "video": false,
+            "vote_average": 7.005,
+            "vote_count": 216
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4BLMhP2NwaGMOyv6zw3VyKqDiUA.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 46976,
+            "original_language": "en",
+            "original_title": "Wish You Were Here",
+            "overview": "In a staid English seaside town after the Second World War, young Lynda grows up with her widowed father and younger sister. Rebellious Lynda has been swearing constantly from an early age. At sixteen, she becomes more exhibitionist and seeks out sexual encounters challenging the prevailing lower-middle class attitudes to sex. She eventually becomes pregnant by an acquaintance of her father.",
+            "popularity": 0.3921,
+            "poster_path": "/cULL2vpyXLK6F3CAsO3h5nCzNQV.jpg",
+            "release_date": "1987-07-24",
+            "title": "Wish You Were Here",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4RBQjZlgojXfTraDlAWo3ecY3pw.jpg",
+            "genre_ids": [
+                18,
+                28,
+                80,
+                9648
+            ],
+            "id": 11028,
+            "original_language": "en",
+            "original_title": "The Big Easy",
+            "overview": "Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.",
+            "popularity": 0.6437,
+            "poster_path": "/h1zSdBuPRtKAD5R95dMQKMs5NyT.jpg",
+            "release_date": "1986-11-27",
+            "title": "The Big Easy",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rN1OKiEp8gNQ9RB6GeZeqOqVsjk.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 26371,
+            "original_language": "en",
+            "original_title": "Maurice",
+            "overview": "After his lover rejects him, Maurice attempts to come to terms with his sexuality within the restrictiveness of Edwardian society.",
+            "popularity": 1.5188,
+            "poster_path": "/4MI2y8XViPrDiKs1p0QC4bTeZzf.jpg",
+            "release_date": "1987-09-18",
+            "title": "Maurice",
+            "video": false,
+            "vote_average": 7.62,
+            "vote_count": 566
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/metcg6lwJqJMZeQx41ISgh62iVl.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 44658,
+            "original_language": "ru",
+            "original_title": "\u041e\u0447\u0438 \u0447\u0435\u0440\u043d\u044b\u0435",
+            "overview": "Aboard a ship early in the 20th-century, a middle-aged Italian tells his story of love to a Russian.",
+            "popularity": 0.5708,
+            "poster_path": "/bXu1AWvAUg0OWHNjB5O1kKJ4AUt.jpg",
+            "release_date": "1987-02-01",
+            "title": "Dark Eyes",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pW5TdAIHk8sIgYRmDOCOxgqgSrv.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 15677,
+            "original_language": "en",
+            "original_title": "84 Charing Cross Road",
+            "overview": "When a humorous script-reader in her New York apartment sees an ad in the Saturday Review of Literature for a bookstore in London that does mail order, she begins a very special correspondence and friendship with Frank Doel, the bookseller who works at Marks & Co., 84 Charing Cross Road.",
+            "popularity": 0.6629,
+            "poster_path": "/sbImaHsRP9TpCNIi4xMizaphZhk.jpg",
+            "release_date": "1987-02-13",
+            "title": "84 Charing Cross Road",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 218
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/76dAUlFGWs2Ujf3O8AWNR5UKJr9.jpg",
+            "genre_ids": [
+                28,
+                35,
+                10749
+            ],
+            "id": 10859,
+            "original_language": "en",
+            "original_title": "Stakeout",
+            "overview": "Two detectives observe an escaped convict's ex-girlfriend, but complications set in when one of them falls for her.",
+            "popularity": 1.3897,
+            "poster_path": "/zclBzn3FBzF4i774z0mZjFQw66q.jpg",
+            "release_date": "1987-08-05",
+            "title": "Stakeout",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 420
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cM5RAwQ5o46EgZFKTsfeyLrj1pZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 49969,
+            "original_language": "en",
+            "original_title": "High Tide",
+            "overview": "A backup singer gets stranded in a small coastal town after losing her job in a band. She winds up in a caravan park only to encounter, by accident, the teenage daughter she deserted following her husband's death.",
+            "popularity": 0.2356,
+            "poster_path": "/cSj4FwodJVbkwzL8Xvee7H0vVTi.jpg",
+            "release_date": "1987-07-30",
+            "title": "High Tide",
+            "video": false,
+            "vote_average": 6.611,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j2yWP61M3pClxZetm8zlc7wMqQx.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 40962,
+            "original_language": "en",
+            "original_title": "Ironweed",
+            "overview": "An alcoholic drifter spends Halloween in his hometown of Albany, New York after returning there for the first time in decades.",
+            "popularity": 0.8702,
+            "poster_path": "/rqVu5FREmvI83jyPpY4jxLTVRxd.jpg",
+            "release_date": "1987-12-18",
+            "title": "Ironweed",
+            "video": false,
+            "vote_average": 6.345,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cgrQefMZspzBD2HXmZ8LYoCuN5m.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 16620,
+            "original_language": "en",
+            "original_title": "La Bamba",
+            "overview": "Los Angeles teenager Ritchie Valens becomes an overnight rock 'n' roll success in 1958, thanks to a love ballad called \"Donna\" that he wrote for his girlfriend. But as his star rises, Valens has conflicts with his jealous brother, Bob, and becomes haunted by a recurring nightmare of a plane crash just as he begins his first national tour alongside Buddy Holly.",
+            "popularity": 3.0781,
+            "poster_path": "/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg",
+            "release_date": "1987-07-24",
+            "title": "La Bamba",
+            "video": false,
+            "vote_average": 7.267,
+            "vote_count": 737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nF4OKHPBAbVzqP4RQ5SknzD93T7.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 34101,
+            "original_language": "en",
+            "original_title": "Hollywood Shuffle",
+            "overview": "Aspiring actor and hot-dog stand employee Bobby Taylor catches the ire of his grandmother for auditioning for a role in the regrettably titled exploitation film \"Jivetime Jimmy's Revenge.\" When Tinseltown Studios casts Taylor in the title role, he has a series of conflicted dreams satirizing African-American stereotypes in Hollywood, and must reconcile his career goals with his desire to remain a positive role model for his little brother.",
+            "popularity": 0.5261,
+            "poster_path": "/xidkzvrJfBeZ6wVcVOxobZruiR7.jpg",
+            "release_date": "1987-03-20",
+            "title": "Hollywood Shuffle",
+            "video": false,
+            "vote_average": 6.458,
+            "vote_count": 95
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yhquZtwnsCZdXHxiaMuzVqFW8qC.jpg",
+            "genre_ids": [
+                9648,
+                878,
+                18
+            ],
+            "id": 48797,
+            "original_language": "es",
+            "original_title": "Hombre mirando al sudeste",
+            "overview": "A new patient mysteriously appears in a psychiatric ward. He claims to come from another planet to study humans and their behavior. The alien is gentle but criticizes humans for their harsh treatment of each other. The assigned psychiatrist is himself unhappy, and affected by the patient's insight. But he is ordered to treat the patient according to institutional procedure.",
+            "popularity": 0.1604,
+            "poster_path": "/vxTNlao45QcCr97s0VcBFXXIxF6.jpg",
+            "release_date": "1987-04-02",
+            "title": "Man Facing Southeast",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bOgKCymrdPHPHozhRBNr9XhVD87.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 13446,
+            "original_language": "en",
+            "original_title": "Withnail & I",
+            "overview": "Two out-of-work actors -- the anxious, luckless Marwood and his acerbic, alcoholic friend, Withnail -- spend their days drifting between their squalid flat, the unemployment office and the pub. When they take a holiday \"by mistake\" at the country house of Withnail's flamboyantly gay uncle, Monty, they encounter the unpleasant side of the English countryside: tedium, terrifying locals and torrential rain.",
+            "popularity": 0.9529,
+            "poster_path": "/i18cIp8A10A2JgByrfA9oIC9299.jpg",
+            "release_date": "1987-06-19",
+            "title": "Withnail & I",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 579
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+            "genre_ids": [
+                12,
+                28,
+                35,
+                53,
+                80
+            ],
+            "id": 941,
+            "original_language": "en",
+            "original_title": "Lethal Weapon",
+            "overview": "A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces.",
+            "popularity": 5.1977,
+            "poster_path": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+            "release_date": "1987-03-06",
+            "title": "Lethal Weapon",
+            "video": false,
+            "vote_average": 7.286,
+            "vote_count": 4741
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dkT3zHMMEULn1o79xktvVbjWM7.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 25155,
+            "original_language": "en",
+            "original_title": "The Stepfather",
+            "overview": "Seemingly mild-mannered Henry Morrison \u2014 who has just murdered his entire family \u2014 quickly adopts a new identity and leaves town. After building a new relationship with a widow and her teenage daughter, he struggles to hide his true identity and maintain a grip on reality.",
+            "popularity": 1.188,
+            "poster_path": "/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg",
+            "release_date": "1987-01-23",
+            "title": "The Stepfather",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 88,
+            "original_language": "en",
+            "original_title": "Dirty Dancing",
+            "overview": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer\u2014and unexpectedly falling in love.",
+            "popularity": 6.3448,
+            "poster_path": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+            "release_date": "1987-08-21",
+            "title": "Dirty Dancing",
+            "video": false,
+            "vote_average": 7.331,
+            "vote_count": 6295
+        }
+    ]
+}

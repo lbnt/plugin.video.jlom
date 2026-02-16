@@ -1,0 +1,768 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1989",
+    "source": "https://criticstop10.com/best-movies-of-1989/",
+    "created_by": "lbnt",
+    "added": "07/29/25",
+    "modified": "07/29/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/oWBUjEZ3UjJgwcFszu6zpkOEqey.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 925,
+            "original_language": "en",
+            "original_title": "Do the Right Thing",
+            "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+            "popularity": 2.0846,
+            "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+            "release_date": "1989-06-14",
+            "title": "Do the Right Thing",
+            "video": false,
+            "vote_average": 7.762,
+            "vote_count": 1860
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aYPDXxII8VuUkRIylyJmWCfbg4f.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1412,
+            "original_language": "en",
+            "original_title": "sex, lies, and videotape",
+            "overview": "Ann, a frustrated wife, enters into counseling due to a troubled marriage. Unbeknownst to her, her husband John has begun an affair with her sister. When John\u2019s best friend Graham arrives, his penchant for interviewing women about their sex lives forever changes John and Ann\u2019s rocky marriage.",
+            "popularity": 2.3942,
+            "poster_path": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+            "release_date": "1989-08-04",
+            "title": "sex, lies, and videotape",
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 961
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDPaSuwaOizRNPitEvNiuY7i6iE.jpg",
+            "genre_ids": [
+                35,
+                18,
+                80
+            ],
+            "id": 11562,
+            "original_language": "en",
+            "original_title": "Crimes and Misdemeanors",
+            "overview": "A renowned ophthalmologist is desperate to cut off an adulterous relationship\u2026which ends up in murder; and a frustrated documentary filmmaker woos an attractive television producer while making a film about her insufferably self-centered boss.",
+            "popularity": 0.6743,
+            "poster_path": "/6vC6MLYUICH57MmEVi1UaNaj2Qs.jpg",
+            "release_date": "1989-10-13",
+            "title": "Crimes and Misdemeanors",
+            "video": false,
+            "vote_average": 7.43,
+            "vote_count": 899
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g5gwbwR98yN1TvycqHCJZhCPa7O.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 2323,
+            "original_language": "en",
+            "original_title": "Field of Dreams",
+            "overview": "Ray Kinsella is an Iowa farmer who hears a mysterious voice telling him to turn his cornfield into a baseball diamond. He does, but the voice's directions don't stop -- even after the spirits of deceased ballplayers turn up to play.",
+            "popularity": 3.2958,
+            "poster_path": "/vL7F8T9B6r4Uztpe1Hw4o63I1m1.jpg",
+            "release_date": "1989-04-21",
+            "title": "Field of Dreams",
+            "video": false,
+            "vote_average": 7.111,
+            "vote_count": 1565
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iUpEDBcoYzND2MhIWr10C93ikFV.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402,
+                10749
+            ],
+            "id": 10875,
+            "original_language": "en",
+            "original_title": "The Fabulous Baker Boys",
+            "overview": "The lives of two struggling musicians, who happen to be brothers, inevitably change when they team up with a beautiful, up-and-coming singer.",
+            "popularity": 0.9606,
+            "poster_path": "/1nS8AxnoYE2Y1ANMpVKZnm8iLxP.jpg",
+            "release_date": "1989-10-13",
+            "title": "The Fabulous Baker Boys",
+            "video": false,
+            "vote_average": 6.61,
+            "vote_count": 345
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/usbfKNeqx5FrHByBf7Fzf9WDuIl.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 10705,
+            "original_language": "en",
+            "original_title": "Henry V",
+            "overview": "In the midst of the Hundred Years War, the young King Henry V of England embarks on the conquest of France in 1415.",
+            "popularity": 1.1791,
+            "poster_path": "/w9R2HsYNnfF3m9uEo2UAmPNJr8a.jpg",
+            "release_date": "1989-10-05",
+            "title": "Henry V",
+            "video": false,
+            "vote_average": 7.156,
+            "vote_count": 392
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zjKg04EquTcnVZUfjHboXnXzjcF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10161,
+            "original_language": "en",
+            "original_title": "My Left Foot: The Story of Christy Brown",
+            "overview": "No one expects much from Christy Brown, a boy with cerebral palsy born into a working-class Irish family. Though Christy is a spastic quadriplegic and essentially paralyzed, a miraculous event occurs when, at the age of 5, he demonstrates control of his left foot by using chalk to scrawl a word on the floor. With the help of his steely mother \u2014 and no shortage of grit and determination \u2014 Christy overcomes his infirmity to become a painter, poet and author.",
+            "popularity": 1.3752,
+            "poster_path": "/GRAAl0bMQFoFIjV3aunc5jsM5u.jpg",
+            "release_date": "1989-04-07",
+            "title": "My Left Foot: The Story of Christy Brown",
+            "video": false,
+            "vote_average": 7.52,
+            "vote_count": 959
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1TFrt5rlgbAS7WdHfCp142NPt4s.jpg",
+            "genre_ids": [
+                99,
+                36,
+                35
+            ],
+            "id": 1779,
+            "original_language": "en",
+            "original_title": "Roger & Me",
+            "overview": "A documentary about the closure of General Motors' plant at Flint, Michigan, which resulted in the loss of 30,000 jobs. Details the attempts of filmmaker Michael Moore to get an interview with GM CEO Roger Smith.",
+            "popularity": 0.5048,
+            "poster_path": "/nsLrWqKnyOKgtBMD6OYLk6fAyTG.jpg",
+            "release_date": "1989-09-01",
+            "title": "Roger & Me",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zf52xLEyao2xcVnpThmzW2Xl0aj.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 476,
+            "original_language": "en",
+            "original_title": "Drugstore Cowboy",
+            "overview": "Portland, Oregon, 1971. Bob Hughes is the charismatic leader of a peculiar quartet, formed by his wife, Dianne, and another couple, Rick and Nadine, who skillfully steal from drugstores and hospital medicine cabinets in order to appease their insatiable need for drugs. But neither fun nor luck last forever.",
+            "popularity": 1.4357,
+            "poster_path": "/2bQXK39axyedUL6DE1pzdMYgAw1.jpg",
+            "release_date": "1989-10-20",
+            "title": "Drugstore Cowboy",
+            "video": false,
+            "vote_average": 7.108,
+            "vote_count": 577
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o4j2Yi8JC6dsOpk8BtW9JSoFtpj.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 10144,
+            "original_language": "en",
+            "original_title": "The Little Mermaid",
+            "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+            "popularity": 9.1808,
+            "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+            "release_date": "1989-11-17",
+            "title": "The Little Mermaid",
+            "video": false,
+            "vote_average": 7.349,
+            "vote_count": 8104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 2604,
+            "original_language": "en",
+            "original_title": "Born on the Fourth of July",
+            "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+            "popularity": 2.1825,
+            "poster_path": "/8P2PlJL9MMR3X2wvFUcTD2Y5BJn.jpg",
+            "release_date": "1989-12-20",
+            "title": "Born on the Fourth of July",
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 1782
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XC0HwRNOvub6xksENsOl68zHOn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 403,
+            "original_language": "en",
+            "original_title": "Driving Miss Daisy",
+            "overview": "The story of an old Jewish widow named Daisy Werthan and her relationship with her black chauffeur, Hoke. From an initial mere work relationship grew in 25 years a strong friendship between the two very different characters, in a time when those types of relationships were shunned.",
+            "popularity": 1.9827,
+            "poster_path": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+            "release_date": "1989-12-13",
+            "title": "Driving Miss Daisy",
+            "video": false,
+            "vote_average": 7.232,
+            "vote_count": 1653
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dbdegCWeD4iK5LXxSBjGdIRsVXS.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 639,
+            "original_language": "en",
+            "original_title": "When Harry Met Sally...",
+            "overview": "During their travel from Chicago to New York, Harry and Sally debate whether or not sex ruins a friendship between a man and a woman. Eleven years later, and they're still no closer to finding the answer.",
+            "popularity": 4.0777,
+            "poster_path": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+            "release_date": "1989-07-12",
+            "title": "When Harry Met Sally...",
+            "video": false,
+            "vote_average": 7.407,
+            "vote_count": 4257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AuUAB6bHEltolSvbBslfNSgsRIm.jpg",
+            "genre_ids": [
+                14,
+                28,
+                80
+            ],
+            "id": 268,
+            "original_language": "en",
+            "original_title": "Batman",
+            "overview": "Batman must face his most ruthless nemesis when a deformed madman calling himself \"The Joker\" seizes control of Gotham's criminal underworld.",
+            "popularity": 8.5917,
+            "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+            "release_date": "1989-06-21",
+            "title": "Batman",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 8141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gucZzLv4zP56veDlPPMh02lAk9g.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 116014,
+            "original_language": "en",
+            "original_title": "Enemies, a Love Story",
+            "overview": "A ghostwriter finds himself romantically involved with his current wife, a married woman and his long-vanished wife.",
+            "popularity": 0.401,
+            "poster_path": "/g0zh75AWArVtadhaNKZjs231TwF.jpg",
+            "release_date": "1989-12-13",
+            "title": "Enemies, a Love Story",
+            "video": false,
+            "vote_average": 6.28,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eW8c4u3WhOVkPMnfe294lXggO3i.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 9665,
+            "original_language": "en",
+            "original_title": "Glory",
+            "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+            "popularity": 2.6069,
+            "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+            "release_date": "1989-12-15",
+            "title": "Glory",
+            "video": false,
+            "vote_average": 7.473,
+            "vote_count": 1691
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 207,
+            "original_language": "en",
+            "original_title": "Dead Poets Society",
+            "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "popularity": 9.739,
+            "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+            "release_date": "1989-06-02",
+            "title": "Dead Poets Society",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 11766
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5pLaYZGbweHYULiNiRehPxYuUnn.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 2640,
+            "original_language": "en",
+            "original_title": "Heathers",
+            "overview": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+            "popularity": 3.1549,
+            "poster_path": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+            "release_date": "1988-10-01",
+            "title": "Heathers",
+            "video": false,
+            "vote_average": 7.275,
+            "vote_count": 1779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yc01i1AneAgphcDbhR5KYugAFFO.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 47870,
+            "original_language": "en",
+            "original_title": "High Hopes",
+            "overview": "Slice-of-life look at a sweet working-class couple in London, Shirley and Cyril, his mother, who's aging quickly and becoming forgetful, mum's ghastly upper-middle-class neighbors, and Cyril's pretentious sister and philandering husband. Shirley wants a baby, but Cyril, who reads Marx and wants the world to be perfect, is reluctant. Cyril's mum locks herself out and must ask her snooty neighbors for help. Then Cyril's sister Valerie stages a surprise party for mum's 70th birthday, a disaster from start to finish. Shirley holds things together, and she and Cyril may put aside her Dutch cap after all.",
+            "popularity": 0.3691,
+            "poster_path": "/uDTFcJbZDexghaQVvkKNXWvVw11.jpg",
+            "release_date": "1989-01-13",
+            "title": "High Hopes",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aQFBJPlPv8wAe4qUWDMQC7CN9Za.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 10142,
+            "original_language": "en",
+            "original_title": "Casualties of War",
+            "overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager.",
+            "popularity": 2.0979,
+            "poster_path": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+            "release_date": "1989-08-18",
+            "title": "Casualties of War",
+            "video": false,
+            "vote_average": 7.154,
+            "vote_count": 933
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bAdIO0Jt886Ad1eY9bDXXeCpXsV.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 2028,
+            "original_language": "en",
+            "original_title": "Say Anything...",
+            "overview": "Lloyd, an eternal optimist, seeks to capture the heart of Diane, an unattainable high school beauty and straight-A student. He surprises just about everyone-including himself-when she returns the sentiment. But Diane's over-possessive, divorced Dad disapproves and it's going to take more than just the power of love to conquer all.",
+            "popularity": 2.129,
+            "poster_path": "/nkucKciFGSRalw6dJtsglWqOXMC.jpg",
+            "release_date": "1989-04-14",
+            "title": "Say Anything...",
+            "video": false,
+            "vote_average": 7.041,
+            "vote_count": 1040
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aix01AG7io9RENJt2hrdE66dZFk.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 41799,
+            "original_language": "en",
+            "original_title": "Distant Voices, Still Lives",
+            "overview": "Siblings Maisie and Tony, along with their mother, gather for their sister Eileen's wedding. It is a joyous occasion, but through flashbacks, it becomes clear that the family was not always happy. Their father was physically abusive to his wife and left the children emotionally traumatized. As a result, the children have grown into unhappy adults, looking for love they didn't receive when they were young.",
+            "popularity": 0.4338,
+            "poster_path": "/nFUyQm41PlZuIvi3LYNVVoVio8K.jpg",
+            "release_date": "1988-11-16",
+            "title": "Distant Voices, Still Lives",
+            "video": false,
+            "vote_average": 6.843,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iZuZjmEeWR0D8ak67FNKJuGr7gL.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10751
+            ],
+            "id": 2383,
+            "original_language": "fr",
+            "original_title": "L'Ours",
+            "overview": "An orphan bear cub hooks up with an adult male as they try to dodge human hunters.",
+            "popularity": 1.5992,
+            "poster_path": "/ry4A1Y2udvqyDlVHLtSeP1u9qwJ.jpg",
+            "release_date": "1988-10-21",
+            "title": "The Bear",
+            "video": false,
+            "vote_average": 7.08,
+            "vote_count": 495
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zdWdI9k8UroWuMjALiftO6WTXu1.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749,
+                10751
+            ],
+            "id": 1552,
+            "original_language": "en",
+            "original_title": "Parenthood",
+            "overview": "The story of the Buckman family and friends, attempting to bring up their children. They suffer/enjoy all the events that occur: estranged relatives, the 'black sheep' of the family, the eccentrics, the skeletons in the closet, and the rebellious teenagers.",
+            "popularity": 1.5537,
+            "poster_path": "/e51tNNQBJpJi9xkyuj0QFhyBcz7.jpg",
+            "release_date": "1989-07-31",
+            "title": "Parenthood",
+            "video": false,
+            "vote_average": 6.689,
+            "vote_count": 665
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mBh3NXCkSCasZGovzAuc9UlFCru.jpg",
+            "genre_ids": [
+                14,
+                12,
+                35
+            ],
+            "id": 14506,
+            "original_language": "en",
+            "original_title": "The Adventures of Baron Munchausen",
+            "overview": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
+            "popularity": 2.3538,
+            "poster_path": "/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
+            "release_date": "1988-12-07",
+            "title": "The Adventures of Baron Munchausen",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 936
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 89,
+            "original_language": "en",
+            "original_title": "Indiana Jones and the Last Crusade",
+            "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+            "popularity": 10.0617,
+            "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+            "release_date": "1989-05-24",
+            "title": "Indiana Jones and the Last Crusade",
+            "video": false,
+            "vote_average": 7.847,
+            "vote_count": 10533
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jaeR3lzWSOfOYe3aNQn9eV5XTMI.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 249,
+            "original_language": "en",
+            "original_title": "The War of the Roses",
+            "overview": "Barbara and Oliver Rose live happily as a married couple. When Barbara starts to wonder what life would be like without Oliver and likes what she sees, the two begin a campaign to force each other to leave their house, with their divorce lawyer D'Amato caught in the middle.",
+            "popularity": 1.3828,
+            "poster_path": "/k2l2df0XlY58wfr7a3RPJ59qmxl.jpg",
+            "release_date": "1989-12-08",
+            "title": "The War of the Roses",
+            "video": false,
+            "vote_average": 6.896,
+            "vote_count": 1158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVyHoOtk7N1e3aEoHIuJbT6IBJg.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 41975,
+            "original_language": "fr",
+            "original_title": "Une affaire de femmes",
+            "overview": "France, World War II. In order to somehow make ends meet, the mother of two children, Marie Latour, does underground abortions and rents a room to a familiar prostitute. She doesn't pay any attention to her husband, who returned from the war because of his injury and lives her own life. Abortions gradually begin to bring a good income, and boredom can be easily dispelled by starting a young lover.",
+            "popularity": 0.7139,
+            "poster_path": "/gIBOAemklR8MVYP0Vn5RE0MYYWT.jpg",
+            "release_date": "1988-09-14",
+            "title": "Story of Women",
+            "video": false,
+            "vote_average": 7.324,
+            "vote_count": 170
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t0GxYLiPkTtFBuzoPLmLU3HSKEN.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 11305,
+            "original_language": "en",
+            "original_title": "Mystery Train",
+            "overview": "In Memphis, Tennessee, over the course of a single night, the Arcade Hotel, run by an eccentric night clerk and a clueless bellboy, is visited by a young Japanese couple traveling in search of the roots of rock; an Italian woman in mourning who stumbles upon a fleeing charlatan girl; and a comical trio of accidental thieves looking for a place to hide.",
+            "popularity": 1.2471,
+            "poster_path": "/f11xq7dBGhz9UDc3dabldAGeXVH.jpg",
+            "release_date": "1989-09-06",
+            "title": "Mystery Train",
+            "video": false,
+            "vote_average": 7.332,
+            "vote_count": 470
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hOljV0Ikm0WWg8C6F0xW0OmL0ly.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 32855,
+            "original_language": "en",
+            "original_title": "In Country",
+            "overview": "Samantha Hughes, a teenaged Kentucky girl, never knew her father, who died in Vietnam before her birth. Samantha lives with her uncle Emmett, who also served in Vietnam. Emmett hangs around with Tom, Earl, and Pete, three other Vietnam vets who, like Emmett, all have problems of one kind or another that relate to their war experiences. Samantha becomes obsessed with finding out about her father.",
+            "popularity": 0.407,
+            "poster_path": "/rLyxWz5O2QfOBbqLDlloUHQyuru.jpg",
+            "release_date": "1989-09-15",
+            "title": "In Country",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2SPjdXnbyFBUjG7NjkrDfyFnGpW.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 32075,
+            "original_language": "en",
+            "original_title": "A Dry White Season",
+            "overview": "During the 1976 Soweto uprising, a white school teacher's life and values are threatened when he asks questions about the death of a young black boy who died in police custody.",
+            "popularity": 0.6001,
+            "poster_path": "/6Wx9oZ7WUoootNLv70EDq6nyDqW.jpg",
+            "release_date": "1989-09-20",
+            "title": "A Dry White Season",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aCIcZUtcmOYux5h3k10wlod4VgO.jpg",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "id": 37640,
+            "original_language": "en",
+            "original_title": "Let's Get Lost",
+            "overview": "Documentary about jazz great Chet Baker that intercuts footage from the 1950s, when he was part of West Coast Cool, and from his last years. We see the young Baker, he of the beautiful face, in California and in Italy, where he appeared in at least one movie and at least one jail cell (for drug possession). And, we see the aged Baker, detached, indifferent, his face a ruin. Includes interviews with his children and ex-wife, women companions, and musicians.",
+            "popularity": 0.515,
+            "poster_path": "/voAn1Btvyy9icPHaf7HNwBfFZor.jpg",
+            "release_date": "1988-09-15",
+            "title": "Let's Get Lost",
+            "video": false,
+            "vote_average": 7.122,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 10860,
+            "original_language": "en",
+            "original_title": "Steel Magnolias",
+            "overview": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
+            "popularity": 2.855,
+            "poster_path": "/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+            "release_date": "1989-11-15",
+            "title": "Steel Magnolias",
+            "video": false,
+            "vote_average": 7.189,
+            "vote_count": 684
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A1eaLqbn4HfYKrtvsTx5llECzBP.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 32261,
+            "original_language": "en",
+            "original_title": "Scandal",
+            "overview": "An English bon-vivant osteopath is enchanted with a young exotic dancer and invites her to live with him. He serves as friend and mentor, and through his contacts and parties she and her friend meet and date members of the Conservative Party. Eventually a scandal occurs when her affair with the Minister of War goes public, threatening their lifestyles and their freedom.",
+            "popularity": 1.0738,
+            "poster_path": "/30hZ9Yn7q7OSTrnBQAXggs011VQ.jpg",
+            "release_date": "1989-03-03",
+            "title": "Scandal",
+            "video": false,
+            "vote_average": 5.973,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ryuNZtfeugm9olrytaydFPsDSoB.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                80,
+                53
+            ],
+            "id": 942,
+            "original_language": "en",
+            "original_title": "Lethal Weapon 2",
+            "overview": "Riggs and Murtaugh are on the trail of South African diplomats using their immunity to engage in criminal activities.",
+            "popularity": 3.864,
+            "poster_path": "/z35OkbOTfnalyx8LK5EPUrnKQhR.jpg",
+            "release_date": "1989-07-07",
+            "title": "Lethal Weapon 2",
+            "video": false,
+            "vote_average": 7.02,
+            "vote_count": 3536
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZpAb2uqzcSJmdF9K9ks6yhvB2l.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 31863,
+            "original_language": "en",
+            "original_title": "True Believer",
+            "overview": "Eddie Dodd is a burnt out former civil rights lawyer who now specializes in defending drug dealers. Roger Baron, newly graduated from law school, has followed Eddie's great cases and now wants to learn at his feet. With Roger's idealistic prodding, Eddie reluctantly takes on a case of a young Korean man who, according to his mother, has been in jail for eight years for a murder he didn't commit.",
+            "popularity": 0.6998,
+            "poster_path": "/ouL2ibaIdTMobM1CUlZxKauJBaM.jpg",
+            "release_date": "1989-02-17",
+            "title": "True Believer",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8she0UIhlxoUnzWhO5AZpPlL0uf.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 12150,
+            "original_language": "en",
+            "original_title": "Sea of Love",
+            "overview": "Seen-it-all New York detective Frank Keller is unsettled - he has done twenty years on the force and could retire, and he hasn't come to terms with his wife leaving him for a colleague. Joining up with an officer from another part of town to investigate a series of murders linked by the lonely hearts columns he finds he is getting seriously and possibly dangerously involved with Helen, one of the main suspects.",
+            "popularity": 1.1851,
+            "poster_path": "/vJ88WmJ12eAK9CRb3cggn9CJthH.jpg",
+            "release_date": "1989-09-15",
+            "title": "Sea of Love",
+            "video": false,
+            "vote_average": 6.604,
+            "vote_count": 636
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9L6jBEAFPAeZf5rx0uweIwMW8Hn.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 111605,
+            "original_language": "en",
+            "original_title": "True Love",
+            "overview": "Donna and Michael are getting married. But first, they have to plan the reception, get the tux, buy the rings, and cope with their own uncertainty about the decision. Michael fears commitment. Donna has her doubts about Michael's immaturity. Both are getting cold feet.",
+            "popularity": 0.4156,
+            "poster_path": "/bb8LdVqPhJbd1WnH6yiMbjy0N0C.jpg",
+            "release_date": "1989-09-15",
+            "title": "True Love",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ekWqOIkVbhwzheV0gqj5jCNd9d.jpg",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "id": 2263,
+            "original_language": "en",
+            "original_title": "Music Box",
+            "overview": "A lawyer defends her father accused of war crimes, but there is more to the case than she suspects.",
+            "popularity": 0.7839,
+            "poster_path": "/AvBTmNSL84zhQLsG5wH76Fe2yPk.jpg",
+            "release_date": "1989-12-22",
+            "title": "Music Box",
+            "video": false,
+            "vote_average": 7.103,
+            "vote_count": 170
+        }
+    ]
+}

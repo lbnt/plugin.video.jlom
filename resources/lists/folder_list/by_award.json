@@ -1,0 +1,38 @@
+{
+    "type" : "folder_list",
+    "title" : "By award",
+    "added" : "24/04/24",
+    "modified" : "31/01/26",
+    "folders" : [
+        {
+            "title" : "Academy Awards - Oscars",
+            "id" : "academy_awards",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Golden Globes",
+            "id" : "golden_globes",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "BAFTA",
+            "id" : "bafta",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Cannes Film Festival",
+            "id" : "cannes_film_festival",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Venice Film Festival",
+            "id" : "venice_film_festival",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Other Festivals",
+            "id" : "other_festivals",
+            "type" : "folder_list"
+        }
+    ]
+}

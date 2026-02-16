@@ -1,0 +1,978 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1996",
+    "source": "https://criticstop10.com/best-movies-of-1996/",
+    "created_by": "lbnt",
+    "added": "07/28/25",
+    "modified": "07/28/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 275,
+            "original_language": "en",
+            "original_title": "Fargo",
+            "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+            "popularity": 8.3949,
+            "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+            "release_date": "1996-03-08",
+            "title": "Fargo",
+            "video": false,
+            "vote_average": 7.853,
+            "vote_count": 8483
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vsxo1dkhRHd9YT9Um5IaxvnF8Yt.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                10749
+            ],
+            "id": 26748,
+            "original_language": "en",
+            "original_title": "Lone Star",
+            "overview": "When the skeleton of his murdered predecessor is found, Sheriff Sam Deeds unearths many other long-buried secrets in his Texas border town.",
+            "popularity": 0.8867,
+            "poster_path": "/lBxY8znsRoqa9Dy2NCe8I6GPsRm.jpg",
+            "release_date": "1996-06-21",
+            "title": "Lone Star",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 383
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yYe63HwFBNFDcnWtBm8KR6NSAeg.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 409,
+            "original_language": "en",
+            "original_title": "The English Patient",
+            "overview": "In the 1930s, Count Alm\u00e1sy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Alm\u00e1sy enters into a world of love, betrayal, and politics.",
+            "popularity": 3.398,
+            "poster_path": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+            "release_date": "1996-11-14",
+            "title": "The English Patient",
+            "video": false,
+            "vote_average": 7.161,
+            "vote_count": 2271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/upyQnoXc0RP4DXhPbijG7xDlSos.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11159,
+            "original_language": "en",
+            "original_title": "Secrets & Lies",
+            "overview": "After her adoptive mother dies, Hortense, a successful black optometrist, seeks out her birth mother. She's shocked when her research leads her to Cynthia, a working class white woman.",
+            "popularity": 1.6667,
+            "poster_path": "/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg",
+            "release_date": "1996-05-24",
+            "title": "Secrets & Lies",
+            "video": false,
+            "vote_average": 7.564,
+            "vote_count": 679
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wUc83y8kXNdRK66o0HU5X8eBri4.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 627,
+            "original_language": "en",
+            "original_title": "Trainspotting",
+            "overview": "Hilarious but harrowing, the film charts the disintegration of the friendship between Renton, Spud, Sick Boy, Tommy and Begbie as they proceed seemingly towards a psychotic, drug-fuelled self-destruction.",
+            "popularity": 6.5967,
+            "poster_path": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+            "release_date": "1996-02-23",
+            "title": "Trainspotting",
+            "video": false,
+            "vote_average": 7.961,
+            "vote_count": 9940
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/79EyItsEl7pnIO0jFi5HDMhsiON.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 18203,
+            "original_language": "en",
+            "original_title": "Big Night",
+            "overview": "Primo and Secondo, two immigrant brothers, pin their hopes on a banquet honoring Louis Prima to save their struggling restaurant.",
+            "popularity": 0.8193,
+            "poster_path": "/8AJGSDyrj3Dz2B57n1ZB4qNPbmJ.jpg",
+            "release_date": "1996-09-20",
+            "title": "Big Night",
+            "video": false,
+            "vote_average": 6.954,
+            "vote_count": 249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2NU8w8djgX6SzLrg7rN6yMXWAzC.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 7863,
+            "original_language": "en",
+            "original_title": "Shine",
+            "overview": "Pianist David Helfgott, driven by his father and teachers, has a breakdown. Years later he returns to the piano, to popular if not critical acclaim.",
+            "popularity": 1.8061,
+            "poster_path": "/cbmThowj2XAW7lKlMAXmnhZvjGI.jpg",
+            "release_date": "1996-08-15",
+            "title": "Shine",
+            "video": false,
+            "vote_average": 7.37,
+            "vote_count": 672
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7NzsBCM8cj53yLEPWYhN0YfGZG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1630,
+            "original_language": "en",
+            "original_title": "The People vs. Larry Flynt",
+            "overview": "Larry Flynt is the hedonistically obnoxious, but indomitable, publisher of Hustler magazine. The film recounts his struggle to make an honest living publishing his girlie magazine and how it changes into a battle to protect the freedom of speech for all people.",
+            "popularity": 1.3321,
+            "poster_path": "/sAgHn7ys6TiVXBDTZ0UBEjinIUk.jpg",
+            "release_date": "1996-12-25",
+            "title": "The People vs. Larry Flynt",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nY2faCdUVHzuH6FmDI6QsAURE68.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 145,
+            "original_language": "da",
+            "original_title": "Breaking the Waves",
+            "overview": "In a small and conservative Scottish village, a woman's paralytic husband convinces her to have extramarital intercourse so she can tell him about it and give him a reason for living.",
+            "popularity": 1.9778,
+            "poster_path": "/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+            "release_date": "1996-07-05",
+            "title": "Breaking the Waves",
+            "video": false,
+            "vote_average": 7.498,
+            "vote_count": 1044
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 9390,
+            "original_language": "en",
+            "original_title": "Jerry Maguire",
+            "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+            "popularity": 5.3471,
+            "poster_path": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+            "release_date": "1996-12-13",
+            "title": "Jerry Maguire",
+            "video": false,
+            "vote_average": 6.965,
+            "vote_count": 3449
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gzlGNZczKeBsNskj8MLGlh0fIc1.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 2074,
+            "original_language": "en",
+            "original_title": "Flirting with Disaster",
+            "overview": "Adopted as a child, new father Mel Colpin decides he cannot name his son until he knows his birth parents, and determines to make a cross-country quest to find them. Accompanied by his wife, Nancy, and an inept yet gorgeous adoption agent, Tina, he departs on an epic road trip that quickly devolves into a farce of mistaken identities, wrong turns, and overzealous and love-struck ATF agents.",
+            "popularity": 0.664,
+            "poster_path": "/yfuYLKrOcSlzydbtwdHeAWddKO7.jpg",
+            "release_date": "1996-03-22",
+            "title": "Flirting with Disaster",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 255
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cmD7smdQnflmpthFDjSArI2jKZF.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 11446,
+            "original_language": "en",
+            "original_title": "Welcome to the Dollhouse",
+            "overview": "An unattractive 7th grader struggles to cope with suburban life as the middle child with inattentive parents and bullies at school.",
+            "popularity": 0.9675,
+            "poster_path": "/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+            "release_date": "1995-09-10",
+            "title": "Welcome to the Dollhouse",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 459
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iGjePiIOMhy8FZyVZaXkbw5lc2d.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 20539,
+            "original_language": "en",
+            "original_title": "The Crucible",
+            "overview": "A Salem resident attempts to frame her ex-lover's wife for being a witch in the middle of the 1692 witchcraft trials.",
+            "popularity": 1.49,
+            "poster_path": "/zv69Rev43me5gQ68x7fk1mQzhHn.jpg",
+            "release_date": "1996-11-27",
+            "title": "The Crucible",
+            "video": false,
+            "vote_average": 6.577,
+            "vote_count": 518
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eBQc24VRzNXz3gFMrvdSvwd6Ire.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 3573,
+            "original_language": "en",
+            "original_title": "Emma",
+            "overview": "Emma Woodhouse is a congenial young lady who delights in meddling in other people\u2019s affairs. She is perpetually trying to unite men and women who are utterly wrong for each other. Despite her interest in romance, Emma is clueless about her own feelings, and her relationship with gentle Mr. Knightly.",
+            "popularity": 1.6355,
+            "poster_path": "/40ud17T4tDbILNjcVSAbj8F4Z2E.jpg",
+            "release_date": "1996-08-02",
+            "title": "Emma",
+            "video": false,
+            "vote_average": 6.631,
+            "vote_count": 635
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sWaKmnieGBGSrstaPLopH4m1A3K.jpg",
+            "genre_ids": [
+                18,
+                53,
+                9648,
+                10752
+            ],
+            "id": 10684,
+            "original_language": "en",
+            "original_title": "Courage Under Fire",
+            "overview": "A US Army officer, who made a \"friendly fire\" mistake that was covered up, has been reassigned to a desk job. He is tasked to investigate a female chopper commander's worthiness to be awarded the Medal of Honor. At first all seems in order. But then he begins to notice inconsistencies between the testimonies of the witnesses...",
+            "popularity": 1.9693,
+            "poster_path": "/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg",
+            "release_date": "1996-07-04",
+            "title": "Courage Under Fire",
+            "video": false,
+            "vote_average": 6.515,
+            "vote_count": 969
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s0MYaSiEZy9H0cXxxay5LEdcxYs.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 12498,
+            "original_language": "en",
+            "original_title": "Sling Blade",
+            "overview": "Karl Childers, a mentally disabled man, has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, he is deemed fit to be released into the outside world.",
+            "popularity": 2.1659,
+            "poster_path": "/ivBIBd1LNaozcmytZUyE1yIXZms.jpg",
+            "release_date": "1996-08-30",
+            "title": "Sling Blade",
+            "video": false,
+            "vote_average": 7.542,
+            "vote_count": 818
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h5D0kYyT6oyzxOU3LRNeSgAABCZ.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 32513,
+            "original_language": "en",
+            "original_title": "Cold Comfort Farm",
+            "overview": "In this adaptation of the satirical British novel, Flora Poste, a plucky London society girl orphaned at age 19, finds a new home with some rough relatives, the Starkadders of Cold Comfort Farm. With a take-charge attitude and some encouragement from her mischievous friend, Mary, Flora changes the Starkadders' lives forever when she settles into their rustic estate, bringing the backward clan up to date and finding inspiration for her novel in the process.",
+            "popularity": 0.5023,
+            "poster_path": "/fkPm7MQhn3YqcRDM9qFDKNHiw7D.jpg",
+            "release_date": "1995-01-01",
+            "title": "Cold Comfort Farm",
+            "video": false,
+            "vote_average": 6.777,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3n3Wo9hPpipFqUXCNiftVyXSw13.jpg",
+            "genre_ids": [
+                99,
+                10770,
+                36,
+                10402
+            ],
+            "id": 10548,
+            "original_language": "en",
+            "original_title": "When We Were Kings",
+            "overview": "It's 1974. Muhammad Ali is 32 and thought by many to be past his prime. George Foreman is ten years younger and the heavyweight champion of the world. Promoter Don King wants to make a name for himself and offers both fighters five million dollars apiece to fight one another, and when they accept, King has only to come up with the money. He finds a willing backer in Mobutu Sese Suko, the dictator of Zaire, and the \"Rumble in the Jungle\" is set, including a musical festival featuring some of America's top black performers, like James Brown and B.B. King.",
+            "popularity": 0.8707,
+            "poster_path": "/yBkZK1JZOOJ3q5Jj1H9UP9T8YuV.jpg",
+            "release_date": "1996-10-25",
+            "title": "When We Were Kings",
+            "video": false,
+            "vote_average": 7.693,
+            "vote_count": 236
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/amO7B3fSXhnIP51NDXBXPVcZRe.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 10478,
+            "original_language": "en",
+            "original_title": "Tin Cup",
+            "overview": "A washed up golf pro working at a driving range tries to qualify for the US Open in order to win the heart of his succesful rival's girlfriend.",
+            "popularity": 1.5591,
+            "poster_path": "/rB7OvMmjcBFoogleORaUqrRgp8g.jpg",
+            "release_date": "1996-08-16",
+            "title": "Tin Cup",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 545
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 602,
+            "original_language": "en",
+            "original_title": "Independence Day",
+            "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+            "popularity": 8.6229,
+            "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+            "release_date": "1996-06-25",
+            "title": "Independence Day",
+            "video": false,
+            "vote_average": 6.894,
+            "vote_count": 9893
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/usvYDxMETOVh67XmUYX2oS9mVJ5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10549,
+            "original_language": "en",
+            "original_title": "Hamlet",
+            "overview": "Hamlet, Prince of Denmark, returns home to find his father murdered and his mother now marrying the murderer... his uncle. Meanwhile, war is brewing.",
+            "popularity": 1.4796,
+            "poster_path": "/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg",
+            "release_date": "1996-12-25",
+            "title": "Hamlet",
+            "video": false,
+            "vote_average": 7.324,
+            "vote_count": 493
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/198CRubmWRqeRRsjdeN7DgzCLUl.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 8818,
+            "original_language": "en",
+            "original_title": "Evita",
+            "overview": "The hit musical based on the life of Evita Duarte, an Argentinian actress who eventually became the wife of Argentinian president Juan Per\u00f3n, and the most beloved and hated woman in Argentina.",
+            "popularity": 1.2984,
+            "poster_path": "/HOthGlLewarZA7AO9MLSYApLSj.jpg",
+            "release_date": "1996-12-14",
+            "title": "Evita",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 488
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m0miV65ZZIp13TNHJSRUF6vmCos.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 454,
+            "original_language": "en",
+            "original_title": "Romeo + Juliet",
+            "overview": "In director Baz Luhrmann's contemporary take on William Shakespeare's classic tragedy, the Montagues and Capulets have moved their ongoing feud to the sweltering suburb of Verona Beach, where Romeo and Juliet fall in love and secretly wed. Though the film is visually modern, the bard's dialogue remains.",
+            "popularity": 3.6543,
+            "poster_path": "/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+            "release_date": "1996-11-01",
+            "title": "Romeo + Juliet",
+            "video": false,
+            "vote_average": 6.786,
+            "vote_count": 5117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vuglA60RqvpHK9rIcG8sXaiWw1L.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 11104,
+            "original_language": "cn",
+            "original_title": "\u91cd\u6176\u68ee\u6797",
+            "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+            "popularity": 5.9978,
+            "poster_path": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+            "release_date": "1994-07-14",
+            "title": "Chungking Express",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 1971
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rCUg0bQM8vu4OSaE0aHQOicPnC5.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 9716,
+            "original_language": "en",
+            "original_title": "Everyone Says I Love You",
+            "overview": "A New York girl sets her father up with a beautiful woman in a shaky marriage while her half sister gets engaged.",
+            "popularity": 1.2199,
+            "poster_path": "/cFOZ4bNbWtnIIboc43M86yhwPBX.jpg",
+            "release_date": "1996-12-06",
+            "title": "Everyone Says I Love You",
+            "video": false,
+            "vote_average": 6.444,
+            "vote_count": 682
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a7DtgKB187dUm9n81IlvNzVXsK1.jpg",
+            "genre_ids": [
+                18,
+                14,
+                37
+            ],
+            "id": 922,
+            "original_language": "en",
+            "original_title": "Dead Man",
+            "overview": "William Blake, an accountant turned fugitive, is on the run. During his travels, he meets a Native American man called Nobody, who guides him on a journey to the spiritual world.",
+            "popularity": 2.5036,
+            "poster_path": "/jX3wGBVoYoAY3IixBpwYk1fjT4z.jpg",
+            "release_date": "1995-12-23",
+            "title": "Dead Man",
+            "video": false,
+            "vote_average": 7.299,
+            "vote_count": 1626
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/urQRrvRzsBztqjOt7yuxX9gpqw1.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 10218,
+            "original_language": "en",
+            "original_title": "Swingers",
+            "overview": "After 6 years together, Mike's girlfriend leaves him, so he travels to LA to be a star. Six months on, he's still not doing very well\u2014 so a few of his friends try to reconnect him to the social scene and hopefully help him forget his failed relationship.",
+            "popularity": 1.7129,
+            "poster_path": "/rRjWk68kU3a2so4lgr3TKB7Y5vA.jpg",
+            "release_date": "1996-10-18",
+            "title": "Swingers",
+            "video": false,
+            "vote_average": 6.868,
+            "vote_count": 764
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n0NQnVJdwf4Sx4DPe2ZDIpAiacb.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 49471,
+            "original_language": "en",
+            "original_title": "Get on the Bus",
+            "overview": "Several Black men take a cross-country bus trip to attend the Million Man March in Washington, DC in 1995. On the bus are an eclectic set of characters including a laid-off aircraft worker, a man whose at-risk son is handcuffed to him, a black Republican, a former gangsta, a Hollywood actor, a cop who is of mixed racial background, and a white bus driver. All make the trek discussing issues surrounding the march, including manhood, religion, politics, and race.",
+            "popularity": 0.3925,
+            "poster_path": "/12DglJ2V73pcrPpsvIKkGycVGJM.jpg",
+            "release_date": "1996-10-16",
+            "title": "Get on the Bus",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hZQE3YIoajSFtqkvSZCTnvISIMl.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                53,
+                36
+            ],
+            "id": 1770,
+            "original_language": "en",
+            "original_title": "Michael Collins",
+            "overview": "Michael Collins plays a crucial role in the establishment of the Irish Free State in the 1920s, but becomes vilified by those hoping to create a completely independent Irish republic.",
+            "popularity": 1.2107,
+            "poster_path": "/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg",
+            "release_date": "1996-10-25",
+            "title": "Michael Collins",
+            "video": false,
+            "vote_average": 6.893,
+            "vote_count": 487
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l8g9VAYVZ0LcvbNk0nZ3iLRnVXz.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 18451,
+            "original_language": "en",
+            "original_title": "The Whole Wide World",
+            "overview": "In 1930s Texas, pulp fiction master Robert E. Howard is introduced to Novalyne Price, a teacher with aspirations of becoming an author herself, and they begin a unique relationship filled with conversation and imagination. Although the possibility exists for romance, Howard's obsession with his work and dedication to his sick mother leads Price to look elsewhere for love, leaving Howard feeling betrayed and alone.",
+            "popularity": 1.8362,
+            "poster_path": "/ajMk4ueXcOCbxwJjJecltiGhYrn.jpg",
+            "release_date": "1996-09-08",
+            "title": "The Whole Wide World",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/geU7XW9G2n7EqhXsF1v8CvzAbGa.jpg",
+            "genre_ids": [
+                18,
+                16,
+                10751
+            ],
+            "id": 10545,
+            "original_language": "en",
+            "original_title": "The Hunchback of Notre Dame",
+            "overview": "Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.",
+            "popularity": 6.4544,
+            "poster_path": "/7k0fr2xLCTChjN8MnGNThTP9uEB.jpg",
+            "release_date": "1996-06-21",
+            "title": "The Hunchback of Notre Dame",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 5150
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sOFwEeWmlQufAQwLH7OXnw2oLlj.jpg",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "id": 17204,
+            "original_language": "en",
+            "original_title": "Paradise Lost: The Child Murders at Robin Hood Hills",
+            "overview": "A horrific triple child murder leads to an indictment and trial of three nonconformist boys based on questionable evidence.",
+            "popularity": 0.2962,
+            "poster_path": "/h65fwEQTv9zRNyEuExE1wAk5CQ2.jpg",
+            "release_date": "1996-12-03",
+            "title": "Paradise Lost: The Child Murders at Robin Hood Hills",
+            "video": false,
+            "vote_average": 7.599,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Dc6WVeJjJcl9muNJmuuoOgkiB7.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 36758,
+            "original_language": "en",
+            "original_title": "The Portrait of a Lady",
+            "overview": "Ms. Isabel Archer isn't afraid to challenge societal norms. Impressed by her free spirit, her kindhearted cousin writes her into his fatally ill father's will. Suddenly rich and independent, Isabelle ventures into the world, along the way befriending a cynical intellectual and romancing an art enthusiast. However, the advantage of her affluence is called into question when she realizes the extent to which her money colors her relationships.",
+            "popularity": 1.1885,
+            "poster_path": "/yoUuMtWTQXzfARYE0nF7Nn7gRuS.jpg",
+            "release_date": "1996-10-17",
+            "title": "The Portrait of a Lady",
+            "video": false,
+            "vote_average": 5.961,
+            "vote_count": 241
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jRLhcuyTPgcaCzrTKVTVrFDWrYo.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 46785,
+            "original_language": "fa",
+            "original_title": "\u0628\u0627\u062f\u06a9\u0646\u06a9 \u0633\u0641\u06cc\u062f",
+            "overview": "Several people try to take advantage of a little girl's innocence to hustle money her mom gave to her to buy a goldfish with.",
+            "popularity": 0.3834,
+            "poster_path": "/u6jrlgZZx3zSFPDPTVOYpueljgH.jpg",
+            "release_date": "1995-01-02",
+            "title": "The White Balloon",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJeF1Pn9nsSsexqaQpS0G840nI2.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10751
+            ],
+            "id": 11076,
+            "original_language": "en",
+            "original_title": "Fly Away Home",
+            "overview": "Amy is only 13 years old when her mother is killed. She goes to Canada to live with her father, an eccentric inventor whom she barely knows. Amy is miserable in her new life... until she discovers a nest of goose eggs that were abandoned when a local forest was torn down. The eggs hatch and Amy becomes \"Mama Goose\". When Winter comes, Amy, and her dad must find a way to lead the birds South.",
+            "popularity": 1.805,
+            "poster_path": "/obcQJkZB2OsRxd5GWIcQ5Qjv4YW.jpg",
+            "release_date": "1996-09-13",
+            "title": "Fly Away Home",
+            "video": false,
+            "vote_average": 6.933,
+            "vote_count": 477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xHxKFlDCasfU8Se7GnHoEvVcwNU.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 9305,
+            "original_language": "fr",
+            "original_title": "Microcosmos : Le peuple de l'herbe",
+            "overview": "A documentary of insect life in meadows and ponds, using incredible close-ups, slow motion, and time-lapse photography. It includes bees collecting nectar, ladybugs eating mites, snails mating, spiders wrapping their catch, a scarab beetle relentlessly pushing its ball of dung uphill, endless lines of caterpillars, an underwater spider creating an air bubble to live in, and a mosquito hatching.",
+            "popularity": 0.7935,
+            "poster_path": "/OPoiGrzNr5FWoczXH5Gs1cReec.jpg",
+            "release_date": "1996-09-06",
+            "title": "Microcosmos",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 237
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h5PrPi1fnGACJiYoIJxBpAkqhGU.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 8447,
+            "original_language": "en",
+            "original_title": "Angels and Insects",
+            "overview": "In Victorian England, wealthy patriarch Sir Harald Alabaster invites an impoverished biologist, William Adamson, into his home. There, William tries to continue his work, but is distracted by Alabaster's seductive daughter, Eugenia. William and Eugenia begin a torrid romance, but as the couple become closer, the young scientist begins to realize that dark, disturbing things are happening behind the closed doors of the Alabaster manor.",
+            "popularity": 0.4761,
+            "poster_path": "/w1i5JdddoLuzSmnKo5ORDoKdMm2.jpg",
+            "release_date": "1995-09-10",
+            "title": "Angels and Insects",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iK3JJvaWg67dQQyob3SqDsnQpHo.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 25355,
+            "original_language": "fr",
+            "original_title": "Irma Vep",
+            "overview": "Hong Kong action diva Maggie Cheung comes to France when a past-his-prime director casts her in a remake of the silent classic Les Vampires. Clad in a rubber catsuit and unable to speak a word of French, Cheung finds herself adrift in the insanity of the film industry\u2026",
+            "popularity": 0.9016,
+            "poster_path": "/9Z84G7mn8eS7WxiHr5CrXRrneaF.jpg",
+            "release_date": "1996-10-01",
+            "title": "Irma Vep",
+            "video": false,
+            "vote_average": 6.652,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4aXe78YsL7TWtoVZXO5DTnn9AAR.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 27845,
+            "original_language": "en",
+            "original_title": "Trees Lounge",
+            "overview": "Tommy has lost his job, his love and his life. He lives in a small apartment above the Trees Lounge, a bar which he frequents along with a few other regulars without lives. He gets a job driving an ice cream truck and ends up getting involved with the seventeen-year-old niece of his ex-girlfriend. This gets him into serious trouble with her father.",
+            "popularity": 0.8261,
+            "poster_path": "/2DtoVhI9RkArGbzkvctGxY578QN.jpg",
+            "release_date": "1996-05-11",
+            "title": "Trees Lounge",
+            "video": false,
+            "vote_average": 6.889,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "id": 664,
+            "original_language": "en",
+            "original_title": "Twister",
+            "overview": "An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.",
+            "popularity": 5.5725,
+            "poster_path": "/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+            "release_date": "1996-05-10",
+            "title": "Twister",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3600
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qTofO8swHYG9Dw0wE2UwbaJpuNl.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 42314,
+            "original_language": "en",
+            "original_title": "Looking for Richard",
+            "overview": "Al Pacino's deeply-felt rumination on Shakespeare's significance and relevance to the modern world through interviews and an in-depth analysis of \"Richard III.\"",
+            "popularity": 0.6878,
+            "poster_path": "/qAYYZzO6q7prlt6bmIvqOOwKsXi.jpg",
+            "release_date": "1996-10-11",
+            "title": "Looking for Richard",
+            "video": false,
+            "vote_average": 6.785,
+            "vote_count": 142
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6fVctkRtlq7itzsUZ4nL65jbKk0.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 9303,
+            "original_language": "en",
+            "original_title": "Bound",
+            "overview": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
+            "popularity": 3.045,
+            "poster_path": "/nfXU25TsAUsLMTJ6oHlgxPUcUOF.jpg",
+            "release_date": "1996-09-13",
+            "title": "Bound",
+            "video": false,
+            "vote_average": 7.208,
+            "vote_count": 995
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6kTLm7zfwKAgAcGnaVU0uT4QYug.jpg",
+            "genre_ids": [
+                12,
+                16,
+                10751,
+                14
+            ],
+            "id": 10539,
+            "original_language": "en",
+            "original_title": "James and the Giant Peach",
+            "overview": "When the young orphan boy James spills a magic bag of crocodile tongues, he finds himself in possession of a giant peach that flies him away to strange lands.",
+            "popularity": 2.8501,
+            "poster_path": "/qUjArAMcCt2S3QJBb9CgVQu1MXs.jpg",
+            "release_date": "1996-04-12",
+            "title": "James and the Giant Peach",
+            "video": false,
+            "vote_average": 6.573,
+            "vote_count": 1361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aViC67Gyp0BzAQjBcGJsRv2HlB0.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 27265,
+            "original_language": "en",
+            "original_title": "Mother",
+            "overview": "A neurotic, twice-divorced sci-fi writer moves back in with his mother to solve his personal problems.",
+            "popularity": 0.5693,
+            "poster_path": "/mxJJ0IEOOdvMo5yO7rcJBqyZ11n.jpg",
+            "release_date": "1996-12-25",
+            "title": "Mother",
+            "video": false,
+            "vote_average": 6.773,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
+            "genre_ids": [
+                35,
+                14,
+                878
+            ],
+            "id": 75,
+            "original_language": "en",
+            "original_title": "Mars Attacks!",
+            "overview": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, \"come in peace.\" U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation.",
+            "popularity": 5.2244,
+            "poster_path": "/bGxhc8Cd908XbDxg5baDvbiVzUI.jpg",
+            "release_date": "1996-12-13",
+            "title": "Mars Attacks!",
+            "video": false,
+            "vote_average": 6.414,
+            "vote_count": 5602
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/azaAwIh1G7MrqhflrmXmSdD03mT.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 12709,
+            "original_language": "fr",
+            "original_title": "Ridicule",
+            "overview": "To get royal backing on a needed drainage project, a poor French lord must learn to play the delicate games of wit at court at Versailles.",
+            "popularity": 0.7381,
+            "poster_path": "/j78rRskAapKtILalcxAmdskGtzb.jpg",
+            "release_date": "1996-05-09",
+            "title": "Ridicule",
+            "video": false,
+            "vote_average": 6.955,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wFGZDBAmoAuHZMWg13K6bwZkYKd.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 52873,
+            "original_language": "fr",
+            "original_title": "Ma saison pr\u00e9f\u00e9r\u00e9e",
+            "overview": "Elderly woman Berthe leaves her house to live with her daughter Emilie. Emilie and her brother Antoine had a falling out three years ago and have not seen each other since, but Emilie invites him for Christmas. Memories will resurface and impact both Berthe's destiny and the strange relationship between Emilie and Antoine.",
+            "popularity": 0.236,
+            "poster_path": "/mWQhnhvNo8B2WRZhvv9XxrA7HgF.jpg",
+            "release_date": "1993-05-14",
+            "title": "My Favorite Season",
+            "video": false,
+            "vote_average": 6.153,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8WIP9kz086QRulB3au9k1wxzVjv.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 8866,
+            "original_language": "en",
+            "original_title": "The Truth About Cats & Dogs",
+            "overview": "A successful veterinarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+            "popularity": 1.1282,
+            "poster_path": "/iECTzpGdAMrkEeoYvuYsCxdmW2G.jpg",
+            "release_date": "1996-04-26",
+            "title": "The Truth About Cats & Dogs",
+            "video": false,
+            "vote_average": 6.055,
+            "vote_count": 327
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 9802,
+            "original_language": "en",
+            "original_title": "The Rock",
+            "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+            "popularity": 6.1291,
+            "poster_path": "/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
+            "release_date": "1996-06-07",
+            "title": "The Rock",
+            "video": false,
+            "vote_average": 7.136,
+            "vote_count": 4889
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/15JUzyooElSbMXXYl2gnHX62A7X.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                878,
+                14
+            ],
+            "id": 9294,
+            "original_language": "en",
+            "original_title": "Phenomenon",
+            "overview": "An ordinary man sees a bright light descend from the sky, and discovers he now has super-intelligence and telekinesis.",
+            "popularity": 2.732,
+            "poster_path": "/roUYK9EXmgyDO48Qje7rZI4Qgav.jpg",
+            "release_date": "1996-07-05",
+            "title": "Phenomenon",
+            "video": false,
+            "vote_average": 6.469,
+            "vote_count": 1226
+        }
+    ]
+}

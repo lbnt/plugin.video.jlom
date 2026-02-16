@@ -1,0 +1,1366 @@
+{
+    "type": "movie_list",
+    "title": "Rolling Stone - 70 Greatest Comedies of the 21st Century",
+    "source": "https://www.rollingstone.com/tv-movies/tv-movie-lists/greatest-comedies-of-the-21st-century-630244/",
+    "created_by": "lbnt",
+    "added": "04/04/24",
+    "modified": "04/04/24",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/itVxHnmzMJbfHhX3rbzCuyI9mfB.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 13785,
+            "original_language": "en",
+            "original_title": "Best in Show",
+            "overview": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
+            "popularity": 21.892,
+            "poster_path": "/kVNaXzoX64YwLC99o4gXyKPnplS.jpg",
+            "release_date": "2000-09-29",
+            "title": "Best in Show",
+            "video": false,
+            "vote_average": 6.912,
+            "vote_count": 537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/baRFkHjBNSEF2frf0Gh8dZBFewl.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 19833,
+            "original_language": "en",
+            "original_title": "In the Loop",
+            "overview": "The US President and the UK Prime Minister are planning on launching a war in the Middle East, but\u2014behind the scenes\u2014government officials and advisers are either promoting the war or are trying to prevent it.",
+            "popularity": 16.207,
+            "poster_path": "/jL6txnziFSeEifQkqnPBtaPaiXU.jpg",
+            "release_date": "2009-01-22",
+            "title": "In the Loop",
+            "video": false,
+            "vote_average": 7.035,
+            "vote_count": 627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i7ITE05sYhXl5yBT7dW6ythLSBI.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 55721,
+            "original_language": "en",
+            "original_title": "Bridesmaids",
+            "overview": "Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she\u2019ll show Lillian and her bridesmaids just how far you\u2019ll go for someone you love.",
+            "popularity": 37.867,
+            "poster_path": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+            "release_date": "2011-05-13",
+            "title": "Bridesmaids",
+            "video": false,
+            "vote_average": 6.53,
+            "vote_count": 4200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n53EPBWZiz69sYzNDZmamYHdo6Q.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 12133,
+            "original_language": "en",
+            "original_title": "Step Brothers",
+            "overview": "Brennan Huff and Dale Doback might be grown men. But that doesn't stop them from living at home and turning into jealous, competitive stepbrothers when their single parents marry. Brennan's constant competition with Dale strains his mom's marriage to Dale's dad, leaving everyone to wonder whether they'll ever see eye to eye.",
+            "popularity": 40.839,
+            "poster_path": "/wRR6U3K3v2iQsG3uw7ehz1ctRyT.jpg",
+            "release_date": "2008-07-25",
+            "title": "Step Brothers",
+            "video": false,
+            "vote_average": 6.562,
+            "vote_count": 2964
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Z4msMhKvNp63sOB1ZvxPMPvqz3.jpg",
+            "genre_ids": [
+                35,
+                878,
+                12
+            ],
+            "id": 7512,
+            "original_language": "en",
+            "original_title": "Idiocracy",
+            "overview": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+            "popularity": 40.978,
+            "poster_path": "/rKsiNxKjhWEwndOgWPs273oy9EZ.jpg",
+            "release_date": "2006-09-01",
+            "title": "Idiocracy",
+            "video": false,
+            "vote_average": 6.331,
+            "vote_count": 2746
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/axg73mVxiZcE9Pzynu2uj1TYIgj.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                18
+            ],
+            "id": 6575,
+            "original_language": "en",
+            "original_title": "Walk Hard: The Dewey Cox Story",
+            "overview": "Following a childhood tragedy, Dewey Cox follows a long and winding road to music stardom. Dewey perseveres through changing musical styles, an addiction to nearly every drug known and bouts of uncontrollable rage.",
+            "popularity": 17.592,
+            "poster_path": "/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+            "release_date": "2007-12-21",
+            "title": "Walk Hard: The Dewey Cox Story",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 635
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eGkIBknnCpmssrrt4CjRPhHZfLK.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "id": 8051,
+            "original_language": "en",
+            "original_title": "Punch-Drunk Love",
+            "overview": "A socially awkward and volatile small business owner meets the love of his life after being threatened by a gang of scammers.",
+            "popularity": 32.131,
+            "poster_path": "/vT2CXIsVKoGl0DZ8USwLWzEFznI.jpg",
+            "release_date": "2002-10-11",
+            "title": "Punch-Drunk Love",
+            "video": false,
+            "vote_average": 7.138,
+            "vote_count": 2201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dwBdfo10gulOpTpmlJMczr5GhZ6.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 374475,
+            "original_language": "de",
+            "original_title": "Toni Erdmann",
+            "overview": "Without warning a father comes to visit his daughter abroad. He believes that she lost her humor and therefore surprises her with a rampage of jokes.",
+            "popularity": 19.545,
+            "poster_path": "/3RBg5SiDPFUbyBi7SONLAGnfTcY.jpg",
+            "release_date": "2016-07-14",
+            "title": "Toni Erdmann",
+            "video": false,
+            "vote_average": 6.995,
+            "vote_count": 923
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xFcrqBOqCJOLQUCumHDJdDSMZYd.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 747,
+            "original_language": "en",
+            "original_title": "Shaun of the Dead",
+            "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+            "popularity": 48.801,
+            "poster_path": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+            "release_date": "2004-04-09",
+            "title": "Shaun of the Dead",
+            "video": false,
+            "vote_average": 7.54,
+            "vote_count": 8043
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8GWECkJcBsdReaotUFbl96gAngj.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 6957,
+            "original_language": "en",
+            "original_title": "The 40 Year Old Virgin",
+            "overview": "Andy Stitzer has a pleasant life with a nice apartment and a job stamping invoices at an electronics store. But at age 40, there's one thing Andy hasn't done, and it's really bothering his sex-obsessed male co-workers: Andy is still a virgin. Determined to help Andy get laid, the guys make it their mission to de-virginize him. But it all seems hopeless until Andy meets small business owner Trish, a single mom.",
+            "popularity": 38.457,
+            "poster_path": "/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+            "release_date": "2005-08-11",
+            "title": "The 40 Year Old Virgin",
+            "video": false,
+            "vote_average": 6.395,
+            "vote_count": 6437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tuerGhZ1lA8wpBjUCEUpeTWDT5B.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 21991,
+            "original_language": "en",
+            "original_title": "State and Main",
+            "overview": "A movie crew invades a small town whose residents are all too ready to give up their values for showbiz glitz.",
+            "popularity": 8.629,
+            "poster_path": "/o2iv0pbO3ou9y6LvCIPUX9VT2me.jpg",
+            "release_date": "2000-08-26",
+            "title": "State and Main",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jJh2syzwZDM3cX2UOeDbKUZzuE8.jpg",
+            "genre_ids": [
+                35,
+                18,
+                80
+            ],
+            "id": 8321,
+            "original_language": "en",
+            "original_title": "In Bruges",
+            "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+            "popularity": 28.098,
+            "poster_path": "/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg",
+            "release_date": "2008-02-08",
+            "title": "In Bruges",
+            "video": false,
+            "vote_average": 7.487,
+            "vote_count": 4851
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5iHPV6M6aPKxXv3w8LTxsD6Zeot.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 8699,
+            "original_language": "en",
+            "original_title": "Anchorman: The Legend of Ron Burgundy",
+            "overview": "It's the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that's all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+            "popularity": 30.109,
+            "poster_path": "/9rQceSyOxJpOVsJRhkgoxNqbkvA.jpg",
+            "release_date": "2004-06-28",
+            "title": "Anchorman: The Legend of Ron Burgundy",
+            "video": false,
+            "vote_average": 6.717,
+            "vote_count": 3979
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tx5TFMF85qU2Ug4TRIGQZbDpzFA.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 402897,
+            "original_language": "en",
+            "original_title": "The Death of Stalin",
+            "overview": "When dictator Joseph Stalin dies, his parasitic cronies square off in a frantic power struggle to become the next Soviet leader. As they bumble, brawl and back-stab their way to the top, the question remains \u2014 just who is running the government?",
+            "popularity": 24.084,
+            "poster_path": "/xAKqG5SpsHU7vI6Fh4UYxFrDDZZ.jpg",
+            "release_date": "2017-10-20",
+            "title": "The Death of Stalin",
+            "video": false,
+            "vote_average": 7.008,
+            "vote_count": 1747
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2qJYF7jQSUhpk6kXBCd75bBA0S0.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 295699,
+            "original_language": "en",
+            "original_title": "Everybody Wants Some!!",
+            "overview": "A comedy that follows a group of friends as they navigate their way through the freedoms and responsibilities of unsupervised adulthood.",
+            "popularity": 13.596,
+            "poster_path": "/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+            "release_date": "2016-03-30",
+            "title": "Everybody Wants Some!!",
+            "video": false,
+            "vote_average": 6.375,
+            "vote_count": 1043
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ihwfod79qlBbFpjVQNeXxmX03ql.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 12573,
+            "original_language": "en",
+            "original_title": "A Serious Man",
+            "overview": "It is 1967, and Larry Gopnik, a physics professor at a quiet Midwestern university, has just been informed by his wife Judith that she is leaving him. She has fallen in love with one of his more pompous acquaintances Sy Ableman.",
+            "popularity": 20.363,
+            "poster_path": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+            "release_date": "2009-09-30",
+            "title": "A Serious Man",
+            "video": false,
+            "vote_average": 6.745,
+            "vote_count": 1985
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pcWxKfFNCznTKYy0E8M9nG1cwL4.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 391713,
+            "original_language": "en",
+            "original_title": "Lady Bird",
+            "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+            "popularity": 78.383,
+            "poster_path": "/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg",
+            "release_date": "2017-09-01",
+            "title": "Lady Bird",
+            "video": false,
+            "vote_average": 7.269,
+            "vote_count": 8120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7yVD5QSvjTGLYDsalx31osBG0gE.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 246741,
+            "original_language": "en",
+            "original_title": "What We Do in the Shadows",
+            "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead.",
+            "popularity": 21.837,
+            "poster_path": "/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+            "release_date": "2014-06-19",
+            "title": "What We Do in the Shadows",
+            "video": false,
+            "vote_average": 7.576,
+            "vote_count": 3361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+            "genre_ids": [
+                28,
+                35,
+                12,
+                10752
+            ],
+            "id": 7446,
+            "original_language": "en",
+            "original_title": "Tropic Thunder",
+            "overview": "A group of self-absorbed actors set out to make the most expensive war film ever. After ballooning costs force the studio to cancel the movie, the frustrated director refuses to stop shooting, leading his cast into the jungles of Southeast Asia, where they encounter real bad guys.",
+            "popularity": 59.3,
+            "poster_path": "/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+            "release_date": "2008-08-09",
+            "title": "Tropic Thunder",
+            "video": false,
+            "vote_average": 6.659,
+            "vote_count": 5860
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6DqzZaTAzFrT53JtRt3MLKs0Y9i.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 10625,
+            "original_language": "en",
+            "original_title": "Mean Girls",
+            "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+            "popularity": 96.598,
+            "poster_path": "/alKvY5LuVcXraRBfi5UtVV8Ii6Y.jpg",
+            "release_date": "2004-04-30",
+            "title": "Mean Girls",
+            "video": false,
+            "vote_average": 7.208,
+            "vote_count": 8380
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 120467,
+            "original_language": "en",
+            "original_title": "The Grand Budapest Hotel",
+            "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+            "popularity": 47.208,
+            "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+            "release_date": "2014-02-26",
+            "title": "The Grand Budapest Hotel",
+            "video": false,
+            "vote_average": 8.051,
+            "vote_count": 14277
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kt0Ku4cTQUZe4KyZiWC6HsWCbcS.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 496,
+            "original_language": "en",
+            "original_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+            "overview": "Kazakh journalist Borat Sagdiyev travels to America to make a documentary. As he zigzags across the nation, Borat meets real people in real situations with hysterical consequences. His backwards behavior generates strong reactions around him exposing prejudices and hypocrisies in American culture.",
+            "popularity": 30.634,
+            "poster_path": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
+            "release_date": "2006-11-01",
+            "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+            "video": false,
+            "vote_average": 6.778,
+            "vote_count": 5132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35,
+                14
+            ],
+            "id": 137106,
+            "original_language": "en",
+            "original_title": "The Lego Movie",
+            "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+            "popularity": 35.615,
+            "poster_path": "/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+            "release_date": "2014-02-06",
+            "title": "The Lego Movie",
+            "video": false,
+            "vote_average": 7.418,
+            "vote_count": 7504
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lHecBdFRnW2hh8Qn3wz0vrPIqw2.jpg",
+            "genre_ids": [
+                14,
+                878,
+                35
+            ],
+            "id": 424781,
+            "original_language": "en",
+            "original_title": "Sorry to Bother You",
+            "overview": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success \u2013 which propels him into a macabre universe.",
+            "popularity": 18.606,
+            "poster_path": "/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_date": "2018-07-06",
+            "title": "Sorry to Bother You",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1459
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ZKyx25IN4D91SjPkvoHoGZxEWG.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 63578,
+            "original_language": "en",
+            "original_title": "The Trip",
+            "overview": "When Steve Coogan is asked by The Observer to tour the country's finest restaurants, he envisions it as the perfect getaway with his beautiful girlfriend. But, when she backs out on him, he has no one to accompany him but his best friend and source of eternal aggravation, Rob Brydon.",
+            "popularity": 8.909,
+            "poster_path": "/tjGrjHNjsR0klih0bkGBHbukMdX.jpg",
+            "release_date": "2011-04-24",
+            "title": "The Trip",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/822jGg3YQEZ38hFV1JVfUjmj4mz.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 4944,
+            "original_language": "en",
+            "original_title": "Burn After Reading",
+            "overview": "When a disc containing memoirs of a former CIA analyst falls into the hands of gym employees, Linda and Chad, they see a chance to make enough money for Linda to have life-changing cosmetic surgery. Predictably, events whirl out of control for the duo, and those in their orbit.",
+            "popularity": 25.522,
+            "poster_path": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+            "release_date": "2008-09-05",
+            "title": "Burn After Reading",
+            "video": false,
+            "vote_average": 6.646,
+            "vote_count": 4484
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iv1ajZACUGHn4JztG9Z8yvbcmic.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 1584,
+            "original_language": "en",
+            "original_title": "School of Rock",
+            "overview": "Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his students the finer points of rock 'n' roll. The school's hard-nosed principal is rightly suspicious of Finn's activities. But Finn's roommate remains in the dark about what he's doing.",
+            "popularity": 49.774,
+            "poster_path": "/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+            "release_date": "2003-10-03",
+            "title": "School of Rock",
+            "video": false,
+            "vote_average": 7.077,
+            "vote_count": 5381
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a0jJMlI1Nw83EXaYmN0QHuccRXm.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 238713,
+            "original_language": "en",
+            "original_title": "Spy",
+            "overview": "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.",
+            "popularity": 29.762,
+            "poster_path": "/6On9Ed52fz8W1h9PzaDQ12ZfHdn.jpg",
+            "release_date": "2015-05-06",
+            "title": "Spy",
+            "video": false,
+            "vote_average": 6.836,
+            "vote_count": 5822
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gGssqOMNqrOa5EgmpKmZjJfTRlL.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 121986,
+            "original_language": "en",
+            "original_title": "Frances Ha",
+            "overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
+            "popularity": 18.695,
+            "poster_path": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+            "release_date": "2013-05-17",
+            "title": "Frances Ha",
+            "video": false,
+            "vote_average": 7.406,
+            "vote_count": 1508
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ucRD8UUr5tllltg3ZTWoXOyPXyJ.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 2750,
+            "original_language": "en",
+            "original_title": "24 Hour Party People",
+            "overview": "Manchester, 1976. Tony Wilson is an ambitious but frustrated local TV news reporter looking for a way to make his mark. After witnessing a life-changing concert by a band known as the Sex Pistols, he persuades his station to televise one of their performances, and soon Manchester's punk groups are clamoring for him to manage them. Riding the wave of a musical revolution, Wilson and his friends create the legendary Factory Records label and The Hacienda club.",
+            "popularity": 11.742,
+            "poster_path": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
+            "release_date": "2002-02-13",
+            "title": "24 Hour Party People",
+            "video": false,
+            "vote_average": 6.915,
+            "vote_count": 410
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/giYuvpmpZbwkT3NtX4WdNYqGhxw.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 8363,
+            "original_language": "en",
+            "original_title": "Superbad",
+            "overview": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+            "popularity": 74.035,
+            "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+            "release_date": "2007-03-20",
+            "title": "Superbad",
+            "video": false,
+            "vote_average": 7.242,
+            "vote_count": 6951
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mcJDnM5hJBSNWcYNqp0dgPZXxkO.jpg",
+            "genre_ids": [
+                12,
+                28,
+                35
+            ],
+            "id": 3989,
+            "original_language": "en",
+            "original_title": "Team America: World Police",
+            "overview": "When North Korean ruler Kim Jong-il orchestrates a global terrorist plot, it's up to the heavily armed, highly specialized Team America unit to stop his dastardly scheme. The group, which has recruited troubled Broadway actor Gary Johnston, not only has to face off against Jong-il, but they must also contend with the Film Actors Guild, a cadre of Hollywood liberals at odds with Team America's \"policing the world\" tactics.",
+            "popularity": 23.554,
+            "poster_path": "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg",
+            "release_date": "2004-10-10",
+            "title": "Team America: World Police",
+            "video": false,
+            "vote_average": 6.707,
+            "vote_count": 1760
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e1rPzkIcBEJiAd3piGirt7qVux7.jpg",
+            "genre_ids": [
+                80,
+                28,
+                35
+            ],
+            "id": 4638,
+            "original_language": "en",
+            "original_title": "Hot Fuzz",
+            "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+            "popularity": 41.641,
+            "poster_path": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+            "release_date": "2007-02-14",
+            "title": "Hot Fuzz",
+            "video": false,
+            "vote_average": 7.552,
+            "vote_count": 7213
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nWYtXcwB6ZjucKP8u0BDYjPOssj.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 489925,
+            "original_language": "en",
+            "original_title": "Eighth Grade",
+            "overview": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school \u2014 the end of her thus far disastrous eighth grade year \u2014 before she begins high school.",
+            "popularity": 24.41,
+            "poster_path": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+            "release_date": "2018-01-19",
+            "title": "Eighth Grade",
+            "video": false,
+            "vote_average": 7.172,
+            "vote_count": 1447
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bkPf4yIlzAwet2PVTRz1fiEUDdL.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 296360,
+            "original_language": "en",
+            "original_title": "Love & Friendship",
+            "overview": "From Jane Austen\u2019s novella, the beautiful and cunning Lady Susan Vernon visits the estate of her in-laws to wait out colorful rumors of her dalliances and to find husbands for herself and her daughter. Two young men, handsome Reginald DeCourcy and wealthy Sir James Martin, severely complicate her plans.",
+            "popularity": 13.457,
+            "poster_path": "/qnulUsG1RWFccLBWjFB9H6nms4F.jpg",
+            "release_date": "2016-05-26",
+            "title": "Love & Friendship",
+            "video": false,
+            "vote_average": 6.092,
+            "vote_count": 521
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9428,
+            "original_language": "en",
+            "original_title": "The Royal Tenenbaums",
+            "overview": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+            "popularity": 30.758,
+            "poster_path": "/3z2ZIhxcNmL0MhjtGCHRThn1WOi.jpg",
+            "release_date": "2001-10-05",
+            "title": "The Royal Tenenbaums",
+            "video": false,
+            "vote_average": 7.487,
+            "vote_count": 4362
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 254320,
+            "original_language": "en",
+            "original_title": "The Lobster",
+            "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+            "popularity": 50.207,
+            "poster_path": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+            "release_date": "2015-10-15",
+            "title": "The Lobster",
+            "video": false,
+            "vote_average": 7.046,
+            "vote_count": 5885
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o7zvlk0HCxRf13Im9ZpZ4okHehr.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1548,
+            "original_language": "en",
+            "original_title": "Ghost World",
+            "overview": "Two quirky, cynical teenaged girls try to figure out what to do with their lives after high school graduation. After they play a prank on an eccentric, middle aged record collector, one of them befriends him, which causes a rift in the girls' friendship.",
+            "popularity": 14.846,
+            "poster_path": "/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg",
+            "release_date": "2001-07-20",
+            "title": "Ghost World",
+            "video": false,
+            "vote_average": 7.079,
+            "vote_count": 1333
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                878
+            ],
+            "id": 587792,
+            "original_language": "en",
+            "original_title": "Palm Springs",
+            "overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
+            "popularity": 32.953,
+            "poster_path": "/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg",
+            "release_date": "2020-07-10",
+            "title": "Palm Springs",
+            "video": false,
+            "vote_average": 7.334,
+            "vote_count": 2875
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4hU1pC7MGQ7wU9ldkRJYNHK3vgb.jpg",
+            "genre_ids": [
+                9648,
+                35,
+                80
+            ],
+            "id": 445571,
+            "original_language": "en",
+            "original_title": "Game Night",
+            "overview": "Max and Annie's weekly game night gets kicked up a notch when Max's brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it's all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.",
+            "popularity": 45.655,
+            "poster_path": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+            "release_date": "2018-02-15",
+            "title": "Game Night",
+            "video": false,
+            "vote_average": 6.853,
+            "vote_count": 5550
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dh0PHjz4GKgR1PCkB6xH7g6PCuM.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 2757,
+            "original_language": "en",
+            "original_title": "Adaptation.",
+            "overview": "Nicolas Cage is Charlie Kaufman, a confused L.A. screenwriter overwhelmed by feelings of inadequacy, sexual frustration, self-loathing, and by the screenwriting ambitions of his freeloading twin brother Donald. While struggling to adapt \"The Orchid Thief,\" by Susan Orlean, Kaufman's life spins from pathetic to bizarre. The lives of Kaufman, Orlean's book, become strangely intertwined as each one's search for passion collides with the others'.",
+            "popularity": 23.991,
+            "poster_path": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+            "release_date": "2002-12-06",
+            "title": "Adaptation.",
+            "video": false,
+            "vote_average": 7.37,
+            "vote_count": 2352
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8UOJBcEHZgOK8BeyEfKnp5Vs0Dy.jpg",
+            "genre_ids": [
+                18,
+                35,
+                80
+            ],
+            "id": 10147,
+            "original_language": "en",
+            "original_title": "Bad Santa",
+            "overview": "A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid.",
+            "popularity": 23.196,
+            "poster_path": "/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg",
+            "release_date": "2003-11-26",
+            "title": "Bad Santa",
+            "video": false,
+            "vote_average": 6.535,
+            "vote_count": 2030
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1pjOrzAqlQPifZkRi5h1zlO1VJ2.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749,
+                10402
+            ],
+            "id": 243,
+            "original_language": "en",
+            "original_title": "High Fidelity",
+            "overview": "When record store owner and compulsive list-compiler Rob Gordon gets dumped by his long-time girlfriend, Laura, because he hasn't changed since they met, he revisits his top five breakups of all time in order to figure out what went wrong. As he examines his failed attempts at romance and happiness, the process finds him being dragged, kicking and screaming, into adulthood.",
+            "popularity": 18.807,
+            "poster_path": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+            "release_date": "2000-03-17",
+            "title": "High Fidelity",
+            "video": false,
+            "vote_average": 7.137,
+            "vote_count": 1871
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8uNx4YtClqB9duM4n6jOx8vWvvl.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 4964,
+            "original_language": "en",
+            "original_title": "Knocked Up",
+            "overview": "A slacker and a career-driven woman accidentally conceive a child after a one-night stand. As they try to make the relationship work, they must navigate the challenges of parenthood and their differences in lifestyle and maturity.",
+            "popularity": 36.577,
+            "poster_path": "/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
+            "release_date": "2007-06-01",
+            "title": "Knocked Up",
+            "video": false,
+            "vote_average": 6.283,
+            "vote_count": 3806
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/boct1C0KWZ533T6o5qjFVfaUpSt.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 2171,
+            "original_language": "en",
+            "original_title": "Wet Hot American Summer",
+            "overview": "The setting is Camp Firewood, the year 1981. It's the last day before everyone goes back to the real world, but there's still a summer's worth of unfinished business to resolve. At the center of the action is camp director Beth, who struggles to keep order while she falls in love with the local astrophysics professor. He is busy trying to save the camp from a deadly piece of NASA's Skylab which is hurtling toward earth. All that, plus: a dangerous waterfall rescue, love triangles, misfits, cool kids, and talking vegetable cans. The questions will all be resolved, of course, at the big talent show at the end of the day.",
+            "popularity": 12.851,
+            "poster_path": "/dVdHnfcLZFSscEUZqCzctwOVjC0.jpg",
+            "release_date": "2001-07-27",
+            "title": "Wet Hot American Summer",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 746
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/NvAVEtjNoZXvDav6Gk5pwo89Hn.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 9675,
+            "original_language": "en",
+            "original_title": "Sideways",
+            "overview": "Two middle-aged men embark on a spiritual journey through Californian wine country. One is an unpublished novelist suffering from depression, and the other is only days away from walking down the aisle.",
+            "popularity": 23.052,
+            "poster_path": "/ves41wF7MFWqYASIJvtgOXaSkaE.jpg",
+            "release_date": "2004-10-22",
+            "title": "Sideways",
+            "video": false,
+            "vote_average": 7.099,
+            "vote_count": 1558
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oZp8CLwvRXgBAYGhn8P0pKOD4Ho.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 265189,
+            "original_language": "sv",
+            "original_title": "Turist",
+            "overview": "While holidaying in the French Alps, a Swedish family deals with acts of cowardliness as an avalanche breaks out.",
+            "popularity": 19.298,
+            "poster_path": "/41agNfzepz2DTdgTBX1fX0QclHp.jpg",
+            "release_date": "2014-08-15",
+            "title": "Force Majeure",
+            "video": false,
+            "vote_average": 6.866,
+            "vote_count": 994
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zIUigIht3f9osNGyleF6B3jBbl7.jpg",
+            "genre_ids": [
+                35,
+                80,
+                9648
+            ],
+            "id": 270487,
+            "original_language": "en",
+            "original_title": "Hail, Caesar!",
+            "overview": "When a Hollywood star mysteriously disappears in the middle of filming, the studio sends their fixer to get him back.",
+            "popularity": 27.496,
+            "poster_path": "/txvoksUbyxqvaOvDfEbwW5nEcmX.jpg",
+            "release_date": "2016-02-05",
+            "title": "Hail, Caesar!",
+            "video": false,
+            "vote_average": 5.914,
+            "vote_count": 3640
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zNOfW35hBXPIzM5BIl7gptuW0EA.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80,
+                14
+            ],
+            "id": 9470,
+            "original_language": "cn",
+            "original_title": "\u529f\u592b",
+            "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
+            "popularity": 56.339,
+            "poster_path": "/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+            "release_date": "2004-02-10",
+            "title": "Kung Fu Hustle",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 2643
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t16qoOYC5rgkgKA7LWj8E5Nt9SL.jpg",
+            "genre_ids": [
+                35,
+                99
+            ],
+            "id": 9012,
+            "original_language": "en",
+            "original_title": "Jackass: The Movie",
+            "overview": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time. They wander around Japan in panda outfits, wreak havoc on a once civilized golf course, they even do stunts involving LIVE alligators, and so on.",
+            "popularity": 23.159,
+            "poster_path": "/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
+            "release_date": "2002-10-25",
+            "title": "Jackass: The Movie",
+            "video": false,
+            "vote_average": 6.303,
+            "vote_count": 1497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cYDzmKptAh4hu3SFuto0cZGNB86.jpg",
+            "genre_ids": [
+                35,
+                28,
+                878
+            ],
+            "id": 107985,
+            "original_language": "en",
+            "original_title": "The World's End",
+            "overview": "Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind's only hope for survival.",
+            "popularity": 28.022,
+            "poster_path": "/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg",
+            "release_date": "2013-07-18",
+            "title": "The World's End",
+            "video": false,
+            "vote_average": 6.797,
+            "vote_count": 5161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6RfnVwri4LaK1kSzDp5aebsjYwp.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 416477,
+            "original_language": "en",
+            "original_title": "The Big Sick",
+            "overview": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+            "popularity": 23.628,
+            "poster_path": "/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg",
+            "release_date": "2017-03-30",
+            "title": "The Big Sick",
+            "video": false,
+            "vote_average": 7.345,
+            "vote_count": 2323
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/udQe3ULuZr82E2Pvqpl9CrGt6Fy.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 8835,
+            "original_language": "en",
+            "original_title": "Legally Blonde",
+            "overview": "Elle Woods, a fashionable sorority queen, is dumped by her boyfriend. She decides to follow him to law school, but while there, she figures out that there is more to herself than just looks.",
+            "popularity": 55.014,
+            "poster_path": "/4ABNnmkVpzplrEVQWt1piITT0Ey.jpg",
+            "release_date": "2001-07-13",
+            "title": "Legally Blonde",
+            "video": false,
+            "vote_average": 6.754,
+            "vote_count": 3774
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nWKOp57cAzdgGXZ2BN5AElVfujN.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 417870,
+            "original_language": "en",
+            "original_title": "Girls Trip",
+            "overview": "Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.",
+            "popularity": 25.001,
+            "poster_path": "/fM1h8CwtdileV3zlemXx7UWJjOP.jpg",
+            "release_date": "2017-07-21",
+            "title": "Girls Trip",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1453
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7SOUwC0hhq37MtcWLfXg5E5ZNXQ.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 341012,
+            "original_language": "en",
+            "original_title": "Popstar: Never Stop Never Stopping",
+            "overview": "When his new album fails to sell records, pop/rap superstar Conner4real goes into a major tailspin and watches his celebrity high life begin to collapse. He'll try anything to bounce back, anything except reuniting with his old rap group The Style Boyz.",
+            "popularity": 21.61,
+            "poster_path": "/gfC38IuH1nULbvEqnvSE6PoBrAT.jpg",
+            "release_date": "2016-06-03",
+            "title": "Popstar: Never Stop Never Stopping",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bGz9T80Y7b1p5HVNBJsZtKN4BdD.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 1599,
+            "original_language": "en",
+            "original_title": "I \u2665 Huckabees",
+            "overview": "A husband-and-wife team play detective, but not in the traditional sense. Instead, the happy duo helps others solve their existential issues, the kind that keep you up at night, wondering what it all means.",
+            "popularity": 11.861,
+            "poster_path": "/1YNcJxufCQkXiPFnNX0zzblmVkE.jpg",
+            "release_date": "2004-09-10",
+            "title": "I \u2665 Huckabees",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 602
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/P39es3WYejI0ctRVyx0gy55VNU.jpg",
+            "genre_ids": [
+                35,
+                12
+            ],
+            "id": 11282,
+            "original_language": "en",
+            "original_title": "Harold & Kumar Go to White Castle",
+            "overview": "Nerdy accountant Harold and his irrepressible friend, Kumar, get stoned watching television and find themselves utterly bewitched by a commercial for White Castle. Convinced there must be one nearby, the two set out on a late-night odyssey that takes them deep into New Jersey. Somehow, the boys manage to run afoul of rednecks, cops and even a car-stealing Neil Patrick Harris before getting anywhere near their beloved sliders.",
+            "popularity": 30.229,
+            "poster_path": "/5vO7R4xYlDipTp8gzfRbWegO8eb.jpg",
+            "release_date": "2004-05-30",
+            "title": "Harold & Kumar Go to White Castle",
+            "video": false,
+            "vote_average": 6.52,
+            "vote_count": 1953
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qU4HDNKv7gjdlvMu74r70rISPwn.jpg",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751
+            ],
+            "id": 10315,
+            "original_language": "en",
+            "original_title": "Fantastic Mr. Fox",
+            "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+            "popularity": 32.254,
+            "poster_path": "/t5v2Zsb5sa6PSP9jMUWY4GdIb3c.jpg",
+            "release_date": "2009-10-23",
+            "title": "Fantastic Mr. Fox",
+            "video": false,
+            "vote_average": 7.796,
+            "vote_count": 5125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nHyri67CN6juBR6hmOefCn9oGf8.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 27581,
+            "original_language": "en",
+            "original_title": "The Other Guys",
+            "overview": "Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.",
+            "popularity": 41.558,
+            "poster_path": "/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg",
+            "release_date": "2010-08-06",
+            "title": "The Other Guys",
+            "video": false,
+            "vote_average": 6.307,
+            "vote_count": 3970
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 284053,
+            "original_language": "en",
+            "original_title": "Thor: Ragnarok",
+            "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+            "popularity": 161.806,
+            "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+            "release_date": "2017-10-02",
+            "title": "Thor: Ragnarok",
+            "video": false,
+            "vote_average": 7.593,
+            "vote_count": 20043
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cheDSO3mYmsAFQlRM91o7MK6Wcc.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 505600,
+            "original_language": "en",
+            "original_title": "Booksmart",
+            "overview": "Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.",
+            "popularity": 47.48,
+            "poster_path": "/micaVOa1UZsdzs4fKGA67ZMGOzc.jpg",
+            "release_date": "2019-05-24",
+            "title": "Booksmart",
+            "video": false,
+            "vote_average": 7.044,
+            "vote_count": 2492
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 1359,
+            "original_language": "en",
+            "original_title": "American Psycho",
+            "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+            "popularity": 76.436,
+            "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+            "release_date": "2000-04-13",
+            "title": "American Psycho",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 10360
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xkXEP5HhFuOAxTzbj770jVpfsyo.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 664300,
+            "original_language": "en",
+            "original_title": "Shiva Baby",
+            "overview": "College student Danielle must cover her tracks when she unexpectedly runs into her sugar daddy at a shiva - with her parents, ex-girlfriend and family friends also in attendance.",
+            "popularity": 19.319,
+            "poster_path": "/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+            "release_date": "2021-04-02",
+            "title": "Shiva Baby",
+            "video": false,
+            "vote_average": 7.205,
+            "vote_count": 550
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sJspZTaLdaoiQcy5S5ZWcQkLLGM.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 441384,
+            "original_language": "en",
+            "original_title": "The Beach Bum",
+            "overview": "An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.",
+            "popularity": 14.994,
+            "poster_path": "/iXMxdC7T0t3dxislnUNybcvJmAH.jpg",
+            "release_date": "2019-03-21",
+            "title": "The Beach Bum",
+            "video": false,
+            "vote_average": 5.651,
+            "vote_count": 472
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35
+            ],
+            "id": 501929,
+            "original_language": "en",
+            "original_title": "The Mitchells vs. the Machines",
+            "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+            "popularity": 43.476,
+            "poster_path": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+            "release_date": "2021-04-22",
+            "title": "The Mitchells vs. the Machines",
+            "video": false,
+            "vote_average": 7.916,
+            "vote_count": 2768
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1hdorswm5HPxb81xq84H9gqveUq.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 371638,
+            "original_language": "en",
+            "original_title": "The Disaster Artist",
+            "overview": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.",
+            "popularity": 22.074,
+            "poster_path": "/jj84nF5vYRD0HUTowBKcrKk8hZP.jpg",
+            "release_date": "2017-03-12",
+            "title": "The Disaster Artist",
+            "video": false,
+            "vote_average": 7.115,
+            "vote_count": 3405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mezKuuKtAKPENnAVlT3TghkMACv.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 614939,
+            "original_language": "en",
+            "original_title": "Bros",
+            "overview": "Two emotionally unavailable men attempt a relationship.",
+            "popularity": 24.37,
+            "poster_path": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+            "release_date": "2022-09-30",
+            "title": "Bros",
+            "video": false,
+            "vote_average": 6.775,
+            "vote_count": 437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qzvntzcKwdp1GqOpJ8dc0FiSOPu.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 209263,
+            "original_language": "en",
+            "original_title": "Enough Said",
+            "overview": "Eva is a divorced soon-to-be empty-nester wondering about her next act. Then she meets Marianne, the embodiment of her perfect self. Armed with a restored outlook on being middle-aged and single, Eva decides to take a chance on her new love interest Albert \u2014 a sweet, funny and like-minded man. But things get complicated when Eva discovers that Albert is in fact the dreaded ex\u2013husband of Marianne...",
+            "popularity": 11.693,
+            "poster_path": "/p5naJg0K8xF0h0HWEfiz6rc9lC4.jpg",
+            "release_date": "2013-09-18",
+            "title": "Enough Said",
+            "video": false,
+            "vote_average": 6.719,
+            "vote_count": 789
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hwBqtQy8uuQ3g9gzuFoBgn0xHk4.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 396398,
+            "original_language": "en",
+            "original_title": "The Meyerowitz Stories (New and Selected)",
+            "overview": "An estranged family gathers together in New York for an event celebrating the artistic work of their father.",
+            "popularity": 18.057,
+            "poster_path": "/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+            "release_date": "2017-10-13",
+            "title": "The Meyerowitz Stories (New and Selected)",
+            "video": false,
+            "vote_average": 6.445,
+            "vote_count": 1136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7W9xm2YTq54rfLFimIniMrywShv.jpg",
+            "genre_ids": [
+                28,
+                35,
+                10749
+            ],
+            "id": 22538,
+            "original_language": "en",
+            "original_title": "Scott Pilgrim vs. the World",
+            "overview": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
+            "popularity": 51.325,
+            "poster_path": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+            "release_date": "2010-08-12",
+            "title": "Scott Pilgrim vs. the World",
+            "video": false,
+            "vote_average": 7.486,
+            "vote_count": 7529
+        }
+    ]
+}

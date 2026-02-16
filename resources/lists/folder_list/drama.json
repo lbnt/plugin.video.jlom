@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "Drama",
+    "added" : "22/11/25",
+    "modified" : "09/01/26",
+    "folders" : [
+        {
+            "title" : "IMDb's Drama Top 50",
+            "id" : "IMDb's_drama_top_50",
+            "type" : "movie_list"
+        }
+    ]
+}

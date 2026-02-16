@@ -1,0 +1,605 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1979",
+    "source": "https://criticstop10.com/best-movies-of-1979/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 12102,
+            "original_language": "en",
+            "original_title": "Kramer vs. Kramer",
+            "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+            "popularity": 2.3505,
+            "poster_path": "/gmkGQQpvOq52icAer3vriT5S25O.jpg",
+            "release_date": "1979-12-07",
+            "title": "Kramer vs. Kramer",
+            "video": false,
+            "vote_average": 7.576,
+            "vote_count": 2301
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 696,
+            "original_language": "en",
+            "original_title": "Manhattan",
+            "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+            "popularity": 2.1708,
+            "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+            "release_date": "1979-04-25",
+            "title": "Manhattan",
+            "video": false,
+            "vote_average": 7.721,
+            "vote_count": 2489
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fOfLYvd2BTKsOzbC3cz8ZpjDdFa.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 20283,
+            "original_language": "en",
+            "original_title": "Breaking Away",
+            "overview": "Dave, nineteen, has just graduated high school, with his three friends: the comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends' and parents' annoyance.",
+            "popularity": 0.7429,
+            "poster_path": "/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg",
+            "release_date": "1979-05-24",
+            "title": "Breaking Away",
+            "video": false,
+            "vote_average": 7.131,
+            "vote_count": 272
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 28,
+            "original_language": "en",
+            "original_title": "Apocalypse Now",
+            "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+            "popularity": 7.3638,
+            "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+            "release_date": "1979-05-19",
+            "title": "Apocalypse Now",
+            "video": false,
+            "vote_average": 8.272,
+            "vote_count": 8566
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qvlSLwRbTw0bY0fJmsRxzbnRHyt.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 988,
+            "original_language": "en",
+            "original_title": "The China Syndrome",
+            "overview": "While doing a series of reports on alternative energy sources, opportunistic reporter Kimberly Wells witnesses an accident at a nuclear power plant. Wells is determined to publicize the incident, but soon finds herself entangled in a sinister conspiracy to keep the full impact of the incident a secret.",
+            "popularity": 0.8202,
+            "poster_path": "/uHwwQIlt4XwpTFhX9ZT1A8xSW7F.jpg",
+            "release_date": "1979-03-16",
+            "title": "The China Syndrome",
+            "video": false,
+            "vote_average": 7.161,
+            "vote_count": 485
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5l58tPlYA1JaacBvcojq3YMQyL5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 40842,
+            "original_language": "en",
+            "original_title": "Norma Rae",
+            "overview": "Norma Rae is a southern textile worker employed in a factory with intolerable working conditions. This concern about the situation gives her the gumption to be the key associate to a visiting labor union organizer. Together, they undertake the difficult, and possibly dangerous, struggle to unionize her factory.",
+            "popularity": 1.0392,
+            "poster_path": "/6au7WBVYoKhV1jORyFSIRszb46S.jpg",
+            "release_date": "1979-03-02",
+            "title": "Norma Rae",
+            "video": false,
+            "vote_average": 7.18,
+            "vote_count": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/am84QBW5S17uKUeuWvjLIS8urrr.jpg",
+            "genre_ids": [
+                10751,
+                12
+            ],
+            "id": 17264,
+            "original_language": "en",
+            "original_title": "The Black Stallion",
+            "overview": "While traveling with his father, young Alec becomes fascinated by a mysterious Arabian stallion that is brought on board and stabled in the ship he is sailing on. When it tragically sinks both he and the horse survive only to be stranded on a deserted island. He befriends it, so when finally rescued both return to his home where they soon meet Henry Dailey, a once successful trainer. Together they begin training the horse to race against the fastest ones in the world.",
+            "popularity": 1.2508,
+            "poster_path": "/uZtNc31LR5Ik3ZVo2jxwOvhkNRC.jpg",
+            "release_date": "1979-10-13",
+            "title": "The Black Stallion",
+            "video": false,
+            "vote_average": 7.025,
+            "vote_count": 300
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 10322,
+            "original_language": "en",
+            "original_title": "Being There",
+            "overview": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+            "popularity": 0.9044,
+            "poster_path": "/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+            "release_date": "1979-12-19",
+            "title": "Being There",
+            "video": false,
+            "vote_average": 7.612,
+            "vote_count": 1039
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u218sykbUQIh6EWtTdJzguU5LcG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 16858,
+            "original_language": "en",
+            "original_title": "All That Jazz",
+            "overview": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
+            "popularity": 1.5647,
+            "poster_path": "/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+            "release_date": "1979-12-16",
+            "title": "All That Jazz",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 536
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 348,
+            "original_language": "en",
+            "original_title": "Alien",
+            "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+            "popularity": 14.4137,
+            "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "release_date": "1979-05-25",
+            "title": "Alien",
+            "video": false,
+            "vote_average": 8.164,
+            "vote_count": 15450
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8m4dh4E4PzqnndK6Gv5LdvWGbLv.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 29786,
+            "original_language": "en",
+            "original_title": "North Dallas Forty",
+            "overview": "A semi-fictional account of life as a professional football player. Loosely based on the Dallas Cowboys team of the early 1970s.",
+            "popularity": 0.4588,
+            "poster_path": "/5e9IeZPFmApZZ37ixq9QhYZXURq.jpg",
+            "release_date": "1979-08-03",
+            "title": "North Dallas Forty",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e7cTxDnHGQIozy0Os5r6HauL1Gz.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                35
+            ],
+            "id": 10654,
+            "original_language": "en",
+            "original_title": "Hair",
+            "overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
+            "popularity": 2.2572,
+            "poster_path": "/z0ctToyPWCB2RgIkMpD6RhRKAeH.jpg",
+            "release_date": "1979-03-15",
+            "title": "Hair",
+            "video": false,
+            "vote_average": 7.28,
+            "vote_count": 690
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uX1F6g7smtzm5QreFNExRpNDgWN.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 31542,
+            "original_language": "it",
+            "original_title": "L'albero degli zoccoli",
+            "overview": "On a northern Italian farm, Batisti\u0300 and his wife decide to send their son Minec to school, sacrificing his help in the fields but hoping to break the cycle of poverty in the family. But when Minec\u2019s shoe breaks while walking for miles, Batisti puts the family\u2019s future at risk to replace the clog.",
+            "popularity": 0.5722,
+            "poster_path": "/ld4l2XWuECX6c6lWd2BWv1olg2N.jpg",
+            "release_date": "1978-08-28",
+            "title": "The Tree of Wooden Clogs",
+            "video": false,
+            "vote_average": 7.635,
+            "vote_count": 224
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rlu0VPvvRZWbcX4OTlv8C1lDorz.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 9051,
+            "original_language": "en",
+            "original_title": "10",
+            "overview": "A Hollywood songwriter goes through a mid-life crisis and becomes infatuated with a sexy blonde newlywed.",
+            "popularity": 1.5566,
+            "poster_path": "/uUCr4WTogPnb7LOILL8opxSyxGw.jpg",
+            "release_date": "1979-10-05",
+            "title": "10",
+            "video": false,
+            "vote_average": 5.737,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ejp6CZQ64mEvewfit2fSIpOYxGR.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 661,
+            "original_language": "de",
+            "original_title": "Die Ehe der Maria Braun",
+            "overview": "Maria marries a young soldier in the last days of World War II, only for him to go missing in the war. She must rely on her beauty and ambition to navigate the difficult post-war years alone.",
+            "popularity": 1.1979,
+            "poster_path": "/tXjZEzlf4WQwZ4Dt53gXeJVuO7p.jpg",
+            "release_date": "1979-03-23",
+            "title": "The Marriage of Maria Braun",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xkrLPXpDBwzKW0jzbUEzqnnusLb.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 4484,
+            "original_language": "fr",
+            "original_title": "La Cage aux folles",
+            "overview": "Two gay men living in St. Tropez have their lives turned upside down when the son of one of the men announces he is getting married. They try to conceal their lifestyle and their ownership of the drag club downstairs when the fianc\u00e9e and her parents come for dinner.",
+            "popularity": 0.6336,
+            "poster_path": "/oMz9BUs3qIAx5UAO5BLiufzVwrr.jpg",
+            "release_date": "1978-10-20",
+            "title": "La Cage aux Folles",
+            "video": false,
+            "vote_average": 6.816,
+            "vote_count": 414
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iUsvXEn5avXC1AXkQUu6CUxbUjw.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 33831,
+            "original_language": "en",
+            "original_title": "The Onion Field",
+            "overview": "An LA police officer is murdered in the onion fields outside of Bakersfield. However, legal loopholes could keep his kidnappers from receiving justice, and his partner is haunted by overwhelming survivor's guilt.",
+            "popularity": 0.4353,
+            "poster_path": "/9vQXXWcMXWx4gDEKOcThvxjZ4bT.jpg",
+            "release_date": "1979-09-09",
+            "title": "The Onion Field",
+            "video": false,
+            "vote_average": 6.019,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z7cqP2bizuR0jUCDg57g9fKYrD0.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 20813,
+            "original_language": "en",
+            "original_title": "A Little Romance",
+            "overview": "Intellectually precocious teenager Lauren King lives in Paris with her somewhat ditzy mother. On a movie set, she strikes up a friendship with teenage film buff Daniel Michon. After Lauren's mother forbids her to date the outspoken Daniel, the young lovebirds team up with eccentric pickpocket Julius to run away to Venice, where, according to legend, a couple who kiss under the Bridge of Sighs will stay together forever.",
+            "popularity": 0.9527,
+            "poster_path": "/i6M3sxY2jHVey55qWmgTPomSuvc.jpg",
+            "release_date": "1979-04-27",
+            "title": "A Little Romance",
+            "video": false,
+            "vote_average": 6.844,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Jing29wJlbPYjf1pCH5X3Dd3t5.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 54663,
+            "original_language": "en",
+            "original_title": "Starting Over",
+            "overview": "After divorcing his ambitious singer wife, a middle-aged man begins a new relationship with a teacher.",
+            "popularity": 0.3851,
+            "poster_path": "/kvhfunLx3iL3VM0rjmFLV2dcEyd.jpg",
+            "release_date": "1979-10-05",
+            "title": "Starting Over",
+            "video": false,
+            "vote_average": 6.358,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hdi07iPiYKVVzYUSKVU00r4j3ck.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 10734,
+            "original_language": "en",
+            "original_title": "Escape from Alcatraz",
+            "overview": "San Francisco Bay, January 18, 1960. Frank Lee Morris is transferred to Alcatraz, a maximum security prison located on a rocky island. Although no one has ever managed to escape from there, Frank and other inmates begin to carefully prepare an escape plan.",
+            "popularity": 10.7275,
+            "poster_path": "/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+            "release_date": "1979-06-22",
+            "title": "Escape from Alcatraz",
+            "video": false,
+            "vote_average": 7.513,
+            "vote_count": 2935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                12,
+                10402
+            ],
+            "id": 11176,
+            "original_language": "en",
+            "original_title": "The Muppet Movie",
+            "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+            "popularity": 2.0625,
+            "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+            "release_date": "1979-06-22",
+            "title": "The Muppet Movie",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 647
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4ckTvwWIA7k4Q2EheUBLUto5C25.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35,
+                37
+            ],
+            "id": 11145,
+            "original_language": "en",
+            "original_title": "The Electric Horseman",
+            "overview": "A former champion rodeo rider is reduced to using his saddle skills to promote a breakfast cereal in a gaudy Las Vegas show. When he's asked to perform with a $12 million horse, he discovers it is being doped to remain docile. He flees into the desert astride the beast in an act of defiance. A story-hungry female reporter gives chase.",
+            "popularity": 0.8775,
+            "poster_path": "/x9wifiDa8q7oK4GIBpJnUjGVSww.jpg",
+            "release_date": "1979-12-21",
+            "title": "The Electric Horseman",
+            "video": false,
+            "vote_average": 6.088,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1HDpR7nLqQcGSdbC41pSxCPjjyH.jpg",
+            "genre_ids": [
+                12,
+                18,
+                35,
+                878,
+                53
+            ],
+            "id": 24750,
+            "original_language": "en",
+            "original_title": "Time After Time",
+            "overview": "Writer H. G. Wells pursues Jack the Ripper to modern day San Francisco after the infamous serial killer steals his time machine to escape the 19th century.",
+            "popularity": 0.8946,
+            "poster_path": "/kb3VwGJfWLfohbzQZQ4s0HOMrSE.jpg",
+            "release_date": "1979-09-28",
+            "title": "Time After Time",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xQBQj380XvvYYNLwsrabDkmteca.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 47906,
+            "original_language": "en",
+            "original_title": "The Seduction of Joe Tynan",
+            "overview": "Respected liberal Senator Joe Tynan is asked to to lead the opposition to a Supreme Court appointment. It means losing an old friend and fudging principles to make the necessary deals, as well as further straining his already part-time family life. But it could be a big boost to his career, so he takes it on. Helping him prepare the case is pretty southern researcher Karen Traynor, and their developing relationship further complicates and compromises his life.",
+            "popularity": 0.2897,
+            "poster_path": "/xxBuqJPGP6sCuLa3QarRZSKh80x.jpg",
+            "release_date": "1979-08-17",
+            "title": "The Seduction of Joe Tynan",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/joqEPQ9O4bCxDVEse55rtmS9ENf.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                10752
+            ],
+            "id": 21666,
+            "original_language": "en",
+            "original_title": "Yanks",
+            "overview": "During WWII, the United States set up army bases in Great Britain as part of the war effort. Against their proper sensibilities, many of the Brits don't much like the brash Yanks, especially when it comes to the G.I.s making advances on the lonely British girls. One relationship that develops is between married John, an Army Captain, and the aristocratic Helen, whose naval husband is away at war. Helen loves her husband, but Helen and John are looking for some comfort during the difficult times.",
+            "popularity": 0.7214,
+            "poster_path": "/yJSKWncXs0aHjwKwZadYQKccrsY.jpg",
+            "release_date": "1979-09-01",
+            "title": "Yanks",
+            "video": false,
+            "vote_average": 5.876,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jfbwe2vlMYZKNGpRxwdkVgXtuXz.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 16323,
+            "original_language": "en",
+            "original_title": "The Rose",
+            "overview": "Rock-and-roll singer Mary Rose Foster's romantic relationships and mental health are continuously imperilled by the demands of life on the road.",
+            "popularity": 0.7272,
+            "poster_path": "/a2alQCtAZwM4pN0LP8nw9mBT4hH.jpg",
+            "release_date": "1979-11-07",
+            "title": "The Rose",
+            "video": false,
+            "vote_average": 6.706,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nCOKgcuM0xkclpyQm1mfyMT55iN.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 11020,
+            "original_language": "en",
+            "original_title": "Picnic at Hanging Rock",
+            "overview": "In the early 1900s, Miranda attends a girls boarding school in Australia. One Valentine's Day, the school's typically strict headmistress treats the girls to a picnic field trip to an unusual but scenic volcanic formation called Hanging Rock. Despite rules against it, Miranda and several other girls venture off. It's not until the end of the day that the faculty realizes the girls and one of the teachers have disappeared mysteriously.",
+            "popularity": 1.7967,
+            "poster_path": "/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
+            "release_date": "1975-09-02",
+            "title": "Picnic at Hanging Rock",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 819
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5WUmqHCZzReWZCIo3WwNkHts6on.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                9648
+            ],
+            "id": 19827,
+            "original_language": "en",
+            "original_title": "The In-Laws",
+            "overview": "In preparation for his daughter's wedding, dentist Sheldon Kornpett meets Vince Ricardo, the groom's father. Vince, a manic fellow who claims to be a government agent, then proceeds to drag Sheldon into a series of chases and misadventures from New York to Central America.",
+            "popularity": 0.9529,
+            "poster_path": "/dt82c6NAqBgENPiy7LHNwYiBKkY.jpg",
+            "release_date": "1979-06-15",
+            "title": "The In-Laws",
+            "video": false,
+            "vote_average": 6.654,
+            "vote_count": 123
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bI6qOwa7yWb8bKX3wHnCYaA7H0Z.jpg",
+            "genre_ids": [
+                80,
+                18,
+                35
+            ],
+            "id": 65066,
+            "original_language": "en",
+            "original_title": "Going in Style",
+            "overview": "Three kindly old men decide to light up the dimming twilight of their lives with a last blaze of glory \u2013 by sticking up a Manhattan bank in broad daylight.",
+            "popularity": 0.3681,
+            "poster_path": "/uwB9BQU2p0vcwlXTISyK6pz07lq.jpg",
+            "release_date": "1979-12-25",
+            "title": "Going in Style",
+            "video": false,
+            "vote_average": 6.848,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yQtFsAby716b8JMlGls9Suzs87z.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1367,
+            "original_language": "en",
+            "original_title": "Rocky II",
+            "overview": "After Rocky goes the distance with champ Apollo Creed, both try to put the fight behind them and move on. Rocky settles down with Adrian but can't put his life together outside the ring, while Creed seeks a rematch to restore his reputation. Soon enough, the \"Master of Disaster\" and the \"Italian Stallion\" are set on a collision course for a climactic battle that is brutal and unforgettable.",
+            "popularity": 4.5685,
+            "poster_path": "/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+            "release_date": "1979-06-15",
+            "title": "Rocky II",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 4547
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kPlCjRGUv5okUM8Zsa3xE0sSJHI.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 17443,
+            "original_language": "en",
+            "original_title": "...And Justice for All",
+            "overview": "An ethical Baltimore defense lawyer disgusted with rampant legal corruption is forced to defend a judge he despises in a rape trial under the threat of being disbarred.",
+            "popularity": 1.2867,
+            "poster_path": "/AiAXiqN883MYQMzxeEzAtV9jkU0.jpg",
+            "release_date": "1979-10-19",
+            "title": "...And Justice for All",
+            "video": false,
+            "vote_average": 7.078,
+            "vote_count": 539
+        }
+    ]
+}

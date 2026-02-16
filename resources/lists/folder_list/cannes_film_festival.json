@@ -1,0 +1,43 @@
+{
+    "type" : "folder_list",
+    "title" : "Cannes Film Festival",
+    "added" : "11/01/26",
+    "modified" : "11/01/26",
+    "folders" : [
+        {
+            "title" : "Cannes Film Festival - Golden Palm",
+            "id" : "cannes_film_festival-golden_palm",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Cannes Film Festival - Grand Prize",
+            "id" : "cannes_film_festival-grand_prize",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Cannes Film Festival - Best Actress",
+            "id" : "cannes_film_festival-best_actress",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Cannes Film Festival - Best Actor",
+            "id" : "cannes_film_festival-best_actor",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Cannes Film Festival - Best Director",
+            "id" : "cannes_film_festival-best_director",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Cannes Film Festival - Best Screenplay",
+            "id" : "cannes_film_festival-best_screenplay",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Cannes Film Festival - Jury Prize",
+            "id" : "cannes_film_festival-jury_prize",
+            "type" : "movie_list"
+        }
+    ]
+}

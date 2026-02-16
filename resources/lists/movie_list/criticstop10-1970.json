@@ -1,0 +1,549 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1970",
+    "source": "https://criticstop10.com/best-movies-of-1970/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/y7pnEmBotaowRY0o8V33r4JuRNS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 26617,
+            "original_language": "en",
+            "original_title": "Five Easy Pieces",
+            "overview": "A drop-out from upper-class America picks up work along the way on oil-rigs when his life isn't spent in a squalid succession of bars, motels, and other points of interest.",
+            "popularity": 0.8957,
+            "poster_path": "/xGLkuMWigSPLBvWiENSMlVq56iE.jpg",
+            "release_date": "1970-09-12",
+            "title": "Five Easy Pieces",
+            "video": false,
+            "vote_average": 7.129,
+            "vote_count": 543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xtdppb9qsfX0Z2cUJ0OiaNR6UV1.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 651,
+            "original_language": "en",
+            "original_title": "M*A*S*H",
+            "overview": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.",
+            "popularity": 2.4115,
+            "poster_path": "/xZHNAcCVd5gUy68MBc4CmDqmely.jpg",
+            "release_date": "1970-02-18",
+            "title": "M*A*S*H",
+            "video": false,
+            "vote_average": 6.974,
+            "vote_count": 1082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 11202,
+            "original_language": "en",
+            "original_title": "Patton",
+            "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+            "popularity": 2.3525,
+            "poster_path": "/8IRufbzhMJSdlmD0cnTWERCtTN2.jpg",
+            "release_date": "1970-01-25",
+            "title": "Patton",
+            "video": false,
+            "vote_average": 7.488,
+            "vote_count": 1135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uuich47VwLn44B0gHmhgLt6hTcM.jpg",
+            "genre_ids": [
+                12,
+                37,
+                35,
+                18
+            ],
+            "id": 11040,
+            "original_language": "en",
+            "original_title": "Little Big Man",
+            "overview": "Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.",
+            "popularity": 1.2915,
+            "poster_path": "/pLvUVqadEI9cPrRlTru6ee71EWU.jpg",
+            "release_date": "1970-12-23",
+            "title": "Little Big Man",
+            "video": false,
+            "vote_average": 7.479,
+            "vote_count": 672
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/50tOx2lJXuszVjwCjNYHEXnPMWx.jpg",
+            "genre_ids": [
+                99,
+                36,
+                10402
+            ],
+            "id": 9459,
+            "original_language": "en",
+            "original_title": "Woodstock",
+            "overview": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000.",
+            "popularity": 0.812,
+            "poster_path": "/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
+            "release_date": "1970-03-26",
+            "title": "Woodstock",
+            "video": false,
+            "vote_average": 7.533,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wJzz1upLQBbDGCh5oTcgHUmaZYB.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 46691,
+            "original_language": "en",
+            "original_title": "Joe",
+            "overview": "After murdering his daughter's drug-dealing boyfriend, a wealthy ad executive stumbles into a bar and strikes up an uneasy alliance with Joe Curran, a drunken bigot with a bloodlust who works at a local factory.",
+            "popularity": 1.5512,
+            "poster_path": "/2x4YCP8uV4cKOS5ZEKt1Cc1h4eF.jpg",
+            "release_date": "1970-07-15",
+            "title": "Joe",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/90H58Povv5fRxuJxN0OhVRs0ghC.jpg",
+            "genre_ids": [
+                10752,
+                35
+            ],
+            "id": 10364,
+            "original_language": "en",
+            "original_title": "Catch-22",
+            "overview": "A bombardier in World War II tries desperately to escape the insanity of the war. However, sometimes insanity is the only sane way to cope with a crazy situation.",
+            "popularity": 1.4574,
+            "poster_path": "/eSB3i3vvFiRTszmZVawWqROzM6p.jpg",
+            "release_date": "1970-06-24",
+            "title": "Catch-22",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 317
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bpNx53g5pDq3Uc6UWfWKASO4nFs.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 66027,
+            "original_language": "en",
+            "original_title": "Women in Love",
+            "overview": "Growing up in the sheltered confines of a 1920s English coal-mining community, free-spirited sisters Gudrun and Ursula explore erotic love with a wealthy playboy and a philosophical educator, with cataclysmic results for all four.",
+            "popularity": 0.9561,
+            "poster_path": "/uHfThxdQC99LLoe2jKZ1u3vIge2.jpg",
+            "release_date": "1969-09-13",
+            "title": "Women in Love",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3q14UHjWRR78AqxuDXWRASbqQd2.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 31677,
+            "original_language": "en",
+            "original_title": "Diary of a Mad Housewife",
+            "overview": "Tina Balser is a bored New York housewife-mother married to Jonathan, a pompous, social-climbing lawyer who ridicules her in front of their children, criticizing everything she does or wears. She begins an affair with George Prager, a dashing, successful, and blatantly sadistic writer.",
+            "popularity": 0.3048,
+            "poster_path": "/loZFqYvqqzAhehLcbZq6djNo0JA.jpg",
+            "release_date": "1970-08-10",
+            "title": "Diary of a Mad Housewife",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kPdvXDdXIbuKKAt9gEy13FNYgbm.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 11163,
+            "original_language": "it",
+            "original_title": "Fellini \u2013 satyricon",
+            "overview": "After his young lover, Gitone, leaves him for another man, Encolpio decides to kill himself, but a sudden earthquake destroys his home before he has a chance to do so. Now wandering around Rome in the time of Nero, Encolpio encounters one bizarre and surreal scene after another.",
+            "popularity": 0.9236,
+            "poster_path": "/83urUMl04GtwuuGIFpezqzi7n6m.jpg",
+            "release_date": "1969-09-18",
+            "title": "Satyricon",
+            "video": false,
+            "vote_average": 6.724,
+            "vote_count": 341
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cRqXfDNRMjLL8X18eL2quXTqU3n.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 92283,
+            "original_language": "en",
+            "original_title": "I Never Sang for My Father",
+            "overview": "Hackman plays a New York professor who wants a change in his life, and plans to get married to his girlfriend and move to California. His mother understands his need to get away, but warns him that moving so far away could be hard on his father. Just before the wedding, the mother dies. Hackman's sister (who has been disowned by their father for marrying a Jewish man) advises him to live his own life, and not let himself be controlled by their father.",
+            "popularity": 0.4558,
+            "poster_path": "/o494qtKJgd5IU21sMjdc5tTd7fQ.jpg",
+            "release_date": "1970-10-18",
+            "title": "I Never Sang for My Father",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gmbk9C6ge97Wx48lLnGq6TciaJF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42602,
+            "original_language": "sv",
+            "original_title": "En passion",
+            "overview": "Andreas, a man struggling with the recent demise of his marriage and his own emotional isolation, befriends a married couple also in the midst of psychological turmoil. In turn he meets Anna, who is grieving the recent deaths of her husband and son. She appears zealous in her faith and steadfast in her search for truth, but gradually her delusions surface. Andreas and Anna pursue a love affair, but he is unable to overcome his feelings of deep humiliation and remains disconnected. Meanwhile, the island community is victimized by an unknown person committing acts of animal cruelty.",
+            "popularity": 0.9098,
+            "poster_path": "/cr01316AyxUZyZrdLwzz3AXrgJc.jpg",
+            "release_date": "1969-11-10",
+            "title": "The Passion of Anna",
+            "video": false,
+            "vote_average": 7.505,
+            "vote_count": 185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iezEtU0jnEu0P2128PkBxVjJf7x.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1627,
+            "original_language": "fr",
+            "original_title": "L'Enfant sauvage",
+            "overview": "In 1798, a feral boy is discovered outside the town of Aveyron, France. Diagnosed as mentally impaired, he is relegated to an asylum. A young doctor named Jean Itard becomes convinced that the boy has normal mental capacity, but that his development was hindered by lack of contact with society. He brings the boy home and begins an arduous attempt at education over several years.",
+            "popularity": 0.4543,
+            "poster_path": "/ivIyyc2VgefJK9LdAogl1BEgmeH.jpg",
+            "release_date": "1970-02-26",
+            "title": "The Wild Child",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aP2dqtqMzDbO5nQ2uQqBE1eMk7y.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 34377,
+            "original_language": "en",
+            "original_title": "The Boys in the Band",
+            "overview": "A witty, perceptive and devastating look at the personal agendas and suppressed revelations swirling among a group of gay men in Manhattan. Harold is celebrating a birthday, and his friend Michael has drafted some other friends to help commemorate the event. As the evening progresses, the alcohol flows, the knives come out, and Michael's demand that the group participate in a devious telephone game, unleashing dormant and unspoken emotions.",
+            "popularity": 0.4105,
+            "poster_path": "/2fpNvnbH6LZ2scoIRQkNcT7hK1y.jpg",
+            "release_date": "1970-03-16",
+            "title": "The Boys in the Band",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nywUPHC1gX0NNJlUoVHFMygKxJH.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 42593,
+            "original_language": "en",
+            "original_title": "Lovers and Other Strangers",
+            "overview": "Mike Vecchio and Susan Henderson are preparing for their upcoming wedding. However, they seem to be the only two people at the wedding that are happy. Mike's brother Richie and his wife Joan are going through a divorce, which is upsetting his overly devout Catholic mother Beatrice. Also, Susan's father is carrying on an affair and her sex starved older sister Wilma is going through her troubles with her husband Johnny. All this is going on while Mike's best friend Jerry is trying to bed the maid of honor, Susan's cousin Brenda.",
+            "popularity": 0.3453,
+            "poster_path": "/uIcFAUNHg9aGvT4kznkYd0bGAd4.jpg",
+            "release_date": "1970-08-12",
+            "title": "Lovers and Other Strangers",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rAJEXUzsWRuM5zcmiWs2b10AZTC.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 35838,
+            "original_language": "es",
+            "original_title": "Tristana",
+            "overview": "As a young woman, Tristana is orphaned and taken under the guardianship of Don Lope, a respected member of the community, who takes advantage of his innocent charge. When Tristana falls in love with artist Horacio, she must learn to be more assertive in order to achieve independence from her nefarious guardian, or her blossoming relationship with Horatio is doomed.",
+            "popularity": 0.8194,
+            "poster_path": "/zs695dsih9HRlj0YF4rujHTRya5.jpg",
+            "release_date": "1970-03-29",
+            "title": "Tristana",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 255
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3247bXj6vbjPpMCMleiNUgoG89q.jpg",
+            "genre_ids": [
+                10749,
+                36,
+                18
+            ],
+            "id": 38953,
+            "original_language": "en",
+            "original_title": "Ryan's Daughter",
+            "overview": "The wife of an Irish school teacher is branded a traitor when she falls for a British officer who is part of an occupying force in 1917 Ireland.",
+            "popularity": 0.8795,
+            "poster_path": "/OuSlVwYU7eKQhuTxxS20VQjSir.jpg",
+            "release_date": "1970-03-19",
+            "title": "Ryan's Daughter",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9qRp6mYwyDBVzxNJN4xvpSxFvyR.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 48831,
+            "original_language": "fr",
+            "original_title": "Ma nuit chez Maud",
+            "overview": "The Catholic Jean-Louis runs into an old friend, the Marxist Vidal, in Clermont-Ferrand around Christmas. Vidal introduces Jean-Louis to the modestly libertine, recently divorced Maud and the three engage in conversation on religion, atheism, love, morality and Blaise Pascal's life and writings on philosophy, faith and mathematics. Jean-Louis ends up spending a night at Maud's. Jean-Louis' Catholic views on marriage, fidelity and obligation make his situation a dilemma, as he has already, at the very beginning of the film, proclaimed his love for a young woman whom, however, he has never yet spoken to.",
+            "popularity": 0.9428,
+            "poster_path": "/9usKgth3ROn4LwPQ7tTvxKnpBGL.jpg",
+            "release_date": "1969-06-04",
+            "title": "My Night at Maud's",
+            "video": false,
+            "vote_average": 7.712,
+            "vote_count": 332
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sIOIhwdWqplSpq62f1uP8yUpS2r.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 9062,
+            "original_language": "en",
+            "original_title": "Love Story",
+            "overview": "Harvard Law student Oliver Barrett IV and music student Jennifer Cavilleri share a chemistry they cannot deny - and a love they cannot ignore. Despite their opposite backgrounds, the young couple put their hearts on the line for each other. When they marry, Oliver's wealthy father threatens to disown him. Jenny tries to reconcile the Barrett men, but to no avail.",
+            "popularity": 1.7426,
+            "poster_path": "/5A7SGcT1GlhWfHsCRQQtGe0TpJB.jpg",
+            "release_date": "1970-12-16",
+            "title": "Love Story",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 709
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aAQOLPSSktzCFSix8CvOBlCqK2p.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 10671,
+            "original_language": "en",
+            "original_title": "Airport",
+            "overview": "An airport manager tries to keep his terminals open during a snowstorm, while a suicide bomber plots to blow up a Boeing 707 airliner in flight.",
+            "popularity": 1.1369,
+            "poster_path": "/6iOKluJfyiU1SLZbGYrY7Z0i6k0.jpg",
+            "release_date": "1970-03-25",
+            "title": "Airport",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 406
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/WAjLyPyVYivUGk2MsjOS7MAfqF.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 92269,
+            "original_language": "en",
+            "original_title": "Loving",
+            "overview": "Brooks Wilson is in crisis. He is torn between his wife Selma and two daughters and his mistress Grace, and also between his career as a successful illustrator and his feeling that he might still produce something worthwhile.",
+            "popularity": 0.2282,
+            "poster_path": "/xwMISwAert29Hr8ntky9B80fCez.jpg",
+            "release_date": "1970-03-04",
+            "title": "Loving",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6jz9jb3TGrDATYrWVI4mwwux38.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 60859,
+            "original_language": "fr",
+            "original_title": "L'Aveu",
+            "overview": "The vice-minister of Foreign Affairs of Czechoslovakia, knowing he's being watched and followed, is one day arrested and put into solitary confinement.",
+            "popularity": 0.5,
+            "poster_path": "/m44QZwZKLq8HqAxhb6VibYj32bC.jpg",
+            "release_date": "1970-04-29",
+            "title": "The Confession",
+            "video": false,
+            "vote_average": 7.301,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4WfwZ5QLbyQccaaTDsJLs1Mt3By.jpg",
+            "genre_ids": [
+                35,
+                37,
+                28
+            ],
+            "id": 23330,
+            "original_language": "en",
+            "original_title": "The Ballad of Cable Hogue",
+            "overview": "Double-crossed and left without water in the desert, Cable Hogue is saved when he finds a spring. It is in just the right spot for a much needed rest stop on the local stagecoach line, and Hogue uses this to his advantage. He builds a house and makes money off the stagecoach passengers. Hildy, a prostitute from the nearest town, moves in with him. Hogue has everything going his way until the advent of the automobile ends the era of the stagecoach.",
+            "popularity": 1.1331,
+            "poster_path": "/bEth8XAYaytjzxnHkLkj4nZx2XD.jpg",
+            "release_date": "1970-03-18",
+            "title": "The Ballad of Cable Hogue",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vc9Bx0Wp7GPV6mlBdKyjjwZxZQ.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 2527,
+            "original_language": "fr",
+            "original_title": "Que la b\u00eate meure",
+            "overview": "When his young son is killed in a hit and run accident, Charles Thenier resolves to hunt down and murder the killer. By chance, Thenier makes the acquaintance of an actress, Hel\u00e8ne Lanson, who was in the car at the time of the accident. He then meets Hel\u00e8ne\u2019s brother-in-law, Paul Decourt, a truly horrible individual.",
+            "popularity": 0.5301,
+            "poster_path": "/4QEL8tsDBZkBq54AzpTyFE4yY50.jpg",
+            "release_date": "1969-09-04",
+            "title": "This Man Must Die",
+            "video": false,
+            "vote_average": 7.388,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bHHyjodPqQVlNiRR9g6L5ar5JOy.jpg",
+            "genre_ids": [
+                14,
+                18,
+                10751
+            ],
+            "id": 13765,
+            "original_language": "en",
+            "original_title": "Scrooge",
+            "overview": "A musical adaptation of Charles Dickens' classic ghost tale starring Albert Finney.",
+            "popularity": 1.5011,
+            "poster_path": "/eadjJGFdbZdhXSjtokmay7NjVHi.jpg",
+            "release_date": "1970-11-05",
+            "title": "Scrooge",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/piykV6CPQ7J0YvgdnWzHRln4GJ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 44606,
+            "original_language": "en",
+            "original_title": "Goin' Down the Road",
+            "overview": "Two friends travel from Nova Scotia to Toronto in hope of finding a better life.",
+            "popularity": 0.113,
+            "poster_path": "/pmWjQY5NSLG4aBR9wzqKHEXANtH.jpg",
+            "release_date": "1970-07-02",
+            "title": "Goin' Down the Road",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4y2NbkNKyi9k7oW2fc0sAyIRAZw.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 81888,
+            "original_language": "en",
+            "original_title": "The Virgin and the Gypsy",
+            "overview": "Film adaptation from the novel by D.H. Lawrence, discovered after the celebrated author's death in 1930, a romantic love story tells of a prim young English girl who is sexually attracted to a seductively virile gypsy. The climatic dam burst is linked with the consummation of her desire.",
+            "popularity": 0.1652,
+            "poster_path": "/ih4rTbzgA0gvUvCwlSVIS42YRzX.jpg",
+            "release_date": "1970-06-01",
+            "title": "The Virgin and the Gypsy",
+            "video": false,
+            "vote_average": 2.2,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eWvxOS5g67B1b46Cff9TlYuJleY.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 13384,
+            "original_language": "en",
+            "original_title": "Kes",
+            "overview": "Bullied at school and ignored and abused at home by his indifferent mother and older brother, Billy Casper, a 15-year-old working-class Yorkshire boy, tames and trains his pet kestrel falcon whom he names Kes. Helped and encouraged by his English teacher and his fellow students, Billy finally finds a positive purpose to his unhappy existence.",
+            "popularity": 1.2011,
+            "poster_path": "/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg",
+            "release_date": "1970-04-03",
+            "title": "Kes",
+            "video": false,
+            "vote_average": 7.463,
+            "vote_count": 404
+        }
+    ]
+}

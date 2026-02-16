@@ -1,0 +1,977 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1993",
+    "source": "https://criticstop10.com/best-movies-of-1993/",
+    "created_by": "lbnt",
+    "added": "07/29/25",
+    "modified": "07/29/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 424,
+            "original_language": "en",
+            "original_title": "Schindler's List",
+            "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "popularity": 16.1026,
+            "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_date": "1993-12-15",
+            "title": "Schindler's List",
+            "video": false,
+            "vote_average": 8.566,
+            "vote_count": 16577
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c2O99arhWcuLexMHiuRfSuDMpYm.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 713,
+            "original_language": "en",
+            "original_title": "The Piano",
+            "overview": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
+            "popularity": 2.232,
+            "poster_path": "/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg",
+            "release_date": "1993-05-18",
+            "title": "The Piano",
+            "video": false,
+            "vote_average": 7.387,
+            "vote_count": 1557
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/auR595U8Inw58Fg2NuZMP05lYcV.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 10436,
+            "original_language": "en",
+            "original_title": "The Age of Innocence",
+            "overview": "In 19th century New York high society, a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+            "popularity": 3.0698,
+            "poster_path": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+            "release_date": "1993-09-10",
+            "title": "The Age of Innocence",
+            "video": false,
+            "vote_average": 6.977,
+            "vote_count": 1142
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vFhxd3Z1zaV3Yu5XLpvWzSxJCe8.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1245,
+            "original_language": "en",
+            "original_title": "The Remains of the Day",
+            "overview": "A rule-bound head butler's world of manners and decorum in the household he maintains is tested by the arrival of a housekeeper who falls in love with him in post-WWI Britain. The possibility of romance and his master's cultivation of ties with the Nazi cause challenge his carefully maintained veneer of servitude.",
+            "popularity": 3.0863,
+            "poster_path": "/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+            "release_date": "1993-11-05",
+            "title": "The Remains of the Day",
+            "video": false,
+            "vote_average": 7.371,
+            "vote_count": 1387
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j44XhCxpLTi8WnrX52H83Z86ovG.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 695,
+            "original_language": "en",
+            "original_title": "Short Cuts",
+            "overview": "Many loosely connected characters cross paths in this film, based on the stories of Raymond Carver. Waitress Doreen Piggot accidentally runs into a boy with her car. Soon after walking away, the child lapses into a coma. While at the hospital, the boy's grandfather tells his son, Howard, about his past affairs. Meanwhile, a baker starts harassing the family when they fail to pick up the boy's birthday cake.",
+            "popularity": 1.3628,
+            "poster_path": "/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+            "release_date": "1993-10-01",
+            "title": "Short Cuts",
+            "video": false,
+            "vote_average": 7.201,
+            "vote_count": 627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
+            "genre_ids": [
+                28,
+                53,
+                18
+            ],
+            "id": 5503,
+            "original_language": "en",
+            "original_title": "The Fugitive",
+            "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+            "popularity": 6.1274,
+            "poster_path": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+            "release_date": "1993-08-06",
+            "title": "The Fugitive",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 4471
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fe5a9dB8tylKUpcXq88ioXpNSsm.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 11971,
+            "original_language": "en",
+            "original_title": "Much Ado About Nothing",
+            "overview": "In this Shakespearean farce, Hero and her groom-to-be, Claudio, team up with Claudio's commanding officer, Don Pedro, the week before their wedding to hatch a matchmaking scheme. Their targets are sharp-witted duo Benedick and Beatrice -- a tough task indeed, considering their corresponding distaste for love and each other. Meanwhile, meddling Don John plots to ruin the wedding.",
+            "popularity": 2.1631,
+            "poster_path": "/tvltGP6vYOkHdURag0jPSjhPUAV.jpg",
+            "release_date": "1993-05-07",
+            "title": "Much Ado About Nothing",
+            "video": false,
+            "vote_average": 6.931,
+            "vote_count": 757
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ad8aDCb0hi24PN7r8H1QsHI0pgZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 19931,
+            "original_language": "en",
+            "original_title": "The Joy Luck Club",
+            "overview": "Through a series of flashbacks, four Chinese women born in America and their respective mothers born in feudal China explore their pasts.",
+            "popularity": 0.8363,
+            "poster_path": "/s1Sk0hhVARNs7i9wqRHqbCriu8n.jpg",
+            "release_date": "1993-09-08",
+            "title": "The Joy Luck Club",
+            "video": false,
+            "vote_average": 7.109,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9P5jcTFSWQMTqQq7LrwGA8zU0Sb.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53,
+                80,
+                9648
+            ],
+            "id": 9386,
+            "original_language": "en",
+            "original_title": "In the Line of Fire",
+            "overview": "Veteran Secret Service agent Frank Horrigan is a man haunted by his failure to save President Kennedy while serving protection detail in Dallas. Thirty years later, a man calling himself \"Booth\" threatens the life of the current President, forcing Horrigan to come back to protection detail to confront the ghosts from his past.",
+            "popularity": 2.3317,
+            "poster_path": "/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+            "release_date": "1993-07-08",
+            "title": "In the Line of Fire",
+            "video": false,
+            "vote_average": 6.974,
+            "vote_count": 1667
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10997,
+            "original_language": "zh",
+            "original_title": "\u9738\u738b\u522b\u59ec",
+            "overview": "Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and endure some of the most troublesome times in China's history.",
+            "popularity": 3.2562,
+            "poster_path": "/ySf9I93w6kJiaEb2T4zpoQjY8PR.jpg",
+            "release_date": "1993-01-01",
+            "title": "Farewell My Concubine",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 614
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fi7gBF2nfIGWF9MuOhuEr6rkgBQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 18183,
+            "original_language": "es",
+            "original_title": "Como agua para chocolate",
+            "overview": "Tita is passionately in love with Pedro, but her controlling mother forbids her from marrying him. When Pedro marries her sister, Tita throws herself into her cooking and discovers she can transfer her emotions through the food she prepares, infecting all who eat it with her intense heartbreak.",
+            "popularity": 1.7622,
+            "poster_path": "/itwUdMqLmPfhtGJ44hiDxkqZhiq.jpg",
+            "release_date": "1992-04-16",
+            "title": "Like Water for Chocolate",
+            "video": false,
+            "vote_average": 7.279,
+            "vote_count": 526
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
+            "genre_ids": [
+                12,
+                878
+            ],
+            "id": 329,
+            "original_language": "en",
+            "original_title": "Jurassic Park",
+            "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+            "popularity": 17.3729,
+            "poster_path": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+            "release_date": "1993-06-11",
+            "title": "Jurassic Park",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 16960
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/plasFzMpr2cLsWePxISvqtZe104.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10443,
+            "original_language": "en",
+            "original_title": "Fearless",
+            "overview": "After a terrible air disaster, survivor Max Klein emerges a changed person. Unable to connect to his former life or to wife Laura, he feels godlike and invulnerable. When psychologist Bill Perlman is unable to help Max, he has Max meet another survivor, Carla Rodrigo, who is wracked with grief and guilt since her baby died in the crash which she and Max survived.",
+            "popularity": 1.1129,
+            "poster_path": "/yiCAa85nJJDFiq0LmZ2Fgvu4RgY.jpg",
+            "release_date": "1993-10-15",
+            "title": "Fearless",
+            "video": false,
+            "vote_average": 6.88,
+            "vote_count": 321
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mE2TjYsnqdWxPt45kIElw3az4O9.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 9800,
+            "original_language": "en",
+            "original_title": "Philadelphia",
+            "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+            "popularity": 2.6116,
+            "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+            "release_date": "1993-12-22",
+            "title": "Philadelphia",
+            "video": false,
+            "vote_average": 7.717,
+            "vote_count": 4390
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yBLYxVE61QnLGiGvsyLxdshmkiw.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 2742,
+            "original_language": "en",
+            "original_title": "Naked Lunch",
+            "overview": "Blank-faced bug killer Bill Lee and his dead-eyed wife, Joan, like to get high on Bill's pest poisons while lounging with Beat poet pals. After meeting the devilish Dr. Benway, Bill gets a drug made from a centipede. Upon indulging, he accidentally kills Joan, takes orders from his typewriter-turned-cockroach, ends up in a constantly mutating Mediterranean city and learns that his hip friends have published his work -- which he doesn't remember writing.",
+            "popularity": 1.8901,
+            "poster_path": "/u01kh5jKUWjhom76mguRqUgdvja.jpg",
+            "release_date": "1991-12-27",
+            "title": "Naked Lunch",
+            "video": false,
+            "vote_average": 6.995,
+            "vote_count": 1126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+            "genre_ids": [
+                10749,
+                14,
+                18,
+                35
+            ],
+            "id": 137,
+            "original_language": "en",
+            "original_title": "Groundhog Day",
+            "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+            "popularity": 6.9253,
+            "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+            "release_date": "1993-02-11",
+            "title": "Groundhog Day",
+            "video": false,
+            "vote_average": 7.617,
+            "vote_count": 8351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s5PP0ryxAo12jzvPntSEybahpCw.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 9516,
+            "original_language": "en",
+            "original_title": "Menace II Society",
+            "overview": "A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life.",
+            "popularity": 3.3233,
+            "poster_path": "/nS7yqmSVeNoH22VXj69JoFCxW1h.jpg",
+            "release_date": "1993-05-26",
+            "title": "Menace II Society",
+            "video": false,
+            "vote_average": 7.502,
+            "vote_count": 807
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jBz16NsAeKjpHNznl1EHlcr704P.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9571,
+            "original_language": "en",
+            "original_title": "Dazed and Confused",
+            "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
+            "popularity": 3.3486,
+            "poster_path": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+            "release_date": "1993-09-24",
+            "title": "Dazed and Confused",
+            "video": false,
+            "vote_average": 7.318,
+            "vote_count": 2126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9lzBxaGXQ2Uy62caE1pzEnDko1h.jpg",
+            "genre_ids": [
+                28,
+                80,
+                10749
+            ],
+            "id": 319,
+            "original_language": "en",
+            "original_title": "True Romance",
+            "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+            "popularity": 4.7343,
+            "poster_path": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+            "release_date": "1993-09-09",
+            "title": "True Romance",
+            "video": false,
+            "vote_average": 7.548,
+            "vote_count": 2848
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ientWdmdDvh4Dum1sZWv1FGf5Ve.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 34024,
+            "original_language": "en",
+            "original_title": "King of the Hill",
+            "overview": "Based on the Depression-era bildungsroman memoir of writer A. E. Hotchner, the film follows the story of a boy struggling to survive on his own in a hotel in St. Louis after his mother is committed to a sanatorium with tuberculosis. His father, a German immigrant and traveling salesman working for the Hamilton Watch Company, is off on long trips from which the boy cannot be certain he will return.",
+            "popularity": 0.6093,
+            "poster_path": "/vmV21mWwclW2A3lmlBejn8TyIu2.jpg",
+            "release_date": "1993-08-20",
+            "title": "King of the Hill",
+            "video": false,
+            "vote_average": 6.845,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nJT0QZIB7e9af31JM6sOzMeTOgD.jpg",
+            "genre_ids": [
+                14,
+                16,
+                10751
+            ],
+            "id": 9479,
+            "original_language": "en",
+            "original_title": "The Nightmare Before Christmas",
+            "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+            "popularity": 10.4354,
+            "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+            "release_date": "1993-10-09",
+            "title": "The Nightmare Before Christmas",
+            "video": false,
+            "vote_average": 7.835,
+            "vote_count": 9837
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1GZVHgJUcVyytQRJ533GpMavAcL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 7984,
+            "original_language": "en",
+            "original_title": "In the Name of the Father",
+            "overview": "A small-time Belfast thief, Gerry Conlon, is wrongly convicted of an IRA bombing in London, along with his father and friends, and spends 15 years in prison fighting to prove his innocence.",
+            "popularity": 2.6791,
+            "poster_path": "/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg",
+            "release_date": "1993-12-12",
+            "title": "In the Name of the Father",
+            "video": false,
+            "vote_average": 7.899,
+            "vote_count": 1833
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8s7FJ9dHXgeFZdvxfjPmrrJh6EC.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                14
+            ],
+            "id": 11236,
+            "original_language": "en",
+            "original_title": "The Secret Garden",
+            "overview": "A young British girl born and reared in India loses her neglectful parents in an earthquake. She is returned to England to live at her uncle's castle. Her uncle is very distant due to the loss of his wife ten years before. Neglected once again, she begins exploring the estate and discovers a garden that has been locked and forgotten. Aided by one of the servants' boys, she begins restoring the garden, and eventually discovers some other secrets of the manor.",
+            "popularity": 1.8814,
+            "poster_path": "/zf6h5dJ7wVG7LqMO9dhHGHVejzj.jpg",
+            "release_date": "1993-08-13",
+            "title": "The Secret Garden",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 932
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 10409,
+            "original_language": "en",
+            "original_title": "Strictly Ballroom",
+            "overview": "Brave new steps put Scott's career in jeopardy. With a new partner and determination, can he still succeed?",
+            "popularity": 1.1825,
+            "poster_path": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
+            "release_date": "1992-08-20",
+            "title": "Strictly Ballroom",
+            "video": false,
+            "vote_average": 6.588,
+            "vote_count": 356
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/swXvzkH1oSVHh4flmcthXnusbwc.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 14291,
+            "original_language": "en",
+            "original_title": "Searching for Bobby Fischer",
+            "overview": "A seven-year-old chess prodigy refuses to harden himself in order to become a champion like the famous but unlikable Bobby Fischer.",
+            "popularity": 2.3141,
+            "poster_path": "/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg",
+            "release_date": "1993-08-13",
+            "title": "Searching for Bobby Fischer",
+            "video": false,
+            "vote_average": 7.079,
+            "vote_count": 590
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y9N5tFCxCi2AIedOhU3OrVMfL2d.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 108,
+            "original_language": "fr",
+            "original_title": "Trois couleurs : Bleu",
+            "overview": "The wife of a famous composer survives a car accident that kills her husband and daughter. Now alone, she shakes off her old identity and explores her newfound freedom but finds that she is unbreakably bound to other humans, including her husband\u2019s mistress, whose existence she never suspected.",
+            "popularity": 2.3408,
+            "poster_path": "/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+            "release_date": "1993-09-08",
+            "title": "Three Colors: Blue",
+            "video": false,
+            "vote_average": 7.651,
+            "vote_count": 1763
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ME0fJZxjEoSGPP4E4bbYT5zoqt.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 858,
+            "original_language": "en",
+            "original_title": "Sleepless in Seattle",
+            "overview": "After the death of his mother, a young boy calls a radio station in an attempt to set his father up on a date. Talking about his father\u2019s loneliness soon leads to a meeting with a young female journalist, who has flown to Seattle to write a story about the boy and his father.",
+            "popularity": 3.1237,
+            "poster_path": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+            "release_date": "1993-06-24",
+            "title": "Sleepless in Seattle",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2444
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 1607,
+            "original_language": "en",
+            "original_title": "A Bronx Tale",
+            "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
+            "popularity": 8.2415,
+            "poster_path": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+            "release_date": "1993-10-01",
+            "title": "A Bronx Tale",
+            "video": false,
+            "vote_average": 7.878,
+            "vote_count": 2644
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 1607,
+            "original_language": "en",
+            "original_title": "A Bronx Tale",
+            "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
+            "popularity": 8.2415,
+            "poster_path": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+            "release_date": "1993-10-01",
+            "title": "A Bronx Tale",
+            "video": false,
+            "vote_average": 7.878,
+            "vote_count": 2644
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/px0d4Kzn9683SHLMS9K3e5OHk2H.jpg",
+            "genre_ids": [
+                35,
+                9648
+            ],
+            "id": 10440,
+            "original_language": "en",
+            "original_title": "Manhattan Murder Mystery",
+            "overview": "A middle-aged couple suspects foul play when their neighbor's wife suddenly drops dead.",
+            "popularity": 1.0259,
+            "poster_path": "/axriUXXcBVZMZT8I9boo07Jgptw.jpg",
+            "release_date": "1993-05-02",
+            "title": "Manhattan Murder Mystery",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nna1FWMle9WUd0lg3qJWog1NBbe.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 10445,
+            "original_language": "en",
+            "original_title": "Shadowlands",
+            "overview": "C.S. Lewis, a world-renowned writer and professor, leads a passionless life until he meets spirited poet Joy Gresham.",
+            "popularity": 0.8121,
+            "poster_path": "/5jTWY1M2O4Zhid4rLOpftzazRGn.jpg",
+            "release_date": "1993-12-25",
+            "title": "Shadowlands",
+            "video": false,
+            "vote_average": 6.903,
+            "vote_count": 283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bbHziUiIFiSFYNnPfD1pPfRvyFe.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 9559,
+            "original_language": "en",
+            "original_title": "A Perfect World",
+            "overview": "A kidnapped boy strikes up a friendship with his captor: an escaped convict on the run from the law, headed by an honorable U.S. Marshal.",
+            "popularity": 2.195,
+            "poster_path": "/vlB9gsYR3C7TmlEsPl3hqEJNWHH.jpg",
+            "release_date": "1993-11-24",
+            "title": "A Perfect World",
+            "video": false,
+            "vote_average": 7.477,
+            "vote_count": 1731
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e9L5dpi41k3YkbavwgOGXnQGCe1.jpg",
+            "genre_ids": [
+                9648,
+                18,
+                35
+            ],
+            "id": 23210,
+            "original_language": "en",
+            "original_title": "Six Degrees of Separation",
+            "overview": "The story of a young, gay, black, con artist who, posing as the son of Sidney Poitier, cunningly maneuvers his way into the lives of a white, upper-class New York family.",
+            "popularity": 1.0384,
+            "poster_path": "/oH0bl69uZZA6dAclgFRkm1Vwcry.jpg",
+            "release_date": "1993-12-08",
+            "title": "Six Degrees of Separation",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 344
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rtW6heeSJhFzudJXIj6JQap8hAC.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 38143,
+            "original_language": "zh",
+            "original_title": "\u79cb\u83ca\u6253\u5b98\u53f8",
+            "overview": "When her husband is kicked in the groin by the village head, Qiu Ju, a peasant woman, despite her pregnancy, travels to a nearby town, and later a big city to deal with its bureaucrats and find justice.",
+            "popularity": 1.8374,
+            "poster_path": "/5yYnTVXuLBjFQ91k2FnSWcwNn3x.jpg",
+            "release_date": "1992-08-31",
+            "title": "The Story of Qiu Ju",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0KR5pXjoMuyNP9xnScGEE5zdX9.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 10655,
+            "original_language": "en",
+            "original_title": "Gettysburg",
+            "overview": "In the summer of 1863, General Robert E. Lee leads the Confederate Army of Northern Virginia into Gettysburg, Pennsylvania with the goal of marching through to Washington, D.C. The Union Army of the Potomac, under the command of General George G. Meade, forms a defensive position to confront the rebel forces in what will prove to be the decisive battle of the American Civil War.",
+            "popularity": 1.5262,
+            "poster_path": "/566AVv5fwoQTdFy37JXc8QcyDSy.jpg",
+            "release_date": "1993-10-08",
+            "title": "Gettysburg",
+            "video": false,
+            "vote_average": 6.928,
+            "vote_count": 307
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ow5u27LapD6xMe24o2ITnZDoz7z.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                36
+            ],
+            "id": 15765,
+            "original_language": "en",
+            "original_title": "What's Love Got to Do with It",
+            "overview": "Singer Tina Turner rises to stardom while mustering the courage to break free from her abusive husband Ike.",
+            "popularity": 1.3399,
+            "poster_path": "/vNAYuA26Wtf7VfzZEaxZQmJTE4Z.jpg",
+            "release_date": "1993-06-09",
+            "title": "What's Love Got to Do with It",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zcPBI0vCuYkG9ml8E3loZPtI7Ye.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 47889,
+            "original_language": "en",
+            "original_title": "Ruby in Paradise",
+            "overview": "Reeling from her mother's recent death, Ruby Lee Gissing relocates to Florida to start anew. After finding a job at a souvenir store, Ruby becomes friends with the shop's owner, Mildred Chambers, and slowly acclimates to her new surroundings. Before long, she's juggling the affections of Mildred's Lothario son, Ricky, and the good-natured Mike. As she wavers between Ricky and Mike, Ruby also tries to come to terms with her past.",
+            "popularity": 0.2914,
+            "poster_path": "/gk0vbIVYwpXxSf1wQbS2r9IsBoV.jpg",
+            "release_date": "1993-10-08",
+            "title": "Ruby in Paradise",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iXqIYl3OJrh9c9SDhfB7pnhBnsH.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 9261,
+            "original_language": "zh",
+            "original_title": "\u559c\u5bb4",
+            "overview": "A Taiwanese-American man is happily settled in New York with his American boyfriend. He plans a marriage of convenience to a Chinese woman in order to keep his parents off his back and to get the woman a green card. Chaos follows when his parents arrive in New York for the wedding.",
+            "popularity": 1.0641,
+            "poster_path": "/arWCA8lg0rbdlwHUMvI46LNDhnL.jpg",
+            "release_date": "1993-03-01",
+            "title": "The Wedding Banquet",
+            "video": false,
+            "vote_average": 7.233,
+            "vote_count": 258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v5jehNMKQWGGe5ntYiXdenrWcpx.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 12664,
+            "original_language": "en",
+            "original_title": "The Snapper",
+            "overview": "Sharon Curley is a 20-year-old living with her parents and many brothers and sisters in Dublin. When she gets pregnant and refuses to name the father, she becomes the talk of the town.",
+            "popularity": 0.4344,
+            "poster_path": "/5BRtA91AX4Hhl5cYuxP1pRK4FXL.jpg",
+            "release_date": "1993-08-06",
+            "title": "The Snapper",
+            "video": false,
+            "vote_average": 6.423,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vz5tQrBKspCuOQjbh2yi0ch2b0J.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 49956,
+            "original_language": "en",
+            "original_title": "The Long Day Closes",
+            "overview": "Bud is a lonely and quiet boy whose moments of solace occur when he sits in rapture at the local cinema, watching towering and iconic figures on the movie screen. The movies give Bud the strength to get through another day as he deals with his oppressive school environment and his burgeoning homosexuality.",
+            "popularity": 0.2845,
+            "poster_path": "/19ggXBxVQgmhTlEo4yplPaYg76k.jpg",
+            "release_date": "1992-05-22",
+            "title": "The Long Day Closes",
+            "video": false,
+            "vote_average": 7.228,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AblWtgIpxWkw4eIFzN0A3Gdrl14.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10749,
+                10752
+            ],
+            "id": 36709,
+            "original_language": "en",
+            "original_title": "Map of the Human Heart",
+            "overview": "In an Arctic village in 1931, British mapmaker Walter Russell selects 12-year-old Eskimo Avik as his guide. When the boy contracts tuberculosis, Walter flies him to a Montreal hospital, where Avik meets Albertine and is infatuated. A decade later, a grown Avik encounters Albertine again in London, where he's serving as a British combat pilot. Despite her relationship with Walter, she and Avik begin an affair.",
+            "popularity": 0.3506,
+            "poster_path": "/ritKJM436bbvFhXlWKbwKzjs8SM.jpg",
+            "release_date": "1993-04-22",
+            "title": "Map of the Human Heart",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/38yjZWYBI0xxNqoBKiGyA4UZjk.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 6075,
+            "original_language": "en",
+            "original_title": "Carlito's Way",
+            "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
+            "popularity": 3.8245,
+            "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+            "release_date": "1993-11-10",
+            "title": "Carlito's Way",
+            "video": false,
+            "vote_average": 7.832,
+            "vote_count": 3283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0F4QDlH12j8GmGEV8GvSDGmyFT.jpg",
+            "genre_ids": [
+                36,
+                10752,
+                18
+            ],
+            "id": 31642,
+            "original_language": "en",
+            "original_title": "Heaven & Earth",
+            "overview": "In a small Vietnamese village torn apart by war, a young woman faces unimaginable horrors before deciding to escape to the city. There, she encounters a compassionate Marine who offers her hope and a chance at a new life, igniting the possibility of a future together.",
+            "popularity": 1.3567,
+            "poster_path": "/hvvR7Yf743pc2E2F1VJ2dfZl7OZ.jpg",
+            "release_date": "1993-12-25",
+            "title": "Heaven & Earth",
+            "video": false,
+            "vote_average": 6.688,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pm2rPN1yfmVDMVFDFNmn7DEFMqM.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 9300,
+            "original_language": "en",
+            "original_title": "Orlando",
+            "overview": "England, 1600. Queen Elizabeth I promises Orlando, a young nobleman obsessed with poetry, that she will grant him land and fortune if he agrees to satisfy a very particular request.",
+            "popularity": 1.5215,
+            "poster_path": "/otSCGdKzEeVgbfNl0YslOpRZHgk.jpg",
+            "release_date": "1992-12-11",
+            "title": "Orlando",
+            "video": false,
+            "vote_average": 6.888,
+            "vote_count": 344
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Jns5hMUpTtYcNLrwTSvVuVOHFg.jpg",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "id": 41778,
+            "original_language": "en",
+            "original_title": "Visions of Light",
+            "overview": "Cameramen and women discuss the craft and art of cinematography and of the \"DP\" (the director of photography), illustrating their points with clips from 100 films, from Birth of a Nation to Do the Right Thing. Themes: the DP tells people where to look; changes in movies (the arrival of sound, color, and wide screens) required creative responses from DPs; and, these artisans constantly invent new equipment and try new things, with wonderful results. The narration takes us through the identifiable studio styles of the 30s, the emergence of noir, the New York look, and the impact of Europeans. Citizen Kane, The Conformist, and Gordon Willis get special attention.",
+            "popularity": 0.1392,
+            "poster_path": "/62ry0lNv4gQRuusC1EkUkOmTuUY.jpg",
+            "release_date": "1992-09-17",
+            "title": "Visions of Light",
+            "video": false,
+            "vote_average": 6.99,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rWkuu1S6oAE6OPA1KtwdXP61NFL.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 48150,
+            "original_language": "fr",
+            "original_title": "Un c\u0153ur en hiver",
+            "overview": "Beautiful violin virtuoso Camille has two obsessions: the music of Ravel, and a friend of her husband's who crafts violins. But his heart seems to be as cold as her playing is passionate.",
+            "popularity": 0.7763,
+            "poster_path": "/hR1NHf5tOAKbTO3KuJc6LliBGa3.jpg",
+            "release_date": "1992-09-02",
+            "title": "A Heart in Winter",
+            "video": false,
+            "vote_average": 7.259,
+            "vote_count": 203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cp9NMnRokXvqYUmmq3uf3UFVlov.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 47714,
+            "original_language": "it",
+            "original_title": "Il ladro di bambini",
+            "overview": "Antonio, a policeman (carabiniere), has an order to take two children (Rosetta and her brother Luciano) from Milan to Sicily to an orphanage. Their mother has been arrested for forcing Rosetta (11 years old) to work as a prostitute. First the relation between Antonio and the children is tough, but it relaxes so they become temporary friends.",
+            "popularity": 0.5565,
+            "poster_path": "/fkFYNR4iCz5n1j5Drf0jejKmNVb.jpg",
+            "release_date": "1992-04-10",
+            "title": "The Stolen Children",
+            "video": false,
+            "vote_average": 7.618,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 37094,
+            "original_language": "en",
+            "original_title": "Falling Down",
+            "overview": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+            "popularity": 4.0391,
+            "poster_path": "/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+            "release_date": "1993-02-26",
+            "title": "Falling Down",
+            "video": false,
+            "vote_average": 7.389,
+            "vote_count": 3820
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ppS6Ve3zRGnmFQAKKazdDpU76AT.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "id": 18551,
+            "original_language": "en",
+            "original_title": "Flesh and Bone",
+            "overview": "Haunted by memories of his father murdering a family, Arlis Sweeney prefers to keep to himself, focusing his energy on his work. One day, the traumatic past that eats away at him returns when he meets Kay Davies, a woman connected to the bloody event. Against all odds, Arlis and Kay fall in love; however, when his father, Roy, reappears in his life -- with the coldhearted Ginnie in tow -- Arlis must deal with his past demons.",
+            "popularity": 0.6085,
+            "poster_path": "/gNaZSODlVRiQltGWjS8vQZEYJTq.jpg",
+            "release_date": "1993-11-05",
+            "title": "Flesh and Bone",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fHuKwcrwltGlWn3510N1YO7vJ4I.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 1587,
+            "original_language": "en",
+            "original_title": "What's Eating Gilbert Grape",
+            "overview": "Gilbert Grape is a small-town young man with a lot of responsibility. Chief among his concerns are his mother, who is so overweight that she can't leave the house, and his mentally impaired younger brother, Arnie, who has a knack for finding trouble. Settled into a job at a grocery store and an ongoing affair with local woman Betty Carver, Gilbert finally has his life shaken up by the free-spirited Becky.",
+            "popularity": 4.4562,
+            "poster_path": "/8r9yts6XHbB1xNLaPC6ExNAK1Qu.jpg",
+            "release_date": "1993-12-17",
+            "title": "What's Eating Gilbert Grape",
+            "video": false,
+            "vote_average": 7.666,
+            "vote_count": 4074
+        }
+    ]
+}

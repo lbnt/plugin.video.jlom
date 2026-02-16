@@ -1,0 +1,707 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1967",
+    "source": "https://criticstop10.com/best-movies-of-1967/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/knYZcpl08qhiEPCytyNXOq7Z1oS.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 10633,
+            "original_language": "en",
+            "original_title": "In the Heat of the Night",
+            "overview": "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth.",
+            "popularity": 3.4754,
+            "poster_path": "/fvqHTabYej3LwzKRRZCm6jV3g0O.jpg",
+            "release_date": "1967-08-02",
+            "title": "In the Heat of the Night",
+            "video": false,
+            "vote_average": 7.65,
+            "vote_count": 1153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cHIntxWWk3yZi3jM0HnLchBvwvT.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 475,
+            "original_language": "en",
+            "original_title": "Bonnie and Clyde",
+            "overview": "In the 1930s, bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+            "popularity": 3.1459,
+            "poster_path": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+            "release_date": "1967-08-13",
+            "title": "Bonnie and Clyde",
+            "video": false,
+            "vote_average": 7.488,
+            "vote_count": 1685
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9TDi0FPOSAePfVLZXAUgFZhiMLf.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 903,
+            "original_language": "en",
+            "original_title": "Cool Hand Luke",
+            "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+            "popularity": 2.6703,
+            "poster_path": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+            "release_date": "1967-11-01",
+            "title": "Cool Hand Luke",
+            "video": false,
+            "vote_average": 7.732,
+            "vote_count": 1494
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vUZbARc0xY3MjwZnZtybpqbAoK9.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25934,
+            "original_language": "en",
+            "original_title": "To Sir, with Love",
+            "overview": "A British Guianese engineer starts a job as a high school teacher in London\u2019s East End, where his uninterested and delinquent pupils are in desperate need of attention and care.",
+            "popularity": 1.0286,
+            "poster_path": "/xMaVwTfgETmPs5yp3lNK5SeWCtB.jpg",
+            "release_date": "1967-06-14",
+            "title": "To Sir, with Love",
+            "video": false,
+            "vote_average": 7.508,
+            "vote_count": 323
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2hABgVIhalvUB30Z2kIPVv8YX9n.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10752
+            ],
+            "id": 1654,
+            "original_language": "en",
+            "original_title": "The Dirty Dozen",
+            "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy ch\u00e2teau and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+            "popularity": 2.5448,
+            "poster_path": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+            "release_date": "1967-06-15",
+            "title": "The Dirty Dozen",
+            "video": false,
+            "vote_average": 7.599,
+            "vote_count": 1251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rQEhJmR9SJ2yJUKjD8RDTagVBHy.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 37247,
+            "original_language": "en",
+            "original_title": "The Graduate",
+            "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+            "popularity": 4.7449,
+            "poster_path": "/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg",
+            "release_date": "1967-12-21",
+            "title": "The Graduate",
+            "video": false,
+            "vote_average": 7.635,
+            "vote_count": 3476
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/akccsezgPeKN2o12TMrBctgzBGM.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42713,
+            "original_language": "en",
+            "original_title": "Up the Down Staircase",
+            "overview": "Sylvia, a novice schoolteacher, is hired to teach English in a high school, but she\u2019s met with an apathetic faculty, a delinquent student body and an administration that drowns its staff in paperwork. The following days go from bad to worse as Sylvia struggles to reach her most troubled students.",
+            "popularity": 0.5596,
+            "poster_path": "/sYhmhTdltV030QvotEqiVx9I1L3.jpg",
+            "release_date": "1967-06-28",
+            "title": "Up the Down Staircase",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xMYv4oIXdWZN59XwY6NcClyQfTp.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 119183,
+            "original_language": "en",
+            "original_title": "Ulysses",
+            "overview": "Dublin; June 16, 1904. Stephen Dedalus, who fancies himself as a poet, embarks on a day of wandering about the city during which he finds friendship and a father figure in Leopold Bloom, a middle-aged Jew. Meanwhile, Bloom's day, illuminated by a funeral and an evening of drinking and revelry that stirs paternal feelings toward Stephen, ends with a rapprochement with Molly, his earthy wife.",
+            "popularity": 0.4399,
+            "poster_path": "/x74xBYJEjJIW9xlapEjt8CdrqNt.jpg",
+            "release_date": "1967-03-14",
+            "title": "Ulysses",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/am4xs3bVY8tMEvfzXYU1MhHYHhS.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 18373,
+            "original_language": "en",
+            "original_title": "The Family Way",
+            "overview": "Young newlyweds Arthur and Jenny Fitton want nothing more than to get their marriage started on the right foot. But before they can depart for their honeymoon in Spain, they have to spend their first night together at the home of Arthur's parents. The couple are prevented from having any intimacy, but it only gets worse. They find out that their trip to Spain is canceled, which sets the tone for a rocky few weeks.",
+            "popularity": 0.9435,
+            "poster_path": "/1uUCHj2gmaRcbfIqvmJkvdemggd.jpg",
+            "release_date": "1966-12-18",
+            "title": "The Family Way",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ufekY2p0zR41eAeKDrqpmylDa6K.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 32489,
+            "original_language": "en",
+            "original_title": "Thoroughly Modern Millie",
+            "overview": "Millie Dillmount, a fearless young lady fresh from Salina, Kansas, determined to experience Life, sets out to see the world in the rip-roaring Twenties. With high spirits and wearing one of those new high hemlines, she arrives in New York to test the \"modern\" ideas she had been reading about back in Kansas: \"I've taken the girl out of Kansas. Now I have to take Kansas out of the girl!\"",
+            "popularity": 0.8879,
+            "poster_path": "/ce8rBGFR0naGsp6mKy9CNKn9iSa.jpg",
+            "release_date": "1967-03-22",
+            "title": "Thoroughly Modern Millie",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3PYjmY1OiOq2LQ8ZvvLxzwbqIq.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 11206,
+            "original_language": "en",
+            "original_title": "Wait Until Dark",
+            "overview": "After a flight back home, Sam Hendrix returns with a doll he innocently acquired along the way. As it turns out, the doll is actually stuffed with heroin, and a group of criminals led by the ruthless Roat has followed Hendrix back to his place to retrieve it. When Hendrix leaves for business, the crooks make their move -- and find his blind wife, Susy, alone in the apartment. Soon, a life-threatening game begins between Susy and the thugs.",
+            "popularity": 1.6769,
+            "poster_path": "/cNW3ewCB52KkxzSE47PcE5Bqvmr.jpg",
+            "release_date": "1967-10-26",
+            "title": "Wait Until Dark",
+            "video": false,
+            "vote_average": 7.349,
+            "vote_count": 553
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8QyzLqpsfADGvJ1lu8O5KVgKLvD.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 17887,
+            "original_language": "en",
+            "original_title": "Barefoot in the Park",
+            "overview": "In this film based on a Neil Simon play, newlyweds Corie, a free spirit, and Paul Bratter, an uptight lawyer, share a sixth-floor apartment in Greenwich Village. Soon after their marriage, Corie tries to find a companion for mother, Ethel, who is now alone, and sets up Ethel with neighbor Victor. Inappropriate behavior on a double date causes conflict, and the young couple considers divorce.",
+            "popularity": 1.2768,
+            "poster_path": "/qh64tAOmbQNoYMLTETkhmBQgSbu.jpg",
+            "release_date": "1967-05-25",
+            "title": "Barefoot in the Park",
+            "video": false,
+            "vote_average": 7.121,
+            "vote_count": 576
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s1kHDtPr5pn11OqwTlTREAelSRl.jpg",
+            "genre_ids": [
+                12,
+                10402,
+                10749
+            ],
+            "id": 18978,
+            "original_language": "en",
+            "original_title": "Camelot",
+            "overview": "The plot of his illegitimate son Mordred to gain the throne, and Guinevere's growing attachment to Sir Lancelot, threatens to topple King Arthur and destroy his \"round table\" of knights.",
+            "popularity": 1.1933,
+            "poster_path": "/1ohPMbfmQVg0Zzy9wkySm1w8Kr7.jpg",
+            "release_date": "1967-10-25",
+            "title": "Camelot",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zuQ0AbgMqPvyldXz82NKvYtYqU.jpg",
+            "genre_ids": [
+                10402,
+                10751,
+                35,
+                14
+            ],
+            "id": 16081,
+            "original_language": "en",
+            "original_title": "Doctor Dolittle",
+            "overview": "A veterinarian who can communicate with animals travels abroad to search for a giant sea snail.",
+            "popularity": 1.6063,
+            "poster_path": "/rViuZo27U8wcZHGuRliv9LfmhjV.jpg",
+            "release_date": "1967-12-05",
+            "title": "Doctor Dolittle",
+            "video": false,
+            "vote_average": 6.221,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fDeklBmKoeTUslH9uYtZRzWnXHs.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 3469,
+            "original_language": "en",
+            "original_title": "Far from the Madding Crowd",
+            "overview": "Bathsheba Everdine, a willful, flirtatious, young woman, unexpectedly inherits a large farm and becomes romantically involved with three widely divergent men.",
+            "popularity": 1.0138,
+            "poster_path": "/2cCHnpaf5JTRlgO07uulEdUpFkb.jpg",
+            "release_date": "1967-06-18",
+            "title": "Far from the Madding Crowd",
+            "video": false,
+            "vote_average": 6.88,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8vExY7T1SQBKPoAsiBdILozGXPg.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 5767,
+            "original_language": "en",
+            "original_title": "Two for the Road",
+            "overview": "Architect Mark Wallace and his wife, Joanna, travel to France to meet with an affluent client. While there, they reflect on their first decade of marriage -- memories of when they first met, of courtship, and of road trips through the French countryside. As flirtation and playful quarreling turn to boredom with the banality of married life, the Wallaces struggle to rekindle their passion, while mutual infidelity threatens to tear them apart.",
+            "popularity": 0.8603,
+            "poster_path": "/f9GAaL5gXzSP8LhXJcAx8Remfy3.jpg",
+            "release_date": "1967-04-27",
+            "title": "Two for the Road",
+            "video": false,
+            "vote_average": 6.99,
+            "vote_count": 246
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gXQWAtmBpvHs87uZx4VOQgiOVVX.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 42407,
+            "original_language": "en",
+            "original_title": "The Flim-Flam Man",
+            "overview": "Mordecai Jones, a silver-tongued swindler and self-proclaimed \u201cM.B.S., C.S., D.D.\u2014Master of Back-Stabbing, Cork-Screwing and Double-Dealing,\u201d has made a career out of charming and cheating his way through life. Played with devilish charm by George C. Scott, Jones takes on a new prot\u00e9g\u00e9 in Curley, a wide-eyed Army deserter eager for direction. Together, they crisscross the backroads of the rural South, pulling off a string of homespun cons while staying one step ahead of a relentless local sheriff. Along the way, Curley falls for Bonnie Lee Packard, a rebellious heiress who joins their misadventures. But as the scams grow riskier, Curley begins to wonder whether a life of flimflam is worth the price.  With its colorful characters, offbeat humor, and standout performance by Scott, The Flim-Flam Man is a rollicking Southern caper about cons, conscience, and unlikely camaraderie.",
+            "popularity": 0.3119,
+            "poster_path": "/zNKLe9v0ioYM6foZ3hGFaPTcQYo.jpg",
+            "release_date": "1967-08-22",
+            "title": "The Flim-Flam Man",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7oyZyweMSLg84YTUFbURIsIBoZg.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 86059,
+            "original_language": "en",
+            "original_title": "The Comedians",
+            "overview": "American and British tourists get caught up in political unrest in Haiti.",
+            "popularity": 0.3633,
+            "poster_path": "/xlFWqgh0Uyyn21kIaDlRgJk0YYA.jpg",
+            "release_date": "1967-10-31",
+            "title": "The Comedians",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zq1lFZLyhv9S8ugUImIQWoOaZMU.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 22682,
+            "original_language": "en",
+            "original_title": "How to Succeed in Business Without Really Trying",
+            "overview": "A young but bright former window cleaner rises to the top of his company by following the advice of a book about ruthless advancement in business.",
+            "popularity": 0.5383,
+            "poster_path": "/nxjgAm7fDMqUjbEbMKNYasEgAjB.jpg",
+            "release_date": "1967-03-09",
+            "title": "How to Succeed in Business Without Really Trying",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wNwE1HpHSTNZE4uIzOZ2AmYkOB1.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 27945,
+            "original_language": "en",
+            "original_title": "Hombre",
+            "overview": "John Russell, disdained by his \"respectable\" fellow stagecoach passengers because he was raised by Indians, becomes their only hope for survival when they are set upon by outlaws.",
+            "popularity": 1.7047,
+            "poster_path": "/puqgDLxdIZSnodDJ6Q0KxofOebo.jpg",
+            "release_date": "1967-03-21",
+            "title": "Hombre",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/npDDNi2b7XBvaFL2Noh2MbS2EWd.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                36
+            ],
+            "id": 42692,
+            "original_language": "sv",
+            "original_title": "Elvira Madigan",
+            "overview": "Bound by their all-consuming desire, a young circus tightrope walker and a lieutenant forsake everything to be together and escape to the countryside\u2014only to see their lovers\u2019 idyll gradually give way to poverty and desperation.",
+            "popularity": 0.7712,
+            "poster_path": "/odjkOW8BYVTj1q73Ad5KIHFfAge.jpg",
+            "release_date": "1967-04-24",
+            "title": "Elvira Madigan",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5vpZlB1J2JoIJDYXQ59yNX1bdwQ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 77553,
+            "original_language": "en",
+            "original_title": "Hotel",
+            "overview": "This is the story of the clocklike movements of a giant, big city New Orleans hotel. The ambitious yet loyal manager wrestles with the round-the-clock drama of its guests. A brazen sneak thief, who nightly relieves the guests of their property, is chased through the underground passages of the hotel. The big business power play for control of the hotel and the VIP diplomat guest with a secret add to the excitement.",
+            "popularity": 0.3453,
+            "poster_path": "/fq83GS78zcvuQQ7KXsiPYFUKrDZ.jpg",
+            "release_date": "1967-01-19",
+            "title": "Hotel",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sousyLLi3l14qho6gATKYX7pEyR.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 26039,
+            "original_language": "en",
+            "original_title": "Point Blank",
+            "overview": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the rather inconsequential sum of money that was stolen from him.",
+            "popularity": 0.8342,
+            "poster_path": "/5wzZipiC0THdgPpViVV5OqDj3Xr.jpg",
+            "release_date": "1967-08-30",
+            "title": "Point Blank",
+            "video": false,
+            "vote_average": 7.037,
+            "vote_count": 396
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5p4vOrzmAUoIXHjHojetud5tpWz.jpg",
+            "genre_ids": [
+                35,
+                878,
+                53
+            ],
+            "id": 24214,
+            "original_language": "en",
+            "original_title": "The President's Analyst",
+            "overview": "At first, Dr. Sidney Schaefer feels honored and thrilled to be offered the job of the President's Analyst. But then the stress of the job and the paranoid spies that come with a sensitive government position get to him, and he runs away. Now spies from all over the world are after him, either to get him for their own side or to kill him and prevent someone else from getting him.",
+            "popularity": 0.519,
+            "poster_path": "/q0bU82JwVZUFYnK7YvAKRTvQybV.jpg",
+            "release_date": "1967-12-21",
+            "title": "The President's Analyst",
+            "video": false,
+            "vote_average": 5.778,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bFQGD6kDtfq3qDZCSbtInwZOovA.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 4932,
+            "original_language": "en",
+            "original_title": "A Guide for the Married Man",
+            "overview": "A man gives his friend a series of lessons on how to cheat on one's wife without being caught.",
+            "popularity": 0.4581,
+            "poster_path": "/gAuFxWQwD74Z2huac9fkE3lCvhu.jpg",
+            "release_date": "1967-05-25",
+            "title": "A Guide for the Married Man",
+            "video": false,
+            "vote_average": 5.903,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mqFiNjFHxalek0KzpjRWO8Apecc.jpg",
+            "genre_ids": [
+                37,
+                28,
+                80
+            ],
+            "id": 27277,
+            "original_language": "en",
+            "original_title": "The War Wagon",
+            "overview": "An ex-con seeks revenge on the man who put him in prison by planning a robbery of the latter's stagecoach, which is transporting gold. He enlists the help of a partner, who could be working for his nemesis.",
+            "popularity": 1.1079,
+            "poster_path": "/wGSv9mfHocleVwH4Q8d38SkwQP.jpg",
+            "release_date": "1967-05-26",
+            "title": "The War Wagon",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 234081,
+            "original_language": "en",
+            "original_title": "Rosie!",
+            "overview": "An eccentric Los Angeles dowager decides to fight back when her two greedy daughters attempt to have her declared legally insane.",
+            "popularity": 0.1,
+            "poster_path": "/gZ36T8rZvnCxISkFSky0onQoKMP.jpg",
+            "release_date": "1967-11-22",
+            "title": "Rosie!",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dV4lDjkZ11OFlqIh1bLBE4o5ErP.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "id": 3547,
+            "original_language": "en",
+            "original_title": "Reflections in a Golden Eye",
+            "overview": "Bizarre tale of sex, betrayal, and perversion at a military post.",
+            "popularity": 0.4534,
+            "poster_path": "/3cxtCVrTiEvdgIqlb6kr4SKwTVT.jpg",
+            "release_date": "1967-10-13",
+            "title": "Reflections in a Golden Eye",
+            "video": false,
+            "vote_average": 6.462,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yTKXKR9quKkH8N8szLjWLJ6TLBy.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1879,
+            "original_language": "en",
+            "original_title": "Guess Who's Coming to Dinner",
+            "overview": "A couple's attitudes are challenged when their daughter brings home a fianc\u00e9 who is black.",
+            "popularity": 1.4727,
+            "poster_path": "/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+            "release_date": "1967-12-11",
+            "title": "Guess Who's Coming to Dinner",
+            "video": false,
+            "vote_average": 7.566,
+            "vote_count": 870
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gQYsE1Zu89fbi3yUL4bubxoRjbh.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53,
+                36
+            ],
+            "id": 18900,
+            "original_language": "en",
+            "original_title": "In Cold Blood",
+            "overview": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
+            "popularity": 1.2246,
+            "poster_path": "/f4zGKntOVVJUk9X0wCcw1DJPdQe.jpg",
+            "release_date": "1967-12-15",
+            "title": "In Cold Blood",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kIBBeb94FbNfLSljeFUxUoszflb.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                36
+            ],
+            "id": 17295,
+            "original_language": "it",
+            "original_title": "La battaglia di Algeri",
+            "overview": "Tracing the struggle of the Algerian Front de Liberation Nationale to gain freedom from French colonial rule as seen through the eyes of Ali from his start as a petty thief to his rise to prominence in the organisation and capture by the French in 1957. The film traces the rebels' struggle and the increasingly extreme measures taken by the French government to quell the revolt.",
+            "popularity": 1.1921,
+            "poster_path": "/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+            "release_date": "1966-09-08",
+            "title": "The Battle of Algiers",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 818
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/irejIt5Uu0xbUYQ6XAGamEjpRoX.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 25560,
+            "original_language": "en",
+            "original_title": "The Taming of the Shrew",
+            "overview": "Italy, 16th century. Petruchio, a choleric, lying and poor rural landowner from Verona, arrives in Padua in search of fortune and a wife, while Baptista, a wealthy merchant, announces that he will not allow Bianca, his youngest daughter, to marry until the temperamental and unruly Katherina, his eldest daughter, does.",
+            "popularity": 1.104,
+            "poster_path": "/2LpU3kyg1PowiQoEHf7oUXOUmVa.jpg",
+            "release_date": "1967-03-08",
+            "title": "The Taming of the Shrew",
+            "video": false,
+            "vote_average": 6.93,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5NSTd8UFpLK57h8Ji5oYdgklKsg.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 2516,
+            "original_language": "en",
+            "original_title": "Our Mother's House",
+            "overview": "Seven British children bury their mother and hide her death, until their long-lost father returns.",
+            "popularity": 0.4125,
+            "poster_path": "/yI1Aoy79FyWdqwekiV765lNjYh6.jpg",
+            "release_date": "1967-09-14",
+            "title": "Our Mother's House",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rhwGCD3AosYcPK7rTFHmL4NdrP1.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 6644,
+            "original_language": "en",
+            "original_title": "El Dorado",
+            "overview": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Harrah. Together with a fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
+            "popularity": 2.4974,
+            "poster_path": "/poJxkMtTA3E95lJ6RnBgNxF0Vmx.jpg",
+            "release_date": "1966-12-17",
+            "title": "El Dorado",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 551
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1RswTD6goW0jL29u1tb1RA03GxP.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 42693,
+            "original_language": "en",
+            "original_title": "Enter Laughing",
+            "overview": "A machinist's apprentice in Depression-era New York, David dreams of becoming the new Ronald Colman. Defying the wishes of his parents, David lands a nonpaying job in a seedy theatrical production directed by broken-down ham Marlowe.",
+            "popularity": 0.1619,
+            "poster_path": "/7YdI1eCfG8N8xqvGhyezjODGGc9.jpg",
+            "release_date": "1967-02-25",
+            "title": "Enter Laughing",
+            "video": false,
+            "vote_average": 4.0,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hT5Zkm1s8E6duzUKdIZQ025Y071.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 26204,
+            "original_language": "en",
+            "original_title": "Tony Rome",
+            "overview": "Tony Rome, a tough Miami PI living on a houseboat, is hired by a local millionaire to find jewelry stolen from his daughter, and in the process has several encounters with local hoods as well as the Miami Beach PD.",
+            "popularity": 0.6289,
+            "poster_path": "/5QQjTAxHBAY8RiHdeZcVZ3T0tVk.jpg",
+            "release_date": "1967-11-10",
+            "title": "Tony Rome",
+            "video": false,
+            "vote_average": 6.391,
+            "vote_count": 64
+        }
+    ]
+}

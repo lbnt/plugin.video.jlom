@@ -1,0 +1,646 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1976",
+    "source": "https://criticstop10.com/best-movies-of-1976/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/p2U4wScUValTXnvikXy7kfQNDsH.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 891,
+            "original_language": "en",
+            "original_title": "All the President's Men",
+            "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+            "popularity": 1.7469,
+            "poster_path": "/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
+            "release_date": "1976-04-09",
+            "title": "All the President's Men",
+            "video": false,
+            "vote_average": 7.655,
+            "vote_count": 1909
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 103,
+            "original_language": "en",
+            "original_title": "Taxi Driver",
+            "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+            "popularity": 10.8489,
+            "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+            "release_date": "1976-02-09",
+            "title": "Taxi Driver",
+            "video": false,
+            "vote_average": 8.135,
+            "vote_count": 12770
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/of6OQnsvPHXEASczrBc3nVsMZ7q.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10774,
+            "original_language": "en",
+            "original_title": "Network",
+            "overview": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
+            "popularity": 3.6112,
+            "poster_path": "/gZ8hhuVEQ78CLND09trZJ45Eiy8.jpg",
+            "release_date": "1976-11-14",
+            "title": "Network",
+            "video": false,
+            "vote_average": 7.815,
+            "vote_count": 1850
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1366,
+            "original_language": "en",
+            "original_title": "Rocky",
+            "overview": "An uneducated collector for a Philadelphia loan shark is given a once-in-a-lifetime opportunity to fight against the world heavyweight boxing champion.",
+            "popularity": 11.1232,
+            "poster_path": "/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
+            "release_date": "1976-11-20",
+            "title": "Rocky",
+            "video": false,
+            "vote_average": 7.79,
+            "vote_count": 8170
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/goBPr2y6uMU063J08bXuJjCAlil.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1660,
+            "original_language": "fr",
+            "original_title": "L'Argent de poche",
+            "overview": "Various experiences of childhood are seen in several sequences that take place in the small town of Thiers, France. Vignettes include a boy's awakening interest in girls, couples double-dating at the movies, brothers giving their friend a haircut, a boy dealing with an abusive home life, a baby and a cat sitting by an open window, a child telling a dirty joke, and a boy who develops a crush on his friend's mother.",
+            "popularity": 0.4937,
+            "poster_path": "/lBOkXZ2RsL2BO6NlrFgR9yT7J4I.jpg",
+            "release_date": "1976-03-17",
+            "title": "Small Change",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4ilXtC261Kzam3DxriDAlPQJH2K.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 37550,
+            "original_language": "it",
+            "original_title": "Pasqualino Settebellezze",
+            "overview": "Pasqualino Frafuso, known in Naples as \"Pasqualino Seven Beauties\" is a petty thief who lives off of the profits of his seven sisters while claiming to protect their honor at any cost, Pasqualino is arrested for murder and later sent to fight in the army after committing sexual assault. The Germans capture him and he gets sent to a concentration camp where he plots to make his escape by seducing a German officer.",
+            "popularity": 0.6758,
+            "poster_path": "/z1c93tNFz3ypiOpfQDji15nm98I.jpg",
+            "release_date": "1975-12-20",
+            "title": "Seven Beauties",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ljJH6PkJfGGH8cFafLUS1QyEZAe.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 23479,
+            "original_language": "en",
+            "original_title": "The Bad News Bears",
+            "overview": "An aging, down-on-his-luck ex-minor leaguer coaches a team of misfits in an ultra-competitive California little league.",
+            "popularity": 1.0645,
+            "poster_path": "/kJNXMni0ObOXLth6v9xpUhWbtrp.jpg",
+            "release_date": "1976-04-06",
+            "title": "The Bad News Bears",
+            "video": false,
+            "vote_average": 6.924,
+            "vote_count": 309
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r4hrvxb7qVlNtNpkK9QWfDzypKh.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 12584,
+            "original_language": "en",
+            "original_title": "The Shootist",
+            "overview": "Afflicted with a terminal illness John Bernard Books, the last of the legendary gunfighters, quietly returns to Carson City for medical attention from his old friend Dr. Hostetler. Aware that his days are numbered, the troubled man seeks solace and peace in a boarding house run by a widow and her son. However, it is not Books' fate to die in peace, as he becomes embroiled in one last valiant battle.",
+            "popularity": 1.1599,
+            "poster_path": "/gb1oj3xUJUeH9oyZNH6WKCo9lM.jpg",
+            "release_date": "1976-07-21",
+            "title": "The Shootist",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 359
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1Z08RUb16Yz091IpzIUTM2s0P7U.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 29454,
+            "original_language": "sv",
+            "original_title": "Ansikte mot ansikte",
+            "overview": "Dr. Jenny Isaksson is a psychiatrist whose temporary position at a mental hospital offers only modest responsibilities. With her husband out of the country for a seminar and her daughter at camp, Jenny moves in with her grandparents, expecting a relaxing few months. But it isn't long before unpleasant memories of her childhood, the sudden appearance of strange apparitions, and a near-rape push this otherwise stable woman to the very edge of sanity.",
+            "popularity": 0.3798,
+            "poster_path": "/ulh7ILYfvSZExCXENEhySvuZLLl.jpg",
+            "release_date": "1976-04-05",
+            "title": "Face to Face",
+            "video": false,
+            "vote_average": 7.265,
+            "vote_count": 117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c4dD7QrZ0LOQKqQxF51qUnGhVge.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 5618,
+            "original_language": "fr",
+            "original_title": "Cousin, Cousine",
+            "overview": "Two distant cousins meet at a wedding banquet for an elderly couple. Over time, a close friendship develops between them, but their spouses begin to think that they are more than just friends.",
+            "popularity": 0.3883,
+            "poster_path": "/ffGpsolcNX9oJZvJinQwFhePtAD.jpg",
+            "release_date": "1975-11-19",
+            "title": "Cousin, Cousine",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fYq6nVUMZaainfFKPPfpGQtuoa2.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 29578,
+            "original_language": "en",
+            "original_title": "The Seven-Per-Cent Solution",
+            "overview": "Concerned about his friend's cocaine use, Dr. Watson tricks Sherlock Holmes into travelling to Vienna, where Holmes enters the care of Sigmund Freud. Freud attempts to solve the mysteries of Holmes' subconscious, while Holmes devotes himself to solving a mystery involving the kidnapping of Lola Deveraux.",
+            "popularity": 0.389,
+            "poster_path": "/95IzjZIzXVDpojBuMWaeAmJzIDs.jpg",
+            "release_date": "1976-10-24",
+            "title": "The Seven-Per-Cent Solution",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6MBo0C4G0O7A7JVVfVVJIJbh1fU.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 10970,
+            "original_language": "en",
+            "original_title": "Silent Movie",
+            "overview": "Aspiring filmmakers Mel Funn, Marty Eggs and Dom Bell go to a financially troubled studio with an idea for a silent movie. In an effort to make the movie more marketable, they attempt to recruit a number of big name stars to appear, while the studio's creditors attempt to thwart them.",
+            "popularity": 0.6211,
+            "poster_path": "/AeaoOSqEU3elkpDAlKbIWcdKLJ8.jpg",
+            "release_date": "1976-06-17",
+            "title": "Silent Movie",
+            "video": false,
+            "vote_average": 6.529,
+            "vote_count": 308
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lw5HdgozS0j9rwqHWyDycgAa3GJ.jpg",
+            "genre_ids": [
+                12,
+                10749
+            ],
+            "id": 10786,
+            "original_language": "en",
+            "original_title": "Robin and Marian",
+            "overview": "Robin Hood, aging none too gracefully, returns exhausted from the Crusades to woo and win Maid Marian one last time.",
+            "popularity": 0.8748,
+            "poster_path": "/y2UlVt6U8mFeegVL42rZjD5y6c7.jpg",
+            "release_date": "1976-03-11",
+            "title": "Robin and Marian",
+            "video": false,
+            "vote_average": 6.29,
+            "vote_count": 240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/djRD1jAXkUEQIFnG6fFFQAh9LD4.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18,
+                28
+            ],
+            "id": 10518,
+            "original_language": "en",
+            "original_title": "Marathon Man",
+            "overview": "A graduate student and obsessive runner in New York is drawn into a mysterious plot involving his brother, a member of the secretive Division.",
+            "popularity": 2.3631,
+            "poster_path": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+            "release_date": "1976-10-08",
+            "title": "Marathon Man",
+            "video": false,
+            "vote_average": 7.176,
+            "vote_count": 1136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f87CrE40sszI5BOBlObHwbvVprn.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1723,
+            "original_language": "en",
+            "original_title": "The Front",
+            "overview": "A cashier poses as a writer for blacklisted talents to submit their work through, but the injustice around him pushes him to take a stand.",
+            "popularity": 0.5455,
+            "poster_path": "/3h39YWLBuFd4SGi2eqNazEQlPv7.jpg",
+            "release_date": "1976-09-17",
+            "title": "The Front",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5sfbPsenSrbH8pzVMjEd0LUu50Y.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 794,
+            "original_language": "en",
+            "original_title": "The Omen",
+            "overview": "Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesn\u2019t know is that their new son is the son of the devil.",
+            "popularity": 3.331,
+            "poster_path": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+            "release_date": "1976-06-25",
+            "title": "The Omen",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 2227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 7340,
+            "original_language": "en",
+            "original_title": "Carrie",
+            "overview": "Withdrawn and sensitive teen Carrie White faces taunting from classmates at school and abuse from her fanatically pious mother. When strange occurrences start happening around Carrie, she begins to suspect that she has supernatural powers.",
+            "popularity": 5.3568,
+            "poster_path": "/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
+            "release_date": "1976-11-03",
+            "title": "Carrie",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 4018
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kjIgQmRlgBI1u2YvjW7EcorzHbf.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                18
+            ],
+            "id": 4780,
+            "original_language": "en",
+            "original_title": "Obsession",
+            "overview": "A wealthy New Orleans businessman becomes obsessed with a young woman who resembles his late wife.",
+            "popularity": 1.1864,
+            "poster_path": "/a0bOKTldOJVJivmPNGBHfMYJU9x.jpg",
+            "release_date": "1976-08-01",
+            "title": "Obsession",
+            "video": false,
+            "vote_average": 6.637,
+            "vote_count": 302
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 42232,
+            "original_language": "en",
+            "original_title": "Bound for Glory",
+            "overview": "A biography of Woody Guthrie, one of America's greatest folk singers. He left his dust-devastated Texas home in the 1930s to find work, discovering the suffering and strength of America's working class.",
+            "popularity": 0.4041,
+            "poster_path": "/w8lDvxszlhjvtvwRCx7Kuyos9aT.jpg",
+            "release_date": "1976-12-05",
+            "title": "Bound for Glory",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5WzusZileLb3TLyMOYrwWrh4YXu.jpg",
+            "genre_ids": [
+                35,
+                80,
+                53,
+                9648
+            ],
+            "id": 5854,
+            "original_language": "en",
+            "original_title": "Family Plot",
+            "overview": "Spiritualist Blanche Tyler and her cab-driving boyfriend encounter a pair of serial kidnappers while trailing a missing heir in California.",
+            "popularity": 1.3214,
+            "poster_path": "/mOg42HWC5ew8D0uCjHUna2ISpeD.jpg",
+            "release_date": "1976-04-09",
+            "title": "Family Plot",
+            "video": false,
+            "vote_average": 6.751,
+            "vote_count": 472
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdGXPG1XBKYWSUrQXLvyDGilUjs.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 31913,
+            "original_language": "en",
+            "original_title": "Next Stop, Greenwich Village",
+            "overview": "An aspiring Jewish actor moves out of his parents' Brooklyn apartment to seek his fortune in the bohemian life of Greenwich Village in 1953.",
+            "popularity": 0.1528,
+            "poster_path": "/qYMvsrCG6qjIoJYPIdgeceDlhDR.jpg",
+            "release_date": "1976-02-04",
+            "title": "Next Stop, Greenwich Village",
+            "video": false,
+            "vote_average": 6.408,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9kskVRVgXkiCWrWXEelMeadrf53.jpg",
+            "genre_ids": [
+                53,
+                27,
+                878
+            ],
+            "id": 1678,
+            "original_language": "ja",
+            "original_title": "\u30b4\u30b8\u30e9",
+            "overview": "Japan is thrown into a panic after several ships are sunk near Odo Island. An expedition to the island led by Dr. Kyohei Yamane soon discover something far more devastating than imagined in the form of a 50 meter tall monster whom the natives call Gojira. Now the monster begins a rampage that threatens to destroy not only Japan, but the rest of the world as well.",
+            "popularity": 3.268,
+            "poster_path": "/365zBxfAgBG8iO2miGfVtltUXwt.jpg",
+            "release_date": "1954-11-03",
+            "title": "Godzilla",
+            "video": false,
+            "vote_average": 7.644,
+            "vote_count": 1033
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vqUFZZaOIilL5gBvXY8YL9ES6WT.jpg",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "id": 87041,
+            "original_language": "en",
+            "original_title": "The Memory of Justice",
+            "overview": "This exceptional, disturbing, and thought-provoking two-part documentary compares the atrocities committed by the Nazis as revealed during the Nuremberg trials to those committed by the French in Algeria and those done by the Americans in Vietnam. The four-hour epic questions the right of any country to pass self-righteous moral judgements upon the actions of another country.",
+            "popularity": 0.1052,
+            "poster_path": "/dFlC9K4buNbUJZRkuDipe5NcCBf.jpg",
+            "release_date": "1976-10-04",
+            "title": "The Memory of Justice",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uOetgTXdupZTgqSMEdnUYot5Ogs.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 48205,
+            "original_language": "de",
+            "original_title": "Die Marquise von O...",
+            "overview": "A German Marquise has to deal with a pregnancy she cannot explain and an infatuated Russian Count.",
+            "popularity": 0.3348,
+            "poster_path": "/8yu0TwkoY5eO3nS1w5DR52oBHVn.jpg",
+            "release_date": "1976-05-19",
+            "title": "The Marquise of O",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jFN3MAeTYJCCpfkdLNf5knPTxDD.jpg",
+            "genre_ids": [
+                37,
+                35
+            ],
+            "id": 42233,
+            "original_language": "en",
+            "original_title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+            "overview": "Buffalo Bill plans to put on his own Wild West sideshow, and Chief Sitting Bull has agreed to appear in it. However, Sitting Bull has his own hidden agenda, involving the President and General Custer.",
+            "popularity": 0.4514,
+            "poster_path": "/zyQZAJogUOECWM46v4N6wGDHd20.jpg",
+            "release_date": "1976-06-24",
+            "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+            "video": false,
+            "vote_average": 5.434,
+            "vote_count": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2fxKUjqZjNy8KMvKwNZW3avI55c.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 8425,
+            "original_language": "fr",
+            "original_title": "L'Horloger de Saint-Paul",
+            "overview": "Lyons, France. Michel Descombes is a watchmaker who lives alone with his teenage son Bernard. When the police visit and informs him that Bernard killed a man and is on the run with a girl, Michel realizes that he knew far less about his son than he thought.",
+            "popularity": 0.4495,
+            "poster_path": "/fLDETyjhqsEDmryQ17i46wV3ECr.jpg",
+            "release_date": "1974-01-16",
+            "title": "The Watchmaker of St. Paul",
+            "video": false,
+            "vote_average": 6.909,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/frM7pCS0vWnT1Utb81YyErmohmg.jpg",
+            "genre_ids": [
+                35,
+                80,
+                9648,
+                53
+            ],
+            "id": 6037,
+            "original_language": "en",
+            "original_title": "Murder by Death",
+            "overview": "Lionel Twain invites the world's five greatest detectives to a 'dinner and murder'. Included are a blind butler, a deaf-mute maid, screams, spinning rooms, secret passages, false identities and more plot turns and twists than are decently allowed.",
+            "popularity": 1.0195,
+            "poster_path": "/7YGYam05qzHy0ZSzfjBSDkVvvU7.jpg",
+            "release_date": "1976-06-23",
+            "title": "Murder by Death",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 839
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 19610,
+            "original_language": "en",
+            "original_title": "A Star Is Born",
+            "overview": "Drunken, has-been rock star John Norman Howard falls in love with unknown singer Esther Hoffman after seeing her perform at a club. He lets her sing a few songs at one of his shows and she becomes the talk of the music industry. Esther's star begins to rise, while John's continues to fall. She tries desperately to get John to sober up and focus on his music, but it may be too late to save him.",
+            "popularity": 1.0012,
+            "poster_path": "/3Hr63lBDhvYGpSd8HxDpWvowZpY.jpg",
+            "release_date": "1976-12-17",
+            "title": "A Star Is Born",
+            "video": false,
+            "vote_average": 6.013,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xarA1q7NcqPVXD2gOKslUeynqRD.jpg",
+            "genre_ids": [
+                878,
+                18
+            ],
+            "id": 991,
+            "original_language": "en",
+            "original_title": "The Man Who Fell to Earth",
+            "overview": "Thomas Jerome Newton is an alien who has come to Earth in search of water to save his home planet. Aided by lawyer Oliver Farnsworth, Thomas uses his knowledge of advanced technology to create profitable inventions. While developing a method to transport water, Thomas meets Mary-Lou, a quiet hotel clerk, and begins to fall in love with her. Just as he is ready to leave Earth, Thomas is intercepted by the U.S. government, and his entire plan is threatened.",
+            "popularity": 1.4681,
+            "poster_path": "/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
+            "release_date": "1976-03-18",
+            "title": "The Man Who Fell to Earth",
+            "video": false,
+            "vote_average": 6.466,
+            "vote_count": 555
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mEvm3P25Wn1WDVkDr5BT11nSr6R.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 42243,
+            "original_language": "en",
+            "original_title": "The Bingo Long Traveling All-Stars & Motor Kings",
+            "overview": "Top baseball pitcher Bingo Long is fed up with how his Negro League team owner treats him, so he forms his own lineup, recruiting big-hitting Leon Carter and Charlie Snow, who dreams of playing in the majors. Boycotted by black teams, Long's outfit play minor league white teams, earning more attention as entertainers than as players. However, their success wins them a chance to play again in the Negro League, this time as equals.",
+            "popularity": 0.2397,
+            "poster_path": "/7kvjllELG8AGLifc433GhLzShj0.jpg",
+            "release_date": "1976-07-16",
+            "title": "The Bingo Long Traveling All-Stars & Motor Kings",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vF6HsyBdaJAZIYNUVs2hyY5itBy.jpg",
+            "genre_ids": [
+                18,
+                28,
+                35,
+                10402,
+                10751
+            ],
+            "id": 8446,
+            "original_language": "en",
+            "original_title": "Bugsy Malone",
+            "overview": "New York, 1929, a war rages between two rival gangsters, Fat Sam and Dandy Dan. Dan is in possession of a new and deadly weapon, the dreaded \"splurge gun\". As the custard pies fly, Bugsy Malone, an all-round nice guy, falls for Blousey Brown, a singer at Fat Sam's speakeasy. His designs on her are disrupted by the seductive songstress Tallulah who wants Bugsy for herself.",
+            "popularity": 0.9332,
+            "poster_path": "/j9BPl3jkNCFgsYe5poKrirUqrf8.jpg",
+            "release_date": "1976-07-22",
+            "title": "Bugsy Malone",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 297
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fjH4p9RFY9wcChRY3rc6bumfS23.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 12268,
+            "original_language": "en",
+            "original_title": "The Pink Panther Strikes Again",
+            "overview": "Charles Dreyfus, who has finally cracked over inspector Clouseau's antics, escapes from a mental institution and launches an elaborate plan to get rid of Clouseau once and for all.",
+            "popularity": 2.3282,
+            "poster_path": "/GGCch9LNAKwp4ZADAcNz1hd1dn.jpg",
+            "release_date": "1976-12-15",
+            "title": "The Pink Panther Strikes Again",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 568
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mok2DwxDXik93xx7BoIRsxXGKOf.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42237,
+            "original_language": "fr",
+            "original_title": "Jonas qui aura 25 ans en l'an 2000",
+            "overview": "A look at the lives of several men and women in their 30s as they confront the slim gains of the \"revolutionary\" sixties. Max, a dissatisfied copy editor; Myriam, a redhead into tantric sex; and Marie, a supermarket checker who gives unauthorized discounts to the elderly, search for renewed meaning on a communal farm. The title character, a six-year-old child, is the carrier of their hopes for the future.",
+            "popularity": 0.1182,
+            "poster_path": "/zwqnEiUygCOGRZJvbzaTRF6tbsC.jpg",
+            "release_date": "1976-12-01",
+            "title": "Jonah Who Will Be 25 in the Year 2000",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 19
+        }
+    ]
+}

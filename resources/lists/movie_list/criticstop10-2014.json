@@ -1,0 +1,964 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2014",
+    "source": "https://criticstop10.com/best-movies-of-2014/",
+    "created_by": "lbnt",
+    "added": "07/18/25",
+    "modified": "07/18/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/mVH9yTLSk2g7RXkpmKCJ4HKijWX.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 85350,
+            "original_language": "en",
+            "original_title": "Boyhood",
+            "overview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+            "popularity": 4.3611,
+            "poster_path": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+            "release_date": "2014-06-05",
+            "title": "Boyhood",
+            "video": false,
+            "vote_average": 7.495,
+            "vote_count": 5290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 120467,
+            "original_language": "en",
+            "original_title": "The Grand Budapest Hotel",
+            "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+            "popularity": 8.1823,
+            "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+            "release_date": "2014-02-26",
+            "title": "The Grand Budapest Hotel",
+            "video": false,
+            "vote_average": 8.037,
+            "vote_count": 15284
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 194662,
+            "original_language": "en",
+            "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "overview": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+            "popularity": 4.5912,
+            "poster_path": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+            "release_date": "2014-10-17",
+            "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "video": false,
+            "vote_average": 7.453,
+            "vote_count": 13077
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 244786,
+            "original_language": "en",
+            "original_title": "Whiplash",
+            "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+            "popularity": 16.1007,
+            "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+            "release_date": "2014-10-10",
+            "title": "Whiplash",
+            "video": false,
+            "vote_average": 8.377,
+            "vote_count": 15764
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+            "genre_ids": [
+                53,
+                878,
+                18
+            ],
+            "id": 97370,
+            "original_language": "en",
+            "original_title": "Under the Skin",
+            "overview": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
+            "popularity": 3.0605,
+            "poster_path": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+            "release_date": "2014-03-14",
+            "title": "Under the Skin",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 3559
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ufic9NSdolkgNkQSAVjlVp0uqn.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                18
+            ],
+            "id": 210577,
+            "original_language": "en",
+            "original_title": "Gone Girl",
+            "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "popularity": 19.4031,
+            "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+            "release_date": "2014-10-01",
+            "title": "Gone Girl",
+            "video": false,
+            "vote_average": 7.89,
+            "vote_count": 19111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vabhkZ3vwf8u7yXCSi3zbVzAVRa.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 242582,
+            "original_language": "en",
+            "original_title": "Nightcrawler",
+            "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+            "popularity": 8.2096,
+            "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+            "release_date": "2014-10-23",
+            "title": "Nightcrawler",
+            "video": false,
+            "vote_average": 7.705,
+            "vote_count": 11113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 118340,
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy",
+            "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+            "popularity": 8.9437,
+            "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+            "release_date": "2014-07-30",
+            "title": "Guardians of the Galaxy",
+            "video": false,
+            "vote_average": 7.905,
+            "vote_count": 28671
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kVGUdR1CXKAyCFj5Tt4uyR2bpFx.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 273895,
+            "original_language": "en",
+            "original_title": "Selma",
+            "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+            "popularity": 2.2813,
+            "poster_path": "/wq4lhMc4BuOyQqe1ZGzhxLyy3Uk.jpg",
+            "release_date": "2014-12-25",
+            "title": "Selma",
+            "video": false,
+            "vote_average": 7.392,
+            "vote_count": 2240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/33dV6HAnXBmwKl640gO3U4auqUN.jpg",
+            "genre_ids": [
+                28,
+                878,
+                18
+            ],
+            "id": 110415,
+            "original_language": "ko",
+            "original_title": "\uc124\uad6d\uc5f4\ucc28",
+            "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
+            "popularity": 7.6616,
+            "poster_path": "/nzccOvhrLGI0nvAknCEAk8bchD9.jpg",
+            "release_date": "2013-08-01",
+            "title": "Snowpiercer",
+            "video": false,
+            "vote_average": 6.905,
+            "vote_count": 9884
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9SvfYLJyai34bafR1AvqD9vAJi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 209274,
+            "original_language": "pl",
+            "original_title": "Ida",
+            "overview": "Anna, a young novitiate in 1960s Poland, is on the verge of taking her vows when she discovers a family secret dating back to the years of the German occupation.",
+            "popularity": 1.2754,
+            "poster_path": "/3uoCttE46RGHybiA26cXTvmFqbW.jpg",
+            "release_date": "2013-10-25",
+            "title": "Ida",
+            "video": false,
+            "vote_average": 7.235,
+            "vote_count": 1003
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9531Jp42H0ppRXjkxxgCulnQNZp.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35,
+                14
+            ],
+            "id": 137106,
+            "original_language": "en",
+            "original_title": "The Lego Movie",
+            "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+            "popularity": 8.2009,
+            "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+            "release_date": "2014-02-06",
+            "title": "The Lego Movie",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 8061
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nOWO66xzNdkslLlUhRfSo015hhP.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 152603,
+            "original_language": "en",
+            "original_title": "Only Lovers Left Alive",
+            "overview": "A depressed musician reunites with his lover in the desolate streets of Detroit. Though their romance has endured several centuries, it is tested by the arrival of her capricious and unpredictable younger sister.",
+            "popularity": 2.2763,
+            "poster_path": "/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg",
+            "release_date": "2013-12-12",
+            "title": "Only Lovers Left Alive",
+            "video": false,
+            "vote_average": 7.215,
+            "vote_count": 2265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zwC3N0QQC2OCPDz2UWKNoq5vXm7.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                35
+            ],
+            "id": 171274,
+            "original_language": "en",
+            "original_title": "Inherent Vice",
+            "overview": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
+            "popularity": 2.3937,
+            "poster_path": "/hyan5Uc0lGpPuad94DM1pLxneiP.jpg",
+            "release_date": "2014-12-12",
+            "title": "Inherent Vice",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2552
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bcFlmrov1e5CCxZA7ZskGJ6QIh.jpg",
+            "genre_ids": [
+                18,
+                27
+            ],
+            "id": 242224,
+            "original_language": "en",
+            "original_title": "The Babadook",
+            "overview": "A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.",
+            "popularity": 5.3967,
+            "poster_path": "/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+            "release_date": "2014-05-22",
+            "title": "The Babadook",
+            "video": false,
+            "vote_average": 6.523,
+            "vote_count": 6145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/os632o7nbJ2PTdLaJoo5mRJ30LP.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 265189,
+            "original_language": "sv",
+            "original_title": "Turist",
+            "overview": "While holidaying in the French Alps, a Swedish family deals with acts of cowardliness as an avalanche breaks out.",
+            "popularity": 1.2404,
+            "poster_path": "/41agNfzepz2DTdgTBX1fX0QclHp.jpg",
+            "release_date": "2014-08-15",
+            "title": "Force Majeure",
+            "video": false,
+            "vote_average": 6.857,
+            "vote_count": 1119
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l33oR0mnvf20avWyIMxW02EtQxn.jpg",
+            "genre_ids": [
+                12,
+                18,
+                878
+            ],
+            "id": 157336,
+            "original_language": "en",
+            "original_title": "Interstellar",
+            "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "popularity": 38.2683,
+            "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "release_date": "2014-11-05",
+            "title": "Interstellar",
+            "video": false,
+            "vote_average": 8.457,
+            "vote_count": 37441
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/PS5u6V1ZWzkZYFHYUCCStz1Yhu.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 221902,
+            "original_language": "fr",
+            "original_title": "Deux jours, une nuit",
+            "overview": "Sandra is a young woman who has only one weekend to convince her colleagues they must give up their bonuses in order for her to keep her job \u2014 not an easy task in this economy.",
+            "popularity": 0.9636,
+            "poster_path": "/2qpZZ5a5Axpk8OeCtrvNTQfJiB2.jpg",
+            "release_date": "2014-05-21",
+            "title": "Two Days, One Night",
+            "video": false,
+            "vote_average": 6.893,
+            "vote_count": 957
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mqIheOKqtRD7Z9l4kEmic7BDqEZ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 152599,
+            "original_language": "en",
+            "original_title": "The Immigrant",
+            "overview": "1921 New York. An immigrant woman is tricked into a life of burlesque and vaudeville until a dazzling magician tries to save her and reunite her with her sister who is being held in the confines of Ellis Island.",
+            "popularity": 1.9219,
+            "poster_path": "/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
+            "release_date": "2013-11-27",
+            "title": "The Immigrant",
+            "video": false,
+            "vote_average": 6.325,
+            "vote_count": 834
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tT8vexYdyHG0nHyXQkhzt8tbFkt.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 87492,
+            "original_language": "en",
+            "original_title": "Foxcatcher",
+            "overview": "The greatest Olympic Wrestling Champion brother team joins Team Foxcatcher led by multimillionaire sponsor John E. du Pont as they train for the 1988 games in Seoul - a union that leads to unlikely circumstances.",
+            "popularity": 1.5488,
+            "poster_path": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg",
+            "release_date": "2014-11-14",
+            "title": "Foxcatcher",
+            "video": false,
+            "vote_average": 6.655,
+            "vote_count": 2357
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/godZeVdLEH6YFOBPajdLkAvhy5l.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 293310,
+            "original_language": "en",
+            "original_title": "Citizenfour",
+            "overview": "In June 2013, Laura Poitras and reporter Glenn Greenwald flew to Hong Kong for the first of many meetings with Edward Snowden. She brought her camera with her.",
+            "popularity": 0.9721,
+            "poster_path": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+            "release_date": "2014-10-10",
+            "title": "Citizenfour",
+            "video": false,
+            "vote_average": 7.742,
+            "vote_count": 1332
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+            "genre_ids": [
+                36,
+                18,
+                53,
+                10752
+            ],
+            "id": 205596,
+            "original_language": "en",
+            "original_title": "The Imitation Game",
+            "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+            "popularity": 13.7236,
+            "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+            "release_date": "2014-11-14",
+            "title": "The Imitation Game",
+            "video": false,
+            "vote_average": 7.994,
+            "vote_count": 17412
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 137113,
+            "original_language": "en",
+            "original_title": "Edge of Tomorrow",
+            "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+            "popularity": 11.682,
+            "poster_path": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+            "release_date": "2014-05-27",
+            "title": "Edge of Tomorrow",
+            "video": false,
+            "vote_average": 7.631,
+            "vote_count": 14288
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/74IaLYwgko2nTLj8Gz9ukQ4RIvC.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 245700,
+            "original_language": "en",
+            "original_title": "Mr. Turner",
+            "overview": "Eccentric British painter J.M.W. Turner  lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him.",
+            "popularity": 1.0868,
+            "poster_path": "/rnVhl1PFSOoW5c6UhZJZt5TV98p.jpg",
+            "release_date": "2014-10-31",
+            "title": "Mr. Turner",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 533
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bOHq7n79I3gNDI3yMGidlLadJGA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 114982,
+            "original_language": "fr",
+            "original_title": "Adieu au langage",
+            "overview": "The idea is simple / A married woman and a single man meet / They love, they argue, fists fly / A dog strays between town and country / The seasons pass / The man and woman meet again / The dog finds itself between them / The other is in one, / the one is in the other / and they are three / The former husband shatters everything / A second film begins: / the same as the first, / and yet not / From the human race we pass to metaphor / This ends in barking / and a baby's cries / In the meantime, we will have seen people talking of the demise of the dollar, of truth in mathematics and of the death of a robin.\" - JLG",
+            "popularity": 1.394,
+            "poster_path": "/dQ0qBocOIz5VgoEPQDptOXRwWEv.jpg",
+            "release_date": "2014-08-15",
+            "title": "Goodbye to Language",
+            "video": false,
+            "vote_average": 6.06,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/idr6EEeyzsrSfDMejVfI7H5TFfo.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 186992,
+            "original_language": "fr",
+            "original_title": "L'Inconnu du lac",
+            "overview": "Frank spends his summer days hopelessly searching for companionship at a popular cruising spot on the shores of a lake in rural France. One day, he meets Michel, an attractive yet darkly mysterious man and falls blindly in love.",
+            "popularity": 1.7602,
+            "poster_path": "/ug6IbPt19J8YIW9vh87Xw9FOTaJ.jpg",
+            "release_date": "2013-06-12",
+            "title": "Stranger by the Lake",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 443
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aivbF72gqeFvEyi62PGjKuB3eh0.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 241239,
+            "original_language": "en",
+            "original_title": "A Most Violent Year",
+            "overview": "A thriller set in New York City during the winter of 1981, statistically one of the most violent years in the city's history, and centered on the lives of an immigrant and his family trying to expand their business and capitalize on opportunities as the rampant violence, decay, and corruption of the day drag them in and threaten to destroy all they have built.",
+            "popularity": 1.8726,
+            "poster_path": "/j0fmC8xFw6cuiREcSajob0MTD6K.jpg",
+            "release_date": "2014-12-31",
+            "title": "A Most Violent Year",
+            "video": false,
+            "vote_average": 6.607,
+            "vote_count": 1449
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/81sWsKobcYTm5sMLB287r4oHYf4.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 191294,
+            "original_language": "sv",
+            "original_title": "Vi \u00e4r b\u00e4st!",
+            "overview": "Three girls in 1980s Stockholm decide to form a punk band\u2014despite not having any instruments, and being told by everyone that punk is dead.",
+            "popularity": 0.6539,
+            "poster_path": "/8KzhURCHxpVtpMk4oMerB4vn48b.jpg",
+            "release_date": "2013-03-28",
+            "title": "We Are the Best!",
+            "video": false,
+            "vote_average": 6.989,
+            "vote_count": 189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hfBVcLWjvL9ZCEPDLcbGYsBvor1.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 250766,
+            "original_language": "en",
+            "original_title": "Life Itself",
+            "overview": "The surprising and entertaining life of renowned film critic and social commentator Roger Ebert (1942-2013): his early days as a freewheeling bachelor and Pulitzer Prize winner, his famously contentious partnership with Gene Siskel, his life-altering marriage, and his brave and transcendent battle with cancer.",
+            "popularity": 0.6347,
+            "poster_path": "/nK4cYTEO2eHLMgMII0Ux0kBOGhG.jpg",
+            "release_date": "2014-07-04",
+            "title": "Life Itself",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wlP3Sjw5WVvjsi2CGFp84QwrZZC.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 228970,
+            "original_language": "en",
+            "original_title": "Wild",
+            "overview": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail.",
+            "popularity": 2.8404,
+            "poster_path": "/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
+            "release_date": "2014-12-05",
+            "title": "Wild",
+            "video": false,
+            "vote_average": 7.005,
+            "vote_count": 2547
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 266856,
+            "original_language": "en",
+            "original_title": "The Theory of Everything",
+            "overview": "The Theory of Everything is the extraordinary story of one of the world\u2019s greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde.",
+            "popularity": 5.5266,
+            "poster_path": "/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg",
+            "release_date": "2014-11-07",
+            "title": "The Theory of Everything",
+            "video": false,
+            "vote_average": 7.843,
+            "vote_count": 10762
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+            "genre_ids": [
+                878,
+                28,
+                18,
+                53
+            ],
+            "id": 119450,
+            "original_language": "en",
+            "original_title": "Dawn of the Planet of the Apes",
+            "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+            "popularity": 8.0263,
+            "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+            "release_date": "2014-07-08",
+            "title": "Dawn of the Planet of the Apes",
+            "video": false,
+            "vote_average": 7.332,
+            "vote_count": 11728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9LFk66Se0T3Uw2JPupYxAc6F2Gq.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 210479,
+            "original_language": "en",
+            "original_title": "Locke",
+            "overview": "Ivan Locke has worked hard to craft a good life for himself. Tonight, that life will collapse around him. On the eve of the biggest challenge of his career, Ivan receives a phone call that sets in motion a series of events that will unravel his family, job, and soul.",
+            "popularity": 1.5044,
+            "poster_path": "/tTREq5tTyYwmSLDRMhybJ82zXcX.jpg",
+            "release_date": "2014-04-10",
+            "title": "Locke",
+            "video": false,
+            "vote_average": 6.901,
+            "vote_count": 2753
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3JwLoQ98yofeGq8bu3Pjox5oI5s.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 157832,
+            "original_language": "en",
+            "original_title": "Calvary",
+            "overview": "After being threatened during a confession, a good-natured priest must battle the dark forces closing in around him.",
+            "popularity": 1.1777,
+            "poster_path": "/dQMjyTA3L2pPkMGzh3bhrDQbhWy.jpg",
+            "release_date": "2014-04-11",
+            "title": "Calvary",
+            "video": false,
+            "vote_average": 7.117,
+            "vote_count": 990
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yuDDViMJppRKiDXTGXpHdofhkgx.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 251736,
+            "original_language": "en",
+            "original_title": "Listen Up Philip",
+            "overview": "Anger rages in Philip as he awaits the publication of his second novel. He feels pushed out of his adopted home city by the constant crowds and noise, a deteriorating relationship with his photographer girlfriend Ashley, and his own indifference to promoting the novel. When Philip's idol Ike Zimmerman offers his isolated summer home as a refuge, he finally gets the peace and quiet to focus on his favorite subject: himself.",
+            "popularity": 0.4724,
+            "poster_path": "/rHfrGEdTEW20W6L26qbJ0DFNDKo.jpg",
+            "release_date": "2014-05-07",
+            "title": "Listen Up Philip",
+            "video": false,
+            "vote_average": 5.846,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/epIcUGDXIZVs1jNNFI5lWgWNUIM.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 188166,
+            "original_language": "en",
+            "original_title": "Blue Ruin",
+            "overview": "When the quiet life of a beach bum is upended by dreadful news, he sets off for his childhood home to carry out an act of vengeance. However, he proves an inept assassin and finds himself in a brutal fight to protect his estranged family.",
+            "popularity": 1.1983,
+            "poster_path": "/q0itEsso2drJXqH9kfdidxIT5dF.jpg",
+            "release_date": "2014-04-25",
+            "title": "Blue Ruin",
+            "video": false,
+            "vote_average": 6.793,
+            "vote_count": 1506
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5dg3woJqG7kNBCEMZNGPUauHSnK.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 180299,
+            "original_language": "id",
+            "original_title": "The Raid 2: Berandal",
+            "overview": "After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to protect his family and uncover corrupt members of his own force.",
+            "popularity": 4.6953,
+            "poster_path": "/olA39iaXISiKEkACdELgr0ZRvIF.jpg",
+            "release_date": "2014-03-27",
+            "title": "The Raid 2",
+            "video": false,
+            "vote_average": 7.602,
+            "vote_count": 2427
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Jcd5t7VBnor1INXpZox0CYZIpa.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 244268,
+            "original_language": "en",
+            "original_title": "Love Is Strange",
+            "overview": "After 39 years together, Ben and George finally tie the knot, but George loses his job as a result, and the newlyweds must sell their New York apartment and live apart, relying on friends and family to make ends meet.",
+            "popularity": 1.0252,
+            "poster_path": "/5nkM5aUSTMvXudUB3M0FgZ6voqD.jpg",
+            "release_date": "2014-08-22",
+            "title": "Love Is Strange",
+            "video": false,
+            "vote_average": 6.355,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 100402,
+            "original_language": "en",
+            "original_title": "Captain America: The Winter Soldier",
+            "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy\u2014the Winter Soldier.",
+            "popularity": 8.1539,
+            "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+            "release_date": "2014-03-20",
+            "title": "Captain America: The Winter Soldier",
+            "video": false,
+            "vote_average": 7.655,
+            "vote_count": 19256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7DsPcLMbybqpl7nNMcwzPCM4VKG.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 248774,
+            "original_language": "en",
+            "original_title": "Obvious Child",
+            "overview": "An immature, newly unemployed comic must navigate the murky waters of adulthood after her fling with a graduate student results in an unplanned pregnancy.",
+            "popularity": 0.5167,
+            "poster_path": "/vAVuQuboHiqc6ClsFeWQXBHJkOX.jpg",
+            "release_date": "2014-06-06",
+            "title": "Obvious Child",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 439
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2cBHM1ndSVIVmZ4uuR3pA9enWdc.jpg",
+            "genre_ids": [
+                12,
+                27,
+                53,
+                878
+            ],
+            "id": 14372,
+            "original_language": "en",
+            "original_title": "Leviathan",
+            "overview": "Underwater deep-sea miners encounter a Soviet wreck and bring back a dangerous cargo to their base on the ocean floor with horrifying results. The crew of the mining base must fight to survive against a genetic mutation that hunts them down one by one.",
+            "popularity": 2.6218,
+            "poster_path": "/sJNcoyKsqYGEFCCNsYsccikGePV.jpg",
+            "release_date": "1989-03-17",
+            "title": "Leviathan",
+            "video": false,
+            "vote_average": 5.972,
+            "vote_count": 517
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wY63GAssmaUwFX8futj7E4hpgVc.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 209840,
+            "original_language": "zh",
+            "original_title": "\u90ca\u904a",
+            "overview": "An alcoholic man and his two young children barely survive in Taipei. They cross paths with a lonely grocery clerk who might help them make a better life.",
+            "popularity": 0.5218,
+            "poster_path": "/zRwQzUDQlGwCeHkRUTuCkIyaaJj.jpg",
+            "release_date": "2014-02-21",
+            "title": "Stray Dogs",
+            "video": false,
+            "vote_average": 6.332,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4JuoO0XywrCDeHLy4kTB9FU5U2C.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 265169,
+            "original_language": "tr",
+            "original_title": "K\u0131\u015f Uykusu",
+            "overview": "Ayd\u0131n is a hotel owner and a retired actor in rural Turkey. As winter emerges he begins navigating the conflicts within the relationships with his wife, sister and existence.",
+            "popularity": 1.2758,
+            "poster_path": "/95j83qOqH3Ivz4RYkaSjGT0VSNr.jpg",
+            "release_date": "2014-06-13",
+            "title": "Winter Sleep",
+            "video": false,
+            "vote_average": 7.523,
+            "vote_count": 576
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mkLPEV7raBVlpKZTlJjZ3LpsXSj.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 186975,
+            "original_language": "tl",
+            "original_title": "Norte, Hangganan ng Kasaysayan",
+            "overview": "An embittered law student commits a brutal double murder; a family man takes the fall and is forced into a harsh prison sentence; a mother and her two children wander the countryside looking for some kind of redemption.",
+            "popularity": 0.2825,
+            "poster_path": "/cMaGXlRU9olfEsHNcEaZNcnHKRC.jpg",
+            "release_date": "2014-03-11",
+            "title": "Norte, The End of History",
+            "video": false,
+            "vote_average": 7.373,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xFYRrjtY9blM9dlE1F8ibD6wVnx.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 213684,
+            "original_language": "ne",
+            "original_title": "Manakamana",
+            "overview": "A documentary about a group of pilgrims who travel to Nepal to worship at the legendary Manakamana temple.",
+            "popularity": 0.1422,
+            "poster_path": "/eezu2KWzjSyh6tcK0hN6JYjPaEU.jpg",
+            "release_date": "2013-09-28",
+            "title": "Manakamana",
+            "video": false,
+            "vote_average": 7.52,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+            "genre_ids": [
+                10752,
+                28
+            ],
+            "id": 190859,
+            "original_language": "en",
+            "original_title": "American Sniper",
+            "overview": "U.S. Navy SEAL Chris Kyle takes his sole mission\u2014protect his comrades\u2014to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+            "popularity": 9.4301,
+            "poster_path": "/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+            "release_date": "2014-12-25",
+            "title": "American Sniper",
+            "video": false,
+            "vote_average": 7.42,
+            "vote_count": 13170
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/teT1Mo9hZkNCDQ6DFBr5eMJwOpz.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 181886,
+            "original_language": "en",
+            "original_title": "Enemy",
+            "overview": "A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
+            "popularity": 5.6513,
+            "poster_path": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+            "release_date": "2014-03-14",
+            "title": "Enemy",
+            "video": false,
+            "vote_average": 6.855,
+            "vote_count": 6069
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7sAiuyzHtS9oBUlipMqWyrb10x.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 191720,
+            "original_language": "en",
+            "original_title": "Jodorowsky's Dune",
+            "overview": "Shot in France, England, Switzerland and the United States, this documentary covers director Alejandro Jodorowsky (El Topo, Holy Mountain, Santa Sangre) and his 1974 Quixotic attempt to adapt the seminal sci-fi novel Dune into a feature film. After spending 2 years and millions of dollars, the massive undertaking eventually fell apart, but the artists Jodorowsky assembled for the legendary project continued to work together. This group of artists, or his \u201cwarriors\u201d as Jodorowsky named them, went on to define modern sci-fi cinema with such films as Alien, Blade Runner, Star Wars and Total Recall.",
+            "popularity": 1.0657,
+            "poster_path": "/kgmwmClQ8tw15G5TJFqz1NrQ0Me.jpg",
+            "release_date": "2013-08-30",
+            "title": "Jodorowsky's Dune",
+            "video": false,
+            "vote_average": 7.826,
+            "vote_count": 706
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g34ZNDt4iFYAddb8pyO2LhhSAMA.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 212778,
+            "original_language": "en",
+            "original_title": "Chef",
+            "overview": "When Chef Carl Casper suddenly quits his job at a prominent Los Angeles restaurant after refusing to compromise his creative integrity for its controlling owner, he is left to figure out what's next. Finding himself in Miami, he teams up with his ex-wife, his friend and his son to launch a food truck. Taking to the road, Chef Carl goes back to his roots to reignite his passion for the kitchen -- and zest for life and love.",
+            "popularity": 4.5122,
+            "poster_path": "/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg",
+            "release_date": "2014-05-08",
+            "title": "Chef",
+            "video": false,
+            "vote_average": 7.115,
+            "vote_count": 3408
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7FregPTA0h0ROUvHvq62TBAzmSV.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 209276,
+            "original_language": "en",
+            "original_title": "Starred Up",
+            "overview": "19-year-old Eric, arrogant and ultra-violent, is prematurely transferred to the same adult prison facility as his estranged father. As his explosive temper quickly finds him enemies in both prison authorities and fellow inmates \u2014 and his already volatile relationship with his father is pushed past breaking point \u2014 Eric is approached by a volunteer psychotherapist, who runs an anger management group for prisoners. Torn between gang politics, prison corruption, and a glimmer of something better, Eric finds himself in a fight for his own life, unsure if his own father is there to protect him or join in punishing him.",
+            "popularity": 1.3155,
+            "poster_path": "/e1DRGfyRxYQclvJOJiXwAw5gDg2.jpg",
+            "release_date": "2014-03-21",
+            "title": "Starred Up",
+            "video": false,
+            "vote_average": 7.101,
+            "vote_count": 965
+        }
+    ]
+}

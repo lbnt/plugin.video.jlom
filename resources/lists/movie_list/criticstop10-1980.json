@@ -1,0 +1,728 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1980",
+    "source": "https://criticstop10.com/best-movies-of-1980/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/mmRY0ZtKtK3lP5TYmI2jDC4EpZa.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 16619,
+            "original_language": "en",
+            "original_title": "Ordinary People",
+            "overview": "Beth, Calvin, and their son Conrad are living in the aftermath of the death of the other son. Conrad is overcome by grief and misplaced guilt to the extent of a suicide attempt. He is in therapy. Beth had always preferred his brother and is having difficulty being supportive to Conrad. Calvin is trapped between the two trying to hold the family together.",
+            "popularity": 1.7269,
+            "poster_path": "/tJVETEDAKgD3fEh88SHOvMvOQue.jpg",
+            "release_date": "1980-09-19",
+            "title": "Ordinary People",
+            "video": false,
+            "vote_average": 7.474,
+            "vote_count": 649
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1578,
+            "original_language": "en",
+            "original_title": "Raging Bull",
+            "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+            "popularity": 4.3009,
+            "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+            "release_date": "1980-11-14",
+            "title": "Raging Bull",
+            "video": false,
+            "vote_average": 7.926,
+            "vote_count": 4479
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1YlaU9vXlD4K5EBGZKjaCb9rJb9.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1955,
+            "original_language": "en",
+            "original_title": "The Elephant Man",
+            "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of great intelligence and sensitivity. Based on the true story of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.",
+            "popularity": 6.2694,
+            "poster_path": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+            "release_date": "1980-10-09",
+            "title": "The Elephant Man",
+            "video": false,
+            "vote_average": 8.051,
+            "vote_count": 3691
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Aa4UDJWVckGXwPZxY5qpRifQFYp.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 16769,
+            "original_language": "en",
+            "original_title": "Coal Miner's Daughter",
+            "overview": "Biography of Loretta Lynn, a country and western singer that came from poverty to fame.",
+            "popularity": 0.9884,
+            "poster_path": "/rHQZ71PutwD1WUXOZBlcXhV4KPD.jpg",
+            "release_date": "1980-03-07",
+            "title": "Coal Miner's Daughter",
+            "video": false,
+            "vote_average": 7.234,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bU5zz7pHFmI2Za0PQiecWq1Cpj0.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 13783,
+            "original_language": "en",
+            "original_title": "Breaker Morant",
+            "overview": "During the Boer War, three Australian lieutenants are on trial for shooting Boer prisoners. Though they acted under orders, they are being used as scapegoats by the General Staff, who hopes to distance themselves from the irregular practices of the war. The trial does not progress as smoothly as expected by the General Staff, as the defence puts up a strong fight in the courtroom.",
+            "popularity": 0.9751,
+            "poster_path": "/Nr46BDNjBtz3s0wRvm84eK3PXl.jpg",
+            "release_date": "1980-06-11",
+            "title": "Breaker Morant",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kgjvZgs6cV2v5bigzzzWqJ9EMGs.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 1891,
+            "original_language": "en",
+            "original_title": "The Empire Strikes Back",
+            "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+            "popularity": 9.4235,
+            "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+            "release_date": "1980-05-20",
+            "title": "The Empire Strikes Back",
+            "video": false,
+            "vote_average": 8.396,
+            "vote_count": 17561
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r45qZA2Rdh6D2yvcmx7gHBceG2N.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 38772,
+            "original_language": "en",
+            "original_title": "Melvin and Howard",
+            "overview": "The story of hard-luck Melvin Dummar, who claimed to have received a will naming him an heir to the fortune of Howard Hughes.",
+            "popularity": 0.4853,
+            "poster_path": "/1oN3ZQPyJcSqoj0An39FSD8VFmC.jpg",
+            "release_date": "1980-09-19",
+            "title": "Melvin and Howard",
+            "video": false,
+            "vote_average": 6.44,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eu5FAFKhbr0Y4A24QnNjeac5P8g.jpg",
+            "genre_ids": [
+                28,
+                35,
+                18,
+                53,
+                10749
+            ],
+            "id": 42160,
+            "original_language": "en",
+            "original_title": "The Stunt Man",
+            "overview": "A fugitive stumbles onto a movie set just when they need a new stunt man, takes the job as a way to hide out and falls for the leading lady while facing off with his manipulative director.",
+            "popularity": 0.8509,
+            "poster_path": "/n7trpLAThW1h67QAlWMQ6IHS47u.jpg",
+            "release_date": "1980-06-27",
+            "title": "The Stunt Man",
+            "video": false,
+            "vote_average": 6.667,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/64KOQoCLX1k6M7BUgTU0GX1Ijrf.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 813,
+            "original_language": "en",
+            "original_title": "Airplane!",
+            "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+            "popularity": 5.9103,
+            "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+            "release_date": "1980-07-02",
+            "title": "Airplane!",
+            "video": false,
+            "vote_average": 7.305,
+            "vote_count": 4719
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5ngHbTzsdIIp9vQG7jfUKnMDjho.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 21887,
+            "original_language": "en",
+            "original_title": "The Great Santini",
+            "overview": "As he approaches manhood, Ben Meechum struggles to win the approval of his demanding alpha male father, an aggressively competitive, but frustrated marine pilot.",
+            "popularity": 0.3401,
+            "poster_path": "/xvoHFQlSAq0696rvONsEAWj1fcm.jpg",
+            "release_date": "1979-10-26",
+            "title": "The Great Santini",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uZJjc4hMgckb3H3tVkTmbmcBhIT.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 659,
+            "original_language": "de",
+            "original_title": "Die Blechtrommel",
+            "overview": "Oskar Matzerath is a very unusual boy. Refusing to leave the womb until promised a tin drum by his mother, Agnes, Oskar is reluctant to enter a world he sees as filled with hypocrisy and injustice, and vows on his third birthday to never grow up. Miraculously, he gets his wish. As the Nazis rise to power in Danzig, Oskar wills himself to remain a child, beating his tin drum incessantly and screaming in protest at the chaos surrounding him.",
+            "popularity": 3.5393,
+            "poster_path": "/tm408GMyQqfqFJ7MKCkwc5uQ3wi.jpg",
+            "release_date": "1979-05-02",
+            "title": "The Tin Drum",
+            "video": false,
+            "vote_average": 6.944,
+            "vote_count": 494
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kewdBa1MYOZwUhcbOHxxXLIquBI.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 16659,
+            "original_language": "en",
+            "original_title": "My Brilliant Career",
+            "overview": "A young woman who is determined to maintain her independence finds herself at odds with her family who wants her to tame her wild side and get married.",
+            "popularity": 0.7104,
+            "poster_path": "/s89ZolmE0tD5stOJhy6Jh4V3txZ.jpg",
+            "release_date": "1979-08-17",
+            "title": "My Brilliant Career",
+            "video": false,
+            "vote_average": 6.176,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11121,
+            "original_language": "en",
+            "original_title": "Tess",
+            "overview": "A strong-willed peasant girl is sent by her father to the estate of some local aristocrats to capitalize on a rumor that their families are from the same line, but is left traumatised from her experiences.",
+            "popularity": 1.8706,
+            "poster_path": "/xejUFnoAVxzvU95o2jlzG2USmY.jpg",
+            "release_date": "1979-10-06",
+            "title": "Tess",
+            "video": false,
+            "vote_average": 7.079,
+            "vote_count": 350
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cd5ntfLmtqUqkUGn2B5s2zBLjde.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 21873,
+            "original_language": "en",
+            "original_title": "My Bodyguard",
+            "overview": "Clifford Peach, an easygoing teenager, is finding less than easy to fit in at his new high school, where a tough-talking bully terrorizes his classmates and extorts their lunch money. Refusing to pay up, Clifford enlist the aid of an overgrown misfit whose mere presence intimidates students and teachers alike. But their \"business relationship\" soon turns personal as Clifford and the troubled loner forge a winning alliance against their intimidators - and a very special friendship with each other.",
+            "popularity": 0.8758,
+            "poster_path": "/agk3tSS6OLiSdyrieDhPpuQ7CEZ.jpg",
+            "release_date": "1980-07-11",
+            "title": "My Bodyguard",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wmHfg56pvzmLCXz5Gs9D7d5rjvG.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                27
+            ],
+            "id": 11033,
+            "original_language": "en",
+            "original_title": "Dressed to Kill",
+            "overview": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
+            "popularity": 3.8712,
+            "poster_path": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+            "release_date": "1980-07-25",
+            "title": "Dressed to Kill",
+            "video": false,
+            "vote_average": 6.957,
+            "vote_count": 1016
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/phSIp0IbGhPgKyLduTnQ4z2IzsD.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 11337,
+            "original_language": "en",
+            "original_title": "Stardust Memories",
+            "overview": "While attending a retrospect of his work, a filmmaker recalls his life and his loves: the inspirations for his films.",
+            "popularity": 0.7236,
+            "poster_path": "/y1EHgpL2hMVRcr6tIOy7VGLxaPs.jpg",
+            "release_date": "1980-09-26",
+            "title": "Stardust Memories",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 444
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "id": 11953,
+            "original_language": "ja",
+            "original_title": "\u5f71\u6b66\u8005",
+            "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
+            "popularity": 1.7593,
+            "poster_path": "/fJgqj9s8HNZz9zwX6femVJn8HEB.jpg",
+            "release_date": "1980-04-26",
+            "title": "Kagemusha",
+            "video": false,
+            "vote_average": 7.823,
+            "vote_count": 683
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 3537,
+            "original_language": "en",
+            "original_title": "Fame",
+            "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
+            "popularity": 1.4206,
+            "poster_path": "/ewuGn4kxsqbYfgSO8Y5kzYlBcKE.jpg",
+            "release_date": "1980-05-16",
+            "title": "Fame",
+            "video": false,
+            "vote_average": 6.433,
+            "vote_count": 476
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvUj0nF6u5iigfzZpGfAmTxWozi.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 39543,
+            "original_language": "fr",
+            "original_title": "Mon oncle d'Am\u00e9rique",
+            "overview": "Prof. Henri Laborit uses the stories of the lives of three people to discuss behaviorist theories of survival, combat, rewards and punishment, and anxiety. Ren\u00e9 is a technical manager at a textile factory and must face the anxiety caused by corporate downsizing. Janine is a self-educated actress/stylist who learns that the wife of her lover is dying and must decide to let them reunite. Jean is a controversial career-climbing writer/politician at a crossroads in life.",
+            "popularity": 0.5639,
+            "poster_path": "/e9gbeslzPIav8ELEPRrKB1EzonF.jpg",
+            "release_date": "1980-05-21",
+            "title": "My American Uncle",
+            "video": false,
+            "vote_average": 6.976,
+            "vote_count": 191
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6DCf47GiqRqW5v2IfBfURpCQdlT.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 42179,
+            "original_language": "en",
+            "original_title": "Wise Blood",
+            "overview": "A Southerner--young, poor, ambitious but uneducated--determines to become something in the world. He decides that the best way to do that is to become a preacher and start up his own church.",
+            "popularity": 0.5458,
+            "poster_path": "/gSZQC6u86iaugBSs1KBrXST7KSL.jpg",
+            "release_date": "1979-10-24",
+            "title": "Wise Blood",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hFidONuvMRoWdpgsysBRknXU74J.jpg",
+            "genre_ids": [
+                37,
+                28,
+                80,
+                18,
+                36
+            ],
+            "id": 14729,
+            "original_language": "en",
+            "original_title": "The Long Riders",
+            "overview": "The origins, exploits and the ultimate fate of the James gang is told in a sympathetic portrayal of the bank robbers made up of brothers who begin their legendary bank raids because of revenge.",
+            "popularity": 1.2944,
+            "poster_path": "/1Dk9dieSkZeiEVarZFsPJdF9Qel.jpg",
+            "release_date": "1980-05-16",
+            "title": "The Long Riders",
+            "video": false,
+            "vote_average": 6.656,
+            "vote_count": 266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 694,
+            "original_language": "en",
+            "original_title": "The Shining",
+            "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+            "popularity": 12.387,
+            "poster_path": "/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+            "release_date": "1980-05-23",
+            "title": "The Shining",
+            "video": false,
+            "vote_average": 8.21,
+            "vote_count": 18062
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRQHI9up3nAkWc6bvONcXw6Nj0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42750,
+            "original_language": "en",
+            "original_title": "Return of the Secaucus Seven",
+            "overview": "Seven former college friends, along with a few new friends, gather for a weekend reunion at a summer house in New Hampshire to reminisce about the good old days, when they got arrested on the way to a protest in Washington, D.C.",
+            "popularity": 0.1554,
+            "poster_path": "/bBo5W9RcFZepBDU6NZL0z8ycNyt.jpg",
+            "release_date": "1980-04-11",
+            "title": "Return of the Secaucus Seven",
+            "video": false,
+            "vote_average": 6.582,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/58oN70BcfSFG7fgb9qyrgnqUoAt.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 42165,
+            "original_language": "en",
+            "original_title": "Best Boy",
+            "overview": "In this documentary, the director follows the day-to-day activities of his retarded, middle-aged cousin Philly, over a three-year period.",
+            "popularity": 0.0985,
+            "poster_path": "/gjSzA8kPFsKCTbCxwt1rFuJ9khy.jpg",
+            "release_date": "1979-10-05",
+            "title": "Best Boy",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l8iQQU2EvxTemHWGmS7mLfolNDx.jpg",
+            "genre_ids": [
+                80,
+                18,
+                36
+            ],
+            "id": 69069,
+            "original_language": "en",
+            "original_title": "The Chant of Jimmie Blacksmith",
+            "overview": "The true story of a part Aboriginal man who finds the pressure of adapting to white culture intolerable, and as a result snaps in a violent and horrific manner.",
+            "popularity": 0.2515,
+            "poster_path": "/rbyEtX16Tk58WMeii5rVEfB1OUm.jpg",
+            "release_date": "1978-06-21",
+            "title": "The Chant of Jimmie Blacksmith",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 47622,
+            "original_language": "hu",
+            "original_title": "Angi Vera",
+            "overview": "Angi Vera, as a promising young woman, gets invited to a Communist training center to undergo the next level of indoctrination into Party life. She begins to realize how people get ahead in the Party: by saying things they don't mean but think are politically correct; by becoming friends with Party dignitaries, even if you don't like them; by being seen as a dedicated worker (as opposed to actually being a dedicated worker).",
+            "popularity": 0.1291,
+            "poster_path": "/yDzDabqYTsP0316hlpyFvaJVpe2.jpg",
+            "release_date": "1978-11-18",
+            "title": "Angi Vera",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sJOtAbgAHEuzO6HZyRa77YWKbmH.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 1623,
+            "original_language": "en",
+            "original_title": "Brubaker",
+            "overview": "The new warden of a small prison farm in Arkansas tries to clean it up of corruption after initially posing as an inmate.",
+            "popularity": 1.4197,
+            "poster_path": "/4DhrSojl3J0Z4wZyM2CfNGnKQWl.jpg",
+            "release_date": "1980-06-20",
+            "title": "Brubaker",
+            "video": false,
+            "vote_average": 7.072,
+            "vote_count": 480
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zxUm7SBcU7ewjYVDceW8ihWAoRi.jpg",
+            "genre_ids": [
+                27,
+                878,
+                18
+            ],
+            "id": 41972,
+            "original_language": "ja",
+            "original_title": "\u5fa9\u6d3b\u306e\u65e5",
+            "overview": "Scientists in Antarctica desperately try to find a cure to a military virus that was released in a plane crash and has wiped out the rest of the world.",
+            "popularity": 4.0644,
+            "poster_path": "/hUkLBDDUISSEv19xXRj2tFWNzMj.jpg",
+            "release_date": "1980-06-26",
+            "title": "Virus",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ivgNm4ICvwbrlV6crntR4F7lKgL.jpg",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "id": 11542,
+            "original_language": "en",
+            "original_title": "Altered States",
+            "overview": "A research scientist explores the boundaries and frontiers of consciousness. Using sensory deprivation and hallucinogenic mixtures from native American shamans, he explores these altered states of consciousness and finds that memory, time, and perhaps reality itself are states of mind.",
+            "popularity": 1.1803,
+            "poster_path": "/1iZBJcFJFupnxrSCwQIrtVgsrkA.jpg",
+            "release_date": "1980-12-25",
+            "title": "Altered States",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 693
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/va21aB4djWOBPdDaZjLbHqJgluA.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 10889,
+            "original_language": "en",
+            "original_title": "Gloria",
+            "overview": "When a young boy's family is killed by the mob, their tough neighbor Gloria becomes his reluctant guardian. In possession of a book that the gangsters want, the pair go on the run in New York.",
+            "popularity": 1.019,
+            "poster_path": "/mrYZInXp0JEoZYXs0Z108l2jN0C.jpg",
+            "release_date": "1980-10-01",
+            "title": "Gloria",
+            "video": false,
+            "vote_average": 6.872,
+            "vote_count": 247
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mpRSzmUX0Lsimgg0M8hZRS2xrDC.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 16121,
+            "original_language": "en",
+            "original_title": "The Big Red One",
+            "overview": "A veteran sergeant of World War I leads a squad in World War II, always in the company of the survivor Pvt. Griff, the writer Pvt. Zab, the Sicilian Pvt. Vinci and Pvt. Johnson, in Vichy French Africa, Sicily, D-Day at Omaha Beach, Belgium and France, and ending in a concentration camp in Czechoslovakia where they face the true horror of war.",
+            "popularity": 0.7628,
+            "poster_path": "/h0VcqQ3z1RroKk7WtiW0E6DDho2.jpg",
+            "release_date": "1980-05-28",
+            "title": "The Big Red One",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 319
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p8NHG9uNXn7MSrknNk0LbBjJxQc.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 113479,
+            "original_language": "fr",
+            "original_title": "Sauve qui peut (la vie)",
+            "overview": "A look at the sexual and professional lives of three people \u2014 a television director, his ex-girlfriend, and a sex worker.",
+            "popularity": 0.6893,
+            "poster_path": "/hA69SHZQ3jixYq2wykoTlH2VgjI.jpg",
+            "release_date": "1980-10-12",
+            "title": "Every Man for Himself",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ySh8pIJ7iWdbtDLmhFbX28TQnU9.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                37
+            ],
+            "id": 17496,
+            "original_language": "en",
+            "original_title": "Urban Cowboy",
+            "overview": "After moving to Pasadena, Texas, country boy Bud Davis starts hanging around a bar called Gilley's, where he falls in love with Sissy, a cowgirl who believes the sexes are equal. They eventually marry, but their relationship is turbulent due to Bud's traditional view of gender roles. Jealousy over his rival leads to their separation, but Bud attempts to win Sissy back by triumphing at Gilley's mechanical bull-riding competition.",
+            "popularity": 1.5275,
+            "poster_path": "/2uKWi1Hb6yqkmOixRgKVwrzxljA.jpg",
+            "release_date": "1980-06-06",
+            "title": "Urban Cowboy",
+            "video": false,
+            "vote_average": 6.452,
+            "vote_count": 262
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hiy1AyH6db4R1oJib7e4QZBogkD.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10751
+            ],
+            "id": 11335,
+            "original_language": "en",
+            "original_title": "Popeye",
+            "overview": "Popeye is a super-strong, spinach-scarfing sailor man who's searching for his father. During a storm that wrecks his ship, Popeye washes ashore and winds up rooming at the Oyl household, where he meets Olive. Before he can win her heart, he must first contend with Olive's fianc\u00e9, Bluto.",
+            "popularity": 2.5139,
+            "poster_path": "/hCCp4pESgYY6uTFARYf4UYV1BdU.jpg",
+            "release_date": "1980-12-12",
+            "title": "Popeye",
+            "video": false,
+            "vote_average": 5.508,
+            "vote_count": 651
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9h8BMejQk2eJSvs1TmTFD8XZJzg.jpg",
+            "genre_ids": [
+                9648,
+                18,
+                53
+            ],
+            "id": 33214,
+            "original_language": "en",
+            "original_title": "Bad Timing",
+            "overview": "Alex Linden is a psychiatrist living in Vienna who meets Milena Flaherty though a mutual friend. Though Alex is quite a bit older than Milena, he's attracted to her young, carefree spirit. Despite the fact that Milena is already married, their friendship quickly turns into a deeply passionate love affair that threatens to overtake them both. When Milena ends up in the hospital from an overdose, Alex is taken into custody by Inspector Netusil.",
+            "popularity": 0.8671,
+            "poster_path": "/raLS93dykOabizFuguWZ9KeCKAS.jpg",
+            "release_date": "1980-03-02",
+            "title": "Bad Timing",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bMWO0HQwfIe85CmXbWSI8Q6cCC2.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 10765,
+            "original_language": "en",
+            "original_title": "Private Benjamin",
+            "overview": "A sheltered young high society woman joins the US Army on a whim and finds herself in a more difficult situation than she ever expected.",
+            "popularity": 0.8507,
+            "poster_path": "/maIiPNXddZXKHQCi0HyULd5kces.jpg",
+            "release_date": "1980-10-06",
+            "title": "Private Benjamin",
+            "video": false,
+            "vote_average": 5.968,
+            "vote_count": 395
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1LvhLEd6lHg7wQth03qIn731nE6.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42167,
+            "original_language": "pt",
+            "original_title": "Bye Bye Brasil",
+            "overview": "The Caravana Rolidei rolls into town with the Gypsy Lord at the mike: he does magic tricks, the erotic Salom\u00e9 dances, and the mute Swallow performs feats of strength. A young accordion player is completely enamored of Salom\u00e9, and he begs to come along. The Gypsy Lord shrugs, and the accordionist and his pregnant wife, Dasd\u00f4, join the troupe.",
+            "popularity": 0.9039,
+            "poster_path": "/sRzzduxIr4FKKZGTg3dtjwNi2YT.jpg",
+            "release_date": "1980-02-08",
+            "title": "Bye Bye Brazil",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 52
+        }
+    ]
+}

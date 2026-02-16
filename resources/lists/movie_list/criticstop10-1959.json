@@ -1,0 +1,760 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1959",
+    "source": "https://criticstop10.com/best-movies-of-1959/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "id": 93,
+            "original_language": "en",
+            "original_title": "Anatomy of a Murder",
+            "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+            "popularity": 1.8961,
+            "poster_path": "/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+            "release_date": "1959-07-01",
+            "title": "Anatomy of a Murder",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1062
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/noBLpUnaH7xwphEwbMRloAGnfFd.jpg",
+            "genre_ids": [
+                36,
+                18,
+                12,
+                28
+            ],
+            "id": 665,
+            "original_language": "en",
+            "original_title": "Ben-Hur",
+            "overview": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+            "popularity": 5.9938,
+            "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "release_date": "1959-11-18",
+            "title": "Ben-Hur",
+            "video": false,
+            "vote_average": 7.889,
+            "vote_count": 2924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t5rUpe1MwGP0JwMLbfaMJvAfUsG.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 2576,
+            "original_language": "en",
+            "original_title": "The Diary of Anne Frank",
+            "overview": "The true, harrowing story of a young Jewish girl who, with her family and their friends, is forced into hiding in an attic in Nazi-occupied Amsterdam.",
+            "popularity": 1.2182,
+            "poster_path": "/i7kUdUAF9eTxQG7GdR6lKUK96En.jpg",
+            "release_date": "1959-03-18",
+            "title": "The Diary of Anne Frank",
+            "video": false,
+            "vote_average": 7.195,
+            "vote_count": 357
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nHcXQKWnnk7VEAg9WbGjL3OpZXG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 27029,
+            "original_language": "en",
+            "original_title": "The Nun's Story",
+            "overview": "After leaving a wealthy Belgian family to become a nun, Sister Luke struggles with her devotion to her vows during crisis, disappointment, and World War II.",
+            "popularity": 0.9868,
+            "poster_path": "/4vNWFhPyjTehPpZsvTnTywwXSiF.jpg",
+            "release_date": "1959-06-18",
+            "title": "The Nun's Story",
+            "video": false,
+            "vote_average": 7.162,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cPDMOeafVmyguVlwE4ls6HER021.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 4952,
+            "original_language": "en",
+            "original_title": "Pillow Talk",
+            "overview": "Playboy songwriter Brad Allen's succession of romances annoys his neighbor, interior designer Jan Morrow, who shares a telephone party line with him and hears all his breezy routines. After Jan unsuccessfully lodges a complaint against him, Brad sets about to seduce her in\u00a0the guise of a sincere and upstanding Texas rancher. When mutual friend Jonathan discovers that his best friend is moving in on the girl he desires, however, sparks fly.",
+            "popularity": 1.3113,
+            "poster_path": "/ugvyj5nl9QmTYuaGUTefVYBDePE.jpg",
+            "release_date": "1959-10-07",
+            "title": "Pillow Talk",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 296
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
+            "genre_ids": [
+                53,
+                12
+            ],
+            "id": 213,
+            "original_language": "en",
+            "original_title": "North by Northwest",
+            "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+            "popularity": 2.6819,
+            "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+            "release_date": "1959-07-08",
+            "title": "North by Northwest",
+            "video": false,
+            "vote_average": 7.981,
+            "vote_count": 4264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3U5CUwhmJuPzWxlOfiIoJqy6dgi.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43103,
+            "original_language": "en",
+            "original_title": "Room at the Top",
+            "overview": "An ambitious young accountant schemes to wed a wealthy factory owner's daughter, despite falling in love with a married older woman.",
+            "popularity": 0.5066,
+            "poster_path": "/uuyruoqh7oBtjwN1mJyOF04CPjO.jpg",
+            "release_date": "1958-12-29",
+            "title": "Room at the Top",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                80
+            ],
+            "id": 239,
+            "original_language": "en",
+            "original_title": "Some Like It Hot",
+            "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
+            "popularity": 4.8535,
+            "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+            "release_date": "1959-03-19",
+            "title": "Some Like It Hot",
+            "video": false,
+            "vote_average": 8.095,
+            "vote_count": 3634
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3RoZyKnW4jzMChlYs4yJ38oo5gG.jpg",
+            "genre_ids": [
+                80,
+                18,
+                36,
+                53
+            ],
+            "id": 35921,
+            "original_language": "en",
+            "original_title": "Compulsion",
+            "overview": "Two close friends' plan to execute a flawless crime is crushed when one of them inadvertently leaves his glasses at the crime scene.",
+            "popularity": 1.0336,
+            "poster_path": "/fdYoG4uxbTbQ8Wv4BLxWiP7rrkm.jpg",
+            "release_date": "1959-04-01",
+            "title": "Compulsion",
+            "video": false,
+            "vote_average": 7.11,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lr3ZklvYR315ARae3wBpQGhDYci.jpg",
+            "genre_ids": [
+                53,
+                18,
+                9648
+            ],
+            "id": 14698,
+            "original_language": "en",
+            "original_title": "Suddenly, Last Summer",
+            "overview": "The only son of wealthy widow Violet Venable dies while on vacation with his cousin Catherine. What the girl saw was so horrible that she went insane; now Mrs. Venable wants Catherine lobotomized to cover up the truth.",
+            "popularity": 0.9146,
+            "poster_path": "/igma0zn9J5srRvOMDRnxyUDQXJL.jpg",
+            "release_date": "1959-12-22",
+            "title": "Suddenly, Last Summer",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 293
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5IlP7GetxoZIUHvSRasVGMxBp2l.jpg",
+            "genre_ids": [
+                35,
+                10752,
+                10749
+            ],
+            "id": 9660,
+            "original_language": "en",
+            "original_title": "Operation Petticoat",
+            "overview": "A World War II submarine commander finds himself stuck with a damaged sub, a con-man executive officer, and a group of army nurses.",
+            "popularity": 1.2078,
+            "poster_path": "/pIsm8JvpFZidVxKexv5UgoCjwpZ.jpg",
+            "release_date": "1959-12-05",
+            "title": "Operation Petticoat",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/37XokaTf9o6nazmKPlDP3LKTYQ6.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 33725,
+            "original_language": "en",
+            "original_title": "A Hole in the Head",
+            "overview": "An impractical widower tries to hang onto his Miami hotel and his 12-year-old son.",
+            "popularity": 0.5587,
+            "poster_path": "/BOgeA821uM0G2nrKj8rFSPYyGO.jpg",
+            "release_date": "1959-09-15",
+            "title": "A Hole in the Head",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8D5dfrYNrVooEEVfZdNwnKLsd6h.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 50231,
+            "original_language": "en",
+            "original_title": "The FBI Story",
+            "overview": "A dedicated FBI agent recalls the agency's battles against the Klan, organized crime and Communist spies.",
+            "popularity": 0.7163,
+            "poster_path": "/sRilzVuu6HuPhi5TFjqGoZfU9lH.jpg",
+            "release_date": "1959-10-01",
+            "title": "The FBI Story",
+            "video": false,
+            "vote_average": 6.122,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l6EvqBOrU2fitXyodw4mINFWQSg.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 12649,
+            "original_language": "en",
+            "original_title": "The Mouse That Roared",
+            "overview": "The Duchy of Grand Fenwick decides that the only way to get out of their economic woes is to declare war on the United States, lose and accept foreign aid. They send an invasion force (in chain mail, armed with bows and arrows) to New York and they arrive during a nuclear drill that has cleared the streets.",
+            "popularity": 0.7604,
+            "poster_path": "/dHSIXGVmLHsPeWdfyVe8J1eZCFS.jpg",
+            "release_date": "1959-07-17",
+            "title": "The Mouse That Roared",
+            "video": false,
+            "vote_average": 6.314,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kPbWf8ZPDWxtrCAiodyh6qhDoQF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 193733,
+            "original_language": "en",
+            "original_title": "The Big Fisherman",
+            "overview": "Drama that focuses on the later life of Peter, one of the closest disciples of Jesus.",
+            "popularity": 0.3183,
+            "poster_path": "/yF77PtUIsq7iUjDmRvaqYBlLX4G.jpg",
+            "release_date": "1959-08-04",
+            "title": "The Big Fisherman",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/js6B5vBt6KcDQcNJSb2DE5HcoE2.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 120522,
+            "original_language": "en",
+            "original_title": "Middle of the Night",
+            "overview": "Jerry Kingsley is a wealthy garment manufacturer left lonely in his 50s when his wife dies. Despite the difference in their ages, he strikes up a romance with divorced 24-year-old receptionist Betty. The relationship is dismissed by his daughter, Lillian, discouraged by his sister, Evelyn, and denounced by Betty's mother. But when Jerry begins to mention marriage, even Betty is forced to confront her ambivalence.",
+            "popularity": 0.309,
+            "poster_path": "/yOHI76y8ffviG3lJl6JOy6qIGRG.jpg",
+            "release_date": "1959-05-20",
+            "title": "Middle of the Night",
+            "video": false,
+            "vote_average": 7.076,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9m7Pp4iutz83BY3tUWdBcVMdBmv.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 18904,
+            "original_language": "en",
+            "original_title": "A Summer Place",
+            "overview": "A self-made businessman rekindles a romance with a former flame while their two teenage children begin a romance of their own with drastic consequences for both couples.",
+            "popularity": 1.9606,
+            "poster_path": "/escHRIldvNphvBnxMcn6ybaJId0.jpg",
+            "release_date": "1959-11-18",
+            "title": "A Summer Place",
+            "video": false,
+            "vote_average": 6.531,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v6saYVrDHHs5ansCFz5lIyFUV5X.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 34148,
+            "original_language": "en",
+            "original_title": "Imitation of Life",
+            "overview": "In 1940s New York, a white widow who dreams of being on Broadway has a chance encounter with a black single mother, who becomes her maid.",
+            "popularity": 1.2301,
+            "poster_path": "/oKyCtsYYkr37UV5GjhINltVQWGt.jpg",
+            "release_date": "1959-06-26",
+            "title": "Imitation of Life",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 295
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zophxMqVXw2yiuJJyjC4RHn1bnw.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                14
+            ],
+            "id": 15944,
+            "original_language": "en",
+            "original_title": "The Shaggy Dog",
+            "overview": "Through an ancient spell, a boy changes into a sheepdog and back again. It seems to happen at inopportune times and the spell can only be broken by an act of bravery....",
+            "popularity": 0.6915,
+            "poster_path": "/x0fTvnnRIZNyTne2BrcS8I5X20e.jpg",
+            "release_date": "1959-03-19",
+            "title": "The Shaggy Dog",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmNqcWwHtNENRCRDY8nDtKG9hHU.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 159615,
+            "original_language": "en",
+            "original_title": "The Sound and the Fury",
+            "overview": "Drama focusing on a family of Southern aristocrats who are trying to deal with the dissolution of their clan and the loss of its reputation, faith, fortunes and respect.",
+            "popularity": 0.7382,
+            "poster_path": "/vNzr5YImhoBwOyCSBhcIZhAF9IA.jpg",
+            "release_date": "1959-03-27",
+            "title": "The Sound and the Fury",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/em2z4Xcz4bsQmY8tOqQXNhjsbLs.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 121234,
+            "original_language": "en",
+            "original_title": "But Not for Me",
+            "overview": "Out of hit ideas and seemingly in the twilight of his career, Broadway producer Russ Ward decides to give up the game. But when Russ lays off his nubile secretary, Ellie Brown, she shocks him with a declaration of love. Inspired, Ward commands playwright MacDonald to rewrite his latest show as a May-December romance starring Brown herself. Ward struggles to make a comeback as his ex-wife, Kathryn, plots to end his new relationship.",
+            "popularity": 0.1111,
+            "poster_path": "/onoMReVeUaBnZF1DUCVmidTlxRn.jpg",
+            "release_date": "1959-08-19",
+            "title": "But Not for Me",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 301,
+            "original_language": "en",
+            "original_title": "Rio Bravo",
+            "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+            "popularity": 2.8646,
+            "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+            "release_date": "1959-03-18",
+            "title": "Rio Bravo",
+            "video": false,
+            "vote_average": 7.808,
+            "vote_count": 1201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/glLU8JK1hDiicAJ9WbUMLkYeLI5.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 43008,
+            "original_language": "en",
+            "original_title": "The Hanging Tree",
+            "overview": "Joseph \"Doc\" Frail is a doctor with a past he's trying to outrun. While in Montana, he comes across a mining camp with a hanging tree and rescues a man named Rune from the noose. With Rune as his servant, Frail decides to settle down, and he takes over as town doctor. He meets Elizabeth, who is suffering from shock, and the two soon fall in love. But when Elizabeth is attacked, Frail's attempt to help her lands them both in trouble.",
+            "popularity": 0.7863,
+            "poster_path": "/cABsWJB3DBq5n2U7gl4vx0K88p7.jpg",
+            "release_date": "1959-02-19",
+            "title": "The Hanging Tree",
+            "video": false,
+            "vote_average": 6.732,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2sXY7qPPmrDg6cwtRFOBp4ThEDz.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 216859,
+            "original_language": "en",
+            "original_title": "Career",
+            "overview": "Playwright James Lee adapted his off-Broadway play for the screen in this high-strung adaptation, directed by Joseph Anthony. In this simplistic, backroom show-business-success saga, Anthony Franciosa plays Sam, a struggling young actor who will forsake his family and take any type of menial job in order to become a Broadway star. Dean Martin is on hand as Maury, an aspiring director also trying to claw his way up the ladder of success. When Maury gets his big break, Sam wants a part in his show, but when Maury, who is unwilling to cast Sam in the production, turns down Sam's request, Sam seduces and marries Maury's girlfriend (Shirley MacLaine). In spite of everything, Maury wants his girl back, and Sam agrees to a divorce on the stipulation that Maury cast him as the star in his next show. Once again, Maury reneges and, before Sam can exact his revenge, Uncle Sam comes to the rescue and he is drafted into the army.",
+            "popularity": 0.1462,
+            "poster_path": "/4LrMNkqLvyT64ydMDGImaaaPiwE.jpg",
+            "release_date": "1959-10-08",
+            "title": "Career",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6WKQT0DLXUIBCKK0Xnu8f3pT8cs.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 131898,
+            "original_language": "en",
+            "original_title": "This Earth Is Mine",
+            "overview": "Set during the Prohibition era, when wine makers were financially challenged and had to decide whether or not they wanted to cooperate with bootleggers to survive.",
+            "popularity": 0.4773,
+            "poster_path": "/bTPfkKlz3Mmqv2sOj2V6gkw8Cd9.jpg",
+            "release_date": "1959-07-08",
+            "title": "This Earth Is Mine",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8SLK1d5oUGzA1Lz7fFHOIXYJgc3.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                10749
+            ],
+            "id": 18887,
+            "original_language": "en",
+            "original_title": "Darby O'Gill and the Little People",
+            "overview": "A wily old codger matches wits with the King of the Leprechauns and helps play matchmaker for his daughter and the strapping lad who has replaced him as caretaker.",
+            "popularity": 0.9624,
+            "poster_path": "/2SB5yYMIk3wIgkcJ3k2KwCrRtIB.jpg",
+            "release_date": "1959-06-24",
+            "title": "Darby O'Gill and the Little People",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Nb1hr3bYRDPfDIkOJkak4vgPA.jpg",
+            "genre_ids": [
+                10752,
+                35,
+                36
+            ],
+            "id": 78078,
+            "original_language": "en",
+            "original_title": "The Devil's Disciple",
+            "overview": "In a small New England town during the American War of Independence, Dick Dudgeon, a revolutionary American Puritan, is mistaken for local minister Rev. Anthony Anderson and arrested by the British. Dick discovers himself incapable of accusing another human to suffer and continues to masquerade as the reverend.",
+            "popularity": 0.387,
+            "poster_path": "/axagX83w2B8nhap1IC19Ih1AvmN.jpg",
+            "release_date": "1959-08-20",
+            "title": "The Devil's Disciple",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/91RLpimgi5P2LOTKO787BkQ9tHJ.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                53
+            ],
+            "id": 64291,
+            "original_language": "en",
+            "original_title": "Sapphire",
+            "overview": "Two Scotland Yard detectives investigate the murder of a young woman of mixed race who had been passing for white. As they interview a spate of suspects -- including the girl's white boyfriend and his disapproving parents -- the detectives wade through a stubbornly entrenched sludge of racism and bigotry.",
+            "popularity": 0.61,
+            "poster_path": "/hwfJUilhZ6iSuosizjpLYNaFfgV.jpg",
+            "release_date": "1959-11-02",
+            "title": "Sapphire",
+            "video": false,
+            "vote_average": 6.967,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oEaKPnc1MB5xD60QlrCcDVqIF1I.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 175681,
+            "original_language": "en",
+            "original_title": "It Started with a Kiss",
+            "overview": "While on leave in New York, a serviceman both weds a chorus girl and wins a red convertible in a charity raffle. Both his wife and the car turn out to be problematic.",
+            "popularity": 0.4041,
+            "poster_path": "/zuuxkL2dIBn5DDcGrxNgT7gAr5T.jpg",
+            "release_date": "1959-08-19",
+            "title": "It Started with a Kiss",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qgBYGZXxiEdGeSrMbTmoeKPr1hG.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10751
+            ],
+            "id": 64867,
+            "original_language": "en",
+            "original_title": "Third Man on the Mountain",
+            "overview": "Famous British mountaineer Winter wants to climb a difficult summit, the Citadel. He goes to a small village but no guide wants to accompany him. A young man from the village, Rudi Matt, whose father died fifteen years earlier during an attempt to climb the Citadel, is determined to accompany him, with the help of his uncle. Winter also manages to hire a guide from a neighboring village and competitor, Emil Saxo. The roped party of four men then begins the ascent of the still untouched summit.",
+            "popularity": 0.4347,
+            "poster_path": "/rktn8yDe4yqTUiVObuePK89epmI.jpg",
+            "release_date": "1959-11-10",
+            "title": "Third Man on the Mountain",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6hrKMw9GVKuiYAJzlVyVebrisqC.jpg",
+            "genre_ids": [
+                37,
+                10752
+            ],
+            "id": 17664,
+            "original_language": "en",
+            "original_title": "The Horse Soldiers",
+            "overview": "A Union Cavalry outfit is sent behind confederate lines in strength to destroy a rail supply center. Along with them is sent a doctor who causes instant antipathy between him and the commander. The secret plan for the mission is overheard by a southern belle who must be taken along to assure her silence.",
+            "popularity": 1.6312,
+            "poster_path": "/kLBwk5ppNsA0DizEocXClTi1Lmx.jpg",
+            "release_date": "1959-06-11",
+            "title": "The Horse Soldiers",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+            "genre_ids": [
+                14,
+                16,
+                10749,
+                10751
+            ],
+            "id": 10882,
+            "original_language": "en",
+            "original_title": "Sleeping Beauty",
+            "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+            "popularity": 5.3979,
+            "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+            "release_date": "1959-02-17",
+            "title": "Sleeping Beauty",
+            "video": false,
+            "vote_average": 6.944,
+            "vote_count": 5287
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hYGYPxPg4VUOLTQx2tzHNlUTg8p.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 76863,
+            "original_language": "en",
+            "original_title": "Ask Any Girl",
+            "overview": "Meg is a young wide-eyed girl who is endures many calamities in her search for a husband in modern-day New York. After losing her suitcase at Penn Station, being kicked out by her roommate, and changing bosses because her boss made a pass at her, she finds herself looking for work at a Manhattan motivational research agency run by punctilious Miles Doughton and his playboy brother, Evan.",
+            "popularity": 0.3355,
+            "poster_path": "/qYkpzNrYFuF6JyZVZPAU5F1df6T.jpg",
+            "release_date": "1959-08-21",
+            "title": "Ask Any Girl",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dBKlYUGXu2tGnIPRNKokrDTqtl0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 119001,
+            "original_language": "en",
+            "original_title": "The Big Circus",
+            "overview": "A circus owner tries to keep his financially troubled circus on the road, despite the efforts of a murderous saboteur who has decided that the show must not go on.",
+            "popularity": 0.183,
+            "poster_path": "/9Y9P4tiHszU5TwCsEuVOcKrg9hQ.jpg",
+            "release_date": "1959-07-05",
+            "title": "The Big Circus",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dm0e97z3atygNcEM67GwJrQanFC.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                18
+            ],
+            "id": 43051,
+            "original_language": "en",
+            "original_title": "Al Capone",
+            "overview": "In this unusually accurate biography, small-time hood Al Capone comes to Chicago at the dawn of Prohibition to be the bodyguard of racketeer Johnny Torrio. Capone's rise in Chicago gangdom is followed through murder, extortion, and political fraud. He becomes head of Chicago's biggest \"business,\" but moves inexorably toward his downfall and ignominious end.",
+            "popularity": 0.7469,
+            "poster_path": "/xmtLUojTRYTswWEx7U9lWjZeZtx.jpg",
+            "release_date": "1959-03-25",
+            "title": "Al Capone",
+            "video": false,
+            "vote_average": 6.578,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5s2RuqziI83D9Eko9QQlda60vI5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 113936,
+            "original_language": "it",
+            "original_title": "Il tetto",
+            "overview": "Under provincial Italian law at the time, once a roof is erected, the occupants cannot be evicted from a building. This comedy follows the efforts of a family to erect the roof on a house overnight so that a newlywed couple can have their own home.",
+            "popularity": 0.2031,
+            "poster_path": "/xiBsp3DTOSJLoLuUPBmfw5iHiXW.jpg",
+            "release_date": "1956-09-29",
+            "title": "The Roof",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l1iQ1hkFYzKT2GyBIldCuJutYyM.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 43096,
+            "original_language": "en",
+            "original_title": "Gidget",
+            "overview": "Due to an accident while swimming in the sea, Francis meets the surfer Moondoggie. She's fascinated with his sport and starts to hang out with his clique. Although they make fun of her at first, they teach her to surf and soon she's accepted and given the nickname \"Gidget\". But it's hard work to become more than a friend to Moondoggie.",
+            "popularity": 0.6939,
+            "poster_path": "/i4aRCd5sRzYLb3TLm8iiUN0iJTr.jpg",
+            "release_date": "1959-04-09",
+            "title": "Gidget",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4lo8I04F9aJxzvP1Doy7aAZOAlr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 126781,
+            "original_language": "en",
+            "original_title": "The Last Angry Man",
+            "overview": "Dr. Sam Abelman is a Jewish doctor contentedly spending his autumn years serving his own Brooklyn neighborhood. But when his nephew, would-be journalist Myron, writes an article about him, it draws the attention of a producer, Woodrow Thrasher, who believes Dr. Abelman a good candidate for a TV show. The doctor, however, is suspicious of the whole enterprise, thinking both Myron and Thrasher are simply out to make a fast buck.",
+            "popularity": 0.2112,
+            "poster_path": "/yPo335bwfQePltlDtxuWc0rjwwV.jpg",
+            "release_date": "1959-10-22",
+            "title": "The Last Angry Man",
+            "video": false,
+            "vote_average": 6.867,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kiRjFt3UYI8j75h7JVlvz0jM1NM.jpg",
+            "genre_ids": [
+                878,
+                18,
+                10749
+            ],
+            "id": 35412,
+            "original_language": "en",
+            "original_title": "On the Beach",
+            "overview": "In 1964, atomic war wipes out humanity in the northern hemisphere; one American submarine finds temporary safe haven in Australia, where life-as-usual covers growing despair. In denial about the loss of his wife and children in the holocaust, American Captain Towers meets careworn but gorgeous Moira Davidson, who begins to fall for him. The sub returns after reconnaissance a month (or less) before the end; will Towers and Moira find comfort with each other?",
+            "popularity": 0.9645,
+            "poster_path": "/lTDuj5zalrI0fpQel7UfPHTexTK.jpg",
+            "release_date": "1959-12-17",
+            "title": "On the Beach",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 211
+        }
+    ]
+}

@@ -1,0 +1,979 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2001",
+    "source": "https://criticstop10.com/best-movies-of-2001/",
+    "created_by": "lbnt",
+    "added": "07/28/25",
+    "modified": "07/28/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 77,
+            "original_language": "en",
+            "original_title": "Memento",
+            "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "popularity": 11.4525,
+            "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_date": "2000-10-11",
+            "title": "Memento",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 15413
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y1giivdsGLyo1LCvlsL6mLKyTZ7.jpg",
+            "genre_ids": [
+                53,
+                18,
+                9648
+            ],
+            "id": 1018,
+            "original_language": "en",
+            "original_title": "Mulholland Drive",
+            "overview": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "popularity": 8.1528,
+            "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_date": "2001-06-06",
+            "title": "Mulholland Drive",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 6582
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zIOO1NrTehQkDaNfvga4luSRQc.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1548,
+            "original_language": "en",
+            "original_title": "Ghost World",
+            "overview": "Two quirky, cynical teenaged girls try to figure out what to do with their lives after high school graduation. After they play a prank on an eccentric, middle aged record collector, one of them befriends him, which causes a rift in the girls\u2019 friendship.",
+            "popularity": 2.0406,
+            "poster_path": "/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg",
+            "release_date": "2001-07-20",
+            "title": "Ghost World",
+            "video": false,
+            "vote_average": 7.078,
+            "vote_count": 1475
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 120,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+            "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+            "popularity": 31.2789,
+            "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+            "release_date": "2001-12-18",
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 26190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 194,
+            "original_language": "fr",
+            "original_title": "Le Fabuleux Destin d'Am\u00e9lie Poulain",
+            "overview": "At a tiny Parisian caf\u00e9, the adorable yet painfully shy Am\u00e9lie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+            "popularity": 7.3291,
+            "poster_path": "/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+            "release_date": "2001-04-25",
+            "title": "Am\u00e9lie",
+            "video": false,
+            "vote_average": 7.913,
+            "vote_count": 11859
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+            "genre_ids": [
+                16,
+                35,
+                14,
+                12,
+                10751
+            ],
+            "id": 808,
+            "original_language": "en",
+            "original_title": "Shrek",
+            "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+            "popularity": 22.5275,
+            "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+            "release_date": "2001-05-18",
+            "title": "Shrek",
+            "video": false,
+            "vote_average": 7.753,
+            "vote_count": 17833
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r73OdC9TpRIknIsVyGCd5SSwplO.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 1999,
+            "original_language": "en",
+            "original_title": "In the Bedroom",
+            "overview": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy.",
+            "popularity": 0.9911,
+            "poster_path": "/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+            "release_date": "2001-11-23",
+            "title": "In the Bedroom",
+            "video": false,
+            "vote_average": 6.936,
+            "vote_count": 373
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDVRvyJaKjsTrptaKYkwGSZSZUC.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10402
+            ],
+            "id": 824,
+            "original_language": "en",
+            "original_title": "Moulin Rouge!",
+            "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+            "popularity": 5.5589,
+            "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+            "release_date": "2001-05-18",
+            "title": "Moulin Rouge!",
+            "video": false,
+            "vote_average": 7.551,
+            "vote_count": 4642
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 9428,
+            "original_language": "en",
+            "original_title": "The Royal Tenenbaums",
+            "overview": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+            "popularity": 3.5975,
+            "poster_path": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+            "release_date": "2001-10-05",
+            "title": "The Royal Tenenbaums",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 4714
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 843,
+            "original_language": "cn",
+            "original_title": "\u82b1\u6a23\u5e74\u83ef",
+            "overview": "In 1962 Hong Kong, neighbors Su Li-zhen (Mrs. Chan) and Chow Mo-wan (Mr. Chow) discover their spouses are having an affair. As they spend time together, they develop feelings for each other, but their relationship remains chaste and unspoken, reflecting societal constraints and their own moral compass.",
+            "popularity": 12.0868,
+            "poster_path": "/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
+            "release_date": "2000-09-29",
+            "title": "In the Mood for Love",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 2979
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xwjVHxKKk2hb6CJX46U4Cv0Zq0a.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 10778,
+            "original_language": "en",
+            "original_title": "The Man Who Wasn't There",
+            "overview": "A tale of murder, crime and punishment set in the summer of 1949. Ed Crane, a barber in a small California town, is dissatisfied with his life, but his wife Doris' infidelity and a mysterious opportunity presents him with a chance to change it.",
+            "popularity": 1.6669,
+            "poster_path": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+            "release_date": "2001-10-26",
+            "title": "The Man Who Wasn't There",
+            "video": false,
+            "vote_average": 7.528,
+            "vote_count": 1634
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+            "genre_ids": [
+                16,
+                18,
+                14
+            ],
+            "id": 9081,
+            "original_language": "en",
+            "original_title": "Waking Life",
+            "overview": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+            "popularity": 1.5801,
+            "poster_path": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+            "release_date": "2001-10-19",
+            "title": "Waking Life",
+            "video": false,
+            "vote_average": 7.472,
+            "vote_count": 901
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+            "genre_ids": [
+                18,
+                878,
+                12
+            ],
+            "id": 644,
+            "original_language": "en",
+            "original_title": "A.I. Artificial Intelligence",
+            "overview": "David, a robotic boy\u2014the first of his kind programmed to love\u2014is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+            "popularity": 6.267,
+            "poster_path": "/5O8JQw3I6arVvSsj6W7HRRk71Mf.jpg",
+            "release_date": "2001-06-29",
+            "title": "A.I. Artificial Intelligence",
+            "video": false,
+            "vote_average": 7.047,
+            "vote_count": 6340
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 453,
+            "original_language": "en",
+            "original_title": "A Beautiful Mind",
+            "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+            "popularity": 8.7202,
+            "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+            "release_date": "2001-12-14",
+            "title": "A Beautiful Mind",
+            "video": false,
+            "vote_average": 7.855,
+            "vote_count": 10548
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mkyqVN51VswajggvNllSDnVf1Cj.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 5279,
+            "original_language": "en",
+            "original_title": "Gosford Park",
+            "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
+            "popularity": 2.7899,
+            "poster_path": "/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+            "release_date": "2001-12-26",
+            "title": "Gosford Park",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1142
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tJTRLtdKPeVT8HORSbeHpdb8BKg.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 55,
+            "original_language": "es",
+            "original_title": "Amores perros",
+            "overview": "A fatalistic car crash in Mexico city sets off a chain of events in the lives of three people: a supermodel, a young man wanting to run off with his sister-in-law, and a homeless man. Their lives are catapulted into unforeseen situations instigated by the seemingly inconsequential destiny of a dog.",
+            "popularity": 3.1316,
+            "poster_path": "/n3QrQvLM7lZ9AGExvG89OREkCXW.jpg",
+            "release_date": "2000-06-16",
+            "title": "Amores Perros",
+            "video": false,
+            "vote_average": 7.628,
+            "vote_count": 2720
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yYUGy4MDM6jbJoamlfo3HT6Guhy.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 11826,
+            "original_language": "en",
+            "original_title": "Sexy Beast",
+            "overview": "Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job.",
+            "popularity": 1.7425,
+            "poster_path": "/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
+            "release_date": "2000-09-13",
+            "title": "Sexy Beast",
+            "video": false,
+            "vote_average": 6.995,
+            "vote_count": 820
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uY5EB9VIX8lT03MdYcR9DzlhEGM.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                18
+            ],
+            "id": 13403,
+            "original_language": "en",
+            "original_title": "Hedwig and the Angry Inch",
+            "overview": "Raised a boy in East Berlin, Hedwig undergoes a personal transformation in order to emigrate to the U.S., where she reinvents herself as an 'internationally ignored' but divinely talented rock diva, inhabiting a 'beautiful gender of one'.",
+            "popularity": 0.8473,
+            "poster_path": "/jafIFAW8sHQkzWPGoMDR4892dFI.jpg",
+            "release_date": "2001-07-20",
+            "title": "Hedwig and the Angry Inch",
+            "video": false,
+            "vote_average": 7.422,
+            "vote_count": 398
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 585,
+            "original_language": "en",
+            "original_title": "Monsters, Inc.",
+            "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+            "popularity": 17.6828,
+            "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+            "release_date": "2001-11-01",
+            "title": "Monsters, Inc.",
+            "video": false,
+            "vote_average": 7.845,
+            "vote_count": 18986
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y5hbHJbERDFurustaqcVamN84Y0.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 1933,
+            "original_language": "en",
+            "original_title": "The Others",
+            "overview": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+            "popularity": 7.0998,
+            "poster_path": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+            "release_date": "2001-08-02",
+            "title": "The Others",
+            "video": false,
+            "vote_average": 7.616,
+            "vote_count": 6767
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/970o9Snv0Nttpr15DaZVZYYr2LH.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                80,
+                18
+            ],
+            "id": 24936,
+            "original_language": "en",
+            "original_title": "The Deep End",
+            "overview": "With her husband Jack perpetually away at work, Margaret Hall raises her children virtually alone. Her teenage son is testing the waters of the adult world, and early one morning she wakes to find the dead body of his gay lover on the beach of their rural lakeside home. What would you do? What is rational and what do you do to protect your child? How far do you go and when do you stop?",
+            "popularity": 0.5762,
+            "poster_path": "/sWRTQpTb65Itp4bdNas3W4a1QHy.jpg",
+            "release_date": "2001-01-21",
+            "title": "The Deep End",
+            "video": false,
+            "vote_average": 6.172,
+            "vote_count": 148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+            "genre_ids": [
+                28,
+                10752,
+                36
+            ],
+            "id": 855,
+            "original_language": "en",
+            "original_title": "Black Hawk Down",
+            "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+            "popularity": 7.8637,
+            "poster_path": "/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
+            "release_date": "2001-12-28",
+            "title": "Black Hawk Down",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 5982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8uszBImrPngs8G4Y21LHJVstNtC.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 742,
+            "original_language": "sv",
+            "original_title": "Tillsammans",
+            "overview": "Elisabeth leaves her abusive and drunken husband Rolf, and goes to live with her brother, Göran. The year is 1975 and Göran lives in a commune called Together. Living in this leftist commune Elisabeth learns that the world can be viewed from different perspectives.",
+            "popularity": 0.6311,
+            "poster_path": "/fIY5xko6dJOcn0hckudIhPXobve.jpg",
+            "release_date": "2000-08-25",
+            "title": "Together",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2lZYvShWuVThLM6Oo8zfakdBMqw.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1365,
+            "original_language": "en",
+            "original_title": "Monster's Ball",
+            "overview": "A prison guard begins a tentative romance with the unsuspecting widow of a man whose execution he presided over.",
+            "popularity": 2.4401,
+            "poster_path": "/rQeufx98gKH4CCeVw57KT1Fd0gr.jpg",
+            "release_date": "2001-06-07",
+            "title": "Monster's Ball",
+            "video": false,
+            "vote_average": 6.768,
+            "vote_count": 1022
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gVtm7G5NtQxjFNA5ydqxslxjCuk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 8489,
+            "original_language": "en",
+            "original_title": "Ali",
+            "overview": "In 1964, a brash, new pro boxer, fresh from his Olympic gold medal victory, explodes onto the scene: Cassius Clay. Bold and outspoken, he cuts an entirely new image for African Americans in sport with his proud public self-confidence and his unapologetic belief that he is the greatest boxer of all time. Yet at the top of his game, both Ali's personal and professional lives face the ultimate test.",
+            "popularity": 2.373,
+            "poster_path": "/hBE9VTgwmHbIBkJ0uxrnmqJOpkm.jpg",
+            "release_date": "2001-12-10",
+            "title": "Ali",
+            "video": false,
+            "vote_average": 6.763,
+            "vote_count": 1770
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1014077,
+            "original_language": "en",
+            "original_title": "The Circle 1",
+            "overview": "Short film from James Fotopoulos, 16mm film (b&w), silent.",
+            "popularity": 0.0143,
+            "poster_path": "/8INaS9mJ7lcTqD4MmAQg9fLdAuc.jpg",
+            "release_date": "2001-01-01",
+            "title": "The Circle 1",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+            "genre_ids": [
+                28,
+                36,
+                10752
+            ],
+            "id": 8342,
+            "original_language": "bs",
+            "original_title": "No Man's Land",
+            "overview": "Two soldiers from opposite sides get stuck between the front lines in the same trench. The UN is asked to free them and both sides agree on a ceasefire, but will they stick to it?",
+            "popularity": 0.7229,
+            "poster_path": "/ytb2BuyV1TgBeAmKDwRzkqVGyZz.jpg",
+            "release_date": "2001-05-12",
+            "title": "No Man's Land",
+            "video": false,
+            "vote_average": 7.485,
+            "vote_count": 460
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 28,
+            "original_language": "en",
+            "original_title": "Apocalypse Now",
+            "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+            "popularity": 7.1543,
+            "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+            "release_date": "1979-05-19",
+            "title": "Apocalypse Now",
+            "video": false,
+            "vote_average": 8.272,
+            "vote_count": 8565
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/imvV078HyWsa9jgDVLi4APgskrJ.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 634,
+            "original_language": "en",
+            "original_title": "Bridget Jones's Diary",
+            "overview": "Bridget Jones is an average woman struggling against her age, her weight, her job, her lack of a man, and her various imperfections. As a New Year's resolution, Bridget decides to take control of her life, starting by keeping a diary in which she will always tell the complete truth. The fireworks begin when her charming though disreputable boss takes an interest in the quirky Miss Jones. Thrown into the mix are Bridget's band of slightly eccentric friends and a rather disagreeable acquaintance into whom Bridget cannot seem to stop running or help finding quietly attractive.",
+            "popularity": 4.1095,
+            "poster_path": "/dkauRl9TosBFikftrC3OVcKWDoz.jpg",
+            "release_date": "2001-04-13",
+            "title": "Bridget Jones's Diary",
+            "video": false,
+            "vote_average": 6.746,
+            "vote_count": 5256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pnwI95K4pmYeM3LsMRTQYzvhvvO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 570,
+            "original_language": "fr",
+            "original_title": "\u00c0 ma s\u0153ur !",
+            "overview": "Ana\u00efs is twelve and bears the weight of the world on her shoulders. She watches her older sister, Elena, whom she both loves and hates. Elena is fifteen and devilishly beautiful. Neither more futile, nor more stupid than her younger sister, she cannot understand that she is merely an object of desire. And, as such, she can only be taken. Or had. Indeed, this is the subject: a girl's loss of virginity. And, that summer, it opens a door to tragedy.",
+            "popularity": 2.511,
+            "poster_path": "/afzbY1h7huuxlITigPfcyQSkqLs.jpg",
+            "release_date": "2001-03-07",
+            "title": "Fat Girl",
+            "video": false,
+            "vote_average": 6.197,
+            "vote_count": 236
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+            "genre_ids": [
+                14,
+                18,
+                9648
+            ],
+            "id": 141,
+            "original_language": "en",
+            "original_title": "Donnie Darko",
+            "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+            "popularity": 8.3538,
+            "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+            "release_date": "2001-01-19",
+            "title": "Donnie Darko",
+            "video": false,
+            "vote_average": 7.77,
+            "vote_count": 12822
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 44379,
+            "original_language": "fr",
+            "original_title": "Les Glaneurs et la Glaneuse",
+            "overview": "Varda focuses her eye on gleaners: those who scour already-reaped fields for the odd potato or turnip. Her investigation leads from forgotten corners of the French countryside to off-hours at the green markets of Paris, following those who insist on finding a use for that which society has cast off, whether out of necessity or activism.",
+            "popularity": 0.5939,
+            "poster_path": "/6IdCTKi4Eu7i897jpe59wIDGCri.jpg",
+            "release_date": "2000-07-07",
+            "title": "The Gleaners and I",
+            "video": false,
+            "vote_average": 7.633,
+            "vote_count": 199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bYvY5oAb56MKeYV91bL5uzKh1bP.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 4973,
+            "original_language": "fr",
+            "original_title": "Sous le Sable",
+            "overview": "When her husband goes missing at the beach, a female professor begins to mentally disintegrate as her denial of his disappearance becomes delusional.",
+            "popularity": 1.0496,
+            "poster_path": "/phJFN5d5qtphQoz3QzP7Z7GLAMM.jpg",
+            "release_date": "2000-09-11",
+            "title": "Under the Sand",
+            "video": false,
+            "vote_average": 6.694,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s9ivjpkMFQNRNXbfGBGgFGcthCS.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "id": 9523,
+            "original_language": "en",
+            "original_title": "Lantana",
+            "overview": "Plagued with grief over the murder of her daughter, Valerie Somers suspects that her husband John is cheating on her. When Valerie disappears, Detective Leon Zat attempts to solve the mystery of her absence. A complex web of love, sex and deceit emerges -- drawing in four related couples whose various partners are distrustful and suspicious about each other's involvement.",
+            "popularity": 0.9171,
+            "poster_path": "/nTEUCdpDsfVDZJ5H0ndP1EmVtj.jpg",
+            "release_date": "2001-10-04",
+            "title": "Lantana",
+            "video": false,
+            "vote_average": 6.673,
+            "vote_count": 211
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o62VYsoyEUYgYMn21Thd9GHTuUE.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 5955,
+            "original_language": "en",
+            "original_title": "The Pledge",
+            "overview": "A police chief about to retire pledges to help a woman find her daughter's killer.",
+            "popularity": 2.9273,
+            "poster_path": "/9QOzFL3FPMAUNNPrNiKC3mEDxco.jpg",
+            "release_date": "2001-01-19",
+            "title": "The Pledge",
+            "video": false,
+            "vote_average": 6.568,
+            "vote_count": 1115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cQm7tq2QHEr3oE3t6q3kKC9nONZ.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 14268,
+            "original_language": "en",
+            "original_title": "Startup.com",
+            "overview": "Friends since high school, 20-somethings Kaleil Isaza Tuzman and Tom Herman have an idea: a Web site for people to conduct business with municipal governments. This documentary tracks the rise and fall of govWorks.com from May of 1999 to December of 2000, and the trials the business brings to the relationship of these best friends. Kaleil raises the money, Tom's the technical chief. A third partner wants a buy out; girlfriends come and go; Tom's daughter needs attention. And always the need for cash and for improving the site. Venture capital comes in by the millions. Kaleil is on C-SPAN, CNN, and magazine covers. Will the business or the friendship crash first?",
+            "popularity": 0.2935,
+            "poster_path": "/ognPQebXUCRfKwAyRodR0j0xLjd.jpg",
+            "release_date": "2001-01-21",
+            "title": "Startup.com",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mgNMFGVUezUAgOPJ57N2toQ7d6z.jpg",
+            "genre_ids": [
+                18,
+                35,
+                9648
+            ],
+            "id": 47943,
+            "original_language": "fr",
+            "original_title": "Harry, un ami qui vous veut du bien",
+            "overview": "Harry knew Michel in high school; they meet again by accident, Harry inserts himself in Michel's life... and things take a sinister turn.",
+            "popularity": 1.0278,
+            "poster_path": "/dZV9UTyHJ4LD4ntWudWyqBNhb8I.jpg",
+            "release_date": "2000-08-15",
+            "title": "With a Friend Like Harry...",
+            "video": false,
+            "vote_average": 6.812,
+            "vote_count": 268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 671,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Philosopher's Stone",
+            "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+            "popularity": 38.6512,
+            "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+            "release_date": "2001-11-16",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "video": false,
+            "vote_average": 7.902,
+            "vote_count": 28425
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 161,
+            "original_language": "en",
+            "original_title": "Ocean's Eleven",
+            "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+            "popularity": 9.4283,
+            "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+            "release_date": "2001-12-07",
+            "title": "Ocean's Eleven",
+            "video": false,
+            "vote_average": 7.449,
+            "vote_count": 11950
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 23160,
+            "original_language": "hu",
+            "original_title": "Werckmeister harm\u00f3ni\u00e1k",
+            "overview": "A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.",
+            "popularity": 0.614,
+            "poster_path": "/fzG0xks6HNSnQg6atlF98brHvIT.jpg",
+            "release_date": "2001-02-01",
+            "title": "Werckmeister Harmonies",
+            "video": false,
+            "vote_average": 7.879,
+            "vote_count": 347
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nxzh2GFY0Wb36FKNSaeTer6KzQV.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 12276,
+            "original_language": "zh",
+            "original_title": "\u6211\u7684\u7236\u4eb2\u6bcd\u4eb2",
+            "overview": "Prompted by the death of his father and the grief of his mother, a man recalls the story of how they met in flashback.",
+            "popularity": 1.1756,
+            "poster_path": "/AbUmBTtVZDpchPA4Yfq4OpIs46X.jpg",
+            "release_date": "1999-10-16",
+            "title": "The Road Home",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jlnQLUmJPun2F6g9gBijHSnuj9h.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 55372,
+            "original_language": "fr",
+            "original_title": "Va savoir",
+            "overview": "After finding love and success in Italy, French actress Camille returns to Paris, the city she fled three years ago. She secretly dreads confronting her ex-boyfriend Pierre. Her new lover Ugo also has a secret, as he\u2019s meeting with the intriguing Dominique while on his quest for an unpublished manuscript.",
+            "popularity": 0.2281,
+            "poster_path": "/8ZW85CU32SYme7MZjoD2d7KUgHO.jpg",
+            "release_date": "2001-09-28",
+            "title": "Va Savoir (Who Knows?)",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/haTYiJ6APNaUtVtekPRFmlPJ9KT.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 47595,
+            "original_language": "sv",
+            "original_title": "Trol\u00f6sa",
+            "overview": "Scripted by Ingmar Bergman, this very personal film is about a destructive affair which wrecks the marriage of an actress (Marianne) and musician (Markus). Wanting to continue the affair, Marianne moves in with her lover. But she is tormented by Markus' decision not to let her have custody of their daughter. Finally Markus announces he may have a solution to the stalemate, but this leads to deception, lies and ultimately, tragedy.",
+            "popularity": 0.5444,
+            "poster_path": "/5fshpCYhGUBPrPsBgFY4mlLqnEN.jpg",
+            "release_date": "2000-09-15",
+            "title": "Faithless",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwLufumafJojc59hgIamHyJSTO9.jpg",
+            "genre_ids": [
+                9648,
+                10749,
+                878
+            ],
+            "id": 1903,
+            "original_language": "en",
+            "original_title": "Vanilla Sky",
+            "overview": "David Aames has it all: wealth, good looks and gorgeous women on his arm. But just as he begins falling for the warmhearted Sofia, his face is horribly disfigured in a car accident. That's just the beginning of his troubles as the lines between illusion and reality, between life and death, are blurred.",
+            "popularity": 6.0568,
+            "poster_path": "/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+            "release_date": "2001-12-14",
+            "title": "Vanilla Sky",
+            "video": false,
+            "vote_average": 6.814,
+            "vote_count": 4338
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fV44CKkbiKfWIcRgY7KAg5zSWin.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 103692,
+            "original_language": "fr",
+            "original_title": "Sauvage innocence",
+            "overview": "A movie director does a new film against heroin consumption, and the producers are heroin dealers.",
+            "popularity": 0.0603,
+            "poster_path": "/4RcB9o9QwQN0C5dfD2gascwSXUM.jpg",
+            "release_date": "2001-12-19",
+            "title": "Wild Innocence",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bc8st5DZuqAXB3qaDvIBF4hP7Wk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 38047,
+            "original_language": "ja",
+            "original_title": "\u30e6\u30ea\u30a4\u30ab",
+            "overview": "In rural Japan, the survivors of a tragedy converge and attempt to overcome their damaged selves, all while a serial killer is on the loose.",
+            "popularity": 0.963,
+            "poster_path": "/smwoc0sb54q6kDpIw4Kh6UCTkJ.jpg",
+            "release_date": "2000-05-18",
+            "title": "Eureka",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wfStsmeSW7MtvYhD9Ac6ETXdbmx.jpg",
+            "genre_ids": [
+                10751,
+                28,
+                35,
+                12
+            ],
+            "id": 10054,
+            "original_language": "en",
+            "original_title": "Spy Kids",
+            "overview": "Carmen and Juni think their parents are boring. Little do they know that in their day, Gregorio and Ingrid Cortez were the top secret agents from their respective countries. They gave up that life to raise their children. Now, the disappearances of several of their old colleagues forces the Cortez' return from retirement. What they didn't count on was Carmen and Juni joining the \"family business.\"",
+            "popularity": 4.9625,
+            "poster_path": "/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+            "release_date": "2001-03-18",
+            "title": "Spy Kids",
+            "video": false,
+            "vote_average": 5.809,
+            "vote_count": 3537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zmKvbUUnTQMMUdKfd8FA4J6DSgK.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 18734,
+            "original_language": "en",
+            "original_title": "L.I.E.",
+            "overview": "With his mother dead and his father busy at work, Howie feels adrift in his New York suburb. He and his friend Gary spend their time burglarizing their neighbors' homes \u2014 until they make the mistake of robbing the house of Big John, a macho former Marine who is also an unrepentant pedophile. He propositions Howie, who declines, but the two eventually develop an unlikely and dangerous friendship.",
+            "popularity": 1.1308,
+            "poster_path": "/gSrHmiRzHBC9JS2UI72J1Bex016.jpg",
+            "release_date": "2001-09-07",
+            "title": "L.I.E.",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4tIqGGCrzpot7qCAHnw7sd9F806.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 29937,
+            "original_language": "cs",
+            "original_title": "Mus\u00edme si pom\u00e1hat",
+            "overview": "In 1943, a childless couple, the \u010c\u00ed\u017eeks, decide to hide a Jewish refugee, David Wiener, the son of \u010c\u00ed\u017eek's former employer, in the secret pantry of their apartment. \u010c\u00ed\u017eek is aware of the danger into which he has brought his household and his neighbours, but he takes helping his fellow man in need for granted. But at the same time, as a largely unheroic hero, he is dying of fear. His personal situation is greatly complicated by the approaching end of the war, when he faces danger from both the Germans and his \"honest\" fellow Czechs...",
+            "popularity": 0.2342,
+            "poster_path": "/6mKiT1zyUHHSCUm1hfZVe4RUhjV.jpg",
+            "release_date": "2000-03-15",
+            "title": "Divided We Fall",
+            "video": false,
+            "vote_average": 7.196,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zKctuZIWdni1QxTEt4SsNyysdxW.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 2575,
+            "original_language": "en",
+            "original_title": "The Tailor of Panama",
+            "overview": "A British spy is banished to Panama after having an affair with an ambassador's mistress. Once there he makes connection with a local tailor with a nefarious past and connections to all of the top political and gangster figures in Panama. The tailor also has a wife, who works for the Panamanian president and a huge debt. The mission is to learn what the President intends to do with the Canal.",
+            "popularity": 1.0656,
+            "poster_path": "/na80ysnoCvoxwGTMWCWYvnmaDlz.jpg",
+            "release_date": "2001-02-11",
+            "title": "The Tailor of Panama",
+            "video": false,
+            "vote_average": 6.043,
+            "vote_count": 505
+        }
+    ]
+}

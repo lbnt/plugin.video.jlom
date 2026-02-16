@@ -1,0 +1,1729 @@
+{
+    "type": "movie_list",
+    "title": "Academy Awards - Best Supporting Actor",
+    "source": "https://www.oscars.org/",
+    "created_by": "lbnt",
+    "added": "01/09/26",
+    "modified": "01/09/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1013850,
+            "original_language": "en",
+            "original_title": "A Real Pain",
+            "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
+            "popularity": 5.0801,
+            "poster_path": "/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+            "release_date": "2024-11-01",
+            "title": "A Real Pain",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7CENyUim29IEsaJhUxIGymCRvPu.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 872585,
+            "original_language": "en",
+            "original_title": "Oppenheimer",
+            "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+            "popularity": 22.5108,
+            "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            "release_date": "2023-07-19",
+            "title": "Oppenheimer",
+            "video": false,
+            "vote_average": 8.039,
+            "vote_count": 11163
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 545611,
+            "original_language": "en",
+            "original_title": "Everything Everywhere All at Once",
+            "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+            "popularity": 11.4728,
+            "poster_path": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+            "release_date": "2022-03-24",
+            "title": "Everything Everywhere All at Once",
+            "video": false,
+            "vote_average": 7.726,
+            "vote_count": 7546
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 776503,
+            "original_language": "en",
+            "original_title": "CODA",
+            "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+            "popularity": 10.3018,
+            "poster_path": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+            "release_date": "2021-08-13",
+            "title": "CODA",
+            "video": false,
+            "vote_average": 7.899,
+            "vote_count": 2462
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fatz1aegtBGh7KS0gipcsw9MqUn.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 583406,
+            "original_language": "en",
+            "original_title": "Judas and the Black Messiah",
+            "overview": "Bill O'Neal infiltrates the Black Panthers on the orders of FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends\u2014falling for a fellow revolutionary en route\u2014a battle wages for O\u2019Neal\u2019s soul.",
+            "popularity": 2.1374,
+            "poster_path": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+            "release_date": "2021-02-12",
+            "title": "Judas and the Black Messiah",
+            "video": false,
+            "vote_average": 7.301,
+            "vote_count": 1646
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aQLygZOIKai6aaiBAeeKpIWO5nc.jpg",
+            "genre_ids": [
+                35,
+                18,
+                53
+            ],
+            "id": 466272,
+            "original_language": "en",
+            "original_title": "Once Upon a Time... in Hollywood",
+            "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+            "popularity": 12.9523,
+            "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+            "release_date": "2019-07-24",
+            "title": "Once Upon a Time... in Hollywood",
+            "video": false,
+            "vote_average": 7.425,
+            "vote_count": 14409
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+            "genre_ids": [
+                18,
+                35,
+                36
+            ],
+            "id": 490132,
+            "original_language": "en",
+            "original_title": "Green Book",
+            "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+            "popularity": 8.8312,
+            "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+            "release_date": "2018-11-16",
+            "title": "Green Book",
+            "video": false,
+            "vote_average": 8.224,
+            "vote_count": 12474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 359940,
+            "original_language": "en",
+            "original_title": "Three Billboards Outside Ebbing, Missouri",
+            "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+            "popularity": 4.9847,
+            "poster_path": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+            "release_date": "2017-12-01",
+            "title": "Three Billboards Outside Ebbing, Missouri",
+            "video": false,
+            "vote_average": 8.062,
+            "vote_count": 10623
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 376867,
+            "original_language": "en",
+            "original_title": "Moonlight",
+            "overview": "The tender, heartbreaking story of a young man\u2019s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+            "popularity": 4.0432,
+            "poster_path": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+            "release_date": "2016-10-21",
+            "title": "Moonlight",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 7365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 296098,
+            "original_language": "en",
+            "original_title": "Bridge of Spies",
+            "overview": "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man's freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.",
+            "popularity": 5.3975,
+            "poster_path": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+            "release_date": "2015-10-15",
+            "title": "Bridge of Spies",
+            "video": false,
+            "vote_average": 7.236,
+            "vote_count": 7125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1kuYEvLkX2nTkbfzN6X0w0xQFQU.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 244786,
+            "original_language": "en",
+            "original_title": "Whiplash",
+            "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+            "popularity": 15.1469,
+            "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+            "release_date": "2014-10-10",
+            "title": "Whiplash",
+            "video": false,
+            "vote_average": 8.375,
+            "vote_count": 16183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 152532,
+            "original_language": "en",
+            "original_title": "Dallas Buyers Club",
+            "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
+            "popularity": 13.8928,
+            "poster_path": "/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+            "release_date": "2013-11-01",
+            "title": "Dallas Buyers Club",
+            "video": false,
+            "vote_average": 7.92,
+            "vote_count": 8854
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 68718,
+            "original_language": "en",
+            "original_title": "Django Unchained",
+            "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+            "popularity": 29.2099,
+            "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+            "release_date": "2012-12-25",
+            "title": "Django Unchained",
+            "video": false,
+            "vote_average": 8.186,
+            "vote_count": 27408
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7zEbI6E4dfpDBAEivZYR1tPID5w.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 55347,
+            "original_language": "en",
+            "original_title": "Beginners",
+            "overview": "Oliver meets the irreverent and unpredictable Anna only months after his father Hal Fields has passed away. This new love floods Oliver with memories of his father, who, following the death of his wife of 44 years, came out of the closet at age 75 to live a full, energized, and wonderfully tumultuous gay life \u2013 which included a younger boyfriend.",
+            "popularity": 1.4042,
+            "poster_path": "/mAquHAmoBgZ1omUNdNsnGVNX74c.jpg",
+            "release_date": "2011-06-03",
+            "title": "Beginners",
+            "video": false,
+            "vote_average": 6.838,
+            "vote_count": 1107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 45317,
+            "original_language": "en",
+            "original_title": "The Fighter",
+            "overview": "Boxer \"Irish\" Micky Ward's unlikely road to the world light welterweight title. His Rocky-like rise was shepherded by half-brother Dicky, a boxer-turned-trainer who rebounded in life after nearly being KO'd by drugs and crime.",
+            "popularity": 3.9917,
+            "poster_path": "/xfsFerGhO1h6rLk8vwLgMyQ8WVJ.jpg",
+            "release_date": "2010-12-10",
+            "title": "The Fighter",
+            "video": false,
+            "vote_average": 7.382,
+            "vote_count": 4591
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "id": 16869,
+            "original_language": "en",
+            "original_title": "Inglourious Basterds",
+            "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+            "popularity": 13.5241,
+            "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+            "release_date": "2009-08-02",
+            "title": "Inglourious Basterds",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 23576
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dGOZdWOB8OpZFVziEOUFhox5wz9.jpg",
+            "genre_ids": [
+                18,
+                28,
+                80,
+                53
+            ],
+            "id": 155,
+            "original_language": "en",
+            "original_title": "The Dark Knight",
+            "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+            "popularity": 25.2918,
+            "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "release_date": "2008-07-16",
+            "title": "The Dark Knight",
+            "video": false,
+            "vote_average": 8.525,
+            "vote_count": 34954
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+            "genre_ids": [
+                80,
+                53,
+                37
+            ],
+            "id": 6977,
+            "original_language": "en",
+            "original_title": "No Country for Old Men",
+            "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+            "popularity": 11.8715,
+            "poster_path": "/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+            "release_date": "2007-11-09",
+            "title": "No Country for Old Men",
+            "video": false,
+            "vote_average": 7.947,
+            "vote_count": 12894
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 773,
+            "original_language": "en",
+            "original_title": "Little Miss Sunshine",
+            "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+            "popularity": 6.6435,
+            "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+            "release_date": "2006-07-26",
+            "title": "Little Miss Sunshine",
+            "video": false,
+            "vote_average": 7.693,
+            "vote_count": 7610
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xSUsz5n5qtR9yEwmRxEmYvMLN7o.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 231,
+            "original_language": "en",
+            "original_title": "Syriana",
+            "overview": "The Middle Eastern oil industry is the backdrop of this tense drama, which weaves together numerous story lines. Bennett Holiday is an American lawyer in charge of facilitating a dubious merger of oil companies, while Bryan Woodman, a Switzerland-based energy analyst, experiences both personal tragedy and opportunity during a visit with Arabian royalty. Meanwhile, veteran CIA agent Bob Barnes uncovers an assassination plot with unsettling origins.",
+            "popularity": 4.1384,
+            "poster_path": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+            "release_date": "2005-11-23",
+            "title": "Syriana",
+            "video": false,
+            "vote_average": 6.421,
+            "vote_count": 1443
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 70,
+            "original_language": "en",
+            "original_title": "Million Dollar Baby",
+            "overview": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn't prepared for boxer Maggie Fitzgerald to enter his life. But Maggie's determined to go pro and to convince Dunn and his cohort to help her.",
+            "popularity": 5.1525,
+            "poster_path": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+            "release_date": "2004-12-05",
+            "title": "Million Dollar Baby",
+            "video": false,
+            "vote_average": 7.954,
+            "vote_count": 10112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18,
+                9648
+            ],
+            "id": 322,
+            "original_language": "en",
+            "original_title": "Mystic River",
+            "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+            "popularity": 6.4548,
+            "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+            "release_date": "2003-10-08",
+            "title": "Mystic River",
+            "video": false,
+            "vote_average": 7.742,
+            "vote_count": 7204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mkjdussWOjts0Se6hEwfTQdwCv2.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 2757,
+            "original_language": "en",
+            "original_title": "Adaptation.",
+            "overview": "Charlie Kaufman is a confused L.A. screenwriter overwhelmed by feelings of inadequacy, sexual frustration, self-loathing, and by the screenwriting ambitions of his freeloading twin brother Donald. While struggling to adapt \"The Orchid Thief,\" by Susan Orlean, Kaufman's life spins from pathetic to bizarre. The lives of Kaufman, Orlean's book, become strangely intertwined as each one's search for passion collides with the others'.",
+            "popularity": 67.975,
+            "poster_path": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+            "release_date": "2002-12-06",
+            "title": "Adaptation.",
+            "video": false,
+            "vote_average": 7.345,
+            "vote_count": 2681
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xoLuu4u6CpiL72n5nLo2f4H9613.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11889,
+            "original_language": "en",
+            "original_title": "Iris",
+            "overview": "True story of the lifelong romance between novelist Iris Murdoch and her husband John Bayley, from their student days through her battle with Alzheimer's disease.",
+            "popularity": 4.5114,
+            "poster_path": "/pqtVPrv3xPLTUayC0bPruRjYWDF.jpg",
+            "release_date": "2001-12-14",
+            "title": "Iris",
+            "video": false,
+            "vote_average": 6.405,
+            "vote_count": 205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nkMgY1XFLWr91najzfvwie8LyYF.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 1900,
+            "original_language": "en",
+            "original_title": "Traffic",
+            "overview": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
+            "popularity": 4.4345,
+            "poster_path": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+            "release_date": "2000-12-27",
+            "title": "Traffic",
+            "video": false,
+            "vote_average": 7.083,
+            "vote_count": 2312
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ZJ8caqGFoqSclAfRueyU85udQD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1715,
+            "original_language": "en",
+            "original_title": "The Cider House Rules",
+            "overview": "Homer is an orphan who was never adopted, becoming the favorite of orphanage director Dr. Larch. Dr. Larch imparts his full medical knowledge on Homer, who becomes a skilled, albeit unlicensed, physician. But Homer yearns for a self-chosen life outside the orphanage. What will Homer learn about life and love in the cider house? What of the destiny that Dr. Larch has planned for him?",
+            "popularity": 2.5539,
+            "poster_path": "/qAECAgqjSFRVZzEEGbFAZqZNiDh.jpg",
+            "release_date": "1999-12-17",
+            "title": "The Cider House Rules",
+            "video": false,
+            "vote_average": 7.071,
+            "vote_count": 1244
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hNNlrvbqYqAPGRf4cCsrF3kBsM1.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 31662,
+            "original_language": "en",
+            "original_title": "Affliction",
+            "overview": "A small town policeman must investigate a suspicious hunting accident. The investigation and other events result in him slowly disintegrating mentally.",
+            "popularity": 1.1536,
+            "poster_path": "/hNu8ePwoRyXDQxhLY4iurCVXAQs.jpg",
+            "release_date": "1998-02-12",
+            "title": "Affliction",
+            "video": false,
+            "vote_average": 6.332,
+            "vote_count": 301
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 489,
+            "original_language": "en",
+            "original_title": "Good Will Hunting",
+            "overview": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+            "popularity": 15.6724,
+            "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+            "release_date": "1997-12-05",
+            "title": "Good Will Hunting",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 13388
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a66PKC32YVZISoqZtRQyz8c9Vx6.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 9390,
+            "original_language": "en",
+            "original_title": "Jerry Maguire",
+            "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+            "popularity": 5.8891,
+            "poster_path": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+            "release_date": "1996-12-13",
+            "title": "Jerry Maguire",
+            "video": false,
+            "vote_average": 6.973,
+            "vote_count": 3559
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 629,
+            "original_language": "en",
+            "original_title": "The Usual Suspects",
+            "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor \u2013 leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+            "popularity": 12.3011,
+            "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+            "release_date": "1995-07-19",
+            "title": "The Usual Suspects",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 11059
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Lc59aJZVILQ5grIqhl9jaMGOpv.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 522,
+            "original_language": "en",
+            "original_title": "Ed Wood",
+            "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+            "popularity": 2.337,
+            "poster_path": "/jNao464ZTwWUWr3uJJ8swVgaKd9.jpg",
+            "release_date": "1994-09-28",
+            "title": "Ed Wood",
+            "video": false,
+            "vote_average": 7.482,
+            "vote_count": 2448
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
+            "genre_ids": [
+                28,
+                53,
+                18
+            ],
+            "id": 5503,
+            "original_language": "en",
+            "original_title": "The Fugitive",
+            "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+            "popularity": 7.309,
+            "poster_path": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+            "release_date": "1993-08-06",
+            "title": "The Fugitive",
+            "video": false,
+            "vote_average": 7.466,
+            "vote_count": 4612
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 33,
+            "original_language": "en",
+            "original_title": "Unforgiven",
+            "overview": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+            "popularity": 6.8476,
+            "poster_path": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+            "release_date": "1992-08-07",
+            "title": "Unforgiven",
+            "video": false,
+            "vote_average": 7.906,
+            "vote_count": 4775
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mYJGGapqhHhKMSwJpy9e6DvUg7i.jpg",
+            "genre_ids": [
+                35,
+                37
+            ],
+            "id": 1406,
+            "original_language": "en",
+            "original_title": "City Slickers",
+            "overview": "Three New York businessmen decide to take a \"Wild West\" vacation that turns out not to be the relaxing vacation they had envisioned.",
+            "popularity": 4.4973,
+            "poster_path": "/9DVZpm9pQNB3M17cRo752zqUYhL.jpg",
+            "release_date": "1991-06-07",
+            "title": "City Slickers",
+            "video": false,
+            "vote_average": 6.45,
+            "vote_count": 836
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 769,
+            "original_language": "en",
+            "original_title": "GoodFellas",
+            "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+            "popularity": 16.5544,
+            "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+            "release_date": "1990-09-12",
+            "title": "GoodFellas",
+            "video": false,
+            "vote_average": 8.452,
+            "vote_count": 13896
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwZoJCpz9sJIXOiP4LW5iKHZvIe.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 9665,
+            "original_language": "en",
+            "original_title": "Glory",
+            "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+            "popularity": 6.3092,
+            "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+            "release_date": "1989-12-15",
+            "title": "Glory",
+            "video": false,
+            "vote_average": 7.477,
+            "vote_count": 1742
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6IFTmhNh9kmwd5ix53OdlSphPYl.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 623,
+            "original_language": "en",
+            "original_title": "A Fish Called Wanda",
+            "overview": "While a diamond advocate attempts to steal a collection of diamonds, troubles arise when he realises he\u2019s not the only one after the collection.",
+            "popularity": 2.528,
+            "poster_path": "/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg",
+            "release_date": "1988-07-15",
+            "title": "A Fish Called Wanda",
+            "video": false,
+            "vote_average": 7.208,
+            "vote_count": 2341
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
+            "genre_ids": [
+                80,
+                36,
+                53
+            ],
+            "id": 117,
+            "original_language": "en",
+            "original_title": "The Untouchables",
+            "overview": "Elliot Ness, an ambitious prohibition agent, is determined to take down Al Capone. In order to achieve this goal, he forms a group given the nickname \u201cThe Untouchables\u201d.",
+            "popularity": 5.798,
+            "poster_path": "/8BquGK22zCcsmBWiaIakaaPpSZb.jpg",
+            "release_date": "1987-06-03",
+            "title": "The Untouchables",
+            "video": false,
+            "vote_average": 7.756,
+            "vote_count": 6015
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 5143,
+            "original_language": "en",
+            "original_title": "Hannah and Her Sisters",
+            "overview": "Between two Thanksgivings, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+            "popularity": 2.1041,
+            "poster_path": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+            "release_date": "1986-02-07",
+            "title": "Hannah and Her Sisters",
+            "video": false,
+            "vote_average": 7.469,
+            "vote_count": 1117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ekEK9tRvpZVYPl5rjUA5cSWKsER.jpg",
+            "genre_ids": [
+                35,
+                878,
+                9648,
+                18
+            ],
+            "id": 10328,
+            "original_language": "en",
+            "original_title": "Cocoon",
+            "overview": "When a group of trespassing seniors swim in a pool containing alien cocoons, they find themselves energized with youthful vigor.",
+            "popularity": 3.9129,
+            "poster_path": "/wqNNm36j3nkucAucHEGAW5pNZcd.jpg",
+            "release_date": "1985-06-21",
+            "title": "Cocoon",
+            "video": false,
+            "vote_average": 6.626,
+            "vote_count": 1365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c7OeJd34rc9bI1DXqd4ucb1wVrf.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 625,
+            "original_language": "en",
+            "original_title": "The Killing Fields",
+            "overview": "New York Times reporter Sydney Schanberg is on assignment covering the Cambodian Civil War, with the help of local interpreter Dith Pran and American photojournalist Al Rockoff. When the U.S. Army pulls out amid escalating violence, Schanberg makes exit arrangements for Pran and his family. Pran, however, tells Schanberg he intends to stay in Cambodia to help cover the unfolding story \u2014 a decision he may regret as the Khmer Rouge rebels move in.",
+            "popularity": 2.3208,
+            "poster_path": "/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg",
+            "release_date": "1984-11-23",
+            "title": "The Killing Fields",
+            "video": false,
+            "vote_average": 7.457,
+            "vote_count": 798
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kz22OnVmpexRQmDXzoBwveOmuWd.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 11050,
+            "original_language": "en",
+            "original_title": "Terms of Endearment",
+            "overview": "Aurora, a finicky woman, is in search of true love while her daughter faces marital issues. Together, they help each other deal with problems and find reasons to live a joyful life.",
+            "popularity": 2.3454,
+            "poster_path": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+            "release_date": "1983-11-20",
+            "title": "Terms of Endearment",
+            "video": false,
+            "vote_average": 7.125,
+            "vote_count": 802
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Xb0LfbdrS2pwDYyMkUiawzbGBu.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 2623,
+            "original_language": "en",
+            "original_title": "An Officer and a Gentleman",
+            "overview": "Zack Mayo is an aloof, taciturn man who aspires to be a navy pilot. Once he arrives at training camp for his 13-week officer's course, Mayo runs afoul of abrasive, no-nonsense drill Sergeant Emil Foley. Mayo is an excellent cadet, but a little cold around the heart, so Foley rides him mercilessly, sensing that the young man would be prime officer material if he weren't so self-involved. Zack's affair with a working girl is likewise compromised by his unwillingness to give of himself.",
+            "popularity": 2.8839,
+            "poster_path": "/69adZbLeRk5TNQ3e0008dMnde9p.jpg",
+            "release_date": "1982-07-28",
+            "title": "An Officer and a Gentleman",
+            "video": false,
+            "vote_average": 7.005,
+            "vote_count": 1163
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tUwK3xxx6D5ygfC49K3AYiLxeII.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 13665,
+            "original_language": "en",
+            "original_title": "Arthur",
+            "overview": "Arthur is a 30-year-old child who will inherit $750 million if he complies with his family's demands and marries the woman of their choosing.",
+            "popularity": 1.5892,
+            "poster_path": "/m8yOFRDVZPxtsr4D2hVdzls6q6t.jpg",
+            "release_date": "1981-07-17",
+            "title": "Arthur",
+            "video": false,
+            "vote_average": 6.496,
+            "vote_count": 450
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/81LV5HJ9nUXGCMhrJpFNjwvbEZl.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 16619,
+            "original_language": "en",
+            "original_title": "Ordinary People",
+            "overview": "Beth, Calvin, and their son Conrad are living in the aftermath of the death of the other son. Conrad is overcome by grief and misplaced guilt to the extent of a suicide attempt. He is in therapy. Beth had always preferred his brother and is having difficulty being supportive to Conrad. Calvin is trapped between the two trying to hold the family together.",
+            "popularity": 4.8748,
+            "poster_path": "/tJVETEDAKgD3fEh88SHOvMvOQue.jpg",
+            "release_date": "1980-09-19",
+            "title": "Ordinary People",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 673
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 10322,
+            "original_language": "en",
+            "original_title": "Being There",
+            "overview": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+            "popularity": 1.5431,
+            "poster_path": "/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+            "release_date": "1979-12-19",
+            "title": "Being There",
+            "video": false,
+            "vote_average": 7.591,
+            "vote_count": 1085
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ojG57hVx69vhk5DDGPIcfyRR55I.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 11778,
+            "original_language": "en",
+            "original_title": "The Deer Hunter",
+            "overview": "Three steelworkers enlist in the Vietnam War, one leaving behind a rushed marriage, the others a shared love. What they encounter overseas changes their lives forever.",
+            "popularity": 5.0366,
+            "poster_path": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+            "release_date": "1978-12-08",
+            "title": "The Deer Hunter",
+            "video": false,
+            "vote_average": 7.985,
+            "vote_count": 4099
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d890bItqbqkJVmGPpIcq6s5CGxV.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "id": 42222,
+            "original_language": "en",
+            "original_title": "Julia",
+            "overview": "At the behest of an old and dear friend, playwright Lillian Hellman undertakes a dangerous mission to smuggle funds into Nazi Germany.",
+            "popularity": 3.2782,
+            "poster_path": "/qHtPzs9eVCilp88c1arq73gH6xk.jpg",
+            "release_date": "1977-10-01",
+            "title": "Julia",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/70uxtdJYU1qfrAmPg4xxqXlETVU.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 891,
+            "original_language": "en",
+            "original_title": "All the President's Men",
+            "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+            "popularity": 2.3143,
+            "poster_path": "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+            "release_date": "1976-04-09",
+            "title": "All the President's Men",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 1989
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i5CKsYWx3eKbwSokg0qouLpHfqo.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 16561,
+            "original_language": "en",
+            "original_title": "The Sunshine Boys",
+            "overview": "Lewis and Clark, aka The Sunshine Boys, were famous comedians during the vaudeville era, but off-stage they couldn't stand each other and haven't spoken in over 20 years of retirement. Willy Clark's nephew is the producer of a TV variety show that wants to feature a reunion of this classic duo. It is up to him to try to get the Sunshine Boys back together again.",
+            "popularity": 1.0978,
+            "poster_path": "/hgMB8Ixl4zvzn2ttfnEHUdJLmre.jpg",
+            "release_date": "1975-11-06",
+            "title": "The Sunshine Boys",
+            "video": false,
+            "vote_average": 6.84,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather Part II",
+            "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "popularity": 16.2005,
+            "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+            "release_date": "1974-12-20",
+            "title": "The Godfather Part II",
+            "video": false,
+            "vote_average": 8.571,
+            "vote_count": 13458
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tNPwpLk76MNxIEYketYXiD8zP9F.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 14328,
+            "original_language": "en",
+            "original_title": "The Paper Chase",
+            "overview": "A first-year law student struggles with balancing his coursework and his relationship with the daughter of a stern professor.",
+            "popularity": 0.6157,
+            "poster_path": "/9LU6tK5S9RIZq8mN7xXZY7HtGAK.jpg",
+            "release_date": "1973-10-16",
+            "title": "The Paper Chase",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 10784,
+            "original_language": "en",
+            "original_title": "Cabaret",
+            "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+            "popularity": 4.6738,
+            "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+            "release_date": "1972-02-13",
+            "title": "Cabaret",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 940
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fhzwleXGmiqBuQdWxmEwpkydhm4.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 25188,
+            "original_language": "en",
+            "original_title": "The Last Picture Show",
+            "overview": "High school seniors and best friends, Sonny and Duane, live in a dying Texas town. The handsome Duane is dating a local beauty, while Sonny is having an affair with the coach's wife. As graduation nears and both boys contemplate their futures, Duane eyes the army and Sonny takes over a local business. Each struggles to figure out if he can escape this dead-end town and build a better life somewhere else.",
+            "popularity": 1.8837,
+            "poster_path": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+            "release_date": "1971-10-03",
+            "title": "The Last Picture Show",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 739
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3247bXj6vbjPpMCMleiNUgoG89q.jpg",
+            "genre_ids": [
+                10749,
+                36,
+                18
+            ],
+            "id": 38953,
+            "original_language": "en",
+            "original_title": "Ryan's Daughter",
+            "overview": "In the wake of the 1916 Easter Rising, a married schoolteacher in a small Irish village has an affair with a troubled British officer.",
+            "popularity": 0.795,
+            "poster_path": "/g5NAbtEK5bEAkBdXq6YM7a7tkZO.jpg",
+            "release_date": "1970-03-19",
+            "title": "Ryan's Daughter",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28145,
+            "original_language": "en",
+            "original_title": "They Shoot Horses, Don't They?",
+            "overview": "In the midst of the Great Depression, manipulative emcee Rocky enlists contestants for a dance marathon offering a $1,500 cash prize. Among them are a failed actress, a middle-aged sailor, a delusional blonde and a pregnant girl.",
+            "popularity": 1.4639,
+            "poster_path": "/7wVLBgriOQpT5RrufAFCdCSUp7M.jpg",
+            "release_date": "1969-12-10",
+            "title": "They Shoot Horses, Don't They?",
+            "video": false,
+            "vote_average": 7.601,
+            "vote_count": 346
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rAQuStVXiQSMQSDRuSzApElHEPQ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 118872,
+            "original_language": "en",
+            "original_title": "The Subject Was Roses",
+            "overview": "Timmy Cleary returns to his Bronx home at the end of World War II and is soon disillusioned to find his parents' marriage filled with discord, quarreling, and recriminations.",
+            "popularity": 0.1695,
+            "poster_path": "/2mjvVqEXb5Ii64NQWgjsgKDeFlU.jpg",
+            "release_date": "1968-10-13",
+            "title": "The Subject Was Roses",
+            "video": false,
+            "vote_average": 5.905,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9TDi0FPOSAePfVLZXAUgFZhiMLf.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 903,
+            "original_language": "en",
+            "original_title": "Cool Hand Luke",
+            "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+            "popularity": 2.8954,
+            "poster_path": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+            "release_date": "1967-11-01",
+            "title": "Cool Hand Luke",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 1549
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x9krjfbtFfv1ouL8A59324M7O0e.jpg",
+            "genre_ids": [
+                35,
+                18,
+                80
+            ],
+            "id": 1888,
+            "original_language": "en",
+            "original_title": "The Fortune Cookie",
+            "overview": "TV cameraman Harry Hinkle is injured while filming a football game. Seeing big dollar signs, his unscrupulous ambulance-chasing lawyer brother-in-law Willie Gingrich enters the picture, and convinces Harry to overstate his injuries and claim $1 million in pain and suffering. Harry's similarly-minded ex-wife suddenly reappears in an attempt to rekindle their relationship.",
+            "popularity": 0.8304,
+            "poster_path": "/tGZc0sRoXgGzRDhHaCRmqxNSKVZ.jpg",
+            "release_date": "1966-10-19",
+            "title": "The Fortune Cookie",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 336
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/brYujqSBuefAyHBL42nyM0GJtFw.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 42731,
+            "original_language": "en",
+            "original_title": "A Thousand Clowns",
+            "overview": "Twelve-year-old Nick lives with his Uncle Murray, a Mr.Micawber-like Dickensian character who keeps hoping something won't turn up. What turns up is a social worker, who falls in love with Murray and a bit in love with Nick. As the child welfare people try to force Murray to become a conventional man (as the price they demand for allowing him to keep Nick), the nephew, who until now has gloried in his Uncle's iconoclastic approach to life, tries to play mediator. But when he succeeds, he is alarmed by the uncle's willingness to cave in to society in order to save the relationship.",
+            "popularity": 0.4581,
+            "poster_path": "/tXPsmtVy3T5Whz20LwiscprCdCT.jpg",
+            "release_date": "1965-12-13",
+            "title": "A Thousand Clowns",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kmstDi95LwdRAJwT6iwTTnB6igb.jpg",
+            "genre_ids": [
+                35,
+                80,
+                12
+            ],
+            "id": 5052,
+            "original_language": "en",
+            "original_title": "Topkapi",
+            "overview": "Arthur Simon Simpson is a small-time crook biding his time in Greece. One of his potential victims turns out to be a gentleman thief planning to steal the emerald-encrusted dagger of the Mehmed II from Istanbul's Topkapi Museum.",
+            "popularity": 1.0663,
+            "poster_path": "/3Q5psd2bvCMWFdQp4RvRDgxSiwg.jpg",
+            "release_date": "1964-09-02",
+            "title": "Topkapi",
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dlmROevxOVYtZXRUzt6DGJzl9BL.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 24748,
+            "original_language": "en",
+            "original_title": "Hud",
+            "overview": "Hud Bannon is a ruthless young man who tarnishes everything and everyone he touches. Hud represents the perfect embodiment of alienated youth, out for kicks with no regard for the consequences. There is bitter conflict between the callous Hud and his stern and highly principled father, Homer. Hud's nephew Lon admires Hud's cheating ways, though he soon becomes too aware of Hud's reckless amorality to bear him anymore. In the world of the takers and the taken, Hud is a winner. He's a cheat, but, he explains, \"I always say the law was meant to be interpreted in a lenient manner.\"",
+            "popularity": 1.5179,
+            "poster_path": "/A168bF52vmAIGkC2Qafj7M2EmaE.jpg",
+            "release_date": "1963-05-28",
+            "title": "Hud",
+            "video": false,
+            "vote_average": 7.263,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i5fqy8pN3Z1jF0rpsJGfPVARcnJ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 33632,
+            "original_language": "en",
+            "original_title": "Sweet Bird of Youth",
+            "overview": "Gigolo and drifter Chance Wayne returns to his hometown as the companion of a faded movie star, Alexandra Del Lago, whom he hopes to use to help him break into the movies. Chance runs into trouble when he finds his ex-girlfriend, the daughter of the local politician Tom \"Boss\" Finley, who more or less forced him to leave his daughter and the town many years ago.",
+            "popularity": 0.7655,
+            "poster_path": "/uA9tl4o8P1hNB3lDBhHKHcNGdtr.jpg",
+            "release_date": "1962-03-21",
+            "title": "Sweet Bird of Youth",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "id": 1725,
+            "original_language": "en",
+            "original_title": "West Side Story",
+            "overview": "In the slums of the upper West Side of Manhattan, tensions are high as a gang of Polish-Americans compete against a gang of recently immigrated Puerto Ricans, but this doesn't stop two romantics from each gang falling in love.",
+            "popularity": 1.9981,
+            "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+            "release_date": "1961-12-13",
+            "title": "West Side Story",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1988
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+            "genre_ids": [
+                36,
+                10752,
+                18,
+                12
+            ],
+            "id": 967,
+            "original_language": "en",
+            "original_title": "Spartacus",
+            "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+            "popularity": 6.3692,
+            "poster_path": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+            "release_date": "1960-10-13",
+            "title": "Spartacus",
+            "video": false,
+            "vote_average": 7.536,
+            "vote_count": 2304
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+            "genre_ids": [
+                36,
+                18,
+                12
+            ],
+            "id": 665,
+            "original_language": "en",
+            "original_title": "Ben-Hur",
+            "overview": "In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+            "popularity": 8.0223,
+            "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "release_date": "1959-11-18",
+            "title": "Ben-Hur",
+            "video": false,
+            "vote_average": 7.887,
+            "vote_count": 3005
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/59CrKyFYuutLMNFKiw1BkolF1Bp.jpg",
+            "genre_ids": [
+                18,
+                37,
+                10749
+            ],
+            "id": 12501,
+            "original_language": "en",
+            "original_title": "The Big Country",
+            "overview": "Retired wealthy sea captain Jim McKay arrives in the Old West, where he becomes embroiled in a feud between his future father-in-law, Major Terrill, and the rough and lawless Hannasseys over a valuable patch of land.",
+            "popularity": 2.0646,
+            "poster_path": "/aTjIUBmo7qbiu5FuvSoBA0UONWk.jpg",
+            "release_date": "1958-09-30",
+            "title": "The Big Country",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 395
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eYHkb8xNizPXXGXAFfg4Gvm974b.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 40885,
+            "original_language": "en",
+            "original_title": "Sayonara",
+            "overview": "Air Force Major Lloyd Gruver is reassigned to a Japanese air base and is confronted with US racial prejudice against the Japanese people. The issue is compounded because a number of the soldiers become romantically involved with Japanese women, in defiance of US military policy. Ordinarily, a by-the-book officer, Gruver must take a position when a buddy of his, an enlisted man, Joe Kelly, falls in love with a Japanese woman, Katsumi, and marries her. Gruver risks his position by serving as best man at the wedding ceremony.",
+            "popularity": 3.1724,
+            "poster_path": "/xSXJDamf9vSb1qOiBhOMjB2soDE.jpg",
+            "release_date": "1957-12-25",
+            "title": "Sayonara",
+            "video": false,
+            "vote_average": 6.68,
+            "vote_count": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/94Svsxxbww7xR7LrfDIjlQpJUeY.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 29592,
+            "original_language": "en",
+            "original_title": "Lust for Life",
+            "overview": "An intense and imaginative artist, revered Dutch painter Vincent van Gogh possesses undeniable talent, but he is plagued by mental problems and frustrations with failure. Supported by his brother, Theo, the tormented Van Gogh eventually leaves Holland for France, where he meets volatile fellow painter Paul Gauguin and struggles to find greater inspiration.",
+            "popularity": 0.9758,
+            "poster_path": "/rlK3LG3W41eF3N1tk0SEM7Dln2x.jpg",
+            "release_date": "1956-09-15",
+            "title": "Lust for Life",
+            "video": false,
+            "vote_average": 7.175,
+            "vote_count": 203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tWzWYnlvrUFwcEeRNKbsXPpjiRS.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 37853,
+            "original_language": "en",
+            "original_title": "Mister Roberts",
+            "overview": "Mr. Roberts is a Navy officer who's yearning for battle but is stuck in the backwaters of World War II on a non-commissioned ship run by the bullying Captain Morton.",
+            "popularity": 4.1075,
+            "poster_path": "/5B8Gc1N2S3CDWHBzm0VxaMPTyzJ.jpg",
+            "release_date": "1955-07-10",
+            "title": "Mister Roberts",
+            "video": false,
+            "vote_average": 7.045,
+            "vote_count": 166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/glI6cTpBd2BdrXUQxlCOm3fQ5Lu.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 34689,
+            "original_language": "en",
+            "original_title": "The Barefoot Contessa",
+            "overview": "A washed-up filmmaker gets a second chance at stardom when he discovers stunning peasant Maria Vargas dancing in a Madrid nightclub. Goaded by his producer, the director convinces Maria to screen test for, and then star in, his next big picture. But as the producer's possessive nature and the realities of stardom weigh on Maria, she seeks a genuine lover with whom she can escape.",
+            "popularity": 1.1707,
+            "poster_path": "/eSRBlHu9didl6MdFQdIYpU9YdFD.jpg",
+            "release_date": "1954-09-29",
+            "title": "The Barefoot Contessa",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kpTTUyVxWMTebmBkaxB2YAX8yyU.jpg",
+            "genre_ids": [
+                10752,
+                10749,
+                18
+            ],
+            "id": 11426,
+            "original_language": "en",
+            "original_title": "From Here to Eternity",
+            "overview": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second in command are falling in love.",
+            "popularity": 2.0975,
+            "poster_path": "/xO1LHnh9aQlQFFq1DxyQrOTia1S.jpg",
+            "release_date": "1953-08-28",
+            "title": "From Here to Eternity",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 687
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7aX2mfTcQArKS9PufnngjexnaQY.jpg",
+            "genre_ids": [
+                36,
+                18,
+                37
+            ],
+            "id": 1810,
+            "original_language": "en",
+            "original_title": "Viva Zapata!",
+            "overview": "The story of Mexican revolutionary Emiliano Zapata, who led a rebellion against the corrupt, oppressive dictatorship of president Porfirio D\u00edaz in the early 20th century.",
+            "popularity": 4.7269,
+            "poster_path": "/vfarxn9ddiaZpRDml8FGhB46Qrc.jpg",
+            "release_date": "1952-02-07",
+            "title": "Viva Zapata!",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 230
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 702,
+            "original_language": "en",
+            "original_title": "A Streetcar Named Desire",
+            "overview": "A disturbed, aging Southern belle moves in with her sister for solace \u2014 but being face-to-face with her brutish brother-in-law accelerates her downward spiral.",
+            "popularity": 2.3194,
+            "poster_path": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+            "release_date": "1951-09-18",
+            "title": "A Streetcar Named Desire",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1438
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zAL3LOswagN9onjN8DPcNFTqKuD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 705,
+            "original_language": "en",
+            "original_title": "All About Eve",
+            "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+            "popularity": 2.4297,
+            "poster_path": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+            "release_date": "1950-11-09",
+            "title": "All About Eve",
+            "video": false,
+            "vote_average": 8.076,
+            "vote_count": 1642
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fVnphXrYJTH8xPKvJCtzSwZycFC.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 15497,
+            "original_language": "en",
+            "original_title": "Twelve O'Clock High",
+            "overview": "In the early days of daylight bombing raids over Germany, General Frank Savage must take command of a 'hard luck' bomber group. Much of the story deals with his struggle to whip his group into a disciplined fighting unit in spite of heavy losses, and withering attacks by German fighters over their targets.",
+            "popularity": 0.9094,
+            "poster_path": "/g9VeQUobhofLwxSIbKM4ia5biAX.jpg",
+            "release_date": "1949-12-21",
+            "title": "Twelve O'Clock High",
+            "video": false,
+            "vote_average": 7.101,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d5EF8OlcVuQWWHtNjmti4kNpbcG.jpg",
+            "genre_ids": [
+                12,
+                18,
+                37
+            ],
+            "id": 3090,
+            "original_language": "en",
+            "original_title": "The Treasure of the Sierra Madre",
+            "overview": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
+            "popularity": 2.4572,
+            "poster_path": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+            "release_date": "1948-01-15",
+            "title": "The Treasure of the Sierra Madre",
+            "video": false,
+            "vote_average": 7.96,
+            "vote_count": 1294
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hHYoUYgto562dcQRjVuuVlosBKz.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 11881,
+            "original_language": "en",
+            "original_title": "Miracle on 34th Street",
+            "overview": "Kris Kringle, seemingly the embodiment of Santa Claus, is asked to portray the jolly old fellow at Macy's following his performance in the Thanksgiving Day parade. His portrayal is so complete that many begin to question if he truly is Santa Claus, while others question his sanity.",
+            "popularity": 4.1308,
+            "poster_path": "/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg",
+            "release_date": "1947-06-04",
+            "title": "Miracle on 34th Street",
+            "video": false,
+            "vote_average": 7.369,
+            "vote_count": 815
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n0og4mDtl08x9RLTWXt8zUKpqXQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 887,
+            "original_language": "en",
+            "original_title": "The Best Years of Our Lives",
+            "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+            "popularity": 1.8401,
+            "poster_path": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+            "release_date": "1946-12-25",
+            "title": "The Best Years of Our Lives",
+            "video": false,
+            "vote_average": 7.779,
+            "vote_count": 709
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yCDSn2dO0YLK2wk0CWFgfvQo1V2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 30177,
+            "original_language": "en",
+            "original_title": "A Tree Grows in Brooklyn",
+            "overview": "In Brooklyn circa 1900, the Nolans manage to enjoy life on pennies despite great poverty and Papa's alcoholism. We come to know these people well through big and little troubles: Aunt Sissy's scandalous succession of \"husbands\"; the removal of the one tree visible from their tenement; and young Francie's desire to transfer to a better school...if irresponsible Papa can get his act together.",
+            "popularity": 0.9713,
+            "poster_path": "/oFmmEyjD3tnA8NbbasfeDFMaAjY.jpg",
+            "release_date": "1945-02-28",
+            "title": "A Tree Grows in Brooklyn",
+            "video": false,
+            "vote_average": 7.519,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10402
+            ],
+            "id": 17661,
+            "original_language": "en",
+            "original_title": "Going My Way",
+            "overview": "Youthful Father Chuck O'Malley led a colorful life of sports, song, and romance before joining the Roman Catholic clergy. After being appointed to a run-down New York parish, O'Malley's worldly knowledge helps him connect with a gang of boys looking for direction, eventually winning over the aging, conventional Parish priest.",
+            "popularity": 0.7916,
+            "poster_path": "/838yNJnOk6iZj5YK1MoKiN2n1hw.jpg",
+            "release_date": "1944-01-01",
+            "title": "Going My Way",
+            "video": false,
+            "vote_average": 6.666,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hzrlJClyJLv1RZTRPEP6sFDFB90.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 80616,
+            "original_language": "en",
+            "original_title": "The More the Merrier",
+            "overview": "It's World War II and there is a severe housing shortage everywhere - especially in Washington, D.C. where Connie Milligan rents an apartment. Believing it to be her patriotic duty, Connie offers to sublet half of her apartment, fully expecting a suitable female tenent. What she gets instead is mischievous, middle-aged Benjamin Dingle. Dingle talks her into subletting to him and then promptly sublets half of his half to young, irreverent Joe Carter - creating a situation tailor-made for comedy and romance.",
+            "popularity": 1.086,
+            "poster_path": "/hkwpXQh3rNJWooaFXwZ0tVxmqF2.jpg",
+            "release_date": "1943-05-13",
+            "title": "The More the Merrier",
+            "video": false,
+            "vote_average": 6.903,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rnIGrcPFaDZdmqvzMTe6vPlWw3z.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 41495,
+            "original_language": "en",
+            "original_title": "Johnny Eager",
+            "overview": "A charming racketeer seduces the DA's stepdaughter for revenge, then falls in love.",
+            "popularity": 3.3843,
+            "poster_path": "/eT56vNkYEHo1rv4xhtI3aJLKuUp.jpg",
+            "release_date": "1941-12-09",
+            "title": "Johnny Eager",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 43266,
+            "original_language": "en",
+            "original_title": "How Green Was My Valley",
+            "overview": "Huw Morgan, the academically inclined youngest son in a proud family of Welsh coal miners, witnesses the tumultuous events of his young life during a period of rapid social change. At the dawn of the 20th-century, a miners' strike divides the Morgans: the sons demand improvements, and the father doesn't want to rock the boat.",
+            "popularity": 1.1857,
+            "poster_path": "/8N7OmxBqjRVUrqergUduGgr6exy.jpg",
+            "release_date": "1941-10-28",
+            "title": "How Green Was My Valley",
+            "video": false,
+            "vote_average": 7.305,
+            "vote_count": 438
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cp1QQPnRsPxzUbdAWURD1U0b0mv.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 14710,
+            "original_language": "en",
+            "original_title": "The Westerner",
+            "overview": "Drifter Cole Harden is accused of stealing a horse and faces hanging by self-appointed Judge Roy Bean, but Harden manages to talk his way out of it by claiming to be a friend of stage star Lillie Langtry, with whom the judge is obsessed, even though he has never met her. Tensions rise when Harden comes to the defense of a group of struggling homesteaders who Judge Bean is trying to drive away.",
+            "popularity": 0.8056,
+            "poster_path": "/5DpDg1GYiqAKoCozbunCqPYvRPD.jpg",
+            "release_date": "1940-09-18",
+            "title": "The Westerner",
+            "video": false,
+            "vote_average": 7.041,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+            "genre_ids": [
+                37,
+                12
+            ],
+            "id": 995,
+            "original_language": "en",
+            "original_title": "Stagecoach",
+            "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+            "popularity": 2.1103,
+            "poster_path": "/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
+            "release_date": "1939-03-02",
+            "title": "Stagecoach",
+            "video": false,
+            "vote_average": 7.616,
+            "vote_count": 1194
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h4JjJkL27yW8n2uAxJzib1jJ2ch.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 520447,
+            "original_language": "en",
+            "original_title": "The Lady's from Kentucky",
+            "overview": "Good-natured gambler Marty Black falls into ownership of a booking joint but soon falls on hard times. His one out is a marker for half-ownership in a young thoroughbred, which he quickly calls in. He discovers the other owner to be a young woman from an old horse racing family who wants to protect her colt almost as much as Marty wants to rush him into big races for a fast buck. While they clash, Marty soon comes to understand the human bond with the horses and what it means to be a thoroughbred.",
+            "popularity": 0.0388,
+            "poster_path": "/tbCYc2iGMn01qWidx14yL952vX9.jpg",
+            "release_date": "1939-04-27",
+            "title": "The Lady's from Kentucky",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qsqFiqjdscd0j4jjI45CP9GgtfC.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 43278,
+            "original_language": "en",
+            "original_title": "The Life of Emile Zola",
+            "overview": "A fictionalized account of famous French writer Emile Zola and his involvement in the Dreyfus Affair. After struggling to establish himself, Zola wins success writing about the unsavory side of Paris and settles into a comfortable upper-class life. However, Zola's complacency is shaken when Jewish officer Alfred Dreyfus is imprisoned for being a spy. Realizing that Dreyfus is an innocent victim of anti-Semitism, Zola boldly pens a newspaper article exposing the truth, is charged with libel and must defend himself in a dramatic courtroom testimony.",
+            "popularity": 0.909,
+            "poster_path": "/gsEa6ZU1zHhjTYneNNBQApzl8Vu.jpg",
+            "release_date": "1937-09-09",
+            "title": "The Life of Emile Zola",
+            "video": false,
+            "vote_average": 6.676,
+            "vote_count": 148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9aiwz7W64ngTBf7v3pSs6lSEj0I.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 93313,
+            "original_language": "en",
+            "original_title": "Come and Get It",
+            "overview": "An ambitious lumberjack abandons his saloon girl lover so that he can marry into wealth, but years later becomes infatuated with the woman's daughter.",
+            "popularity": 0.4695,
+            "poster_path": "/1XrclgIlth8nt2Hh7gl3LpRyCfV.jpg",
+            "release_date": "1936-11-06",
+            "title": "Come and Get It",
+            "video": false,
+            "vote_average": 6.838,
+            "vote_count": 39
+        }
+    ]
+}

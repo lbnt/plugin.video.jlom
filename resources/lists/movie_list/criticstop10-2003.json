@@ -1,0 +1,979 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2003",
+    "source": "https://criticstop10.com/best-movies-of-2003/",
+    "created_by": "lbnt",
+    "added": "07/28/25",
+    "modified": "07/28/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 153,
+            "original_language": "en",
+            "original_title": "Lost in Translation",
+            "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+            "popularity": 5.9398,
+            "poster_path": "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg",
+            "release_date": "2003-09-18",
+            "title": "Lost in Translation",
+            "video": false,
+            "vote_average": 7.385,
+            "vote_count": 7614
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 122,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Return of the King",
+            "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+            "popularity": 23.4026,
+            "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+            "release_date": "2003-12-17",
+            "title": "The Lord of the Rings: The Return of the King",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 25282
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18,
+                9648
+            ],
+            "id": 322,
+            "original_language": "en",
+            "original_title": "Mystic River",
+            "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+            "popularity": 5.5936,
+            "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+            "release_date": "2003-10-07",
+            "title": "Mystic River",
+            "video": false,
+            "vote_average": 7.746,
+            "vote_count": 6972
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/51Q6Wyadho2zmOe8yCOdAWDpdGm.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 2771,
+            "original_language": "en",
+            "original_title": "American Splendor",
+            "overview": "An original mix of fiction and reality illuminates the life of comic book hero everyman Harvey Pekar.",
+            "popularity": 0.7164,
+            "poster_path": "/rPLMxuk82AiqDiwEUVJ6E7WpjYs.jpg",
+            "release_date": "2003-08-15",
+            "title": "American Splendor",
+            "video": false,
+            "vote_average": 7.188,
+            "vote_count": 495
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "id": 12,
+            "original_language": "en",
+            "original_title": "Finding Nemo",
+            "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+            "popularity": 14.8867,
+            "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+            "release_date": "2003-05-30",
+            "title": "Finding Nemo",
+            "video": false,
+            "vote_average": 7.817,
+            "vote_count": 19789
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 24,
+            "original_language": "en",
+            "original_title": "Kill Bill: Vol. 1",
+            "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+            "popularity": 11.0676,
+            "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+            "release_date": "2003-10-10",
+            "title": "Kill Bill: Vol. 1",
+            "video": false,
+            "vote_average": 7.97,
+            "vote_count": 18019
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bV7q6ZFguqbVWo95hCkfgS92fUg.jpg",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "id": 2260,
+            "original_language": "en",
+            "original_title": "Capturing the Friedmans",
+            "overview": "An Oscar nominated documentary about a middle-class American family who is torn apart when the father Arnold and son Jesse are accused of sexually abusing numerous children. Director Jarecki interviews people from different sides of this tragic story and raises the question of whether they were rightfully tried when they claim they were innocent and there was never any evidence against them.",
+            "popularity": 0.8042,
+            "poster_path": "/qWdMQj0HN7QxKxEkm0tk04nuAQ2.jpg",
+            "release_date": "2003-05-30",
+            "title": "Capturing the Friedmans",
+            "video": false,
+            "vote_average": 7.159,
+            "vote_count": 343
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10752
+            ],
+            "id": 8619,
+            "original_language": "en",
+            "original_title": "Master and Commander: The Far Side of the World",
+            "overview": "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend.",
+            "popularity": 4.1419,
+            "poster_path": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
+            "release_date": "2003-11-14",
+            "title": "Master and Commander: The Far Side of the World",
+            "video": false,
+            "vote_average": 7.166,
+            "vote_count": 3288
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uJHm54Z8Y6WSTSDvhqGSeKjP88v.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10511,
+            "original_language": "en",
+            "original_title": "In America",
+            "overview": "A family of Irish immigrants adjusts to life on the mean streets of Hell's Kitchen while also grieving the death of a child.",
+            "popularity": 0.6664,
+            "poster_path": "/cUhMjWQyyApA0pFinogCsE2wy8g.jpg",
+            "release_date": "2003-09-22",
+            "title": "In America",
+            "video": false,
+            "vote_average": 7.185,
+            "vote_count": 363
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 598,
+            "original_language": "pt",
+            "original_title": "Cidade de Deus",
+            "overview": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence of his neighborhood, while Jos\u00e9 \u201cZ\u00e9\u201d Pequeno is an ambitious drug dealer diving into a dangerous life of crime.",
+            "popularity": 11.6498,
+            "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+            "release_date": "2002-08-30",
+            "title": "City of God",
+            "video": false,
+            "vote_average": 8.43,
+            "vote_count": 7728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5SgrtPH6kBmmHao0PofxpvOYfWC.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 470,
+            "original_language": "en",
+            "original_title": "21 Grams",
+            "overview": "Paul Rivers, an ailing mathematician lovelessly married to an English \u00e9migr\u00e9; Christina Peck, an upper-middle-class suburban housewife and mother of two girls; and Jack Jordan, a born-again ex-con, are brought together by a terrible accident that changes their lives.",
+            "popularity": 2.0038,
+            "poster_path": "/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg",
+            "release_date": "2003-09-06",
+            "title": "21 Grams",
+            "video": false,
+            "vote_average": 7.327,
+            "vote_count": 3215
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                12,
+                10749
+            ],
+            "id": 2289,
+            "original_language": "en",
+            "original_title": "Cold Mountain",
+            "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+            "popularity": 3.0604,
+            "poster_path": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+            "release_date": "2003-12-24",
+            "title": "Cold Mountain",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1847
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bX5UVSVDOcuFMJh2zWN6gXbKswM.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 2056,
+            "original_language": "en",
+            "original_title": "The Station Agent",
+            "overview": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+            "popularity": 2.7218,
+            "poster_path": "/kjJg6eJa9I9flfHaJG67ecEv8YX.jpg",
+            "release_date": "2003-12-05",
+            "title": "The Station Agent",
+            "video": false,
+            "vote_average": 7.356,
+            "vote_count": 712
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4MXAOW1hfTaz34KO65PRgaVo35z.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 1807,
+            "original_language": "en",
+            "original_title": "Elephant",
+            "overview": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+            "popularity": 2.6943,
+            "poster_path": "/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg",
+            "release_date": "2003-09-20",
+            "title": "Elephant",
+            "video": false,
+            "vote_average": 7.06,
+            "vote_count": 1981
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 4464,
+            "original_language": "en",
+            "original_title": "Seabiscuit",
+            "overview": "True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.",
+            "popularity": 1.8071,
+            "poster_path": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+            "release_date": "2003-07-22",
+            "title": "Seabiscuit",
+            "video": false,
+            "vote_average": 7.051,
+            "vote_count": 863
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ppcLeOwKQLzg7BT1spZhaafuGL5.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 1088,
+            "original_language": "en",
+            "original_title": "Whale Rider",
+            "overview": "A contemporary story of love, rejection, and triumph as a young Maori girl fights to fulfill a destiny her grandfather refuses to recognize.",
+            "popularity": 1.0911,
+            "poster_path": "/1ZQSkyEDRJdk6TCAThBojB5hJcK.jpg",
+            "release_date": "2003-01-30",
+            "title": "Whale Rider",
+            "video": false,
+            "vote_average": 7.062,
+            "vote_count": 421
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yKjaeMSOJ0ObahfjcoSPLMSeOXE.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 16636,
+            "original_language": "en",
+            "original_title": "Spellbound",
+            "overview": "This documentary follows 8 teens and pre-teens as they work their way toward the finals of the Scripps Howard national spelling bee championship in Washington D.C.",
+            "popularity": 0.3388,
+            "poster_path": "/whPFGfqZayYOU5f5mx0GdXZOgpi.jpg",
+            "release_date": "2002-03-14",
+            "title": "Spellbound",
+            "video": false,
+            "vote_average": 7.351,
+            "vote_count": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dFFdQgTtvL2X02xuGpDwn6SqFiL.jpg",
+            "genre_ids": [
+                99,
+                10770,
+                36,
+                10752
+            ],
+            "id": 12698,
+            "original_language": "en",
+            "original_title": "The Fog of War",
+            "overview": "Using archival footage, cabinet conversation recordings, and an interview of the 85-year-old Robert McNamara, The Fog of War depicts his life, from working as a WWII whiz-kid military officer, to being the Ford Motor Company's president, to managing the Vietnam War as defense secretary for presidents Kennedy and Johnson.",
+            "popularity": 0.6027,
+            "poster_path": "/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg",
+            "release_date": "2003-10-26",
+            "title": "The Fog of War",
+            "video": false,
+            "vote_average": 7.684,
+            "vote_count": 280
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iv1ajZACUGHn4JztG9Z8yvbcmic.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 1584,
+            "original_language": "en",
+            "original_title": "School of Rock",
+            "overview": "Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his students the finer points of rock 'n' roll. The school's hard-nosed principal is rightly suspicious of Finn's activities. But Finn's roommate remains in the dark about what he's doing.",
+            "popularity": 4.8774,
+            "poster_path": "/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+            "release_date": "2003-10-03",
+            "title": "School of Rock",
+            "video": false,
+            "vote_average": 7.086,
+            "vote_count": 5829
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jZ9lWWCnV5gBRe29PpzEXNgf8i8.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11093,
+            "original_language": "en",
+            "original_title": "House of Sand and Fog",
+            "overview": "Behrani, an Iranian immigrant buys a California bungalow, thinking he can fix it up, sell it again, and make enough money to send his son to college. However, the house is the legal property of former drug addict Kathy. After losing the house in an unfair legal dispute with the county, she is left with nowhere to go. Wanting her house back, she hires a lawyer and befriends a police officer. Neither Kathy nor Behrani have broken the law, so they find themselves involved in a difficult moral dilemma.",
+            "popularity": 1.0683,
+            "poster_path": "/hLxSOukLfC4j5pNbdE7lqaw8KgL.jpg",
+            "release_date": "2003-12-19",
+            "title": "House of Sand and Fog",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 788
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Q28PE1ZlRBMZqRluoVkP3NN7eO.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 3472,
+            "original_language": "en",
+            "original_title": "Dirty Pretty Things",
+            "overview": "An undocumented immigrant finds a human heart in one of the toilets of the west London hotel where he works with other undocumented immigrants.",
+            "popularity": 0.7882,
+            "poster_path": "/nWpXOqB1STDq8ji3rQawcg1fGS9.jpg",
+            "release_date": "2002-09-05",
+            "title": "Dirty Pretty Things",
+            "video": false,
+            "vote_average": 6.881,
+            "vote_count": 457
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
+            "genre_ids": [
+                12,
+                14,
+                18
+            ],
+            "id": 587,
+            "original_language": "en",
+            "original_title": "Big Fish",
+            "overview": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+            "popularity": 5.4632,
+            "poster_path": "/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+            "release_date": "2003-12-25",
+            "title": "Big Fish",
+            "video": false,
+            "vote_average": 7.758,
+            "vote_count": 7408
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s1A9CKeoKglWDdQFRl9aC8wa3Zj.jpg",
+            "genre_ids": [
+                16,
+                35,
+                18,
+                10751
+            ],
+            "id": 9662,
+            "original_language": "fr",
+            "original_title": "Les Triplettes de Belleville",
+            "overview": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters\u2014an aged song-and-dance team from the days of Fred Astaire\u2014to rescue him.",
+            "popularity": 1.598,
+            "poster_path": "/enw6C4fDw88g0nOQgIJXjgH3NHi.jpg",
+            "release_date": "2003-06-11",
+            "title": "The Triplets of Belleville",
+            "video": false,
+            "vote_average": 7.392,
+            "vote_count": 980
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7LNTdU9XKIKcMmdNpXygjVN1iWh.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11023,
+            "original_language": "en",
+            "original_title": "Thirteen",
+            "overview": "When average 13-year-old Tracy befriends Evie, the most popular girl in school, Tracy's world is turned upside down as Evie introduces her to a world of sex, drugs and cash. But it isn't long before Tracy's new world and attitude finally takes a toll on her, her family, and old friends.",
+            "popularity": 5.624,
+            "poster_path": "/uzTLlZrNF6rMPBh5mUQu6vLnTtX.jpg",
+            "release_date": "2003-08-20",
+            "title": "Thirteen",
+            "video": false,
+            "vote_average": 6.662,
+            "vote_count": 1672
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u4OUSKeFwuP1z42dL58Mi0LYwIg.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 13537,
+            "original_language": "en",
+            "original_title": "Shattered Glass",
+            "overview": "The true story of fraudulent Washington, D.C. journalist Stephen Glass, who rose to meteoric heights as a young writer in his 20s, becoming a staff writer at The New Republic for three years. Looking for a short cut to fame, Glass concocted sources, quotes and even entire stories, but his deception did not go unnoticed forever, and eventually, his world came crumbling down.",
+            "popularity": 1.5412,
+            "poster_path": "/1KHHNkrf8t15sXXF9d9TGq1T9jv.jpg",
+            "release_date": "2003-11-14",
+            "title": "Shattered Glass",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lXXGybUdRvseVxWH0RCOHZFCCfp.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 13370,
+            "original_language": "en",
+            "original_title": "A Mighty Wind",
+            "overview": "Three eclectic, never-quite-famous folk bands come together for the first time in decades following the death of their manager to put on an reunion concert in his honor, at the request of his son.",
+            "popularity": 0.8037,
+            "poster_path": "/5wUYwAD75BxtJ0Mp4da6XzHIFex.jpg",
+            "release_date": "2003-04-16",
+            "title": "A Mighty Wind",
+            "video": false,
+            "vote_average": 6.72,
+            "vote_count": 250
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tbmNzJIc7R1MuEweCOThpTzglyx.jpg",
+            "genre_ids": [
+                18,
+                35,
+                80
+            ],
+            "id": 10147,
+            "original_language": "en",
+            "original_title": "Bad Santa",
+            "overview": "You'd better watch out - Santa Claus Willie T. Soke is coming to town, and he doesn't care if you've been naughty or nice. Wille's favorite holiday tradition is to fill his sacks with loot lifted from shopping malls across the country. But this year his plot gets derailed by a wisecracking store detective, a sexy bartender, and a kid who's convinced Willie is the real Santa Claus.",
+            "popularity": 2.2787,
+            "poster_path": "/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg",
+            "release_date": "2003-11-26",
+            "title": "Bad Santa",
+            "video": false,
+            "vote_average": 6.546,
+            "vote_count": 2218
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/teMi2HuGuWOmBL599u7dg1xtD1Q.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 8094,
+            "original_language": "en",
+            "original_title": "The Magdalene Sisters",
+            "overview": "Three young Irish women struggle to maintain their spirits while they endure dehumanizing abuse as inmates of a Magdalene Sisters Asylum.",
+            "popularity": 1.4512,
+            "poster_path": "/akOnyPsfzcDvCwP3lzY35i2NIha.jpg",
+            "release_date": "2002-08-30",
+            "title": "The Magdalene Sisters",
+            "video": false,
+            "vote_average": 7.424,
+            "vote_count": 421
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nvzRMLQSYB1XYooexBr8Nqp5vcU.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 7294,
+            "original_language": "fi",
+            "original_title": "Mies vailla menneisyytt\u00e4",
+            "overview": "Arriving in Helsinki, a nameless man is beaten within an inch of his life by thugs, miraculously recovering only to find that he has completely lost his memory. Back on the streets, he attempts to begin again from zero, befriending a moody dog and becoming besotted with a Salvation Army volunteer.",
+            "popularity": 0.8504,
+            "poster_path": "/9tBepCujkyNg1qM52MsaJfDkIRw.jpg",
+            "release_date": "2002-03-01",
+            "title": "The Man Without a Past",
+            "video": false,
+            "vote_average": 7.425,
+            "vote_count": 387
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rrCc7dONpjAt8N8VO0dGpdIXCVU.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 22,
+            "original_language": "en",
+            "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship\u2014The Black Pearl\u2014so that he can rescue the woman he loves.",
+            "popularity": 21.3477,
+            "poster_path": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+            "release_date": "2003-07-09",
+            "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "video": false,
+            "vote_average": 7.811,
+            "vote_count": 21283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 11042,
+            "original_language": "fr",
+            "original_title": "Les Invasions barbares",
+            "overview": "In this belated sequel to 'The Decline of the American Empire', middle-aged Montreal college professor, Remy, learns that he is dying of liver cancer. His ex-wife, Louise, asks their estranged son, Sebastian, a successful businessman living in London, to come home. Sebastian makes the impossible happen, using his contacts and disrupting the Canadian healthcare system in every way possible to help his father fight his terminal illness to the bitter end, while reuniting some of Remy's old friends, including Pierre, Alain, Dominique, Diane, and Claude, who return to see their friend before he passes on.",
+            "popularity": 0.6892,
+            "poster_path": "/ekmFbyMgm3SPklSlDUW1wZ33yMP.jpg",
+            "release_date": "2003-09-24",
+            "title": "The Barbarian Invasions",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 378
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pHbygCl9jDknknci6JlP45ZOoux.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 35172,
+            "original_language": "fr",
+            "original_title": "Le Fils",
+            "overview": "A joinery instructor at a rehab center refuses to take a new teen as his apprentice, but then begins to follow the boy through the hallways and streets.",
+            "popularity": 0.3061,
+            "poster_path": "/mbAG0JOVgcOIH8LVVynw87ONgej.jpg",
+            "release_date": "2002-05-23",
+            "title": "The Son",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3s7uwQKH0WmaeO7VCqAOK3C5gjF.jpg",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "id": 170,
+            "original_language": "en",
+            "original_title": "28 Days Later",
+            "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+            "popularity": 23.5851,
+            "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+            "release_date": "2002-10-31",
+            "title": "28 Days Later",
+            "video": false,
+            "vote_average": 7.236,
+            "vote_count": 7597
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iv5ZHMglzn8I9qn1phdP8xSoHKs.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 24488,
+            "original_language": "fr",
+            "original_title": "Demonlover",
+            "overview": "A French corporation goes head-to-head with an American web media company for the rights to a 3-D manga pornography studio, resulting in a power struggle that culminates in violence and espionage.",
+            "popularity": 0.8185,
+            "poster_path": "/rxNhFZ7WZ12JGc9gC7PwtLKkAlo.jpg",
+            "release_date": "2002-11-06",
+            "title": "Demonlover",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/purLFx9MR327mRclyc4sFYjE1cv.jpg",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "id": 8439,
+            "original_language": "pt",
+            "original_title": "\u00d4nibus 174",
+            "overview": "Documentary depicts what happened in Rio de Janeiro on June 12th 2000, when bus 174 was taken by an armed young man, threatening to shoot all the passengers. Transmitted live on all Brazilian TV networks, this shocking and tragic-ending event became one of violence's most shocking portraits, and one of the scariest examples of police incompetence and abuse in recent years.",
+            "popularity": 0.4703,
+            "poster_path": "/30v64yPfBbNSmnYHShExuWlXUJh.jpg",
+            "release_date": "2002-10-22",
+            "title": "Bus 174",
+            "video": false,
+            "vote_average": 7.384,
+            "vote_count": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 979,
+            "original_language": "fr",
+            "original_title": "Irr\u00e9versible",
+            "overview": "A woman\u2019s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can\u2019t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+            "popularity": 7.0891,
+            "poster_path": "/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+            "release_date": "2002-05-22",
+            "title": "Irreversible",
+            "video": false,
+            "vote_average": 7.202,
+            "vote_count": 3052
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 508,
+            "original_language": "en",
+            "original_title": "Love Actually",
+            "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+            "popularity": 6.4602,
+            "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+            "release_date": "2003-09-07",
+            "title": "Love Actually",
+            "video": false,
+            "vote_average": 7.105,
+            "vote_count": 7004
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 36658,
+            "original_language": "en",
+            "original_title": "X2",
+            "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses\u2014Magneto and Mystique\u2014to unhinge Stryker's scheme to exterminate all mutants.",
+            "popularity": 0.3666,
+            "poster_path": "/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
+            "release_date": "2003-04-27",
+            "title": "X2",
+            "video": false,
+            "vote_average": 7.03,
+            "vote_count": 10423
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zZ6I4kmBSKcA3r4LcvP1ya4Vkmh.jpg",
+            "genre_ids": [
+                18,
+                12,
+                9648
+            ],
+            "id": 1956,
+            "original_language": "en",
+            "original_title": "Gerry",
+            "overview": "Two friends named Gerry become lost in the desert after taking a wrong turn. Their attempts to find their way home only lead them into further trouble.",
+            "popularity": 0.9775,
+            "poster_path": "/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg",
+            "release_date": "2002-09-20",
+            "title": "Gerry",
+            "video": false,
+            "vote_average": 6.091,
+            "vote_count": 323
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z354BaTVzKj7E60WLzDoSmUuO4u.jpg",
+            "genre_ids": [
+                18,
+                28,
+                10752
+            ],
+            "id": 616,
+            "original_language": "en",
+            "original_title": "The Last Samurai",
+            "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
+            "popularity": 7.3045,
+            "poster_path": "/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+            "release_date": "2003-12-05",
+            "title": "The Last Samurai",
+            "video": false,
+            "vote_average": 7.594,
+            "vote_count": 7127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zI2dRzIeRJtNwUalLTSg5OBmY4o.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 25461,
+            "original_language": "en",
+            "original_title": "Raising Victor Vargas",
+            "overview": "Victor, a Lower East Side teenager, as he deals with his eccentric family, including his strict grandmother, his bratty sister, and a younger brother who completely idolizes him. Along the way he tries to win the affections of Judy, who is very careful and calculating when it comes to how she deals with men.",
+            "popularity": 0.5359,
+            "poster_path": "/cMHMtMBca8VNxjYICc1WHK1Qqe5.jpg",
+            "release_date": "2002-05-16",
+            "title": "Raising Victor Vargas",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7bHjjd5ZtrhuK4CfpHeOD0d3LVx.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 26195,
+            "original_language": "en",
+            "original_title": "The Secret Lives of Dentists",
+            "overview": "An introspective dentist's suspicions about his wife's infidelity stresses his mental well being and family life to the breaking point.",
+            "popularity": 0.1628,
+            "poster_path": "/aIUL0GeTgKdOnAq1hly19vjjRQt.jpg",
+            "release_date": "2002-09-09",
+            "title": "The Secret Lives of Dentists",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRtyK88tpvxWyBPVRLx4b64W036.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 13132,
+            "original_language": "en",
+            "original_title": "All the Real Girls",
+            "overview": "In a sleepy little mill town in North Carolina, Paul is the town Romeo. But when his best friend's sister returns home from boarding school, he finds himself falling for her innocent charm. In spite of her lack of experience and the violent protests of her brother, the two find themselves in a sweet, dreamy and all-consuming love.",
+            "popularity": 0.4348,
+            "poster_path": "/sQ6dMkwPIFucYSmFQcr38WBYzs.jpg",
+            "release_date": "2003-02-14",
+            "title": "All the Real Girls",
+            "video": false,
+            "vote_average": 5.881,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c8lCUmgvyxfM3oJzbD9bQf8bV02.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 11516,
+            "original_language": "fr",
+            "original_title": "Le peuple migrateur",
+            "overview": "This documentary follows various migratory bird species on their long journeys from their summer homes to the equator and back, covering thousands of miles and navigating by the stars. These arduous treks are crucial for survival, seeking hospitable climates and food sources. Birds face numerous challenges, including crossing oceans and evading predators, illness, and injury. Although migrations are undertaken as a community, birds disperse into family units once they reach their destinations, and every continent is affected by these migrations, hosting migratory bird species at least part of the year.",
+            "popularity": 0.5816,
+            "poster_path": "/qjv7cYLSufwf03So0SuRFU7sRxB.jpg",
+            "release_date": "2001-12-12",
+            "title": "Winged Migration",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 188
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AorzxxnM7A0LLWJrgOBNF5JEyM7.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 5168,
+            "original_language": "fr",
+            "original_title": "\u00catre et avoir",
+            "overview": "The documentary's title translates as \"to be and to have\", the two auxiliary verbs in the French language. It is about a primary school in the commune of Saint-\u00c9tienne-sur-Usson, Puy-de-D\u00f4me, France, the population of which is just over 200. The school has one small class of mixed ages (from four to twelve years), with a dedicated teacher, Georges Lopez, who shows patience and respect for the children as we follow their story through a single school year.",
+            "popularity": 0.4609,
+            "poster_path": "/mqB5QPNCmbF8DgsZqmyGQAGktUE.jpg",
+            "release_date": "2002-08-28",
+            "title": "To Be and to Have",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uOYmwC3l9d9fAVB4o21ABQwec0I.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 10226,
+            "original_language": "fr",
+            "original_title": "Haute tension",
+            "overview": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
+            "popularity": 1.9283,
+            "poster_path": "/vKeFa7CqSxmWsQDjHP6SJXKoDbj.jpg",
+            "release_date": "2003-06-18",
+            "title": "High Tension",
+            "video": false,
+            "vote_average": 6.765,
+            "vote_count": 1372
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uBuazTEgvWuRY5kYiJhe0gc9sED.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 80243,
+            "original_language": "zh",
+            "original_title": "\u4efb\u900d\u9065",
+            "overview": "Two disaffected, unemployed Chinese youth drift through life on the streets of their industrial town, their paths crossing with that of a local young singer and dancer working for a liquor company as a spokesmodel.",
+            "popularity": 0.5115,
+            "poster_path": "/9koydgKSQLs8MjnGilFmjRlhzXA.jpg",
+            "release_date": "2002-06-06",
+            "title": "Unknown Pleasures",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vUe5v3l6ul7coxMv2oLwINeVgFi.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 455,
+            "original_language": "en",
+            "original_title": "Bend It Like Beckham",
+            "overview": "Jess Bhamra, the daughter of a strict Indian couple in London, is not permitted to play organized soccer, even though she is 18. When Jess is playing for fun one day, her impressive skills are seen by Jules Paxton, who then convinces Jess to play for her semi-pro team. Jess uses elaborate excuses to hide her matches from her family while also dealing with her romantic feelings for her coach, Joe.",
+            "popularity": 2.344,
+            "poster_path": "/2dzSBmFWWqt8NbnubJKIWU21Y86.jpg",
+            "release_date": "2002-04-11",
+            "title": "Bend It Like Beckham",
+            "video": false,
+            "vote_average": 6.322,
+            "vote_count": 1938
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jcue2THX5mjQFV7EXqoQyXyLlbR.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1550,
+            "original_language": "en",
+            "original_title": "Pieces of April",
+            "overview": "Quirky and rebellious April Burns lives with her boyfriend in a low-rent New York City apartment miles away from her emotionally distant family. But when she discovers that her mother has a fatal form of breast cancer, she invites the clan to her place for Thanksgiving. While her father struggles to drive her family into the city, April -- an inexperienced cook -- runs into kitchen trouble and must ask a neighbor for help.",
+            "popularity": 0.7189,
+            "poster_path": "/qEbo0OwAaWgLSxp4lXyoCbnmrxh.jpg",
+            "release_date": "2003-10-17",
+            "title": "Pieces of April",
+            "video": false,
+            "vote_average": 6.461,
+            "vote_count": 254
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4TwBMvs4CUWU7U79KwgFs0JRQXY.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 45044,
+            "original_language": "fr",
+            "original_title": "Vendredi soir",
+            "overview": "Paris, 1995. Laure is about to meet friends for dinner. But on her way out, she discovers that the entire city is stalled by a massive transit strike. When she offers a handsome stranger a ride, Laure takes a highly charged, impossibly erotic detour.",
+            "popularity": 0.2054,
+            "poster_path": "/hiL154PbxQyblGHBZfUWvyewsrL.jpg",
+            "release_date": "2002-09-11",
+            "title": "Friday Night",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 34
+        }
+    ]
+}

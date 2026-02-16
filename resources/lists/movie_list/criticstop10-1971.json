@@ -1,0 +1,583 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1971",
+    "source": "https://criticstop10.com/best-movies-of-1971/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/fhzwleXGmiqBuQdWxmEwpkydhm4.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 25188,
+            "original_language": "en",
+            "original_title": "The Last Picture Show",
+            "overview": "High school seniors and best friends, Sonny and Duane, live in a dying Texas town. The handsome Duane is dating a local beauty, while Sonny is having an affair with the coach's wife. As graduation nears and both boys contemplate their futures, Duane eyes the army and Sonny takes over a local business. Each struggles to figure out if he can escape this dead-end town and build a better life somewhere else.",
+            "popularity": 1.5598,
+            "poster_path": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+            "release_date": "1971-10-03",
+            "title": "The Last Picture Show",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 722
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 1051,
+            "original_language": "en",
+            "original_title": "The French Connection",
+            "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+            "popularity": 2.6893,
+            "poster_path": "/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+            "release_date": "1971-10-09",
+            "title": "The French Connection",
+            "video": false,
+            "vote_average": 7.495,
+            "vote_count": 1981
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+            "genre_ids": [
+                878,
+                80
+            ],
+            "id": 185,
+            "original_language": "en",
+            "original_title": "A Clockwork Orange",
+            "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+            "popularity": 6.9027,
+            "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+            "release_date": "1971-12-19",
+            "title": "A Clockwork Orange",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 13262
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xkIaVZo98JFCteffdXRgZfcW5A.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 45938,
+            "original_language": "en",
+            "original_title": "Sunday Bloody Sunday",
+            "overview": "Recently divorced career woman Alex Greville begins a romantic relationship with glamorous mod artist Bob Elkin, fully aware that he's also intimately involved with middle-aged doctor Daniel Hirsh. For both Alex and Daniel, the younger man represents a break with their repressive pasts, and though both know that Bob is seeing both of them, neither is willing to let go of the youth and vitality he brings to their otherwise stable lives.",
+            "popularity": 0.5657,
+            "poster_path": "/7q1h3M1vDlsHDKRhoPOzKjmFCVq.jpg",
+            "release_date": "1971-07-01",
+            "title": "Sunday Bloody Sunday",
+            "video": false,
+            "vote_average": 6.597,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7jsa6wxOTjJ7jD757it4W3V3u7h.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 36194,
+            "original_language": "en",
+            "original_title": "The Go-Between",
+            "overview": "British teenager Leo Colston spends a summer in the countryside, where he develops a crush on the beautiful young aristocrat Marian. Eager to impress her, Leo becomes the \"go-between\" for Marian, delivering secret romantic letters to Ted Burgess, a handsome neighboring farmer.",
+            "popularity": 1.2441,
+            "poster_path": "/61dXOIpDaiWCp7aIjBYkd6ujdXZ.jpg",
+            "release_date": "1971-06-16",
+            "title": "The Go-Between",
+            "video": false,
+            "vote_average": 6.792,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1d50kGSMP8xZiyV1IpJbFBczMos.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 36492,
+            "original_language": "en",
+            "original_title": "Carnal Knowledge",
+            "overview": "Two lifelong friends navigate complex sexual encounters and emotional entanglements, wrestling with societal norms and personal desires.",
+            "popularity": 1.9166,
+            "poster_path": "/kwUOsLDIPuKhrtWeUmpR4dZ3MYu.jpg",
+            "release_date": "1971-06-30",
+            "title": "Carnal Knowledge",
+            "video": false,
+            "vote_average": 6.601,
+            "vote_count": 199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Le4bfUJXFtQALJqwqzzPtyiwrX.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 29005,
+            "original_language": "en",
+            "original_title": "McCabe & Mrs. Miller",
+            "overview": "A gambler and a prostitute become thriving business partners in a remote Old West mining town until a large corporation arrives on the scene.",
+            "popularity": 1.1271,
+            "poster_path": "/eQ9hDaTNpZ4wb7FWdqoJcOCJBve.jpg",
+            "release_date": "1971-06-24",
+            "title": "McCabe & Mrs. Miller",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/leXf341C7aSphqetA82lM2Oad3A.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 41357,
+            "original_language": "en",
+            "original_title": "Summer of '42",
+            "overview": "Over the summer of 1942 on Nantucket Island, three friends -- Hermie, Oscy and Benjie -- are more concerned with getting laid than anything else. Hermie falls in love with the married Dorothy, whose husband is an army pilot recently sent to the battlefront of World War II.",
+            "popularity": 1.1627,
+            "poster_path": "/4n7m05C2ee3UM5Co2k2BOWqH5o2.jpg",
+            "release_date": "1971-04-19",
+            "title": "Summer of '42",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 8416,
+            "original_language": "it",
+            "original_title": "Il conformista",
+            "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+            "popularity": 0.8678,
+            "poster_path": "/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
+            "release_date": "1970-07-01",
+            "title": "The Conformist",
+            "video": false,
+            "vote_average": 7.656,
+            "vote_count": 711
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eirSTJkaGgEB8mpunntNrXI1nNH.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 2860,
+            "original_language": "fr",
+            "original_title": "Le Genou de Claire",
+            "overview": "On the eve of his wedding, on holiday on the Lake Annecy shore, a career diplomat visits an old acquaintance, perhaps a former girlfriend. Through her he meets an intense teenager, Laura, and then lusts after her sister, Claire. Whilst Laura attempts to flirt with him, his fantasy becomes focused on wanting to caress Claire's knee.",
+            "popularity": 0.8563,
+            "poster_path": "/wekWNf0Nj6fkfR6pOjPojMAqz69.jpg",
+            "release_date": "1970-12-11",
+            "title": "Claire's Knee",
+            "video": false,
+            "vote_average": 7.309,
+            "vote_count": 272
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bxh7ybql4p24u9WsX1GI9v9PDLg.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                80
+            ],
+            "id": 466,
+            "original_language": "en",
+            "original_title": "Klute",
+            "overview": "A high-priced call girl is forced to depend on a reluctant private eye when she is stalked by a psychopath.",
+            "popularity": 2.4245,
+            "poster_path": "/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
+            "release_date": "1971-06-23",
+            "title": "Klute",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 475
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rqnOgJWvlURkcOWfGqiACvkTAqG.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 14811,
+            "original_language": "en",
+            "original_title": "Fiddler on the Roof",
+            "overview": "In a pre-revolutionary Russia, a poor Jewish milkman struggles with the challenges of a changing world as his daughters fall in love and antisemitism grows.",
+            "popularity": 3.4561,
+            "poster_path": "/v65PHx7Q6Jx0anyNeUOX07SJic9.jpg",
+            "release_date": "1971-11-03",
+            "title": "Fiddler on the Roof",
+            "video": false,
+            "vote_average": 7.714,
+            "vote_count": 597
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5sOxgIflTDccpPwfn5tGfmaRTNL.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                18
+            ],
+            "id": 59881,
+            "original_language": "en",
+            "original_title": "Taking Off",
+            "overview": "Unable to deal with her parents, Jeannie Tyne runs away from home. Larry and Lynn Tyne search for her, and in the process meet other people whose children ran away. With their children gone, the parents are now free to rediscover/enjoy life.",
+            "popularity": 0.5127,
+            "poster_path": "/2UXNQy39AqER8Y5LjuZcA1pliwq.jpg",
+            "release_date": "1971-03-28",
+            "title": "Taking Off",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tyWnJeMatQGLsiLfLsxBV0pp9nk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 6619,
+            "original_language": "it",
+            "original_title": "Morte a Venezia",
+            "overview": "Composer Gustav von Aschenbach travels to Venice for health reasons. There, he becomes obsessed with the stunning beauty of an adolescent Polish boy named Tadzio who is staying with his family at the same Grand H\u00f4tel des Bains on the Lido as Aschenbach.",
+            "popularity": 1.0339,
+            "poster_path": "/s81SuFBSqY8T5Lrn5R8ucX8LKxi.jpg",
+            "release_date": "1971-03-05",
+            "title": "Death in Venice",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 504
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8eWzglk0uHAtbFgKb3lVTXnJvxp.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80,
+                28
+            ],
+            "id": 994,
+            "original_language": "en",
+            "original_title": "Straw Dogs",
+            "overview": "David Sumner, a mild-mannered academic from the United States, marries Amy, an Englishwoman. In order to escape a hectic stateside lifestyle, David and his wife relocate to the small town in rural Cornwall where Amy was raised. There, David is ostracized by the brutish men of the village, including Amy's old flame, Charlie. Eventually the taunts escalate.",
+            "popularity": 1.2473,
+            "poster_path": "/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg",
+            "release_date": "1971-11-25",
+            "title": "Straw Dogs",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 987
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bMTBDpipkszdWcY9U9lRTVy4zh9.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 4789,
+            "original_language": "it",
+            "original_title": "Il giardino dei Finzi Contini",
+            "overview": "In 1930s Italy, a wealthy Jewish family tries to maintain their privileged lifestyle, hosting friends for tennis and parties at their villa. As anti-Semitism intensifies under Fascism, they must ultimately face the horrors of the Holocaust.",
+            "popularity": 0.5884,
+            "poster_path": "/qHDATOZMoiJjfy2bb1xEFFPzkuG.jpg",
+            "release_date": "1970-12-04",
+            "title": "The Garden of the Finzi-Continis",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eglf9YfrgCDlupodENN8qPtN5vC.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "id": 2912,
+            "original_language": "fr",
+            "original_title": "Le Boucher",
+            "overview": "An unlikely friendship between a dour, working class butcher and a repressed schoolteacher coincides with a grisly series of Ripper-type murders in a provincial French town.",
+            "popularity": 0.815,
+            "poster_path": "/An2gkXn5TATag9Adul2Zbq5Ndrv.jpg",
+            "release_date": "1970-02-27",
+            "title": "The Butcher",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 243
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lejpdSUB8aIhr1xkMgtFzJqpb2N.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 36040,
+            "original_language": "en",
+            "original_title": "Walkabout",
+            "overview": "Under the pretense of having a picnic, a geologist takes his teenage daughter and 6-year-old son into the Australian outback and attempts to shoot them. When he fails, he turns the gun on himself, and the two city-bred children must contend with harsh wilderness alone. They are saved by a chance encounter with an Aboriginal boy who shows them how to survive, and in the process underscores the disharmony between nature and modern life.",
+            "popularity": 0.9848,
+            "poster_path": "/24vooYt5StgtgcQObVr1GHuM5gy.jpg",
+            "release_date": "1971-07-01",
+            "title": "Walkabout",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 415
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d3u97tjDhvPJjeyYMTIEfodtk9j.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 42501,
+            "original_language": "fr",
+            "original_title": "Le Souffle au c\u0153ur",
+            "overview": "This loosely plotted coming-of-age tale follows the life of 15-year-old Laurent Chevalier as he stumbles his way over the burgeoning swell of adolescence in 1950s France. After having his first sexual experience with a prostitute and dodging the lips of a priest, Chevalier contracts a case of scarlet fever. When the fever leaves him with a heart murmur, Chevalier is placed in a sanatorium, along with his over-attentive and adulterous mother.",
+            "popularity": 2.0011,
+            "poster_path": "/gJt4ojBYsaUDGnKqnIqGvQOLpjh.jpg",
+            "release_date": "1971-04-27",
+            "title": "Murmur of the Heart",
+            "video": false,
+            "vote_average": 7.008,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3CKOVDStTQKxMuSRzxEEe3pgGGv.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 258,
+            "original_language": "fr",
+            "original_title": "Domicile conjugal",
+            "overview": "Parisian everyman Antoine Doinel has married his sweetheart Christine Darbon, and the newlyweds have set up a cozy domestic life of selling flowers and giving violin lessons while Antoine fitfully works on his long-gestating novel. As Christine becomes pregnant with the couple's first child, Antoine finds himself enraptured with a young Japanese beauty. The complications change the course of their relationship forever.",
+            "popularity": 0.6545,
+            "poster_path": "/zUhNslM6uE5gN1hwPbpBJvqFXYe.jpg",
+            "release_date": "1970-09-09",
+            "title": "Bed and Board",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jLm7Wd2n9MZ9hTdWU1TkcFXIdP9.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 11302,
+            "original_language": "en",
+            "original_title": "Bananas",
+            "overview": "When a bumbling New Yorker is dumped by his activist girlfriend, he travels to a tiny Latin American nation and becomes involved in its latest rebellion.",
+            "popularity": 2.0307,
+            "poster_path": "/gK11RUXspxqty0Wq6KoV8J0crKO.jpg",
+            "release_date": "1971-04-28",
+            "title": "Bananas",
+            "video": false,
+            "vote_average": 6.699,
+            "vote_count": 773
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lEvdinLO1qmc6dAHsRArExHtjYw.jpg",
+            "genre_ids": [
+                10770,
+                35
+            ],
+            "id": 42590,
+            "original_language": "it",
+            "original_title": "I Clowns",
+            "overview": "Fellini exposes his great attraction for the clowns and the world of the circus first recalling a childhood experience when the circus arrives nearby his home. Then he joins his crew and travel from Italy to Paris chasing the last greatest European clowns still live in these countries. He also meets Anita Ekberg trying to buy a panther in a circus.",
+            "popularity": 0.3721,
+            "poster_path": "/uS7GdwTpn5c1bcRkjL5bbE4m8Fl.jpg",
+            "release_date": "1970-12-27",
+            "title": "The Clowns",
+            "video": false,
+            "vote_average": 6.87,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nP6XkwgGV2XSZPwVAyAg73dio7C.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 210113,
+            "original_language": "en",
+            "original_title": "Derby",
+            "overview": "Roller derby is the bond between individuals of every strain; the film-makers capture both on-track footage and elucidating moments before and after bouts.",
+            "popularity": 0.0286,
+            "poster_path": "/2CgzPAdh7JFkjPoQlU6fP1gCEyw.jpg",
+            "release_date": "1970-10-29",
+            "title": "Derby",
+            "video": false,
+            "vote_average": 4.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uv7TlTv7IXv8AEOiK2XgFBigYnS.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 31515,
+            "original_language": "en",
+            "original_title": "The Boy Friend",
+            "overview": "When the leading lady of a low-budget musical revue sprains her ankle, the assistant stage manager is forced to understudy and perform in her place.",
+            "popularity": 0.2459,
+            "poster_path": "/4vhT6YOJ99YeFygYfx8WyzyVJxA.jpg",
+            "release_date": "1971-12-16",
+            "title": "The Boy Friend",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8wo8EcbKLHXrHvT8C3GFaI1gBJO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 92273,
+            "original_language": "en",
+            "original_title": "Desperate Characters",
+            "overview": "Sophie and Otto Bentwood are a middle-aged, middle class, childless Brooklyn Heights couple trapped in a loveless marriage. He is an attorney, she a translator of books. Their existence is affected not only by their disintegrating relationship but by the threats of urban crime and vandalism that surround them everywhere they turn, leaving them feeling paranoid, scared, and desperately helpless.",
+            "popularity": 0.2099,
+            "poster_path": "/qTXHo634PqvnzOw6qIOhNEdN2ng.jpg",
+            "release_date": "1971-09-22",
+            "title": "Desperate Characters",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cnf41Zu7ue1VgYdJEIYRC9w5yhS.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 16328,
+            "original_language": "en",
+            "original_title": "Johnny Got His Gun",
+            "overview": "A young American soldier, rendered in pseudocoma from an artillery shell from WWI, recalls his life leading up to that point.",
+            "popularity": 0.9566,
+            "poster_path": "/ryIY3FPmTtXu9g6W4I69qCdkxKj.jpg",
+            "release_date": "1971-08-04",
+            "title": "Johnny Got His Gun",
+            "video": false,
+            "vote_average": 7.504,
+            "vote_count": 392
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/isyOwiSRyLRFXdsMn0UiA7mQbXV.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 11316,
+            "original_language": "en",
+            "original_title": "Macbeth",
+            "overview": "Scotland, 11th century. Driven by the twisted prophecy of three witches and the ruthless ambition of his wife, warlord Macbeth, bold and brave, but also weak and hesitant, betrays his good king and his brothers in arms and sinks into the bloody mud of a path with no return, sown with crime and suspicion.",
+            "popularity": 1.1997,
+            "poster_path": "/35wNrDYuZjVCLurOmTZ5j490iuR.jpg",
+            "release_date": "1971-12-20",
+            "title": "Macbeth",
+            "video": false,
+            "vote_average": 7.102,
+            "vote_count": 289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b8unCoNPOFLRcaBD8fJ9BeF5Kok.jpg",
+            "genre_ids": [
+                878,
+                99
+            ],
+            "id": 17875,
+            "original_language": "en",
+            "original_title": "The Hellstrom Chronicle",
+            "overview": "A scientist explains how the savagery and efficiency of the insect world could result in their taking over the world.",
+            "popularity": 0.1705,
+            "poster_path": "/edCWeH636wCgUc3UmntxzkcQVDu.jpg",
+            "release_date": "1971-05-05",
+            "title": "The Hellstrom Chronicle",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5AfPKd4i7IrPCRRyMU4H0CCfUUJ.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 36850,
+            "original_language": "en",
+            "original_title": "A New Leaf",
+            "overview": "After running out of funds, Henry Graham, a carefree playboy, plots to marry and murder wealthy botanist Henrietta Lowell.",
+            "popularity": 0.91,
+            "poster_path": "/2yKcVFrizqpBBzZBEBvvBR3JKJF.jpg",
+            "release_date": "1971-03-11",
+            "title": "A New Leaf",
+            "video": false,
+            "vote_average": 7.251,
+            "vote_count": 175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8BmyAjNmARDQA7jLqU46YpWYHCz.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 114890,
+            "original_language": "en",
+            "original_title": "One Day in the Life of Ivan Denisovich",
+            "overview": "Fly-on-the-wall treatment of an ordinary day in the life of a prisoner in Stalin's Gulag. Closely adapted from Solzhenitsyn's classic novel based on his own experiences. Shot entirely on location in northern Norway",
+            "popularity": 0.0809,
+            "poster_path": "/qqWhRkXP5yl59HqtoYH7gFk5t9s.jpg",
+            "release_date": "1970-11-26",
+            "title": "One Day in the Life of Ivan Denisovich",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 6
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "type" : "folder_list",
+    "title" : "Horror",
+    "added" : "24/04/24",
+    "modified" : "10/10/24",
+    "folders" : [
+        {
+            "title" : "IndieWire - The 200 Best Horror Movies of All Time",
+            "id" : "IndieWire-the_200_best_horror_movies_of_all_time",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Rotten Tomatoes - 200 Best Horror Movies Of All Time",
+            "id" : "rottentomatoes-best_horror_movies_of_all_time",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Rotten Tomatoes - 100 Best Slasher Movies",
+            "id" : "rottentomatoes-essential_slasher_movies",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "TimeOut - The 100 Best Horror Movies Of All Time",
+            "id" : "timeout-the_100_best_movies_of_all_time",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Variety - The 100 Best Horror Movies of All Time",
+            "id" : "variety-the_100_best_horror_movies_of_all_time",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Horror Top 50",
+            "id" : "IMDb's_horror_top_50",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Top 500 Horror Movies 1-250",
+            "id" : "IMDb's_top_500_horror_movies_1-250",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Top 500 Horror Movies 250-251",
+            "id" : "IMDb's_top_500_horror_movies_251-500",
+            "type" : "movie_list"
+        }
+    ]
+}

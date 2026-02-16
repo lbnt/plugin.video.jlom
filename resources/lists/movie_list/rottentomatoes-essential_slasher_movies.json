@@ -1,0 +1,1938 @@
+{
+    "type": "movie_list",
+    "title": "Rotten Tomatoes - 100 Best Slasher Movies",
+    "source": "https://editorial.rottentomatoes.com/guide/essential-slasher-movies/",
+    "created_by": "lbnt",
+    "added": "10/10/24",
+    "modified": "10/10/24",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/x8L0W27JMyEfLQsqd7JtEcIlB29.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 539,
+            "original_language": "en",
+            "original_title": "Psycho",
+            "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+            "popularity": 83.439,
+            "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+            "release_date": "1960-06-22",
+            "title": "Psycho",
+            "video": false,
+            "vote_average": 8.431,
+            "vote_count": 9977
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 948,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+            "popularity": 83.502,
+            "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+            "release_date": "1978-10-24",
+            "title": "Halloween",
+            "video": false,
+            "vote_average": 7.559,
+            "vote_count": 5497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g9ROrZey0JYp7kf8DoAyZtKnObj.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 377,
+            "original_language": "en",
+            "original_title": "A Nightmare on Elm Street",
+            "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+            "popularity": 100.75,
+            "poster_path": "/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg",
+            "release_date": "1984-10-31",
+            "title": "A Nightmare on Elm Street",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 5026
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8rmx3Wh6fQdSL2nzTmdFn9thcK8.jpg",
+            "genre_ids": [
+                27,
+                18
+            ],
+            "id": 949423,
+            "original_language": "en",
+            "original_title": "Pearl",
+            "overview": "Trapped on her family\u2019s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she\u2019s seen in the movies, Pearl\u2019s ambitions, temptations, and repressions collide.",
+            "popularity": 55.23,
+            "poster_path": "/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+            "release_date": "2022-09-16",
+            "title": "Pearl",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1790
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qjMDwBWbG5hAP43q3meplZFreFQ.jpg",
+            "genre_ids": [
+                35,
+                27,
+                878
+            ],
+            "id": 974931,
+            "original_language": "en",
+            "original_title": "Totally Killer",
+            "overview": "When the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
+            "popularity": 47.049,
+            "poster_path": "/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+            "release_date": "2023-09-28",
+            "title": "Totally Killer",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 810
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+            "genre_ids": [
+                18,
+                27
+            ],
+            "id": 13885,
+            "original_language": "en",
+            "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+            "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+            "popularity": 31.903,
+            "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+            "release_date": "2007-12-20",
+            "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+            "video": false,
+            "vote_average": 7.183,
+            "vote_count": 5795
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cRdA9xjHBbobw4LJFsQ3j1CgpVq.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 663712,
+            "original_language": "en",
+            "original_title": "Terrifier 2",
+            "overview": "After being resurrected by a sinister entity, Art the Clown returns to Miles County where he must hunt down and destroy teenage Sienna and her younger brother Jonathan on Halloween. As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+            "popularity": 448.884,
+            "poster_path": "/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
+            "release_date": "2022-10-06",
+            "title": "Terrifier 2",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1780
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 1071215,
+            "original_language": "en",
+            "original_title": "Thanksgiving",
+            "overview": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+            "popularity": 58.458,
+            "poster_path": "/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+            "release_date": "2023-11-16",
+            "title": "Thanksgiving",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xENKhotB6aYBlnDH2lE0m2y22v1.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 565028,
+            "original_language": "en",
+            "original_title": "Candyman",
+            "overview": "Anthony and his partner move into a loft in the now gentrified Cabrini-Green. After a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.",
+            "popularity": 29.32,
+            "poster_path": "/qeV15PpR8jFJA9TF9JPXIoqEgp1.jpg",
+            "release_date": "2021-08-25",
+            "title": "Candyman",
+            "video": false,
+            "vote_average": 6.041,
+            "vote_count": 1530
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lVbPO7RjsMWoUwH1ISRbZNbg62s.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 551804,
+            "original_language": "en",
+            "original_title": "Freaky",
+            "overview": "A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.",
+            "popularity": 20.427,
+            "poster_path": "/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+            "release_date": "2020-11-12",
+            "title": "Freaky",
+            "video": false,
+            "vote_average": 6.568,
+            "vote_count": 1592
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 30497,
+            "original_language": "en",
+            "original_title": "The Texas Chain Saw Massacre",
+            "overview": "A group of five young friends face a nightmare of torment at the hands of a depraved Texas clan.",
+            "popularity": 69.632,
+            "poster_path": "/lk6je5jykNzsQxumZEryxMLbJjD.jpg",
+            "release_date": "1974-10-11",
+            "title": "The Texas Chain Saw Massacre",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wmHfg56pvzmLCXz5Gs9D7d5rjvG.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                27
+            ],
+            "id": 11033,
+            "original_language": "en",
+            "original_title": "Dressed to Kill",
+            "overview": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
+            "popularity": 29.683,
+            "poster_path": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+            "release_date": "1980-07-25",
+            "title": "Dressed to Kill",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 922
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dQlQ23vhPzjAjnknwVYu61vIFk8.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 4233,
+            "original_language": "en",
+            "original_title": "Scream 2",
+            "overview": "Two years after the first series of murders, as Sidney Prescott acclimates to college life, someone donning the Ghostface costume begins a new string of killings.",
+            "popularity": 45.624,
+            "poster_path": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+            "release_date": "1997-12-12",
+            "title": "Scream 2",
+            "video": false,
+            "vote_average": 6.494,
+            "vote_count": 4091
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+            "genre_ids": [
+                80,
+                27,
+                9648
+            ],
+            "id": 4232,
+            "original_language": "en",
+            "original_title": "Scream",
+            "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+            "popularity": 91.277,
+            "poster_path": "/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
+            "release_date": "1996-12-20",
+            "title": "Scream",
+            "video": false,
+            "vote_average": 7.422,
+            "vote_count": 6861
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/okjEw4GrEqn4seWkvUHIUXogQZD.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 83899,
+            "original_language": "en",
+            "original_title": "You're Next",
+            "overview": "When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of their victims harbors a secret talent for fighting back.",
+            "popularity": 18.418,
+            "poster_path": "/l163jakfKvchUTVTtBi0KA7ZhIc.jpg",
+            "release_date": "2013-08-22",
+            "title": "You're Next",
+            "video": false,
+            "vote_average": 6.593,
+            "vote_count": 2434
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 948,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+            "popularity": 83.502,
+            "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+            "release_date": "1978-10-24",
+            "title": "Halloween",
+            "video": false,
+            "vote_average": 7.559,
+            "vote_count": 5497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vPDtur0rXAnEMqdYAnLO41aSDoO.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 9529,
+            "original_language": "en",
+            "original_title": "Candyman",
+            "overview": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+            "popularity": 20.572,
+            "poster_path": "/n38YbNqUf5KWpMJFc4X3t0rlhg5.jpg",
+            "release_date": "1992-10-16",
+            "title": "Candyman",
+            "video": false,
+            "vote_average": 6.61,
+            "vote_count": 1576
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qKF9GwtJbi2rob8kZBmGcQGAaMo.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                14
+            ],
+            "id": 11596,
+            "original_language": "en",
+            "original_title": "New Nightmare",
+            "overview": "Cast and crew from A Nightmare on Elm Street are terrorized by Freddy Krueger and his razor-fingered glove as he crosses over into the real world.",
+            "popularity": 17.72,
+            "poster_path": "/eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg",
+            "release_date": "1994-10-13",
+            "title": "New Nightmare",
+            "video": false,
+            "vote_average": 6.431,
+            "vote_count": 1361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+            "genre_ids": [
+                27,
+                80,
+                53
+            ],
+            "id": 934433,
+            "original_language": "en",
+            "original_title": "Scream VI",
+            "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+            "popularity": 85.613,
+            "poster_path": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+            "release_date": "2023-03-08",
+            "title": "Scream VI",
+            "video": false,
+            "vote_average": 7.033,
+            "vote_count": 2535
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 646385,
+            "original_language": "en",
+            "original_title": "Scream",
+            "overview": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town\u2019s deadly past.",
+            "popularity": 101.926,
+            "poster_path": "/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",
+            "release_date": "2022-01-12",
+            "title": "Scream",
+            "video": false,
+            "vote_average": 6.669,
+            "vote_count": 3222
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aukoS4wGTAYHqnrWe66OLTCyw8.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 818543,
+            "original_language": "en",
+            "original_title": "Slumber Party Massacre",
+            "overview": "Dana, daughter of the only survivor of a massacre in 1993, is going on a weekend trip with her friends. After their car breaks down in the very same town where her mother once fought the Driller Killer, Dana and her friends must come face-to-face with the man who has haunted her mother\u2019s life for the past 30 years.",
+            "popularity": 6.262,
+            "poster_path": "/taybMcekWWhL7yuxPgYKXH5I1FY.jpg",
+            "release_date": "2021-09-27",
+            "title": "Slumber Party Massacre",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qxBgqQpfkcusqEBeaITpQQO3vJs.jpg",
+            "genre_ids": [
+                53,
+                27,
+                9648
+            ],
+            "id": 69872,
+            "original_language": "it",
+            "original_title": "Il tuo vizio \u00e8 una stanza chiusa e solo io ne ho la chiave",
+            "overview": "Oliviero is a drunk, burned-out writer who amuses himself by hosting orgies at his grand country manor and humiliating his wife Irina. When a number of women are murdered in grisly fashion, Oliviero becomes a prime suspect.",
+            "popularity": 12.301,
+            "poster_path": "/7GrhyDIZlqjB9F6WEwlzKvPWrjm.jpg",
+            "release_date": "1972-08-04",
+            "title": "Your Vice Is a Locked Room and Only I Have the Key",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/EXz9Gqg1blxuTDhoBahw2HYyzo.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 40037,
+            "original_language": "ja",
+            "original_title": "\u6b7b\u970a\u306e\u7f60",
+            "overview": "A talk show hostess takes a camera crew out to an abandoned factory to investigate a purported snuff film that was made there. As she gets closer to the truth, she and her friends are subjected to a brutal nightmare.",
+            "popularity": 7.198,
+            "poster_path": "/pzAWRgHG0GQcRq5sJ0iHX5hXZX4.jpg",
+            "release_date": "1988-05-14",
+            "title": "Evil Dead Trap",
+            "video": false,
+            "vote_average": 5.94,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mapDJtZ4ORxA5Z9thUrCgjCElaN.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 67740,
+            "original_language": "en",
+            "original_title": "Butcher, Baker, Nightmare Maker",
+            "overview": "Rejected by her lover, the only man left in Cheryl's life is the orphaned nephew she has raised as her own son. She'll stop at nothing to keep Billy with her. When her plans misfire, she is swept up into an insane frenzy that means death to anyone who comes between her and her obsession. But the investigating detective is convinced that Billy is the real killer - and determined to prove it. Madness and fanaticism work together to drag all concerned into a terrifying vortex of blood-letting that adds a nightmarish twist to the classic Oedipus story.",
+            "popularity": 5.18,
+            "poster_path": "/a1EpGJRGSxsM8HKOSFpSJYbbZOI.jpg",
+            "release_date": "1981-11-20",
+            "title": "Butcher, Baker, Nightmare Maker",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3hvygFCUYB0A4Q1uu6DJ5M1GmpU.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 20126,
+            "original_language": "it",
+            "original_title": "Profondo rosso",
+            "overview": "One night, musician Marcus Daly, looking up from the street below, witnesses the brutal axe murder of a woman in her apartment. Racing to the scene, he just manages to miss the perpetrator... or so he thinks.",
+            "popularity": 26.512,
+            "poster_path": "/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg",
+            "release_date": "1975-03-07",
+            "title": "Deep Red",
+            "video": false,
+            "vote_average": 7.757,
+            "vote_count": 1435
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jh1TMz3AUe40HbCigQ7weCDEW0d.jpg",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "id": 20115,
+            "original_language": "it",
+            "original_title": "Opera",
+            "overview": "A young opera singer is stalked by a deranged fan bent on killing the people associated with her to claim her for himself.",
+            "popularity": 14.92,
+            "poster_path": "/v5VBvSVu2sWLAmyQhKQwBV5aPJA.jpg",
+            "release_date": "1987-12-19",
+            "title": "Opera",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 463
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dkT3zHMMEULn1o79xktvVbjWM7.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 25155,
+            "original_language": "en",
+            "original_title": "The Stepfather",
+            "overview": "A seemingly mild mannered man -- who has just murdered his entire family -- quickly adopts a new identity and leaves town. After building a new relationship with a widow and her teenage daughter, he struggles to hide his true identity and maintain a grip on reality.",
+            "popularity": 17.798,
+            "poster_path": "/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg",
+            "release_date": "1987-01-23",
+            "title": "The Stepfather",
+            "video": false,
+            "vote_average": 6.532,
+            "vote_count": 315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2E2tfSguMHWrzbc29j1yKWifKDv.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 5486,
+            "original_language": "it",
+            "original_title": "Ecologia del delitto",
+            "overview": "An elderly heiress is killed by her husband who wants control of her fortunes. What ensues is an all-out murder spree as relatives and friends attempt to reduce the inheritance playing field, complicated by some teenagers who decide to camp out in a dilapidated building on the estate.",
+            "popularity": 19.857,
+            "poster_path": "/i0FKCvEypCO8ZUkIeHQhuUMvARN.jpg",
+            "release_date": "1971-09-08",
+            "title": "A Bay of Blood",
+            "video": false,
+            "vote_average": 6.601,
+            "vote_count": 361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3P7sggipGIhzQ7yVAF09rzQcRT8.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 13567,
+            "original_language": "en",
+            "original_title": "Sleepaway Camp",
+            "overview": "After a terrible boating accident, Angela Baker is sent to Camp Arawak, where a series of bizarre and violent \"accidents\" begin to claim the lives of various campers.",
+            "popularity": 11.427,
+            "poster_path": "/icRAuGsmXl62Ns0qrTuo9uiP6U1.jpg",
+            "release_date": "1983-11-18",
+            "title": "Sleepaway Camp",
+            "video": false,
+            "vote_average": 6.298,
+            "vote_count": 675
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dxFwwEbASnNO2ST0CdSTKJzwoLk.jpg",
+            "genre_ids": [
+                53,
+                27,
+                9648
+            ],
+            "id": 29702,
+            "original_language": "it",
+            "original_title": "Tenebre",
+            "overview": "A razor-wielding serial killer is on the loose, murdering those around Peter Neal, an American mystery author in Italy to promote his newest novel.",
+            "popularity": 13.328,
+            "poster_path": "/treOq9uABFwRPeMZsOK7JOeg4BX.jpg",
+            "release_date": "1982-10-28",
+            "title": "Tenebre",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 595
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/stFvHpXgoAB1KPqzN3XfzCPHQPh.jpg",
+            "genre_ids": [
+                878,
+                27,
+                9648
+            ],
+            "id": 40041,
+            "original_language": "en",
+            "original_title": "Strange Behavior",
+            "overview": "When the teenagers in a small Illinois town start getting murdered, the police chief makes a connection to the mysterious scientific experiments being done at the local university and must stop them before his own son is dragged into the deadly scheme.",
+            "popularity": 3.956,
+            "poster_path": "/iGCUjapkkS568KKdJUIXUQ57TK7.jpg",
+            "release_date": "1981-10-16",
+            "title": "Strange Behavior",
+            "video": false,
+            "vote_average": 5.373,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hkt9cbyS3gRkiBqc9a8oukd3oXt.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 24124,
+            "original_language": "en",
+            "original_title": "The Burning",
+            "overview": "A caretaker at a summer camp is burned when a prank goes tragically wrong. After several years of intensive treatment at hospital, he is released back into society, albeit missing some social skills. What follows is a bloody killing spree with the caretaker making his way back to his old stomping ground to confront one of the youths that accidentally burned him.",
+            "popularity": 19.408,
+            "poster_path": "/d8as1GtCAhlc5rirarnUUd85gJA.jpg",
+            "release_date": "1981-05-08",
+            "title": "The Burning",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 390
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cdsSLZKKpQsl4O4zFWEzkpD50x5.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 23761,
+            "original_language": "en",
+            "original_title": "Alice, Sweet Alice",
+            "overview": "Alice is a withdrawn 12-year-old who lives with her mother and her younger sister, Karen, who gets most of the attention from her mother, leaving Alice out of the spotlight. When Karen is found brutally murdered in a church, suspicions start to turn toward Alice. But could a 12-year-old girl really be capable of such savagery?",
+            "popularity": 15.022,
+            "poster_path": "/izawwwy80RH7U7YKkdV1OpdPohZ.jpg",
+            "release_date": "1976-11-13",
+            "title": "Alice, Sweet Alice",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9xDaUf00D2V22JLTFW3Kf0Uboqh.jpg",
+            "genre_ids": [
+                878,
+                27
+            ],
+            "id": 55538,
+            "original_language": "en",
+            "original_title": "Bloody Birthday",
+            "overview": "In 1970, three children are born at the height of a total eclipse. Due to the sun and moon blocking Saturn, which controls emotions, they have become heartless killers ten years later, and are able to escape detection because of their youthful and innocent facades. A boy and his teenage sister become endangered when they stumble onto the bloody truth.",
+            "popularity": 10.501,
+            "poster_path": "/qB6BwKNiR7RbhhBc9Q4BFHlmChr.jpg",
+            "release_date": "1981-04-28",
+            "title": "Bloody Birthday",
+            "video": false,
+            "vote_average": 5.909,
+            "vote_count": 148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w9eKficdGbJaOAH2DpUqqd51UNC.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 44247,
+            "original_language": "en",
+            "original_title": "The Prowler",
+            "overview": "Thirty years after a murder on the night of Avalon Bay's graduation dance, the sleepy town's teens meet grisly ends at the hands of a prowler once thought to be a jilted soldier home from war.",
+            "popularity": 12.342,
+            "poster_path": "/4soFiMOul6GRN889FxfDNAt9Woh.jpg",
+            "release_date": "1981-11-06",
+            "title": "The Prowler",
+            "video": false,
+            "vote_average": 5.973,
+            "vote_count": 220
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zRBSOPNE00jwomqzpSzC12sHXDz.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 10585,
+            "original_language": "en",
+            "original_title": "Child's Play",
+            "overview": "An innocent-looking doll is inhabited by the soul of a serial killer who refuses to die.",
+            "popularity": 38.443,
+            "poster_path": "/tiGJO2QHEqZcq5cPNGmqViswzpy.jpg",
+            "release_date": "1988-11-09",
+            "title": "Child's Play",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wmwhmih3Jdp8IIjjLrbHB98XzbO.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 28264,
+            "original_language": "en",
+            "original_title": "Nightmare at Shadow Woods",
+            "overview": "Twins Todd and Terry seem like sweet boys -- that is, until one of them takes an axe to the face of a fellow patron at the local drive-in.",
+            "popularity": 8.315,
+            "poster_path": "/h18CdUhYxNt6RquvEleGRU2V2T4.jpg",
+            "release_date": "1987-03-29",
+            "title": "Nightmare at Shadow Woods",
+            "video": false,
+            "vote_average": 5.807,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nVi8CINgtMbWmCQ0XxXgW2H1ZTW.jpg",
+            "genre_ids": [
+                18,
+                14,
+                53,
+                9648,
+                27
+            ],
+            "id": 2668,
+            "original_language": "en",
+            "original_title": "Sleepy Hollow",
+            "overview": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people \u2013 murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
+            "popularity": 44.903,
+            "poster_path": "/uZNxJW7ygEHizeHOp7Nw9ysf4QJ.jpg",
+            "release_date": "1999-11-19",
+            "title": "Sleepy Hollow",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 6650
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+            "genre_ids": [
+                35,
+                27,
+                9648
+            ],
+            "id": 440021,
+            "original_language": "en",
+            "original_title": "Happy Death Day",
+            "overview": "Caught in a bizarre and terrifying time warp, college student Tree finds herself repeatedly reliving the day of her murder, ultimately realizing that she must identify the killer and the reason for her death before her chances of survival run out.",
+            "popularity": 29.696,
+            "poster_path": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+            "release_date": "2017-10-12",
+            "title": "Happy Death Day",
+            "video": false,
+            "vote_average": 6.645,
+            "vote_count": 6048
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gjysasbU9gKgbu7yW7Z1aonoiTg.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 517116,
+            "original_language": "en",
+            "original_title": "Haunt",
+            "overview": "On Halloween, a group of friends encounter an extreme haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realisation that some nightmares are real.",
+            "popularity": 39.858,
+            "poster_path": "/haQSrjFlq30I60UVN1VsB6uRwKM.jpg",
+            "release_date": "2019-09-13",
+            "title": "Haunt",
+            "video": false,
+            "vote_average": 6.682,
+            "vote_count": 1195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d0QQii706R7jbXed432WRZRLtkd.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 40952,
+            "original_language": "en",
+            "original_title": "Alone in the Dark",
+            "overview": "A quartet of murderous psychopaths break out of a mental hospital during a power blackout and lay siege to their doctor's house.",
+            "popularity": 10.22,
+            "poster_path": "/5ybBuHOTUMtW000G15WHh31aMNn.jpg",
+            "release_date": "1982-11-12",
+            "title": "Alone in the Dark",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fVJQjlTIEczbHKi4Uk11zBBMypb.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 1359,
+            "original_language": "en",
+            "original_title": "American Psycho",
+            "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+            "popularity": 49.097,
+            "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+            "release_date": "2000-04-13",
+            "title": "American Psycho",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 10842
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7nxNnR9yftqVUoFvBdfr2akgu2A.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 16938,
+            "original_language": "en",
+            "original_title": "Black Christmas",
+            "overview": "As the residents of sorority house Pi Kappa Sigma prepare for the festive season, a stranger begins a series of obscene phone calls with dubious intentions...",
+            "popularity": 14.415,
+            "poster_path": "/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg",
+            "release_date": "1974-10-11",
+            "title": "Black Christmas",
+            "video": false,
+            "vote_average": 6.915,
+            "vote_count": 767
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/euXJlfeYSyrdkOoFQ9gtUG8OOhH.jpg",
+            "genre_ids": [
+                27,
+                53,
+                14
+            ],
+            "id": 10072,
+            "original_language": "en",
+            "original_title": "A Nightmare on Elm Street 3: Dream Warriors",
+            "overview": "During a hallucinatory incident, Kristen Parker has her wrists slashed by dream-stalking monster, Freddy Krueger. Her mother, mistaking the wounds for a suicide attempt, sends her to a psychiatric ward, where she joins a group of similarly troubled teens.",
+            "popularity": 24.169,
+            "poster_path": "/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg",
+            "release_date": "1987-02-27",
+            "title": "A Nightmare on Elm Street 3: Dream Warriors",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1742
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ocaEQWDLM07Kxmh9vTA3NaETolE.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 13555,
+            "original_language": "en",
+            "original_title": "The Funhouse",
+            "overview": "Rebellious teen Amy defies her parents by going to a trashy carnival that has pulled into town. In tow are her boyfriend, Buzz, and their friends Liz  and Richie. Thinking it would be fun to spend the night in the campy \"Funhouse\" horror ride, the teens witness a murder by a deformed worker wearing a mask. Locked in, Amy and her friends must evade the murderous carnival workers and escape before it leaves town the next day.",
+            "popularity": 10.827,
+            "poster_path": "/9eFgNrkTbXk1TBPuzxdOEjutNoC.jpg",
+            "release_date": "1981-03-13",
+            "title": "The Funhouse",
+            "video": false,
+            "vote_average": 5.822,
+            "vote_count": 383
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/llLB2MWIRqWfBHENc5m63RcKR8G.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 4488,
+            "original_language": "en",
+            "original_title": "Friday the 13th",
+            "overview": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+            "popularity": 80.558,
+            "poster_path": "/HzrPn1gEHWixfMOvOehOTlHROo.jpg",
+            "release_date": "1980-05-09",
+            "title": "Friday the 13th",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2872
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ejNnuzHFwYWKBelYq9vpluLHFih.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 13553,
+            "original_language": "en",
+            "original_title": "The Driller Killer",
+            "overview": "An artist slowly goes insane while struggling to pay his bills, work on his paintings, and care for his two female roommates, which leads him taking to the streets of New York after dark and randomly killing derelicts with a power drill.",
+            "popularity": 12.67,
+            "poster_path": "/xQwFCGkcZCmVRqhvpI3L70MCPGN.jpg",
+            "release_date": "1979-06-15",
+            "title": "The Driller Killer",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b8KbYr4ssvlT2k1dLvJxcL55WOu.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 12619,
+            "original_language": "en",
+            "original_title": "Cherry Falls",
+            "overview": "When students in the town of Cherry Falls hear that a serial killer is targeting virgins, they realize that the only way to protect themselves is to begin planning a \"Pop Your Cherry\" party.",
+            "popularity": 16.39,
+            "poster_path": "/hIvskDmQKbvOBpeGaH2OkRg495M.jpg",
+            "release_date": "2000-08-25",
+            "title": "Cherry Falls",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 276
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/huPLaQFhsPf0eWRVEkbw1gK2tx8.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 42002,
+            "original_language": "es",
+            "original_title": "Angustia",
+            "overview": "An ophthalmologist's assistant with an unhealthy interest in human eyeballs goes on a killing spree to collect eyeballs for his overbearing mother's collection. Reality soon takes a bizarre turn, both for the characters and the audience.",
+            "popularity": 6.622,
+            "poster_path": "/pcgTyhl00GDmlKyZvEOJ3qDxEgP.jpg",
+            "release_date": "1987-11-10",
+            "title": "Anguish",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5kjDGfkR5jqIz5Tv3L9VXiLmohp.jpg",
+            "genre_ids": [
+                27,
+                10770
+            ],
+            "id": 30931,
+            "original_language": "en",
+            "original_title": "Dark Night of the Scarecrow",
+            "overview": "Bubba, an intellectually disabled man, is falsely accused of attacking a young girl. Disguised as a scarecrow, he hides in a cornfield, only to be hunted down and shot by four vigilante men. After they are acquitted due to lack of evidence, the men find themselves being stalked one by one.",
+            "popularity": 9.961,
+            "poster_path": "/pershJo6I8qqun0MEuwqmPSg9hH.jpg",
+            "release_date": "1981-10-24",
+            "title": "Dark Night of the Scarecrow",
+            "video": false,
+            "vote_average": 6.465,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6NEPu9EKzk6Ukv0rjzDpcpSg7a.jpg",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "id": 28090,
+            "original_language": "en",
+            "original_title": "Maniac Cop 2",
+            "overview": "After being framed by corrupt superiors and brutally assaulted in prison, Officer Matt Cordell teams up with a vicious serial killer to track down those that wronged him.",
+            "popularity": 13.91,
+            "poster_path": "/oxCb0ptp88gDcfAcDUzkPBfc32v.jpg",
+            "release_date": "1990-07-18",
+            "title": "Maniac Cop 2",
+            "video": false,
+            "vote_average": 5.884,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXXUXxjZcuRE2zExhwtYG5RBat4.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 34311,
+            "original_language": "en",
+            "original_title": "Sleepaway Camp II: Unhappy Campers",
+            "overview": "Angela Baker escapes from a mental hospital and surfaces at a summer camp as a counselor who lectures her teenage charges on proper moral behavior. Those teens who break her strict rules -- from the camp chatterbox or a sex-obsessed girl to the boys who are peeping Toms -- are murdered by the impostor in various gruesome ways. As more campers go missing, intrepid counselor Molly begins to piece together the truth.",
+            "popularity": 15.722,
+            "poster_path": "/gupBz1S1TCxH75qW4qoqjpeEgQ9.jpg",
+            "release_date": "1988-08-26",
+            "title": "Sleepaway Camp II: Unhappy Campers",
+            "video": false,
+            "vote_average": 5.896,
+            "vote_count": 273
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pSXP7pa8mgOjrh8GbKnXArLXmL7.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 10576,
+            "original_language": "en",
+            "original_title": "Psycho II",
+            "overview": "Norman Bates is declared sane and released from the facility in which he was being held, despite the complaints of Lila Loomis, sister of his most famous victim. Is he really cured, or will he kill again?",
+            "popularity": 15.261,
+            "poster_path": "/sJAPRj3vHmjV4z97YK84iDovYlm.jpg",
+            "release_date": "1983-06-03",
+            "title": "Psycho II",
+            "video": false,
+            "vote_average": 6.449,
+            "vote_count": 626
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fSlENCZXfcn55dp5BN1dAcE0Hvu.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 31624,
+            "original_language": "it",
+            "original_title": "I corpi presentano tracce di violenza carnale",
+            "overview": "A masked serial killer with psychosexual issues strangles female coeds with scarves before dismembering them. When a wealthy student identifies one of the scarves and thinks she has a lead on a suspect, she becomes the killer's next target, retreating to her family's remote cliffside villa with three of her girlfriends.",
+            "popularity": 12.275,
+            "poster_path": "/tWwaVVGHkl9FTVRApyAQdBa2ayU.jpg",
+            "release_date": "1973-01-04",
+            "title": "Torso",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c5EmNhLQsTTKAyUHULnKYQjlloz.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 41446,
+            "original_language": "en",
+            "original_title": "Scream 4",
+            "overview": "Ten years have passed, and Sidney Prescott has put herself back together thanks to her writing. However, her return to Woodsboro sparks the return of the Ghostface Killer.",
+            "popularity": 51.726,
+            "poster_path": "/tcrI37K98TVopLbcZBa55mWhLT1.jpg",
+            "release_date": "2011-04-13",
+            "title": "Scream 4",
+            "video": false,
+            "vote_average": 6.459,
+            "vote_count": 3648
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/blJVWug8FJggb9gs6NuooyOWBTP.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 21208,
+            "original_language": "en",
+            "original_title": "Orphan",
+            "overview": "After losing their baby, a married couple adopt 9-year old Esther, who may not be as innocent as she seems.",
+            "popularity": 93.46,
+            "poster_path": "/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
+            "release_date": "2009-07-24",
+            "title": "Orphan",
+            "video": false,
+            "vote_average": 6.997,
+            "vote_count": 5190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/80y7uuvZNNENOB2tXLzdl3m4rGl.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 24913,
+            "original_language": "en",
+            "original_title": "April Fool's Day",
+            "overview": "As soon as Muffy St. John and her college friends arrive on her parents' secluded island, someone starts trimming the guest list... one murder at a time.",
+            "popularity": 12.368,
+            "poster_path": "/dkF8MGpCjLAqHiiH9BHQDAzCjwL.jpg",
+            "release_date": "1986-03-27",
+            "title": "April Fool's Day",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 420634,
+            "original_language": "en",
+            "original_title": "Terrifier",
+            "overview": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
+            "popularity": 391.836,
+            "poster_path": "/6PQqC4SbY910VvyVad6mvsboILU.jpg",
+            "release_date": "2018-01-25",
+            "title": "Terrifier",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2076
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wso6Mld6foDdIZOdrwztLENzSjW.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 39874,
+            "original_language": "en",
+            "original_title": "My Bloody Valentine",
+            "overview": "Twenty years after a Valentine's Day tragedy claimed the lives of five miners, Harry Warden returns for a vengeful massacre among teen sweethearts gearing up for another party.",
+            "popularity": 12.912,
+            "poster_path": "/kl3mewFceFtYIavvGts2atzB0e0.jpg",
+            "release_date": "1981-02-11",
+            "title": "My Bloody Valentine",
+            "video": false,
+            "vote_average": 6.451,
+            "vote_count": 469
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qEFPP9hQCSVMssBPlcXhyyXEg3r.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                10402,
+                10770
+            ],
+            "id": 178221,
+            "original_language": "en",
+            "original_title": "Silent Night",
+            "overview": "In 1818, when Joseph Mohr is assigned to be the new assistant priest in Oberndorf, a small Austrian town near Salzburg, the young man is full of ideas and ideals. His passion to bring the church closer to the common people sets him on a collision course with his new superior, Father Nostler. When Mohr organizes a church choir that includes outcasts from the local tavern and performs in German instead of Latin, Nostler threatens him with disciplinary action. Their relationship further deteriorates when Maria a regular tavern patron, surprisingly joins the performance of the all-male church choir. As Mohr's initial successes start to crumble and his efforts backfire on him, he loses all hope and faces a trial of faith. The night before Christmas, Mohr has to decide if he will accept defeat and leave Oberndorf or embrace the true significance of the Holy Night.",
+            "popularity": 2.871,
+            "poster_path": "/wNtV2kyJz1YTmmaQuQHFbeEXVOz.jpg",
+            "release_date": "2013-11-28",
+            "title": "Silent Night",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ckzDxe9q644cazaJLkv5DQSqRQ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 28377,
+            "original_language": "en",
+            "original_title": "Hell Night",
+            "overview": "As an initiation rite into Alpha Sigma Rho fraternity, four pledges must spend a night in Garth Manor, twelve years to the day after the previous resident murdered his entire family.",
+            "popularity": 13.069,
+            "poster_path": "/djm5ORLWfZlpmowguJ7LqiL6WwW.jpg",
+            "release_date": "1981-08-28",
+            "title": "Hell Night",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uljOSSLD1HomW4pmMNYDhp66gxS.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 27420,
+            "original_language": "en",
+            "original_title": "Graduation Day",
+            "overview": "After the death of a high school track star during a race, a mysterious killer in a fencing mask begins murdering her friends and teachers.",
+            "popularity": 7.291,
+            "poster_path": "/bbNtkM0oFTCnFfblOzeEuaDUaZB.jpg",
+            "release_date": "1981-05-01",
+            "title": "Graduation Day",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n9iKgzDObyu4PxvNBwJZDZSfXP1.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10131,
+            "original_language": "en",
+            "original_title": "A Nightmare on Elm Street 4: The Dream Master",
+            "overview": "Freddy Krueger is resurrected from his apparent demise, and rapidly tracks down and kills the remainder of the Elm Street kids. However, Kristen, who can draw others into her dreams, wills her special ability to her new friend, Alice.",
+            "popularity": 36.844,
+            "poster_path": "/boStYG7jKdoIZTduiOOsUVknD13.jpg",
+            "release_date": "1988-08-19",
+            "title": "A Nightmare on Elm Street 4: The Dream Master",
+            "video": false,
+            "vote_average": 5.855,
+            "vote_count": 1394
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e8zBkxXyrnb2MHoImnjXwVji4To.jpg",
+            "genre_ids": [
+                27,
+                14,
+                53
+            ],
+            "id": 39929,
+            "original_language": "en",
+            "original_title": "Hello Mary Lou: Prom Night II",
+            "overview": "When Hamilton High\u2019s Prom Queen of 1957, Mary Lou Maloney is killed by her jilted boyfriend, she comes back for revenge thirty years later.",
+            "popularity": 11.235,
+            "poster_path": "/nU6GX88F6UOFrrJWCQhhs1DJ4ut.jpg",
+            "release_date": "1987-10-16",
+            "title": "Hello Mary Lou: Prom Night II",
+            "video": false,
+            "vote_average": 5.936,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qNf28DAHAj0JiECIvs3rwneu2FK.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11675,
+            "original_language": "en",
+            "original_title": "Halloween H20: 20 Years Later",
+            "overview": "Two decades after surviving a massacre on October 31, 1978, former baby sitter Laurie Strode finds herself hunted by persistent knife-wielder Michael Myers. Laurie now lives in Northern California under an assumed name, where she works as the headmistress of a private school. But it's not far enough to escape Myers, who soon discovers her whereabouts. As Halloween descends upon Laurie's peaceful community, a feeling of dread weighs upon her -- with good reason.",
+            "popularity": 33.56,
+            "poster_path": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+            "release_date": "1998-08-05",
+            "title": "Halloween H20: 20 Years Later",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1605
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9GYvt6C9hzoW7tS4kaz00omOTb5.jpg",
+            "genre_ids": [
+                80,
+                27,
+                9648
+            ],
+            "id": 14240,
+            "original_language": "en",
+            "original_title": "Maniac Cop",
+            "overview": "Innocent people are brutally killed on the streets of New York by a uniformed police officer. A young cop, Jack Forrest, finds himself marked as the chief suspect after his wife is murdered.",
+            "popularity": 12.209,
+            "poster_path": "/YS4Q7xHZLjZ5HvffqVDmJLjxce.jpg",
+            "release_date": "1988-05-13",
+            "title": "Maniac Cop",
+            "video": false,
+            "vote_average": 6.117,
+            "vote_count": 458
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8RBwd37p2p48lUmZuWBLSkFLprd.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 1113278,
+            "original_language": "en",
+            "original_title": "It's a Wonderful Knife",
+            "overview": "Winnie's life is less than wonderful one year after saving her town from a psychotic killer on Christmas Eve. When she wishes she was never born, she finds herself magically transported to a nightmarish parallel universe. With the murderous maniac now back, she must team up with a misfit to identify the culprit and get back to her own reality.",
+            "popularity": 21.217,
+            "poster_path": "/qToCVGHgu1670jZKjbdUnMVKmPc.jpg",
+            "release_date": "2023-11-10",
+            "title": "It's a Wonderful Knife",
+            "video": false,
+            "vote_average": 5.237,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93tvkTtV6tQQiYhxhij9tuODNOq.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10225,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part VI: Jason Lives",
+            "overview": "Tommy Jarvis, tormented by the fear that maybe Jason isn't really dead, unwittingly resurrects the mass murderer for another bloody rampage.",
+            "popularity": 48.955,
+            "poster_path": "/3qyCfzwY418lbuFEaKX5rKxKlnJ.jpg",
+            "release_date": "1986-08-01",
+            "title": "Friday the 13th Part VI: Jason Lives",
+            "video": false,
+            "vote_average": 6.207,
+            "vote_count": 1146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i4qyKUaJDgLIW6ecJrHQJnMMqPW.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 40229,
+            "original_language": "en",
+            "original_title": "The House on Sorority Row",
+            "overview": "When the senior sorority sisters of Theta Pi decide to do in their demented house mother, someone seeks revenge, and begins a night of terror and madness.",
+            "popularity": 8.828,
+            "poster_path": "/x2e22IVGkbCNCCDcw4gg5HezrSQ.jpg",
+            "release_date": "1983-01-21",
+            "title": "The House on Sorority Row",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5MMnUP4mzay6tVNZ8DF3HBeEUMX.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 16337,
+            "original_language": "en",
+            "original_title": "The Texas Chainsaw Massacre 2",
+            "overview": "With the help of a radio DJ, Texas ranger Lefty Enright finds his way to the cannibalistic Sawyer family's underground slaughter shop, where he seeks to avenge the brutal murder of his kin.",
+            "popularity": 28.818,
+            "poster_path": "/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
+            "release_date": "1986-08-22",
+            "title": "The Texas Chainsaw Massacre 2",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 855
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y27M2hIwZRRvMAVEadFPP5hCPg1.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 10665,
+            "original_language": "en",
+            "original_title": "The Strangers",
+            "overview": "After a 4 a.m. knock at the door and haunting voices, Kristen McKay and James Hoyt\u2019s remote getaway becomes a psychological night of terror as three masked strangers invade. Now they must go far beyond what they thought themselves capable of if they hope to survive.",
+            "popularity": 26.14,
+            "poster_path": "/xg31SORrZfLmkHjA5yisD4PIWXD.jpg",
+            "release_date": "2008-05-29",
+            "title": "The Strangers",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 2373
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5koebhXPp0vXLwO8xsW01IiZwZd.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 36599,
+            "original_language": "en",
+            "original_title": "Prom Night",
+            "overview": "At a high school senior prom, a masked killer stalks four teenagers who were responsible for the accidental death of a classmate six years prior.",
+            "popularity": 12.339,
+            "poster_path": "/r2Ew7wUP96PsePEZseK6JqcPWY9.jpg",
+            "release_date": "1980-07-18",
+            "title": "Prom Night",
+            "video": false,
+            "vote_average": 5.698,
+            "vote_count": 417
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rCzYrGstiybMwDPcZlePAN7IWBh.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 512025,
+            "original_language": "en",
+            "original_title": "There's Someone Inside Your House",
+            "overview": "As the countdown to graduation begins, students at Osborne High are being stalked by a maniac intent on exposing their darkest secrets to the entire town, terrorizing victims while wearing a life-like mask of their own face. With a mysterious past of her own, Makani and her friends must discover the killer's identity before they become victims themselves.",
+            "popularity": 12.973,
+            "poster_path": "/fJUdQ4BZAtlQK9Ny59TulkQGisB.jpg",
+            "release_date": "2021-09-24",
+            "title": "There's Someone Inside Your House",
+            "video": false,
+            "vote_average": 5.399,
+            "vote_count": 659
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d9igQsf6YU9gWFYxlqTqlivo999.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 39868,
+            "original_language": "en",
+            "original_title": "Evilspeak",
+            "overview": "Bullied by classmates, a pudgy military-school student fights back by computer with the devil.",
+            "popularity": 13.718,
+            "poster_path": "/kjriwjNgPop9XajyflCM68XVD0K.jpg",
+            "release_date": "1981-08-22",
+            "title": "Evilspeak",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tU5CdvDGQRGMfjDIfWmeUKh3ZKk.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 3597,
+            "original_language": "en",
+            "original_title": "I Know What You Did Last Summer",
+            "overview": "After an accident on a winding road, four teens make the fatal mistake of dumping their victim's body into the sea. Exactly one year later, the deadly secret resurfaces as they're stalked by a hook-handed figure.",
+            "popularity": 33.889,
+            "poster_path": "/aYcLakDaAJtu2HtVvOXNx8inNlK.jpg",
+            "release_date": "1997-10-17",
+            "title": "I Know What You Did Last Summer",
+            "video": false,
+            "vote_average": 5.961,
+            "vote_count": 2723
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/isLrrgJ5ePf8y127fgvo0Lp3vqX.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 27414,
+            "original_language": "en",
+            "original_title": "Silent Night, Deadly Night",
+            "overview": "Billy Chapman, who was traumatized by his parents' Christmas Eve murder, then brutalized by sadistic orphanage nuns, grows up to dress as jolly St. Nick for a yuletide rampage to punish the naughty.",
+            "popularity": 17.562,
+            "poster_path": "/ypj2JwAN4vWcc4zSqFCTgUwMbJV.jpg",
+            "release_date": "1984-11-09",
+            "title": "Silent Night, Deadly Night",
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 354
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8QCKFcPRVsQmbUaf2MxL3N50LsV.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 27475,
+            "original_language": "en",
+            "original_title": "The Slumber Party Massacre",
+            "overview": "Trish invites her high school basketball teammates over for a night they'll never forget -- or survive -- when an unexpected guest crashes the party: an escaped psychopath with a portable power drill.",
+            "popularity": 17.953,
+            "poster_path": "/rh65oDy8CNJoEAOf7oudhIt3DM6.jpg",
+            "release_date": "1982-09-10",
+            "title": "The Slumber Party Massacre",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 331
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/38VIYJXjGTtN2z5nG1fpToz801d.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 79649,
+            "original_language": "en",
+            "original_title": "Eyes of a Stranger",
+            "overview": "A TV newswoman catches a pervert watching her sister who cannot see, hear or speak.",
+            "popularity": 5.088,
+            "poster_path": "/6uAQkwCIgK1LHacoHPHqWelzn8G.jpg",
+            "release_date": "1981-02-11",
+            "title": "Eyes of a Stranger",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8cxB1CiiODiWFayDPxLsAeviZvc.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 10014,
+            "original_language": "en",
+            "original_title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+            "overview": "Jesse Walsh moves with his family into the home of the lone survivor from a series of attacks by dream-stalking monster, Freddy Krueger. There, he is bedeviled by nightmares and inexplicably violent impulses.",
+            "popularity": 57.354,
+            "poster_path": "/53kxYw0G3o55yJ23K7s7KMaOyAM.jpg",
+            "release_date": "1985-11-01",
+            "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 1834
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d8aNzyXkXrvlSMrS2n6jL2CSoTi.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 39867,
+            "original_language": "en",
+            "original_title": "Don't Go in the House",
+            "overview": "As a child, Donald was tormented by his mother who used fire as a punishment. Now a deranged adult, Donald stalks women at clubs, then takes them home where he kills them with a flamethrower.",
+            "popularity": 9.105,
+            "poster_path": "/fj7sn4eT4p7X30LNLFlWJkQUyhD.jpg",
+            "release_date": "1979-11-01",
+            "title": "Don't Go in the House",
+            "video": false,
+            "vote_average": 5.719,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mv0YNps8MZwxqitpEFFoHo2nxsX.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 47886,
+            "original_language": "es",
+            "original_title": "Mil gritos tiene la noche",
+            "overview": "A frustrated Boston detective searches for the maniac responsible for mutilating a number of university coeds.",
+            "popularity": 12.673,
+            "poster_path": "/pYviMR1o0g8VMUZJK5WTvnZBS2g.jpg",
+            "release_date": "1982-08-23",
+            "title": "Pieces",
+            "video": false,
+            "vote_average": 5.894,
+            "vote_count": 240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dKvz3aLnITt4zFZ4qclk82BwQ1k.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 10226,
+            "original_language": "fr",
+            "original_title": "Haute tension",
+            "overview": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
+            "popularity": 18.675,
+            "poster_path": "/o2k0Zi4VNNKnlkx9ZLHcXln9tlR.jpg",
+            "release_date": "2003-06-18",
+            "title": "High Tension",
+            "video": false,
+            "vote_average": 6.738,
+            "vote_count": 1281
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4JOPLgIwDQ1qNI5EHiCF5hPII8Y.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 4234,
+            "original_language": "en",
+            "original_title": "Scream 3",
+            "overview": "While Sidney Prescott and her friends visit the Hollywood set of Stab 3, the third film based on the Woodsboro murders, another Ghostface killer rises to terrorize them.",
+            "popularity": 42.417,
+            "poster_path": "/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
+            "release_date": "2000-02-04",
+            "title": "Scream 3",
+            "video": false,
+            "vote_average": 5.989,
+            "vote_count": 3511
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/huK2HB1JwVqCPqKBjhiaW4tbEuE.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 371608,
+            "original_language": "en",
+            "original_title": "The Strangers: Prey at Night",
+            "overview": "A family's road trip takes a dangerous turn when they arrive at a secluded mobile home park to stay with some relatives and find it mysteriously deserted. Under the cover of darkness, three masked killers pay them a visit to test the family's every limit as they struggle to survive.",
+            "popularity": 31.891,
+            "poster_path": "/vdxLpPsZkPZdFrREp7eSeSzcimj.jpg",
+            "release_date": "2018-03-07",
+            "title": "The Strangers: Prey at Night",
+            "video": false,
+            "vote_average": 5.663,
+            "vote_count": 1344
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oWMPUl6C9k5vVXOWEoc9pl0Pfkn.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 18587,
+            "original_language": "en",
+            "original_title": "10 to Midnight",
+            "overview": "Warren Stacy, an office equipment repairman, begins murdering women after they reject his advances. To minimize the evidence, Stacy always kills while naked, wearing nothing but gloves, and further evades the law with his strong alibis. Veteran detective Leo Kessler is convinced of Stacy's guilt and begins using questionable methods to catch him.",
+            "popularity": 8.342,
+            "poster_path": "/dJoOP9ayrQVT9t4XQHjIhDzieCt.jpg",
+            "release_date": "1983-03-11",
+            "title": "10 to Midnight",
+            "video": false,
+            "vote_average": 6.222,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zOfIcQhwElCp0tLX0dU02wJq3Nj.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 13570,
+            "original_language": "en",
+            "original_title": "Tourist Trap",
+            "overview": "A telekinetic psychopath lures a group of young people to his ramshackle roadside attraction, unleashing an army of psychically controlled mannequins and other monstrosities upon them.",
+            "popularity": 13.217,
+            "poster_path": "/b2QdPgcDXcKdPZv7GfBnFXhUcu7.jpg",
+            "release_date": "1979-03-14",
+            "title": "Tourist Trap",
+            "video": false,
+            "vote_average": 6.075,
+            "vote_count": 280
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h5X5zO40G0pjPkyyzGh9PBsPI0B.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 27346,
+            "original_language": "en",
+            "original_title": "Maniac",
+            "overview": "A psychotic man, troubled by his childhood abuse, loose in NYC, kills young women and local girl American models and takes their scalps as trophies.",
+            "popularity": 11.735,
+            "poster_path": "/aKIBqbUZAEwOML4oMMjZS7m4Gvj.jpg",
+            "release_date": "1980-05-10",
+            "title": "Maniac",
+            "video": false,
+            "vote_average": 6.435,
+            "vote_count": 425
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aTovumsNlDjof7YVoU5nW2RHaYn.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 616820,
+            "original_language": "en",
+            "original_title": "Halloween Ends",
+            "overview": "Four years after the events of Halloween in 2018, Laurie has decided to liberate herself from fear and rage and embrace life. But when a young man is accused of killing a boy he was babysitting, it ignites a cascade of violence and terror that will force Laurie to finally confront the evil she can\u2019t control, once and for all.",
+            "popularity": 57.58,
+            "poster_path": "/3uDwqxbr0j34rJVJMOW6o8Upw5W.jpg",
+            "release_date": "2022-10-12",
+            "title": "Halloween Ends",
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 1717
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zE4I9YvrrMUfwDZ3zLiN10eRZxG.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11357,
+            "original_language": "en",
+            "original_title": "Halloween 4: The Return of Michael Myers",
+            "overview": "Michael returns to Haddonfield for Jamie Lloyd \u2013 the orphaned daughter of Laurie Strode \u2013 and her babysitter Rachel. Can Dr. Loomis stop him before the unholy slaughter reaches his innocent young niece?",
+            "popularity": 72.393,
+            "poster_path": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+            "release_date": "1988-10-21",
+            "title": "Halloween 4: The Return of Michael Myers",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1868
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/orfMBe5LbJG7pySD1dxHbLOHJ9r.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 429476,
+            "original_language": "en",
+            "original_title": "Hell Fest",
+            "overview": "On Halloween night at a horror theme park, a costumed killer begins slaying innocent patrons who believe that it's all part of the festivities.",
+            "popularity": 16.553,
+            "poster_path": "/qgLlnlrUtTKXkdrgMBwUfkyAkya.jpg",
+            "release_date": "2018-09-27",
+            "title": "Hell Fest",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 798
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2cdrhlf3hvvueGyQDx0u8jpWvQR.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 610253,
+            "original_language": "en",
+            "original_title": "Halloween Kills",
+            "overview": "Michael manages to free himself from Laurie Strode's trap to resume his ritual bloodbath. As she fights for her life from injuries from their last encounter, she inspires her daughter Karen, her granddaughter Allyson, and all of Haddonfield to rise up against the unstoppable monster.",
+            "popularity": 44.959,
+            "poster_path": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+            "release_date": "2021-10-14",
+            "title": "Halloween Kills",
+            "video": false,
+            "vote_average": 6.446,
+            "vote_count": 2624
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u1lBiR7Tw5AuZGlGkX5RpyjraEt.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 33016,
+            "original_language": "en",
+            "original_title": "Deadly Blessing",
+            "overview": "When a former member of a religious cult dies in a mysterious accident, Martha, who now lives alone and close to the cult's church, begins to fear for her life and the lives of her visiting friends.",
+            "popularity": 11.311,
+            "poster_path": "/mizsEXfRudZLGoqicaauNVvnWvI.jpg",
+            "release_date": "1981-08-14",
+            "title": "Deadly Blessing",
+            "video": false,
+            "vote_average": 5.514,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sjsCTLiV48JFl6sVvVQj4gkaLDM.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 9373,
+            "original_language": "en",
+            "original_title": "The Texas Chainsaw Massacre",
+            "overview": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a chainsaw-wielding killer and his family of equally psychopathic killers.",
+            "popularity": 46.06,
+            "poster_path": "/6cTS53OMxke1egPSZ3feW5TNb7B.jpg",
+            "release_date": "2003-05-21",
+            "title": "The Texas Chainsaw Massacre",
+            "video": false,
+            "vote_average": 6.271,
+            "vote_count": 2592
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hm3MSsiBMPsCi9HNwwzR4dNmB5.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 11281,
+            "original_language": "en",
+            "original_title": "Halloween II",
+            "overview": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+            "popularity": 71.117,
+            "poster_path": "/gL3dPbbZInWn4U9jd87uoFGOdot.jpg",
+            "release_date": "1981-10-30",
+            "title": "Halloween II",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1980
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/roHX6N0VkySKBlramHUw1zdMQHB.jpg",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "id": 10281,
+            "original_language": "en",
+            "original_title": "Friday the 13th Part VII: The New Blood",
+            "overview": "Tina Shepard, a telekinetic teenage girl, accidentally unchains Jason from his watery grave, allowing him to go on another killing spree in the area.",
+            "popularity": 51.677,
+            "poster_path": "/xBjEL0k9Cz3QFjnpEK6c8b9Z51o.jpg",
+            "release_date": "1988-05-13",
+            "title": "Friday the 13th Part VII: The New Blood",
+            "video": false,
+            "vote_average": 5.448,
+            "vote_count": 1022
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e1EC4D5sY2gFN9a9YhpR59Ocznf.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 47957,
+            "original_language": "en",
+            "original_title": "Madman",
+            "overview": "Madman Marz, an old folklore legend who murdered his family before escaping into the woods, is inadvertently summoned to a campsite to finish the spree he started decades ago.",
+            "popularity": 13.847,
+            "poster_path": "/2pZxY7b22LicdcvWNMCyX8VseVG.jpg",
+            "release_date": "1981-10-30",
+            "title": "Madman",
+            "video": false,
+            "vote_average": 5.053,
+            "vote_count": 160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vHgIvVAwo9rvmLzcCzecv76iz8L.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10160,
+            "original_language": "en",
+            "original_title": "A Nightmare on Elm Street: The Dream Child",
+            "overview": "Alice finds the deadly dreams of Freddy Krueger starting once again. This time, the taunting murderer is striking through the sleeping mind of her unborn child.",
+            "popularity": 34.834,
+            "poster_path": "/kizvpgXQfrAgN8FhOd87LbKk6kO.jpg",
+            "release_date": "1989-08-11",
+            "title": "A Nightmare on Elm Street: The Dream Child",
+            "video": false,
+            "vote_average": 5.408,
+            "vote_count": 1239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 632727,
+            "original_language": "en",
+            "original_title": "Texas Chainsaw Massacre",
+            "overview": "After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic influencers who accidentally disrupt his carefully shielded world in a remote Texas town.",
+            "popularity": 33.421,
+            "poster_path": "/7sKiGNWFM15WNyY7LYd5vmb3brO.jpg",
+            "release_date": "2022-02-18",
+            "title": "Texas Chainsaw Massacre",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 1412
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mJetKnZ27WdvaRxY1MA8Rcof6X5.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 79319,
+            "original_language": "en",
+            "original_title": "Incubus",
+            "overview": "In the small New England town of Galen, a young teenage boy claims he has dreams of young women being brutally raped and murdered. A doctor and the local sheriff discover that the boy's dreams are real and that a sinister cult might be behind the brutal murders. They must track down the vicious killer, who may be the indestructible incarnation of a demon spawned from hell.",
+            "popularity": 7.171,
+            "poster_path": "/ij2SMX25rcm3hd36pfuoad9gJJz.jpg",
+            "release_date": "1982-02-24",
+            "title": "Incubus",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XEHpnyrzdI3iITPuD9hUrvn5wM.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 37936,
+            "original_language": "en",
+            "original_title": "Happy Birthday to Me",
+            "overview": "Virginia is proud that she belongs to a clique. The best students at a private school. But before her 18th birthday, a gruesome set of murders take place and her friends are the ones who are falling prey. Could it be her? She suffers from blackouts due to a freak accident one year earlier. We soon learn the truth behind her accident and what is going on.",
+            "popularity": 20.257,
+            "poster_path": "/yxGYpW43UzZuy4yvCP6Rzb5wyvS.jpg",
+            "release_date": "1981-05-15",
+            "title": "Happy Birthday to Me",
+            "video": false,
+            "vote_average": 6.048,
+            "vote_count": 196
+        }
+    ]
+}

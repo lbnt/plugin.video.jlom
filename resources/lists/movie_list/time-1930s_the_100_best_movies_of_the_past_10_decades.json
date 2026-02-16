@@ -1,0 +1,206 @@
+{
+    "type": "movie_list",
+    "title": "Time - The 100 best movies of the past 10 decades - 1930s",
+    "source": "https://time.com/collection/100-best-movies/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "04/26/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/nWLMIG4xY4MO2ESGoVfoVemu2a5.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 29740,
+            "original_language": "en",
+            "original_title": "I Am a Fugitive from a Chain Gang",
+            "overview": "A World War I veteran\u2019s dreams of becoming a master architect evaporate in the cold light of economic realities. Things get even worse when he\u2019s falsely convicted of a crime and sent to work on a chain gang.",
+            "popularity": 18.627,
+            "poster_path": "/jer6lim61i8V6a5HOZq2i07UQQf.jpg",
+            "release_date": "1932-11-09",
+            "title": "I Am a Fugitive from a Chain Gang",
+            "video": false,
+            "vote_average": 7.817,
+            "vote_count": 194
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fX1DFPMZYsRG17BmMPJAKUaBZEz.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 877,
+            "original_language": "en",
+            "original_title": "Scarface",
+            "overview": "In 1920s Chicago, Italian immigrant and notorious thug, Antonio \"Tony\" Camonte, shoots his way to the top of the mobs while trying to protect his sister from the criminal life.",
+            "popularity": 92.264,
+            "poster_path": "/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
+            "release_date": "1932-04-09",
+            "title": "Scarface",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 564
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eooCQusEINqdpTMBkECHluyurW9.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "id": 43904,
+            "original_language": "fr",
+            "original_title": "L'Atalante",
+            "overview": "Capricious small-town girl Juliette and barge captain Jean marry after a whirlwind courtship, and she comes to live aboard his boat, L'Atalante. As they make their way down the Seine, Jean grows weary of Juliette's flirtations with his all-male crew, and Juliette longs to escape the monotony of the boat and experience the excitement of a big city. When she steals away to Paris by herself, her husband begins to think their marriage was a mistake.",
+            "popularity": 21.095,
+            "poster_path": "/sDkQyZnFvHdnp5ZP21RG4teLiDy.jpg",
+            "release_date": "1934-04-24",
+            "title": "L'Atalante",
+            "video": false,
+            "vote_average": 7.495,
+            "vote_count": 400
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2SCZfhWvFgjmVrpGWN24UpXZVbf.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 260,
+            "original_language": "en",
+            "original_title": "The 39 Steps",
+            "overview": "Richard Hanney has a rude awakening when a glamorous female spy falls into his bed - with a knife in her back. Having a bit of trouble explaining it all to Scotland Yard, he heads for the hills of Scotland to try to clear his name by locating the spy ring known as The 39 Steps.",
+            "popularity": 27.727,
+            "poster_path": "/paI9Tmqm2cZG6xy4Tnjw3Ydjuw5.jpg",
+            "release_date": "1935-06-06",
+            "title": "The 39 Steps",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 891
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tnPgH5j3rPRajvF1iUqLH9WgWqz.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 3080,
+            "original_language": "en",
+            "original_title": "Top Hat",
+            "overview": "Showman Jerry Travers is working for producer Horace Hardwick in London. Jerry demonstrates his new dance steps late one night in Horace's hotel room, much to the annoyance of sleeping Dale Tremont below. She goes upstairs to complain and the two are immediately attracted to each other. Complications arise when Dale mistakes Jerry for Horace.",
+            "popularity": 84.951,
+            "poster_path": "/qoPBiN6PBs2NsP7BNOJGCnmwruG.jpg",
+            "release_date": "1935-08-29",
+            "title": "Top Hat",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 277
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xCIYcIdsC3vGqLNtR9w97vPxWnT.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 13562,
+            "original_language": "en",
+            "original_title": "My Man Godfrey",
+            "overview": "Fifth Avenue socialite Irene Bullock needs a \"forgotten man\" to win a scavenger hunt, and no one is more forgotten than Godfrey Park, who resides in a dump by the East River. Irene hires Godfrey as a servant for her riotously unhinged family, to the chagrin of her spoiled sister, Cornelia, who tries her best to get Godfrey fired. As Irene falls for her new butler, Godfrey turns the tables and teaches the frivolous Bullocks a lesson or two.",
+            "popularity": 19.323,
+            "poster_path": "/wtfOW7fIxBZWY78rvUoPpWhMSiR.jpg",
+            "release_date": "1936-09-02",
+            "title": "My Man Godfrey",
+            "video": false,
+            "vote_average": 7.569,
+            "vote_count": 327
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sG0TscXVp7817uDwdAnorbml2BA.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "id": 16274,
+            "original_language": "en",
+            "original_title": "Holiday",
+            "overview": "Johnny Case, a freethinking financier, has finally found the girl of his dreams \u2014 Julia Seton, the spoiled daughter of a socially prominent millionaire \u2014 and she's agreed to marry him. But when Johnny plans a holiday for the two to enjoy life while they are still young, his fianc\u00e9e has other plans & that is for Johnny to work in her father's bank!",
+            "popularity": 31.816,
+            "poster_path": "/z1I6e3iI0yttcPs49HsLuSfWd9P.jpg",
+            "release_date": "1938-05-26",
+            "title": "Holiday",
+            "video": false,
+            "vote_average": 7.299,
+            "vote_count": 239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+            "genre_ids": [
+                37,
+                12
+            ],
+            "id": 995,
+            "original_language": "en",
+            "original_title": "Stagecoach",
+            "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+            "popularity": 45.602,
+            "poster_path": "/b4RUzWOalyPbUu66TT147b5iR0M.jpg",
+            "release_date": "1939-03-03",
+            "title": "Stagecoach",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1056
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lxNG1eGsfY8yOeTSk66B5hrv6pZ.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 776,
+            "original_language": "fr",
+            "original_title": "La R\u00e8gle du jeu",
+            "overview": "A weekend at a marquis\u2019 country ch\u00e2teau lays bare some ugly truths about a group of haut bourgeois acquaintances.",
+            "popularity": 25.775,
+            "poster_path": "/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+            "release_date": "1939-07-09",
+            "title": "The Rules of the Game",
+            "video": false,
+            "vote_average": 7.542,
+            "vote_count": 550
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10749
+            ],
+            "id": 770,
+            "original_language": "en",
+            "original_title": "Gone with the Wind",
+            "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+            "popularity": 60.583,
+            "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+            "release_date": "1939-12-15",
+            "title": "Gone with the Wind",
+            "video": false,
+            "vote_average": 7.959,
+            "vote_count": 3864
+        }
+    ]
+}

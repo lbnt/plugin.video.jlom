@@ -1,0 +1,990 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1945",
+    "source": "https://criticstop10.com/best-movies-of-1945/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/a3eYLIK5eYSHAJTtOy9PdciVjxx.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28580,
+            "original_language": "en",
+            "original_title": "The Lost Weekend",
+            "overview": "Don Birnam, a long-time alcoholic, has been sober for ten days and appears to be over the worst... but his craving has just become more insidious. Evading a country weekend planned by his brother and girlfriend, he begins a four-day bender that just might be his last - one way or another.",
+            "popularity": 1.1466,
+            "poster_path": "/8ggIOoCzt8xT2ePl8DdlRtXgcOh.jpg",
+            "release_date": "1945-11-29",
+            "title": "The Lost Weekend",
+            "video": false,
+            "vote_average": 7.632,
+            "vote_count": 625
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dYv4io2HcRMxFGgnErTbvpqSGXe.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                10749
+            ],
+            "id": 4174,
+            "original_language": "en",
+            "original_title": "Spellbound",
+            "overview": "When Dr. Anthony Edwardes arrives at a Vermont mental hospital to replace the outgoing hospital director, Dr. Constance Peterson, a psychoanalyst, discovers Edwardes is actually an impostor. The man confesses that the real Dr. Edwardes is dead and fears he may have killed him, but cannot recall anything. Dr. Peterson, however is convinced his impostor is innocent of the man's murder, and joins him on a quest to unravel his amnesia through psychoanalysis.",
+            "popularity": 1.5087,
+            "poster_path": "/dPAox7jGScLBvxKLeRptJIBF7v.jpg",
+            "release_date": "1945-11-08",
+            "title": "Spellbound",
+            "video": false,
+            "vote_average": 7.412,
+            "vote_count": 918
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v5UW9OP2vjPJAY5UcHUdI3OgPNg.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 32430,
+            "original_language": "en",
+            "original_title": "The Bells of St. Mary's",
+            "overview": "Father O'Malley is sent to St. Mary's, a run-down parochial school on the verge of condemnation. He and Sister Benedict work together in an attempt to save the school, though their differing methods often lead to good-natured disagreements.",
+            "popularity": 0.6336,
+            "poster_path": "/e2REwGOzsD21acHSRcXcXzkQmUi.jpg",
+            "release_date": "1945-12-27",
+            "title": "The Bells of St. Mary's",
+            "video": false,
+            "vote_average": 6.78,
+            "vote_count": 141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2bsB9TcE2g02kMoLltkKxVx1oan.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 42295,
+            "original_language": "en",
+            "original_title": "The House on 92nd Street",
+            "overview": "The US Government tries to track down embedded Nazi agents in the States.",
+            "popularity": 0.5401,
+            "poster_path": "/3jhJqRXQHm4l5LQjbiRTltFZZHq.jpg",
+            "release_date": "1945-09-10",
+            "title": "The House on 92nd Street",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yCDSn2dO0YLK2wk0CWFgfvQo1V2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 30177,
+            "original_language": "en",
+            "original_title": "A Tree Grows in Brooklyn",
+            "overview": "In Brooklyn circa 1900, the Nolans manage to enjoy life on pennies despite great poverty and Papa's alcoholism. We come to know these people well through big and little troubles: Aunt Sissy's scandalous succession of \"husbands\"; the removal of the one tree visible from their tenement; and young Francie's desire to transfer to a better school...if irresponsible Papa can get his act together.",
+            "popularity": 0.67,
+            "poster_path": "/oFmmEyjD3tnA8NbbasfeDFMaAjY.jpg",
+            "release_date": "1945-02-28",
+            "title": "A Tree Grows in Brooklyn",
+            "video": false,
+            "vote_average": 7.556,
+            "vote_count": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kjsFrj41Egk1kf5Z9lPoTS4GGnL.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 27686,
+            "original_language": "en",
+            "original_title": "State Fair",
+            "overview": "During their annual visit to the Iowa State Fair, the Frake family enjoy many adventures. Proud patriarch Abel has high hopes for his champion swine Blueboy; and his wife Melissa enters the mincemeat and pickles contest...with hilarious results.",
+            "popularity": 0.4654,
+            "poster_path": "/cmy55K7Qs1WQeGPksHBphjyjh3b.jpg",
+            "release_date": "1945-08-29",
+            "title": "State Fair",
+            "video": false,
+            "vote_average": 6.586,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sXqeorjUSI1RG5k43fJ9zfp4Dpc.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 18050,
+            "original_language": "en",
+            "original_title": "The Keys of the Kingdom",
+            "overview": "A young priest, Father Chisholm is sent to China to establish a Catholic parish among the non-Christian Chinese. While his boyhood friend, also a priest, flourishes in his calling as a priest in a more Christian area of the world, Father Chisholm struggles. He encounters hostility, isolation, disease, poverty and a variety of set backs which humble him, but make him more determined than ever to succeed.",
+            "popularity": 0.6994,
+            "poster_path": "/b5VPdAR9DmZKS57wYuEH3n6vLCG.jpg",
+            "release_date": "1944-12-15",
+            "title": "The Keys of the Kingdom",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yfd5hQMky9HttGy56BV3ZVKiV3D.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43610,
+            "original_language": "en",
+            "original_title": "The Valley of Decision",
+            "overview": "Mary Rafferty comes from a poor family of steel mill workers in 19th Century Pittsburgh. Her family objects when she goes to work as a maid for the wealthy Scott family which controls the mill. Mary catches the attention of handsome scion Paul Scott, but their romance is complicated by Paul's engagement to someone else and a bitter strike among the mill workers.",
+            "popularity": 0.4335,
+            "poster_path": "/kiHMWi0OWMIovdCnd4AbMEyQh3c.jpg",
+            "release_date": "1945-05-03",
+            "title": "The Valley of Decision",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xGJFqFeiCthuHOwXw50qmSOha2e.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                10402
+            ],
+            "id": 119764,
+            "original_language": "en",
+            "original_title": "A Song to Remember",
+            "overview": "Prof. Joseph Elsner guides his prot\u00e9g\u00e9 Frydryk Chopin through his formative years to early adulthood in Poland. The professor takes him to Paris, where he eventually comes under the wing and influence of novelist George Sand and rises to prominence in the music world, to the exclusion of his old friends and patriotic feelings towards Poland.",
+            "popularity": 0.4672,
+            "poster_path": "/bOQK5cGxPZVEgQFa1D13rYXtCvR.jpg",
+            "release_date": "1945-01-19",
+            "title": "A Song to Remember",
+            "video": false,
+            "vote_average": 6.214,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5gokFMBXAKtShro6RnyJQkRx8oB.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                10749
+            ],
+            "id": 109881,
+            "original_language": "en",
+            "original_title": "Love Letters",
+            "overview": "When a man asks another man more facile with words to do his wooing for him, there are always complications. The man with no talent for writing marries the girl, confesses one night he didn't write the letters and ends up with a knife in his back. The writer of the letters fell in love with the woman he wrote to and wants to become her second husband even if she did murder husband number one. Singleton doesn't remember the murder or anything about the first 22 years of her life as Victoria Remington. Then at her second wedding she wonders why she said \"I take you, Roger,\" instead of \"I take you, Allen.\"",
+            "popularity": 0.1508,
+            "poster_path": "/jr4PYYbjRw16AL6pQEpKoVcTXOv.jpg",
+            "release_date": "1945-10-26",
+            "title": "Love Letters",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oRa4kWyXeJVDbzNSCrrGHLLrFto.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 46614,
+            "original_language": "en",
+            "original_title": "Story of G.I. Joe",
+            "overview": "War correspondent Ernie Pyle joins Company C, 18th Infantry as this American army unit fights its way across North Africa in World War II. He comes to know the soldiers and finds much human interest material for his readers back in the States.  Preserved by the Academy Film Archive in partnership with The Film Foundation in 2000.",
+            "popularity": 3.4686,
+            "poster_path": "/oOlCfMtwobk2bNgqpXaaf17OtBo.jpg",
+            "release_date": "1945-07-13",
+            "title": "Story of G.I. Joe",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4EbZ11wd00NmE3Ou4kJdoORIY9j.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 43492,
+            "original_language": "en",
+            "original_title": "The Corn Is Green",
+            "overview": "When a teacher reads an essay written by Morgan Evans, one of the boys, moved by his rough poetry she decides to hold classes in her house and believes that Morgan is smart enough to attend Oxford.",
+            "popularity": 0.2495,
+            "poster_path": "/OYjEXE6onZT4riWiWHwozMfdeZ.jpg",
+            "release_date": "1945-03-29",
+            "title": "The Corn Is Green",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXJ48xbBA2xT8HxNSEz9SpCkSeV.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 17641,
+            "original_language": "en",
+            "original_title": "National Velvet",
+            "overview": "Mi Taylor is a young wanderer and opportunist who finds himself in the quiet English countryside home of the Brown family. The youngest daughter, Velvet, has a passion for horses and when she wins the spirited steed Pie in a town lottery, Mi is encouraged to train the horse.",
+            "popularity": 0.6406,
+            "poster_path": "/iUQfP3s967V3SIAbyomNT8z8MIf.jpg",
+            "release_date": "1945-01-26",
+            "title": "National Velvet",
+            "video": false,
+            "vote_average": 7.219,
+            "vote_count": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5cokbwzpnlq5Fwo1ypPxAkoFM1o.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10749
+            ],
+            "id": 17645,
+            "original_language": "en",
+            "original_title": "Leave Her to Heaven",
+            "overview": "A socialite marries a prominent novelist, which spurs a violent, obsessive, and dangerous jealousy in her.",
+            "popularity": 1.4256,
+            "poster_path": "/aUzQZt2UlaurZ3wlhzVXQb6PQk8.jpg",
+            "release_date": "1945-12-25",
+            "title": "Leave Her to Heaven",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oRw716yj4jgshktF03s2is7HGun.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 17889,
+            "original_language": "en",
+            "original_title": "Anchors Aweigh",
+            "overview": "Two sailors on shore leave head out for four days of partying \u2013 only to become involved in the affairs of an aspiring singer and her precocious nephew.",
+            "popularity": 0.9586,
+            "poster_path": "/sUWoYst249F6ctTXymuLktWEzmj.jpg",
+            "release_date": "1945-08-13",
+            "title": "Anchors Aweigh",
+            "video": false,
+            "vote_average": 6.798,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o7gA6yhnIebxHnj21BhEARufb74.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 108843,
+            "original_language": "en",
+            "original_title": "Our Vines Have Tender Grapes",
+            "overview": "Welcome to Fuller Junction, Wisconsin, a friendly small town settled by Norwegian farmers.  Here we see the exploits of two young cousins, Selma and Arnold, who learn about their world and experience the ups and downs of life as the season pass.",
+            "popularity": 0.3723,
+            "poster_path": "/pImRa1RwYGtAOk3JxWUG5aOKo08.jpg",
+            "release_date": "1945-09-06",
+            "title": "Our Vines Have Tender Grapes",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lb9iOvtP3YfJDfoarPhwqZOVvnB.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 117959,
+            "original_language": "en",
+            "original_title": "A Bell for Adano",
+            "overview": "Major Joppolo and his men are assigned to restore order to the war-torn Italian town of Adano. He has to manage getting supplies into town without interfering with troop movements, all the while dealing with colorful citizens of the town. One of his quests is to replace the bell which orders the town's life.",
+            "popularity": 0.2316,
+            "poster_path": "/8HZyHowPUBVGSRgSJgZ2JOf2fRn.jpg",
+            "release_date": "1945-06-21",
+            "title": "A Bell for Adano",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lIri93wvchHFq97Y4lf4hpHVHPA.jpg",
+            "genre_ids": [
+                10402,
+                10749,
+                18
+            ],
+            "id": 43491,
+            "original_language": "en",
+            "original_title": "Rhapsody in Blue",
+            "overview": "Fictionalized biography of George Gershwin and his fight to bring serious music to Broadway.",
+            "popularity": 0.1902,
+            "poster_path": "/vmdx4WxMX2Dcs132TRxgp3UaDTf.jpg",
+            "release_date": "1945-06-27",
+            "title": "Rhapsody in Blue",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oqt7YeyBCF1uevRdtKlQCVIY7dE.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 43488,
+            "original_language": "en",
+            "original_title": "A Walk in the Sun",
+            "overview": "In the 1943 invasion of Italy, one American platoon lands, digs in, then makes its way inland to attempt to take a fortified farmhouse, as tension and casualties mount.",
+            "popularity": 1.1441,
+            "poster_path": "/uHZX36Ls2rtfMZqX1mmhmbV92R8.jpg",
+            "release_date": "1945-12-25",
+            "title": "A Walk in the Sun",
+            "video": false,
+            "vote_average": 5.782,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3llmclMuG9ejQg3LJgwMoY1XL4A.jpg",
+            "genre_ids": [
+                18,
+                14,
+                10749
+            ],
+            "id": 43494,
+            "original_language": "en",
+            "original_title": "The Enchanted Cottage",
+            "overview": "A homely maid and a scarred ex-GI meet at the cottage where she works and where he was to spend his honeymoon prior to his accident. The two develop a bond and agree to marry, more out of loneliness than love. The romantic spirit of the cottage, however, overtakes them. They soon begin to look beautiful to each other, but no one else.",
+            "popularity": 0.3392,
+            "poster_path": "/tZUzPXlHyKw5XSFS3d8l314UKTt.jpg",
+            "release_date": "1945-04-28",
+            "title": "The Enchanted Cottage",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iHDx1MZr0BsbT7rigPccuXxNWTX.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 18771,
+            "original_language": "en",
+            "original_title": "They Were Expendable",
+            "overview": "After a demonstration of new PT boats, navy brass are still unconvinced of their viability in combat, leaving Lt. \"Rusty\" Ryan frustrated. After the attack on Pearl Harbor, however, Ryan and his buddy Lt. Brickley are told they can finally take their squadron into battle. The PT boats quickly prove their worth, successfully shooting down Japanese planes, relaying messages between islands, and picking off a multitude of enemy ships.",
+            "popularity": 0.9279,
+            "poster_path": "/ejzJHdvEtUVbiLrDE55DRQskYyf.jpg",
+            "release_date": "1945-12-07",
+            "title": "They Were Expendable",
+            "video": false,
+            "vote_average": 6.56,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 3309,
+            "original_language": "en",
+            "original_title": "Mildred Pierce",
+            "overview": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
+            "popularity": 1.3074,
+            "poster_path": "/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+            "release_date": "1945-10-20",
+            "title": "Mildred Pierce",
+            "video": false,
+            "vote_average": 7.622,
+            "vote_count": 413
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6LF0NpAu1Ea8ZlWTjwm4lWaBsyp.jpg",
+            "genre_ids": [
+                18,
+                27,
+                14
+            ],
+            "id": 16559,
+            "original_language": "en",
+            "original_title": "The Picture of Dorian Gray",
+            "overview": "A corrupt young man somehow keeps his youthful beauty, but a special painting gradually reveals his inner ugliness to all.",
+            "popularity": 1.5301,
+            "poster_path": "/mfvcsmAzdie8YuWI0JpO2u1uzfF.jpg",
+            "release_date": "1945-03-03",
+            "title": "The Picture of Dorian Gray",
+            "video": false,
+            "vote_average": 7.11,
+            "vote_count": 278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zNcamSDSunP4l55pWijIhCodLI6.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 52337,
+            "original_language": "en",
+            "original_title": "Pride of the Marines",
+            "overview": "Marine hero Al Schmid is blinded in battle and returns home to be rehabilitated. He readjusts to his civilian life with the help of his soon to be wife.",
+            "popularity": 0.1228,
+            "poster_path": "/jpDRMCsw1TsLVrrZgkecneIbHeD.jpg",
+            "release_date": "1945-08-24",
+            "title": "Pride of the Marines",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sXtpdPz5yQoO0edgOWASrrJRJCp.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 256300,
+            "original_language": "en",
+            "original_title": "Kiss and Tell",
+            "overview": "Film adaptation of the Broadway hit, about the comic mayhem that erupts in a small town when a 15-year old high-schooler (Shirley Temple) is wrongly suspected of being pregnant.",
+            "popularity": 0.2766,
+            "poster_path": "/xn8CXCNkbmABEJEC9Qi4qfiBgfF.jpg",
+            "release_date": "1945-10-04",
+            "title": "Kiss and Tell",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xFqLWRaYqxNC2KfqvUcj5Ln4gmB.jpg",
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 19072,
+            "original_language": "en",
+            "original_title": "Blithe Spirit",
+            "overview": "An English mystery novelist invites a medium to his home, so she may conduct a s\u00e9ance for a small gathering. The writer hopes to gather enough material for the book he's working on, as well as to expose the medium as a charlatan. However, proceedings take an unexpected turn, resulting in a chain of supernatural events being set into motion that wreak havoc on the man's present marriage.",
+            "popularity": 0.7757,
+            "poster_path": "/mBKB90yS8Gti4QhcYGuUeJmeOoC.jpg",
+            "release_date": "1945-04-05",
+            "title": "Blithe Spirit",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqNDmydoOIhqIi4ubbgcpbkvGIu.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 43496,
+            "original_language": "en",
+            "original_title": "Thrill of a Romance",
+            "overview": "A soldier falls in love with a newly-married woman after her husband abandons her for a business meeting on their honeymoon.",
+            "popularity": 0.3038,
+            "poster_path": "/1pyQ3MYDybTBzT4NZzRPCvPiIyF.jpg",
+            "release_date": "1945-05-23",
+            "title": "Thrill of a Romance",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kySsSz5ZfDXZjzRetK1Kryv5alF.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 54028,
+            "original_language": "en",
+            "original_title": "The Clock",
+            "overview": "A G.I. en route to Europe falls in love during a whirlwind two-day leave in New York City.",
+            "popularity": 0.4862,
+            "poster_path": "/wyfIzEASD2M6ECWIunOVsZHjk0s.jpg",
+            "release_date": "1945-05-25",
+            "title": "The Clock",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8q0LHhG9j3bhbT8kp2bUB4RFQDZ.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10402
+            ],
+            "id": 34127,
+            "original_language": "en",
+            "original_title": "Wonder Man",
+            "overview": "Boisterous nightclub entertainer Buzzy Bellew was the witness to a murder committed by gangster Ten Grand Jackson. One night, two of Jackson's thugs kill Buzzy and dump his body in the lake at Prospect Park in Brooklyn. Buzzy comes back as a ghost and summons his bookworm twin, Edwin Dingle, to Prospect Park so that he can help the police nail Jackson.",
+            "popularity": 0.61,
+            "poster_path": "/A9PXUextPtjQD4Z7WBopKJzFVtS.jpg",
+            "release_date": "1945-06-08",
+            "title": "Wonder Man",
+            "video": false,
+            "vote_average": 6.566,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wzzevnPdgap43iVaFCxGT8bdJ7H.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 264575,
+            "original_language": "en",
+            "original_title": "You Came Along",
+            "overview": "War hero flier Bob Collins goes on a war bond selling tour with two buddies, and substitute \"chaperone\" Ivy Hotchkiss. Bob's a cheerful Lothario with several girls in every town on the tour. After some amusing escapades, Bob and Ivy become romantically involved, agreeing it's \"just fun up in the air.\" Then Ivy finds out the real reason why it shouldn't be anything more.",
+            "popularity": 0.1166,
+            "poster_path": "/ab06oxuxlXC7Un2Ui8gqeyNDWev.jpg",
+            "release_date": "1945-07-04",
+            "title": "You Came Along",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bRLOLTQYiCPoDtRvr27xl0OJKFr.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 94881,
+            "original_language": "en",
+            "original_title": "Week-End at the Waldorf",
+            "overview": "Anything can happen during a weekend at New York's Waldorf-Astoria: a glamorous movie star meets a world-weary war correspondent and mistakes him for a jewel thief; a soldier learns that without an operation he'll die and so looks for one last romance with a beautiful but ambitious stenographer; a cub reporter tries to get the goods on a shady man's dealing with a foreign potentate.",
+            "popularity": 0.1887,
+            "poster_path": "/3W4gxPk730tRJxZG0d4sv2eNhdq.jpg",
+            "release_date": "1945-10-04",
+            "title": "Week-End at the Waldorf",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bRLOLTQYiCPoDtRvr27xl0OJKFr.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 94881,
+            "original_language": "en",
+            "original_title": "Week-End at the Waldorf",
+            "overview": "Anything can happen during a weekend at New York's Waldorf-Astoria: a glamorous movie star meets a world-weary war correspondent and mistakes him for a jewel thief; a soldier learns that without an operation he'll die and so looks for one last romance with a beautiful but ambitious stenographer; a cub reporter tries to get the goods on a shady man's dealing with a foreign potentate.",
+            "popularity": 0.1887,
+            "poster_path": "/3W4gxPk730tRJxZG0d4sv2eNhdq.jpg",
+            "release_date": "1945-10-04",
+            "title": "Week-End at the Waldorf",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pk5VFZpU1rZmrAjWCCnX4kMzl3T.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 31998,
+            "original_language": "en",
+            "original_title": "Without Love",
+            "overview": "In World War II Washington DC, scientist Pat Jamieson's assistant, Jamie Rowan, enters a loveless marriage with him. Struggles bring them closer together.",
+            "popularity": 0.3737,
+            "poster_path": "/54ayABmVMl9YVbURzShhRDLXrNQ.jpg",
+            "release_date": "1945-03-22",
+            "title": "Without Love",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A8WK9ShkaMcehdzbpYHZ7AJ2uGk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 188116,
+            "original_language": "en",
+            "original_title": "Captain Eddie",
+            "overview": "WWI flyer Eddie Rickenbaker remembers his life which brought him from a car salesman, race driver and pilot in WWI, to an important person in the early years of civil airline service, after his plane crashed in the South Pacific in late 1942.",
+            "popularity": 0.1535,
+            "poster_path": "/3FmG1uDh0Qo4OitfABffUpLGq2L.jpg",
+            "release_date": "1945-06-18",
+            "title": "Captain Eddie",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kPVY6paDcRlaZGKLCGoKQqmheTs.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 192938,
+            "original_language": "en",
+            "original_title": "The Affairs of Susan",
+            "overview": "Susan is about to be married, but the wedding may get called off after her fianc\u00e9 summons three former beaus. Each reveals a different portrait of Susan: one describes her as a naive country girl who reluctantly becomes an actress, another paints a picture of a gay party girl and and the third describes a serious intellectual.",
+            "popularity": 0.2224,
+            "poster_path": "/pxwpg9hsMC8vclG622WO0jteDZ3.jpg",
+            "release_date": "1945-07-08",
+            "title": "The Affairs of Susan",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qVgP6MDPscPnt9LGQo0OuJctDcA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 45219,
+            "original_language": "en",
+            "original_title": "The Southerner",
+            "overview": "Sam Tucker, a cotton picker, in search of a better future for his family, decides to grow his own cotton crop. In the first year, the Tuckers battle disease, a flood, and a jealous neighbor. Can they make it as farmers?",
+            "popularity": 2.2633,
+            "poster_path": "/bCX8D1Zpk1SXCCYLIq5p5o1p5ly.jpg",
+            "release_date": "1945-04-30",
+            "title": "The Southerner",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dR7NcWkMF2LkiMCR0oOjvec84SG.jpg",
+            "genre_ids": [
+                9648,
+                18
+            ],
+            "id": 1834,
+            "original_language": "en",
+            "original_title": "Murder, My Sweet",
+            "overview": "After being hired to find an ex-con's former girlfriend, Philip Marlowe is drawn into a deeply complex web of mystery and deceit.",
+            "popularity": 0.5822,
+            "poster_path": "/tbyzfN1AUKTvzh058L9ZcOpS9Vn.jpg",
+            "release_date": "1944-12-14",
+            "title": "Murder, My Sweet",
+            "video": false,
+            "vote_average": 7.227,
+            "vote_count": 238
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i2EP1IRv4LFhcGhamE7LDBUzV6Y.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 114077,
+            "original_language": "en",
+            "original_title": "A Medal for Benny",
+            "overview": "Outcast Benny Martin joined the army to escape public scorn. But when townspeople learn that he is to receive the Congressional Medal of Honor, they pretend that he and his family are cherished, eminent citizens.",
+            "popularity": 0.1038,
+            "poster_path": "/bW35eKeLMguxWlC4HjXSAdOxQKD.jpg",
+            "release_date": "1945-04-16",
+            "title": "A Medal for Benny",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kAe6z9rzBmG9P4NHPcowbDNUXED.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 142629,
+            "original_language": "en",
+            "original_title": "Junior Miss",
+            "overview": "A Manhattan family's Christmas season turns topsy-turvy when 13-year-old Judy Graves mistakenly thinks her newly-arrived visiting uncle has just been released from prison.",
+            "popularity": 0.1499,
+            "poster_path": "/zcIpnjL8xjdFgb9hV22b5Y30piP.jpg",
+            "release_date": "1945-06-16",
+            "title": "Junior Miss",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n0myhaTazXWed1dOe0n2P3ncxlt.jpg",
+            "genre_ids": [
+                10749,
+                10402,
+                18
+            ],
+            "id": 107973,
+            "original_language": "en",
+            "original_title": "The Dolly Sisters",
+            "overview": "Two sisters from Hungary become famous entertainers in the early 1900s. Fictionalized biography with lots of songs.",
+            "popularity": 0.076,
+            "poster_path": "/30pEBwqwQiSHF16voYzU3A0C0tD.jpg",
+            "release_date": "1945-11-14",
+            "title": "The Dolly Sisters",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yHMo1rrakonyjEQzZWEEGrS5sP.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 13669,
+            "original_language": "en",
+            "original_title": "Christmas in Connecticut",
+            "overview": "While recovering in a hospital, war hero Jefferson Jones grows familiar with the \"Diary of a Housewife\" column written by Elizabeth Lane. Jeff's nurse arranges with Elizabeth's publisher, Alexander Yardley, for Jeff to spend the holiday at Elizabeth's bucolic Connecticut farm with her husband and child. But the column is a sham, so Elizabeth and her editor, Dudley Beecham, in fear of losing their jobs, hasten to set up the single, childless and entirely  nondomestic Elizabeth on a country farm.",
+            "popularity": 0.8375,
+            "poster_path": "/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg",
+            "release_date": "1945-07-27",
+            "title": "Christmas in Connecticut",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xh8ux0O751ciw13dmP5HizeoJmd.jpg",
+            "genre_ids": [
+                10752,
+                12,
+                18,
+                28
+            ],
+            "id": 43490,
+            "original_language": "en",
+            "original_title": "Objective, Burma!",
+            "overview": "A group of men parachute into Japanese-occupied Burma with a dangerous and important mission: to locate and blow up a radar station. They accomplish this well enough, but when they try to rendezvous at an old air-strip to be taken back to their base, they find Japanese waiting for them, and they must make a long, difficult walk back through enemy-occupied jungle.",
+            "popularity": 0.6289,
+            "poster_path": "/3hq4VhEMseKMZuNUaSExDyqGhja.jpg",
+            "release_date": "1945-02-17",
+            "title": "Objective, Burma!",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6ihE1K3DJX7xFwR4a5tRxq5JjlY.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10752
+            ],
+            "id": 101598,
+            "original_language": "en",
+            "original_title": "God Is My Co-Pilot",
+            "overview": "Robert L. Scott has dreamed his whole life of being a fighter pilot, but when war comes he finds himself flying transport planes over The Hump into China. In China, he persuades General Chennault to let him fly with the famed Flying Tigers, the heroic band of airmen who'd been fighting the Japanese long before Pearl Harbor. Scott gets his chance to fight, ultimately engaging in combat with the deadly Japanese pilot known as Tokyo Joe.",
+            "popularity": 0.3258,
+            "poster_path": "/yeICx3KlTjB1zrfJoiRvbeGEeoE.jpg",
+            "release_date": "1945-04-07",
+            "title": "God Is My Co-Pilot",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6u6aW8FZammiTfDyHUVuAoLiNbr.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 215299,
+            "original_language": "en",
+            "original_title": "Music for Millions",
+            "overview": "Six-year-old \"Mike\" goes to live with her pregnant older sister, Babs, who plays string bass in Jos\u00e9 Iturbi's orchestra. And the orchestra is rapidly turning completely female, what with the draft. As the orchestra travels around the country, Babs' fellow orchestra members intercept and hide her War Office telegram to protect the baby.",
+            "popularity": 0.1466,
+            "poster_path": "/hJXf675I8oqVFP42XTFqocydiOq.jpg",
+            "release_date": "1944-12-18",
+            "title": "Music for Millions",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1HVWxHBjvJ0LxmEpw7kpKUSyJ8U.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 116500,
+            "original_language": "en",
+            "original_title": "Incendiary Blonde",
+            "overview": "Paramount's highly-fictionalized 1945 musical biography of Texas Guinan, the Roaring '20s New York nightclub owner and celebrity with alleged underworld connections who famously greeted her customers with the phrase, \"Hello, suckers!\"",
+            "popularity": 0.1232,
+            "poster_path": "/k0ursMNMmmT6dK1A1TmnHpicafu.jpg",
+            "release_date": "1945-07-25",
+            "title": "Incendiary Blonde",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9etcAxjytt1dvFvQoA9ot67liHM.jpg",
+            "genre_ids": [
+                10749,
+                12
+            ],
+            "id": 131764,
+            "original_language": "en",
+            "original_title": "Frenchman's Creek",
+            "overview": "An English lady falls in love with a French pirate after he kidnaps her from her ancestral home on the coast of Cornwall and sweeps her off her feet into a world of adventure.",
+            "popularity": 0.158,
+            "poster_path": "/pBAUlDfWGXEvjmPS5t24wbZKOwC.jpg",
+            "release_date": "1944-09-20",
+            "title": "Frenchman's Creek",
+            "video": false,
+            "vote_average": 5.265,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 17058,
+            "original_language": "en",
+            "original_title": "Scarlet Street",
+            "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much.",
+            "popularity": 2.5225,
+            "poster_path": "/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg",
+            "release_date": "1945-12-25",
+            "title": "Scarlet Street",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 400
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4gzizbEeFt4zWtHUMVdIwCgLSkQ.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 147859,
+            "original_language": "en",
+            "original_title": "Roughly Speaking",
+            "overview": "In the 1920s, enterprising Louise Randall is determined to succeed in a man's world. Despite numerous setbacks, she always picks herself back up and moves forward again.",
+            "popularity": 0.1575,
+            "poster_path": "/kFgbfSGeBBFfPGmna18GJ4yR4Wb.jpg",
+            "release_date": "1945-01-31",
+            "title": "Roughly Speaking",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tLUANAgxUMhzlVxOgLKaRK0KCNB.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 26654,
+            "original_language": "en",
+            "original_title": "Conflict",
+            "overview": "Unhappily married Richard Mason concocts a meticulous scheme to kill his shrewish wife so that he'll be free to marry her sister.",
+            "popularity": 0.5388,
+            "poster_path": "/kzVULA1agXKgi5cc2fbyWiDKiuF.jpg",
+            "release_date": "1945-06-15",
+            "title": "Conflict",
+            "video": false,
+            "vote_average": 6.556,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5iyBBuomGdBYVBAxLMw9SslJ0T6.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 101256,
+            "original_language": "en",
+            "original_title": "Over 21",
+            "overview": "A woman screenwriter lives in a shabby bungalow in order to be near her husband, a 39-year-old newspaper editor who has just joined the army.",
+            "popularity": 0.4428,
+            "poster_path": "/1dOhL7GJdonWKxc5Y9EyijHCt4T.jpg",
+            "release_date": "1945-08-08",
+            "title": "Over 21",
+            "video": false,
+            "vote_average": 5.25,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ojYxYkbO939H9OSayf5IKvbFA6i.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                10749,
+                35
+            ],
+            "id": 25037,
+            "original_language": "en",
+            "original_title": "The Life and Death of Colonel Blimp",
+            "overview": "General Candy, who's overseeing an English squad in 1943, is a veteran leader who doesn't have the respect of the men he's training and is considered out-of-touch with what's needed to win the war. But it wasn't always this way. Flashing back to his early career in the Boer War and World War I, we see a dashing young officer whose life has been shaped by three different women, and by a lasting friendship with a German soldier.",
+            "popularity": 0.7444,
+            "poster_path": "/kgyd5uyndsXiLYKlVgH0sm7Jfkv.jpg",
+            "release_date": "1943-07-26",
+            "title": "The Life and Death of Colonel Blimp",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 257
+        }
+    ]
+}

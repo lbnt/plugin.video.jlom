@@ -1,0 +1,199 @@
+{
+    "type": "movie_list",
+    "title": "Time - The 100 best movies of the past 10 decades - 1970s",
+    "source": "https://time.com/collection/100-best-movies/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "04/26/24",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/aycQMGPRA8LrNWPziPfj1quH5Qp.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 29005,
+            "original_language": "en",
+            "original_title": "McCabe & Mrs. Miller",
+            "overview": "A gambler and a prostitute become business partners in a remote Old West mining town, and their enterprise thrives until a large corporation arrives on the scene.",
+            "popularity": 19.354,
+            "poster_path": "/s08TlP0kKcpK50XZhg9oL7aGpbz.jpg",
+            "release_date": "1971-06-24",
+            "title": "McCabe & Mrs. Miller",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1643,
+            "original_language": "it",
+            "original_title": "Ultimo tango a Parigi",
+            "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
+            "popularity": 31.246,
+            "poster_path": "/vDuI72CpwWYIWJzNNA01PA2Utdr.jpg",
+            "release_date": "1972-10-14",
+            "title": "Last Tango in Paris",
+            "video": false,
+            "vote_average": 6.982,
+            "vote_count": 1160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iEwxg0FVToElOEE2hD5do5iBQzg.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "id": 27019,
+            "original_language": "fr",
+            "original_title": "C\u00e9line et Julie vont en bateau",
+            "overview": "A mysteriously linked pair of young women find their daily lives pre-empted by a strange boudoir melodrama that plays itself out in a hallucinatory parallel reality. An undisputed classic of the French New Wave, Jacques Rivette\u2019s Celine and Julie Go Boating is a delightful movie about the spiritual journey of a pair of young women, told with a playful approach to the cinematic form. A masterpiece of cinematic creativity, Rivette, the same mind behind 1969\u2019s L\u2019amour fou, effortlessly draws the viewer into the whimsical world of the titular protagonists.",
+            "popularity": 12.033,
+            "poster_path": "/ijpehUwH4XFNFm8UcYHpRQVRQUF.jpg",
+            "release_date": "1974-09-18",
+            "title": "C\u00e9line and Julie Go Boating",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 3034,
+            "original_language": "en",
+            "original_title": "Young Frankenstein",
+            "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+            "popularity": 49.9,
+            "poster_path": "/tQJAWbIjvvqVKLLbIZHtwGw2HTf.jpg",
+            "release_date": "1974-12-15",
+            "title": "Young Frankenstein",
+            "video": false,
+            "vote_average": 7.883,
+            "vote_count": 3019
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather Part II",
+            "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "popularity": 123.349,
+            "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+            "release_date": "1974-12-20",
+            "title": "The Godfather Part II",
+            "video": false,
+            "vote_average": 8.577,
+            "vote_count": 11928
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ugn7ekAwY8FtaBjRBlbkt0zom2.jpg",
+            "genre_ids": [
+                27,
+                53,
+                12
+            ],
+            "id": 578,
+            "original_language": "en",
+            "original_title": "Jaws",
+            "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+            "popularity": 167.094,
+            "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+            "release_date": "1975-06-20",
+            "title": "Jaws",
+            "video": false,
+            "vote_average": 7.66,
+            "vote_count": 9960
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iIcEswHTHaQOChtSIoylfNGjVz5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 44012,
+            "original_language": "fr",
+            "original_title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+            "overview": "A lonely widowed housewife does her daily chores and takes care of her apartment where she lives with her teenage son, and turns the occasional trick to make ends meet. Slowly, her ritualized daily routines begin to fall apart.",
+            "popularity": 18.51,
+            "poster_path": "/yeL8c24oBUQSdms8f7GmRvx3DIZ.jpg",
+            "release_date": "1976-01-21",
+            "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+            "video": false,
+            "vote_average": 7.342,
+            "vote_count": 266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVspyFNl8uE8jAoY3C973XkjTgB.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 33324,
+            "original_language": "en",
+            "original_title": "Harlan County U.S.A.",
+            "overview": "This film documents the coal miners' strike against the Brookside Mine of the Eastover Mining Company in Harlan County, Kentucky in June, 1973. Eastovers refusal to sign a contract (when the miners joined with the United Mine Workers of America) led to the strike, which lasted more than a year and included violent battles between gun-toting company thugs/scabs and the picketing miners and their supportive women-folk. Director Barbara Kopple puts the strike into perspective by giving us some background on the historical plight of the miners and some history of the UMWA.  Preserved by the Academy Film Archive in partnership with New York Women in Film & Television in 2004.",
+            "popularity": 10.64,
+            "poster_path": "/ellKxaweJC09DShpyvMESZZW9cO.jpg",
+            "release_date": "1977-01-23",
+            "title": "Harlan County U.S.A.",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 103,
+            "original_language": "en",
+            "original_title": "Taxi Driver",
+            "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+            "popularity": 194.326,
+            "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+            "release_date": "1976-02-09",
+            "title": "Taxi Driver",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 11720
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r763vsubExGcDJypctYuLLJmhB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 27432,
+            "original_language": "en",
+            "original_title": "Killer of Sheep",
+            "overview": "An African-American man working at a slaughterhouse in the Watts area of Los Angeles leads a dissatisfied and listless existence.",
+            "popularity": 10.329,
+            "poster_path": "/p5U8FiIoIHmVf1nLr6XDbqbby3w.jpg",
+            "release_date": "1978-11-14",
+            "title": "Killer of Sheep",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 110
+        }
+    ]
+}

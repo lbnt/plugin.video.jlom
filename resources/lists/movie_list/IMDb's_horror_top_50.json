@@ -1,0 +1,998 @@
+{
+    "type": "movie_list",
+    "title": "IMDb's Horror Top 50",
+    "source": "https://wwww.imdb.com",
+    "created_by": "lbnt",
+    "added": "11/21/25",
+    "modified": "11/21/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 274,
+            "original_language": "en",
+            "original_title": "The Silence of the Lambs",
+            "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+            "popularity": 2.7006,
+            "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+            "release_date": "1991-02-14",
+            "title": "The Silence of the Lambs",
+            "video": false,
+            "vote_average": 8.347,
+            "vote_count": 17278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 539,
+            "original_language": "en",
+            "original_title": "Psycho",
+            "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+            "popularity": 7.8506,
+            "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+            "release_date": "1960-06-22",
+            "title": "Psycho",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 10625
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cEobq5QrnOJjO6giDs8q4RxmMKh.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 348,
+            "original_language": "en",
+            "original_title": "Alien",
+            "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+            "popularity": 12.6377,
+            "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "release_date": "1979-05-25",
+            "title": "Alien",
+            "video": false,
+            "vote_average": 8.166,
+            "vote_count": 15746
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 694,
+            "original_language": "en",
+            "original_title": "The Shining",
+            "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+            "popularity": 12.3415,
+            "poster_path": "/sNWdOLae80AdQkD1NpvcDN5f3PB.jpg",
+            "release_date": "1980-05-23",
+            "title": "The Shining",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 18338
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 679,
+            "original_language": "en",
+            "original_title": "Aliens",
+            "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+            "popularity": 8.889,
+            "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+            "release_date": "1986-07-18",
+            "title": "Aliens",
+            "video": false,
+            "vote_average": 7.955,
+            "vote_count": 10429
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                878
+            ],
+            "id": 1091,
+            "original_language": "en",
+            "original_title": "The Thing",
+            "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+            "popularity": 8.147,
+            "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+            "release_date": "1982-06-25",
+            "title": "The Thing",
+            "video": false,
+            "vote_average": 8.07,
+            "vote_count": 7551
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 9552,
+            "original_language": "en",
+            "original_title": "The Exorcist",
+            "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+            "popularity": 7.0799,
+            "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+            "release_date": "1973-12-26",
+            "title": "The Exorcist",
+            "video": false,
+            "vote_average": 7.74,
+            "vote_count": 8356
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kJMLPj5enrZti8udTVeULlM70mz.jpg",
+            "genre_ids": [
+                27,
+                53,
+                12
+            ],
+            "id": 578,
+            "original_language": "en",
+            "original_title": "Jaws",
+            "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+            "popularity": 9.7169,
+            "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+            "release_date": "1975-06-20",
+            "title": "Jaws",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 11133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rcEUuRtr0dFL078bNeXL8pQqrMK.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 827,
+            "original_language": "fr",
+            "original_title": "Les Diaboliques",
+            "overview": "The cruel and abusive headmaster of a boarding school, Michel Delassalle, is murdered by an unlikely duo -- his meek wife and the mistress he brazenly flaunts. The women become increasingly unhinged by a series of odd occurrences after Delassalle's corpse mysteriously disappears.",
+            "popularity": 4.9676,
+            "poster_path": "/jE8ygUYBUGyUcM4sR6iinPqYeDK.jpg",
+            "release_date": "1955-01-29",
+            "title": "Diabolique",
+            "video": false,
+            "vote_average": 7.911,
+            "vote_count": 1045
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vBOKLF3nhdaKRiCvmdoIUTikG2X.jpg",
+            "genre_ids": [
+                14,
+                18,
+                27
+            ],
+            "id": 10728,
+            "original_language": "de",
+            "original_title": "Faust - Eine deutsche Volkssage",
+            "overview": "God and Satan war over earth; to settle things, they wager on the soul of Faust, a learned and prayerful alchemist.",
+            "popularity": 1.2118,
+            "poster_path": "/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg",
+            "release_date": "1926-10-13",
+            "title": "Faust",
+            "video": false,
+            "vote_average": 7.899,
+            "vote_count": 376
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 805,
+            "original_language": "en",
+            "original_title": "Rosemary's Baby",
+            "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+            "popularity": 3.579,
+            "poster_path": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+            "release_date": "1968-06-12",
+            "title": "Rosemary's Baby",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+            "genre_ids": [
+                53,
+                18,
+                27
+            ],
+            "id": 10242,
+            "original_language": "en",
+            "original_title": "What Ever Happened to Baby Jane?",
+            "overview": "A former vaudeville child star viciously torments her paraplegic sister in their decaying Hollywood mansion.",
+            "popularity": 2.0778,
+            "poster_path": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+            "release_date": "1962-10-31",
+            "title": "What Ever Happened to Baby Jane?",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A291ofGZZMc1LdiIeOMDIWrU65g.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53,
+                80
+            ],
+            "id": 234,
+            "original_language": "de",
+            "original_title": "Das Cabinet des Dr. Caligari",
+            "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fianc\u00e9e Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+            "popularity": 2.7541,
+            "poster_path": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+            "release_date": "1920-02-27",
+            "title": "The Cabinet of Dr. Caligari",
+            "video": false,
+            "vote_average": 7.924,
+            "vote_count": 1704
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fMjdPM3pdc7T0NVoVqXtXEuJvG2.jpg",
+            "genre_ids": [
+                35,
+                27,
+                18
+            ],
+            "id": 18352,
+            "original_language": "cs",
+            "original_title": "Spalova\u010d mrtvol",
+            "overview": "In 1930s Prague, a Czech cremator who firmly believes cremation relieves one from earthly suffering is drawn inexorably to Nazism.",
+            "popularity": 9.5257,
+            "poster_path": "/9or2Jzw9HOE4gp9niwXBkZdpTVx.jpg",
+            "release_date": "1969-03-14",
+            "title": "The Cremator",
+            "video": false,
+            "vote_average": 7.779,
+            "vote_count": 252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xgiGMef3A2aFAFktYyFu1juDvcI.jpg",
+            "genre_ids": [
+                18,
+                14,
+                27
+            ],
+            "id": 58129,
+            "original_language": "sv",
+            "original_title": "K\u00f6rkarlen",
+            "overview": "An alcoholic, abusive ne'er-do-well is shown the error of his ways through a legend that dooms the last person to die on New Year's Eve before the clock strikes twelve to take the reins of Death's chariot and work tirelessly collecting fresh souls for the next year.",
+            "popularity": 3.9543,
+            "poster_path": "/vmhMEj2d8JnKS5jzqJf4kYypKWN.jpg",
+            "release_date": "1921-01-01",
+            "title": "The Phantom Carriage",
+            "video": false,
+            "vote_average": 7.802,
+            "vote_count": 343
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
+            "genre_ids": [
+                27,
+                14,
+                18
+            ],
+            "id": 30959,
+            "original_language": "ja",
+            "original_title": "\u602a\u8ac7",
+            "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup.",
+            "popularity": 2.4102,
+            "poster_path": "/vmYhFcA2YC15hoL44hQziba75Ij.jpg",
+            "release_date": "1965-01-06",
+            "title": "Kwaidan",
+            "video": false,
+            "vote_average": 7.72,
+            "vote_count": 428
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lYfHa1AtkUMtplrKx7SRLHpwonW.jpg",
+            "genre_ids": [
+                12,
+                14,
+                27
+            ],
+            "id": 244,
+            "original_language": "en",
+            "original_title": "King Kong",
+            "overview": "Adventurous filmmaker Carl Denham sets out to produce a motion picture unlike anything the world has seen before. Alongside his leading lady Ann Darrow and his first mate Jack Driscoll, they arrive on an island and discover a legendary creature said to be neither beast nor man. Denham captures the monster to be displayed on Broadway as King Kong, the eighth wonder of the world.",
+            "popularity": 2.9637,
+            "poster_path": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+            "release_date": "1933-03-15",
+            "title": "King Kong",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1558
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                27
+            ],
+            "id": 419430,
+            "original_language": "en",
+            "original_title": "Get Out",
+            "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+            "popularity": 8.449,
+            "poster_path": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+            "release_date": "2017-02-24",
+            "title": "Get Out",
+            "video": false,
+            "vote_average": 7.621,
+            "vote_count": 18298
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 747,
+            "original_language": "en",
+            "original_title": "Shaun of the Dead",
+            "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+            "popularity": 7.5137,
+            "poster_path": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+            "release_date": "2004-04-09",
+            "title": "Shaun of the Dead",
+            "video": false,
+            "vote_average": 7.536,
+            "vote_count": 8977
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "id": 106,
+            "original_language": "en",
+            "original_title": "Predator",
+            "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+            "popularity": 44.1366,
+            "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+            "release_date": "1987-06-12",
+            "title": "Predator",
+            "video": false,
+            "vote_average": 7.541,
+            "vote_count": 8647
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 10331,
+            "original_language": "en",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "popularity": 4.4913,
+            "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+            "release_date": "1968-10-04",
+            "title": "Night of the Living Dead",
+            "video": false,
+            "vote_average": 7.611,
+            "vote_count": 2621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zIXJ7MJKdEHYw5epU8pxYiYY698.jpg",
+            "genre_ids": [
+                27,
+                18
+            ],
+            "id": 13310,
+            "original_language": "sv",
+            "original_title": "L\u00e5t den r\u00e4tte komma in",
+            "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+            "popularity": 3.8681,
+            "poster_path": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+            "release_date": "2008-10-24",
+            "title": "Let the Right One In",
+            "video": false,
+            "vote_average": 7.546,
+            "vote_count": 3117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hrED8MSOn4xJP9Cpk7WomUcFKGI.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 229,
+            "original_language": "en",
+            "original_title": "Bride of Frankenstein",
+            "overview": "Dr. Frankenstein and his monster both turn out to be alive after being attacked by an angry mob. The now-chastened scientist attempts to escape his past, but a former mentor forces him to assist with the creation of a new creature.",
+            "popularity": 3.2879,
+            "poster_path": "/oCiHPp7ZiVFjdawRXAmhW1RTetn.jpg",
+            "release_date": "1935-04-20",
+            "title": "Bride of Frankenstein",
+            "video": false,
+            "vote_average": 7.51,
+            "vote_count": 1058
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u06SympEEMb7pLhR9W3tvydHT9L.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 653,
+            "original_language": "de",
+            "original_title": "Nosferatu, eine Symphonie des Grauens",
+            "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal.",
+            "popularity": 4.3826,
+            "poster_path": "/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
+            "release_date": "1922-02-16",
+            "title": "Nosferatu",
+            "video": false,
+            "vote_average": 7.671,
+            "vote_count": 2342
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 923,
+            "original_language": "en",
+            "original_title": "Dawn of the Dead",
+            "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+            "popularity": 6.2188,
+            "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+            "release_date": "1978-09-02",
+            "title": "Dawn of the Dead",
+            "video": false,
+            "vote_average": 7.488,
+            "vote_count": 2217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r18vpGFsNf6n984x4KdJmAAWKkP.jpg",
+            "genre_ids": [
+                18,
+                27
+            ],
+            "id": 136,
+            "original_language": "en",
+            "original_title": "Freaks",
+            "overview": "A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.",
+            "popularity": 4.7624,
+            "poster_path": "/fX2Wxd0W9E7eVClUd8kJTfennoV.jpg",
+            "release_date": "1932-01-01",
+            "title": "Freaks",
+            "video": false,
+            "vote_average": 7.779,
+            "vote_count": 1253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ihiFShj2lEAJvtRqD90ejvPZBK4.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 3763,
+            "original_language": "ja",
+            "original_title": "\u9b3c\u5a46",
+            "overview": "While her son, Kichi, is away at war, a woman and her daughter-in-law survive by killing samurai who stray into their swamp, then selling whatever valuables they find. Both are devastated when they learn that Kichi has died, but his wife soon begins an affair with a neighbor who survived the war, Hachi. The mother disapproves and, when she can't steal Hachi for herself, tries to scare her daughter-in-law with a mysterious mask from a dead samurai.",
+            "popularity": 2.4826,
+            "poster_path": "/xyPLG53OodhJtvfQEfcmC43l16O.jpg",
+            "release_date": "1964-11-21",
+            "title": "Onibaba",
+            "video": false,
+            "vote_average": 7.673,
+            "vote_count": 453
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 948,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+            "popularity": 7.5401,
+            "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+            "release_date": "1978-10-24",
+            "title": "Halloween",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 5981
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg",
+            "genre_ids": [
+                18,
+                27,
+                878
+            ],
+            "id": 3035,
+            "original_language": "en",
+            "original_title": "Frankenstein",
+            "overview": "Henry Frankenstein pieces together body parts in the hope of bringing a human-like creature to life. The mad scientist\u2019s dreams are shattered by his monstrous creation awakening with rage to a world that hates and fears him.",
+            "popularity": 5.6051,
+            "poster_path": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+            "release_date": "1931-11-21",
+            "title": "Frankenstein",
+            "video": false,
+            "vote_average": 7.47,
+            "vote_count": 1713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+            "genre_ids": [
+                27,
+                35,
+                14
+            ],
+            "id": 765,
+            "original_language": "en",
+            "original_title": "Evil Dead II",
+            "overview": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \"The Book of the Dead.\" As they play the recording an evil power is unleashed taking over Linda's body.",
+            "popularity": 7.6454,
+            "poster_path": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+            "release_date": "1987-03-13",
+            "title": "Evil Dead II",
+            "video": false,
+            "vote_average": 7.549,
+            "vote_count": 3341
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1FMnXfgPFJFWhPrCZBgXwHbwmye.jpg",
+            "genre_ids": [
+                878,
+                27,
+                28
+            ],
+            "id": 940721,
+            "original_language": "ja",
+            "original_title": "\u30b4\u30b8\u30e9-1.0",
+            "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+            "popularity": 9.1179,
+            "poster_path": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+            "release_date": "2023-11-03",
+            "title": "Godzilla Minus One",
+            "video": false,
+            "vote_average": 7.594,
+            "vote_count": 2875
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oog0DJtSuPnWoSTYM7cKmAFbeuU.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                18
+            ],
+            "id": 16372,
+            "original_language": "en",
+            "original_title": "The Innocents",
+            "overview": "A young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
+            "popularity": 1.1827,
+            "poster_path": "/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
+            "release_date": "1961-11-24",
+            "title": "The Innocents",
+            "video": false,
+            "vote_average": 7.465,
+            "vote_count": 637
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6sipzSCPO2jgxmvDGsPRuzsFvyE.jpg",
+            "genre_ids": [
+                878,
+                27,
+                53
+            ],
+            "id": 11549,
+            "original_language": "en",
+            "original_title": "Invasion of the Body Snatchers",
+            "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+            "popularity": 2.2628,
+            "poster_path": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+            "release_date": "1956-02-05",
+            "title": "Invasion of the Body Snatchers",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lwkwVTNdNeG0a1FT06wr1Ylm1OV.jpg",
+            "genre_ids": [
+                16,
+                14,
+                27,
+                28,
+                12,
+                878
+            ],
+            "id": 15999,
+            "original_language": "ja",
+            "original_title": "\u5438\u8840\u9b3c\u30cf\u30f3\u30bf\u30fcD \u30d6\u30e9\u30c3\u30c9\u30e9\u30b9\u30c8",
+            "overview": "D, a legendary dhampir competes with a motley family of bounty hunters to track down Charlotte Elbourne, a young woman who has seemingly been abducted by vampire nobleman Meier Link.",
+            "popularity": 4.2404,
+            "poster_path": "/4hJUWgdmoFsNpzyTN6QjoZcaivO.jpg",
+            "release_date": "2001-04-21",
+            "title": "Vampire Hunter D: Bloodlust",
+            "video": false,
+            "vote_average": 7.641,
+            "vote_count": 744
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5T4hHFzhv5BiwyBjuIoWZM6t20A.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                27
+            ],
+            "id": 27503,
+            "original_language": "en",
+            "original_title": "The Unknown",
+            "overview": "On the lam, criminal Alonzo hides in the circus as The Armless Wonder \u2013 a performer who uses his feet to hurl knives. Alonzo keeps the arms he really has concealed to hide his identity. Meanwhile, ringmaster's daughter Nanon has a phobia of being touched by men, but is romantically pursued by not only Alonzo but the strongman Malabar. Alonzo's desperation to remain with Nanon will only end in tragedy.",
+            "popularity": 1.949,
+            "poster_path": "/c9R1wE1vMJWMZNdmqXUV8oTaCPQ.jpg",
+            "release_date": "1927-05-29",
+            "title": "The Unknown",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLui5hnc8HnkVDXruisqu3LZb6H.jpg",
+            "genre_ids": [
+                18,
+                14,
+                27
+            ],
+            "id": 40149,
+            "original_language": "ja",
+            "original_title": "\u85ea\u306e\u4e2d\u306e\u9ed2\u732b",
+            "overview": "In the Sengoku period, a woman and her daughter are raped and murdered by soldiers during a time of civil war. Afterwards, a series of samurai returning from the war through that area are found mysteriously dead with their throats torn out. The governor calls in a wild and fierce young hero to quell what is evidently an Onry\u014d ghost. He encounters the two beautiful women in an eerie, beautiful scene. After spiritual purification, he meets the demon in a thrilling fight.",
+            "popularity": 1.6086,
+            "poster_path": "/43LZYSBRMZoi9QdYntkGXhLSMeI.jpg",
+            "release_date": "1968-02-24",
+            "title": "Kuroneko",
+            "video": false,
+            "vote_average": 7.347,
+            "vote_count": 219
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+            "genre_ids": [
+                27,
+                28,
+                53
+            ],
+            "id": 1233413,
+            "original_language": "en",
+            "original_title": "Sinners",
+            "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+            "popularity": 22.3879,
+            "poster_path": "/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
+            "release_date": "2025-04-16",
+            "title": "Sinners",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2914
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/alWtP7JwoanQyqXzg3PCbEFrfwS.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 1359,
+            "original_language": "en",
+            "original_title": "American Psycho",
+            "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+            "popularity": 6.434,
+            "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+            "release_date": "2000-04-13",
+            "title": "American Psycho",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 11735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y5hbHJbERDFurustaqcVamN84Y0.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 1933,
+            "original_language": "en",
+            "original_title": "The Others",
+            "overview": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+            "popularity": 5.3102,
+            "poster_path": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+            "release_date": "2001-08-02",
+            "title": "The Others",
+            "video": false,
+            "vote_average": 7.614,
+            "vote_count": 6907
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                80
+            ],
+            "id": 176,
+            "original_language": "en",
+            "original_title": "Saw",
+            "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+            "popularity": 6.9049,
+            "poster_path": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+            "release_date": "2004-10-01",
+            "title": "Saw",
+            "video": false,
+            "vote_average": 7.418,
+            "vote_count": 9736
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
+            "genre_ids": [
+                27,
+                53,
+                28,
+                12
+            ],
+            "id": 396535,
+            "original_language": "ko",
+            "original_title": "\ubd80\uc0b0\ud589",
+            "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+            "popularity": 11.7947,
+            "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+            "release_date": "2016-07-20",
+            "title": "Train to Busan",
+            "video": false,
+            "vote_average": 7.749,
+            "vote_count": 8045
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 9426,
+            "original_language": "en",
+            "original_title": "The Fly",
+            "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+            "popularity": 4.5331,
+            "poster_path": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+            "release_date": "1986-08-15",
+            "title": "The Fly",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 4753
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "id": 246741,
+            "original_language": "en",
+            "original_title": "What We Do in the Shadows",
+            "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead.",
+            "popularity": 5.096,
+            "poster_path": "/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+            "release_date": "2014-06-19",
+            "title": "What We Do in the Shadows",
+            "video": false,
+            "vote_average": 7.559,
+            "vote_count": 3764
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/il5zDHC5sGe3ZHLhVi3tNFZ9Tt5.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 571,
+            "original_language": "en",
+            "original_title": "The Birds",
+            "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+            "popularity": 3.7645,
+            "poster_path": "/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
+            "release_date": "1963-03-28",
+            "title": "The Birds",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 4319
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uGXid3UHMzoL2hyNfWSPDWkqbKC.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 10787,
+            "original_language": "en",
+            "original_title": "The Invisible Man",
+            "overview": "After experimenting on himself and becoming invisible, scientist Jack Griffin, now aggressive due to the drug's effects, seeks a way to reverse the experiment at any cost.",
+            "popularity": 2.277,
+            "poster_path": "/ewfUA5pMEJrmQCdI4TsHmLlIUbf.jpg",
+            "release_date": "1933-11-03",
+            "title": "The Invisible Man",
+            "video": false,
+            "vote_average": 7.501,
+            "vote_count": 904
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pZVrDhIPF30JTRSkal2Lfk7NwrI.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 31417,
+            "original_language": "fr",
+            "original_title": "Les Yeux sans visage",
+            "overview": "Dr. G\u00e9nessier is riddled with guilt after an accident that he caused disfigures the face of his daughter, the once beautiful Christiane, who outsiders believe is dead. Dr. G\u00e9nessier, along with accomplice and laboratory assistant Louise, kidnaps young women and brings them to the G\u00e9nessier mansion. After rendering his victims unconscious, Dr. G\u00e9nessier removes their faces and attempts to graft them on to Christiane's.",
+            "popularity": 4.0046,
+            "poster_path": "/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg",
+            "release_date": "1960-01-11",
+            "title": "Eyes Without a Face",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 773
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rLm66DbLwxHeRB34oJ1mhsu0urc.jpg",
+            "genre_ids": [
+                27,
+                53,
+                18
+            ],
+            "id": 11167,
+            "original_language": "en",
+            "original_title": "Peeping Tom",
+            "overview": "Loner Mark Lewis works at a film studio during the day and, at night, takes racy photographs of women. Also he's making a documentary on fear, which involves recording the reactions of victims as he murders them. He befriends Helen, the daughter of the family living in the apartment below his, and he tells her vaguely about the movie he is making.",
+            "popularity": 5.784,
+            "poster_path": "/kM4AfLIlbcuRZ621vYjyeBFkuba.jpg",
+            "release_date": "1960-05-16",
+            "title": "Peeping Tom",
+            "video": false,
+            "vote_average": 7.442,
+            "vote_count": 865
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oslUsPw3PUhDVK7a5soTvCAuaO7.jpg",
+            "genre_ids": [
+                35,
+                27,
+                18
+            ],
+            "id": 513434,
+            "original_language": "ja",
+            "original_title": "\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a\uff01",
+            "overview": "Real zombies arrive and terrorize the crew of a zombie film being shot in an abandoned warehouse, said to be the site of military experiments on humans.",
+            "popularity": 2.8603,
+            "poster_path": "/rws34k2bqYVo2B5MkhKAbV8925j.jpg",
+            "release_date": "2017-11-04",
+            "title": "One Cut of the Dead",
+            "video": false,
+            "vote_average": 7.621,
+            "vote_count": 929
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
+            "genre_ids": [
+                18,
+                53,
+                27
+            ],
+            "id": 11481,
+            "original_language": "en",
+            "original_title": "Repulsion",
+            "overview": "Beautiful young manicurist Carole suffers from androphobia (the pathological fear of interaction with men). When her sister and roommate, Helen, leaves their London flat to go on an Italian holiday with her married boyfriend, Carole withdraws into her apartment. She begins to experience frightful hallucinations, her fear gradually mutating into madness.",
+            "popularity": 6.8537,
+            "poster_path": "/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+            "release_date": "1965-06-01",
+            "title": "Repulsion",
+            "video": false,
+            "vote_average": 7.396,
+            "vote_count": 1060
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
+            "genre_ids": [
+                27,
+                878,
+                18
+            ],
+            "id": 3019,
+            "original_language": "en",
+            "original_title": "Dr. Jekyll and Mr. Hyde",
+            "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men - a good and an evil side. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late.",
+            "popularity": 3.5637,
+            "poster_path": "/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
+            "release_date": "1931-12-24",
+            "title": "Dr. Jekyll and Mr. Hyde",
+            "video": false,
+            "vote_average": 7.215,
+            "vote_count": 317
+        }
+    ]
+}

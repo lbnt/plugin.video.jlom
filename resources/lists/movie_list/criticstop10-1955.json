@@ -1,0 +1,958 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1955",
+    "source": "https://criticstop10.com/best-movies-of-1955/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/tWzWYnlvrUFwcEeRNKbsXPpjiRS.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10752
+            ],
+            "id": 37853,
+            "original_language": "en",
+            "original_title": "Mister Roberts",
+            "overview": "Mr. Roberts is a Navy officer who's yearning for battle but is stuck in the backwaters of World War II on a non-commissioned ship run by the bullying Captain Morton.",
+            "popularity": 1.2553,
+            "poster_path": "/5B8Gc1N2S3CDWHBzm0VxaMPTyzJ.jpg",
+            "release_date": "1955-07-10",
+            "title": "Mister Roberts",
+            "video": false,
+            "vote_average": 7.043,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zhZtaNcjtc6VgV8SC4VlokiaeNt.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 15919,
+            "original_language": "en",
+            "original_title": "Marty",
+            "overview": "Marty, a butcher who lives in the Bronx with his mother is unmarried at 34. Good-natured but socially awkward he faces constant badgering from family and friends to get married but has reluctantly resigned himself to bachelorhood. Marty meets Clara, an unattractive school teacher, realising their emotional connection, he promises to call but family and friends try to convince him not to.",
+            "popularity": 1.6442,
+            "poster_path": "/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg",
+            "release_date": "1955-04-11",
+            "title": "Marty",
+            "video": false,
+            "vote_average": 7.454,
+            "vote_count": 413
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u7i1XtbOubq0xwRy2Zbgmox6g9W.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 220,
+            "original_language": "en",
+            "original_title": "East of Eden",
+            "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+            "popularity": 2.1702,
+            "poster_path": "/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+            "release_date": "1955-04-10",
+            "title": "East of Eden",
+            "video": false,
+            "vote_average": 7.545,
+            "vote_count": 770
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/75QBPYzOgSZWiYXRWoshRuO201z.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 26516,
+            "original_language": "en",
+            "original_title": "Blackboard Jungle",
+            "overview": "Richard Dadier is a teacher at North Manual High School, an inner-city school where many of the pupils frequently engage in anti-social behavior. Dadier makes various attempts to engage the students' interest in education, challenging both the school staff and the pupils. He is subjected to violence as well as duplicitous schemes.",
+            "popularity": 0.8809,
+            "poster_path": "/vPGvWlsMg4niyuGCSzvAiyjYNWC.jpg",
+            "release_date": "1955-03-25",
+            "title": "Blackboard Jungle",
+            "video": false,
+            "vote_average": 6.855,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tQv32m6pufbJT2rKuKDzt0kVynQ.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                37,
+                80,
+                18
+            ],
+            "id": 14554,
+            "original_language": "en",
+            "original_title": "Bad Day at Black Rock",
+            "overview": "One-armed war veteran John J. Macreedy steps off a train at the sleepy little town of Black Rock.  Once there, he begins to unravel a web of lies, secrecy, and murder.",
+            "popularity": 0.997,
+            "poster_path": "/8EnhHjU0DyCckmZRtn46s3WXeEf.jpg",
+            "release_date": "1955-01-13",
+            "title": "Bad Day at Black Rock",
+            "video": false,
+            "vote_average": 7.305,
+            "vote_count": 383
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gdGdezaQHNkk8p10dPkMauIznbJ.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 45136,
+            "original_language": "en",
+            "original_title": "A Man Called Peter",
+            "overview": "Based on the true story of a young Scottish lad, Peter Marshall, who dreams of only going to sea but finds out there is a different future for him when he receives a \"calling\" from God to be a minister. He leaves Scotland and goes to America where after a few small congregations he lands the position of pastor of the Church of the Presidents in Washington, D.C. and eventually he becomes Chaplain of the U.S. Senate.",
+            "popularity": 0.2619,
+            "poster_path": "/xYVloXNC5oSatw7qfrdDy5NgRe.jpg",
+            "release_date": "1955-03-31",
+            "title": "A Man Called Peter",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zIlbxtVlyz223BiOQZ6sWhJTLoU.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 65550,
+            "original_language": "en",
+            "original_title": "The Rose Tattoo",
+            "overview": "A grieving widow embarks on a new romance when she discovers her late husband had been cheating on her.",
+            "popularity": 0.3467,
+            "poster_path": "/3W3dgP2l24JJWq6sVEl6TddLwbe.jpg",
+            "release_date": "1955-12-12",
+            "title": "The Rose Tattoo",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pfQZAKF2g5TncTa56vXbhY1grVj.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 114083,
+            "original_language": "en",
+            "original_title": "Trial",
+            "overview": "A Mexican boy accused of rape and murder becomes a pawn for Communists and red-baiters. A courtroom drama set in 1947 and underlying post-WW2 acute problems facing the USA such as stormy race relations and the growing threat of local communism.",
+            "popularity": 0.2957,
+            "poster_path": "/jJho2pES5IxgYh9PMLLglpql4rb.jpg",
+            "release_date": "1955-10-07",
+            "title": "Trial",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l4hnzWUc7Xmx4H9A4cYrBaoUcN1.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 40633,
+            "original_language": "en",
+            "original_title": "Love Me or Leave Me",
+            "overview": "A fictionalized account of the career of jazz singer Ruth Etting and her tempestuous marriage to gangster Marty Snyder, who helped propel her to stardom.",
+            "popularity": 0.4459,
+            "poster_path": "/rIT21pBwDQxrKyhmUiwoZCs1IFS.jpg",
+            "release_date": "1955-05-26",
+            "title": "Love Me or Leave Me",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/irw2E81Cbv2OFR4LNbmUMdLd3Ko.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 50363,
+            "original_language": "en",
+            "original_title": "Summertime",
+            "overview": "Middle-aged Ohio secretary Jane Hudson has never found love and has nearly resigned herself to spending the rest of her life alone. But before she does, she uses her savings to finance a summer in romantic Venice, where she finally meets the man of her dreams, the elegant Renato Di Rossi.",
+            "popularity": 0.6832,
+            "poster_path": "/3mlLfrbP9oYkSXvUPJhk24VdYM8.jpg",
+            "release_date": "1955-06-21",
+            "title": "Summertime",
+            "video": false,
+            "vote_average": 6.806,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jsoJNVwZ9tXxEdtGoJstzJAJ4xH.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28575,
+            "original_language": "en",
+            "original_title": "I'll Cry Tomorrow",
+            "overview": "Deprived of a normal childhood by her ambitious mother, Lillian Roth becomes a star of Broadway and Hollywood before she is twenty. Shortly before her marriage to her childhood sweetheart, David Tredman, he dies and Lillian takes her first drink of many down the road of becoming an alcoholic.",
+            "popularity": 0.4238,
+            "poster_path": "/8UfnjpxvNa5nbckfE9EWdc38VRg.jpg",
+            "release_date": "1955-12-25",
+            "title": "I'll Cry Tomorrow",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3biBcohe172vLq243lFKreiEOwA.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 541,
+            "original_language": "en",
+            "original_title": "The Man with the Golden Arm",
+            "overview": "When illegal card dealer and recovering heroin addict Frankie Machine gets out of prison, he decides to straighten up. Armed with nothing but an old drum set, Frankie tries to get honest work as a drummer. But when his former employer and his old drug dealer re-enter his life, Frankie finds it hard to stay clean and eventually finds himself succumbing to his old habits.",
+            "popularity": 5.1983,
+            "poster_path": "/3TUOhZhM5GCYIbxwFO3chpZ0DHx.jpg",
+            "release_date": "1955-12-26",
+            "title": "The Man with the Golden Arm",
+            "video": false,
+            "vote_average": 7.169,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nOMWT3wKcaVD6aB6Hxn1RveIVln.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 53879,
+            "original_language": "en",
+            "original_title": "Love Is a Many-Splendored Thing",
+            "overview": "A widowed doctor of both Chinese and European descent falls in love with a married American correspondent in Hong Kong during China's Communist revolution.",
+            "popularity": 0.488,
+            "poster_path": "/a9aqlitzVeo5fq6UX5Ekl5kopco.jpg",
+            "release_date": "1955-08-18",
+            "title": "Love Is a Many-Splendored Thing",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ro4tbCyKJtfyWtz3ocPzbNmJCQU.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                10749
+            ],
+            "id": 35580,
+            "original_language": "en",
+            "original_title": "The Bridges at Toko-Ri",
+            "overview": "A naval aviator is assigned to bomb a group of heavily defended bridges during the Korean War.",
+            "popularity": 0.5206,
+            "poster_path": "/xAXMYP4SNKoV698ccC77vtJ9kLz.jpg",
+            "release_date": "1954-12-01",
+            "title": "The Bridges at Toko-Ri",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q0RgndABwmpooJamrCkbNPb8dG9.jpg",
+            "genre_ids": [
+                9648,
+                10749,
+                53
+            ],
+            "id": 381,
+            "original_language": "en",
+            "original_title": "To Catch a Thief",
+            "overview": "An ex-thief is accused of enacting a new crime spree, so to clear his name he sets off to catch the new thief, who\u2019s imitating his signature style.",
+            "popularity": 2.309,
+            "poster_path": "/9UdAlTenWqxj2l5oFExkjuVHmKO.jpg",
+            "release_date": "1955-08-03",
+            "title": "To Catch a Thief",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1579
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1sgAxMqWE65Wiu9CqmWHVormawT.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 43326,
+            "original_language": "en",
+            "original_title": "The Tender Trap",
+            "overview": "A young actress flirts demurely with a swinging Manhattan bachelor who thinks he has it made.",
+            "popularity": 0.3173,
+            "poster_path": "/2AnfvJA1jhKfy2HBddu0F43z6H7.jpg",
+            "release_date": "1955-11-04",
+            "title": "The Tender Trap",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r0QqmAFLC1uMYQyTv2zTr64LqeU.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                10749
+            ],
+            "id": 51426,
+            "original_language": "en",
+            "original_title": "Battle Cry",
+            "overview": "The dramatic story of US Marines in training, in combat, and in love, during World War II. The story centers on a major who guides the raw recruits from their training to combat.",
+            "popularity": 0.3051,
+            "poster_path": "/ae9Wrw5vQ4WM2NqxNPlYRbfV2n.jpg",
+            "release_date": "1955-02-02",
+            "title": "Battle Cry",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/evcbPrWyOL740rq05vQLvjZUbhR.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 76117,
+            "original_language": "en",
+            "original_title": "Not as a Stranger",
+            "overview": "Lucas Marsh, an intern bent upon becoming a first-class doctor, not merely a successful one. He courts and marries the warm-hearted Kristina, not out of love but because she is highly knowledgeable in the skills of the operating room and because she has frugally put aside her savings through the years. She will be, as he shrewdly knows, a supportive wife in every way. She helps make him the success he wants to be and cheerfully moves with him to the small town in which he starts his practice. But as much as he tries to be a good husband to the undemanding Kristina, Marsh easily falls into the arms of a local siren and the patience of the long-sorrowing Kristina wears thin.",
+            "popularity": 0.4223,
+            "poster_path": "/gN054EboHPbRIjVDXUrbcaQDleU.jpg",
+            "release_date": "1955-07-01",
+            "title": "Not as a Stranger",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oaRdRdqahtSvHK6VkOphVwGtPRN.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 221,
+            "original_language": "en",
+            "original_title": "Rebel Without a Cause",
+            "overview": "After moving to a new town, troublemaking teen Jim Stark is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato, and falls for local girl Judy. However, Judy is the girlfriend of neighborhood tough, Buzz. When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.",
+            "popularity": 2.8898,
+            "poster_path": "/yHStsC8rRRfIjqRN38BQsLh6S7k.jpg",
+            "release_date": "1955-10-27",
+            "title": "Rebel Without a Cause",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1673
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjlg8Gq3TAWlFSUxh7Icey8uM4P.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 10653,
+            "original_language": "en",
+            "original_title": "The Seven Year Itch",
+            "overview": "With his family away for their annual summer holiday, a publishing executive decides to live a bachelor's life. The beautiful but ditzy blonde from the apartment above catches his eye and they soon start spending time together\u2014maybe a little too much time!",
+            "popularity": 1.7816,
+            "poster_path": "/4oLqx0QbjWFzWtkxRmDLGH47CUJ.jpg",
+            "release_date": "1955-06-03",
+            "title": "The Seven Year Itch",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                10749
+            ],
+            "id": 10340,
+            "original_language": "en",
+            "original_title": "Lady and the Tramp",
+            "overview": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.",
+            "popularity": 4.892,
+            "poster_path": "/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+            "release_date": "1955-06-22",
+            "title": "Lady and the Tramp",
+            "video": false,
+            "vote_average": 7.122,
+            "vote_count": 5433
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rrgv4V4UD5vd9C8sxG0cAYjCE4z.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10752
+            ],
+            "id": 61880,
+            "original_language": "en",
+            "original_title": "Strategic Air Command",
+            "overview": "Air Force reservist Lt. Col. Robert \"Dutch\" Holland is recalled into active duty at the peak of his professional baseball career.",
+            "popularity": 0.609,
+            "poster_path": "/ktfJTs7umXxaaLYZPnuzyklSPMQ.jpg",
+            "release_date": "1955-07-12",
+            "title": "Strategic Air Command",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1GxgDAuH4glGNXadxbXrTx9Opwj.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 83119,
+            "original_language": "en",
+            "original_title": "I Am a Camera",
+            "overview": "Just before the Nazis ascend to power in Berlin, Chris, an aspiring novelist from England, meets flamboyant cabaret entertainer Sally Bowles and an unusual friendship is born. As Sally feeds her extravagant tastes, Chris goes along for the ride, until their Jewish pal, Fritz, encounters trouble.",
+            "popularity": 0.1025,
+            "poster_path": "/r0giZnOk75uOC1oyokpkZyJ1W29.jpg",
+            "release_date": "1955-07-21",
+            "title": "I Am a Camera",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4pF0O7M99X5bCdz7CdbsKPd2p9o.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 118910,
+            "original_language": "en",
+            "original_title": "The Court-Martial of Billy Mitchell",
+            "overview": "A dramatization of the American general and his court martial for publically complaining about High Command's dismissal and neglect of the aerial fighting forces.",
+            "popularity": 0.8569,
+            "poster_path": "/i9aQURs2c3xvH7ah1VQF8JoDr5K.jpg",
+            "release_date": "1955-12-31",
+            "title": "The Court-Martial of Billy Mitchell",
+            "video": false,
+            "vote_average": 6.788,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y4gPPvaUGvLigYgFrjpU36OL5Nb.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 61934,
+            "original_language": "en",
+            "original_title": "The Long Gray Line",
+            "overview": "The life story of a salt-of-the-earth Irish immigrant, who becomes an Army Noncommissioned Officer and spends his 50 year career at the United States Military Academy at West Point. This includes his job-related experiences as well as his family life and the relationships he develops with young cadets with whom he befriends. Based on the life of a real person.",
+            "popularity": 0.6213,
+            "poster_path": "/mgkcu0pM9GsH0wdAxil2YV8eYif.jpg",
+            "release_date": "1955-01-04",
+            "title": "The Long Gray Line",
+            "video": false,
+            "vote_average": 6.99,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/39sss3CNb8htiKohAZZ1kNXl3Tp.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                10749
+            ],
+            "id": 110502,
+            "original_language": "en",
+            "original_title": "The Private War of Major Benson",
+            "overview": "A Major noted for advancing with his mouth before thinking is given a choice: to be drummed out of the Army, or take command of and shape up the ROTC program at Sheridan Academy before it fails its next inspection. At Sheridan he encounters three hundred pre-teen cadets who range from rascally to adorable, and a female doctor who has just the right prescription for him.",
+            "popularity": 0.2489,
+            "poster_path": "/q0PYsNW7dLXHq7fYfUHyC3HA8R5.jpg",
+            "release_date": "1955-08-02",
+            "title": "The Private War of Major Benson",
+            "video": false,
+            "vote_average": 6.643,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vJSSWXiKjLMJtYQ8X0vQdDRHZVN.jpg",
+            "genre_ids": [
+                28,
+                10749,
+                18,
+                36,
+                10752
+            ],
+            "id": 16514,
+            "original_language": "en",
+            "original_title": "To Hell and Back",
+            "overview": "The true WWII story of Audie Murphy, the most decorated soldier in U.S. history. Based on the autobiography of Audie Murphy who stars as himself in the film.",
+            "popularity": 0.8363,
+            "poster_path": "/uzeK4UwVVzzg5zUmYlfXdGXDOG5.jpg",
+            "release_date": "1955-09-22",
+            "title": "To Hell and Back",
+            "video": false,
+            "vote_average": 6.602,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pyiBIlX62RQQm2NKXPqZfJMEBIM.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 245301,
+            "original_language": "en",
+            "original_title": "The Shrike",
+            "overview": "Film version of Joseph Kramm's Pulitzer Prize play, about a Broadway playwright driven to a nervous breakdown by his shrewish wife.",
+            "popularity": 0.1396,
+            "poster_path": "/5tp5KD0oiA1CWGqzKAAvN3qHBjb.jpg",
+            "release_date": "1955-06-16",
+            "title": "The Shrike",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLMsq5YwqzIFzAmiJyPdNDRp6WQ.jpg",
+            "genre_ids": [
+                99,
+                10751
+            ],
+            "id": 113735,
+            "original_language": "en",
+            "original_title": "The African Lion",
+            "overview": "Part of Disney's True-Life Adventures series, this film focuses on the lives of lions in Africa.",
+            "popularity": 0.2669,
+            "poster_path": "/5qjEMpNMd3Cgb6Wj4NZdqTHP1kO.jpg",
+            "release_date": "1955-09-14",
+            "title": "The African Lion",
+            "video": false,
+            "vote_average": 6.956,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d2DYeaGvum9WsCN15itf84zndig.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10402
+            ],
+            "id": 43321,
+            "original_language": "en",
+            "original_title": "Pete Kelly's Blues",
+            "overview": "In 1927, a Kansas City, Missouri cornet player and his band perform nightly at a seedy speakeasy until a racketeer tries to extort them in exchange for protection.",
+            "popularity": 0.2741,
+            "poster_path": "/sGlHz9Isou2Y4scIPvt3MWnEzcs.jpg",
+            "release_date": "1955-07-31",
+            "title": "Pete Kelly's Blues",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AgpNe0X1qluiYKC4t6IYlAsAdGZ.jpg",
+            "genre_ids": [
+                80
+            ],
+            "id": 35956,
+            "original_language": "en",
+            "original_title": "The Phenix City Story",
+            "overview": "A crime-busting lawyer and his initially reluctant attorney father take on the forces that run gambling and prostitution in their small Southern town.",
+            "popularity": 0.3473,
+            "poster_path": "/9VB4tGVtym2qXodfxQsCAJBKkSO.jpg",
+            "release_date": "1955-07-19",
+            "title": "The Phenix City Story",
+            "video": false,
+            "vote_average": 6.607,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/As0dCIenteCo7gHoDhBvjCv8WI8.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                18
+            ],
+            "id": 25893,
+            "original_language": "en",
+            "original_title": "The Seven Little Foys",
+            "overview": "Vaudeville entertainer Eddie Foy, who has vowed to forever keep his act a solo, falls in love with and marries Italian ballerina Madeleine. While they continue to tour the circuit, they begin a family and before long have seven little Foys to clutter the wings. After tragedy threatens to stall Eddie's career, he comes to realize that his little terrors are worth their weight in gold. - Chris Stone",
+            "popularity": 0.2511,
+            "poster_path": "/tFsRUT27D1Jxi58QCU8D743R71q.jpg",
+            "release_date": "1955-09-30",
+            "title": "The Seven Little Foys",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qDZrpmU8ow8Q8LEBFYvACxsLYgp.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 48155,
+            "original_language": "en",
+            "original_title": "The Big Knife",
+            "overview": "Movie star Charlie Castle draws the ire of Hollywood producer Stanley Hoff when he refuses to sign a new seven-year contract. Castle is sick of the low quality of the studio's films and wants to start a new life. While his estranged wife supports him in the decision, Castle's talent agent urges him to reconsider. When Castle continues to be uncooperative, Hoff resorts to blackmail in order to get his way.",
+            "popularity": 0.4512,
+            "poster_path": "/1cnE5SXHNSKUwjSBPXR6Uf7pzCV.jpg",
+            "release_date": "1955-10-25",
+            "title": "The Big Knife",
+            "video": false,
+            "vote_average": 5.943,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/591TjhWgnTjR3iXLkT4GPaept2O.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 18612,
+            "original_language": "en",
+            "original_title": "The Desperate Hours",
+            "overview": "Escaped convicts terrorize a suburban family they're holding hostage.",
+            "popularity": 0.7486,
+            "poster_path": "/yW9S2jc4elEeNfzwXhm5sF9GTCV.jpg",
+            "release_date": "1955-10-05",
+            "title": "The Desperate Hours",
+            "video": false,
+            "vote_average": 7.003,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+            "genre_ids": [
+                18,
+                53,
+                12
+            ],
+            "id": 204,
+            "original_language": "fr",
+            "original_title": "Le Salaire de la peur",
+            "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+            "popularity": 1.9231,
+            "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+            "release_date": "1953-04-22",
+            "title": "The Wages of Fear",
+            "video": false,
+            "vote_average": 8.019,
+            "vote_count": 1002
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cOwiPEr9cXPojo1VcwrwXHgPfGd.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 43194,
+            "original_language": "it",
+            "original_title": "Ulisse",
+            "overview": "A movie adaptation of Homer's second epic, that talks about Ulysses' efforts to return to his home after the end of ten years of war.",
+            "popularity": 1.6569,
+            "poster_path": "/1HwrZ6SVRcUiPWSx3ecc7DFqey0.jpg",
+            "release_date": "1954-10-06",
+            "title": "Ulysses",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/szrD3CbWq05OYX3G65uYw5puapA.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 60966,
+            "original_language": "en",
+            "original_title": "My Sister Eileen",
+            "overview": "Ruth and her beautiful sister Eileen come to New York's Greenwich Village looking for \"fame, fortune and a 'For Rent' sign on Barrow Street\". They find an apartment, but fame and fortune are a lot more elusive. Ruth gets the attention of playboy publisher Bob Baker when she submits a story about her gorgeous sister Eileen. She tries to keep his attention by convincing him that she and the gorgeous, man-getting Eileen are one and the same person.",
+            "popularity": 0.6913,
+            "poster_path": "/ihJqUHuY9ypnWjXfzrPEAIYvK0T.jpg",
+            "release_date": "1955-09-22",
+            "title": "My Sister Eileen",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ZHtGaE2zDwikoL3ETSUHvoWT7.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 59141,
+            "original_language": "en",
+            "original_title": "To Paris with Love",
+            "overview": "A father and son go to Paris to help each other find love.",
+            "popularity": 0.105,
+            "poster_path": "/9Kxsi8TqEm2X0N2gMYytiAlX41B.jpg",
+            "release_date": "1955-01-01",
+            "title": "To Paris with Love",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zStDKGE90J06JgMGOF9pvm3qCC.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 66035,
+            "original_language": "en",
+            "original_title": "The Kentuckian",
+            "overview": "A frontiersman and his son fight to build a new home in Texas.",
+            "popularity": 0.7509,
+            "poster_path": "/oTGOSHS02FzrncZYP8NBWbUIKAU.jpg",
+            "release_date": "1955-07-22",
+            "title": "The Kentuckian",
+            "video": false,
+            "vote_average": 5.657,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4IbJ4rXoURhMaSh02z9yfg4hJqD.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 68242,
+            "original_language": "en",
+            "original_title": "Doctor in the House",
+            "overview": "The first of the seven \"Doctor\" films, based on Richard Gordon's novels and released between 1954 and 1970.  Simon Sparrow is a newly arrived medical student at St Swithin's hospital in London. Falling in with three longer-serving hopefuls he is soon immersed in the wooing, imbibing and fast sports-car driving that constitute 1950s medical training. There is, however, always the looming and formidable figure of chief surgeon Sir Lancelot Spratt to remind them of their real purpose.",
+            "popularity": 0.2996,
+            "poster_path": "/iGRDD9B0FgaWLgsjSZIHcA3ZF3N.jpg",
+            "release_date": "1954-03-23",
+            "title": "Doctor in the House",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vN604vmU4V3fps7lRFJe2y94M5g.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 18264,
+            "original_language": "en",
+            "original_title": "The Man from Laramie",
+            "overview": "Will Lockhart arrives in Coronado, an isolated town in New Mexico, in search of someone who sells rifles to the Apache tribe, finding himself unwillingly drawn into the convoluted life of a local ranching family whose members seem to have a lot to hide.",
+            "popularity": 1.0135,
+            "poster_path": "/aKMZoZpN0FobSIDAlj5Ixv0kDeT.jpg",
+            "release_date": "1955-08-19",
+            "title": "The Man from Laramie",
+            "video": false,
+            "vote_average": 7.174,
+            "vote_count": 241
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6IthcSyYf3sLapctcJEeYXCdkA5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 209308,
+            "original_language": "en",
+            "original_title": "The Divided Heart",
+            "overview": "During World War II, a German woman, Inga, goes missing and is presumed dead. Her infant son is placed in an orphanage where, years later, he's adopted by a childless couple. The adoptive parents' happiness is shattered when Inga reappears and insists on custody of her son.",
+            "popularity": 0.1453,
+            "poster_path": "/lZUbHxF8vDqXuswWNkxaP2qsdwQ.jpg",
+            "release_date": "1954-11-09",
+            "title": "The Divided Heart",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wWZl9rotBo16O69S8VLMov7m3VO.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 107837,
+            "original_language": "fr",
+            "original_title": "Le Bl\u00e9 en herbe",
+            "overview": "Friends since infancy, two youngsters struggle as their platonic bond blossoms into romantic love with adolescence.",
+            "popularity": 0.1668,
+            "poster_path": "/quafZN9fRSKu0vTUBEH3nvBjgp3.jpg",
+            "release_date": "1954-01-20",
+            "title": "The Game of Love",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iB1tCWl4MKl6OO1kMBD5LxM5BmJ.jpg",
+            "genre_ids": [
+                14,
+                18,
+                9648
+            ],
+            "id": 14696,
+            "original_language": "ja",
+            "original_title": "\u96e8\u6708\u7269\u8a9e",
+            "overview": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama.",
+            "popularity": 2.3897,
+            "poster_path": "/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
+            "release_date": "1953-03-26",
+            "title": "Ugetsu",
+            "video": false,
+            "vote_average": 7.995,
+            "vote_count": 601
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fsAdd5jZ9anIY1WKboJimvXsLmN.jpg",
+            "genre_ids": [
+                37,
+                12,
+                10749
+            ],
+            "id": 37317,
+            "original_language": "en",
+            "original_title": "The Tall Men",
+            "overview": "Two brothers discharged from the Confederate Army join a businessman for a cattle drive from Texas to Montana where they run into raiding Jayhawkers, angry Sioux, rough terrain and bad weather.",
+            "popularity": 1.198,
+            "poster_path": "/tvMX9de89OXkbn0aLOd1DjIU5fA.jpg",
+            "release_date": "1955-09-22",
+            "title": "The Tall Men",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wKCVht8Vivzub6i6blSK8SIuBvL.jpg",
+            "genre_ids": [
+                35,
+                80,
+                10749
+            ],
+            "id": 4825,
+            "original_language": "en",
+            "original_title": "Guys and Dolls",
+            "overview": "Gambler Nathan Detroit has few options for the location of his big craps game. Needing $1,000 to pay a garage owner to host the game, Nathan bets Sky Masterson that Sky cannot get virtuous Sarah Brown out on a date. Despite some resistance, Sky negotiates a date with her in exchange for bringing people into her mission. Meanwhile, Nathan's longtime fianc\u00e9e, Adelaide, wants him to go legit and marry her.",
+            "popularity": 2.584,
+            "poster_path": "/mrSM6laJJLBVdMdWfeNRa1innnk.jpg",
+            "release_date": "1955-12-23",
+            "title": "Guys and Dolls",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bM1LjObzhzqSnt1BR3ev7WO7kpz.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 33218,
+            "original_language": "en",
+            "original_title": "Daddy Long Legs",
+            "overview": "Wealthy American, Jervis Pendleton has a chance encounter at a French orphanage with a cheerful 18-year-old resident, and anonymously pays for her education at a New England college. She writes letters to her mysterious benefactor regularly, but he never writes back. Several years later, he visits her at school, while still concealing his identity, and\u2014despite their large age difference\u2014they soon fall in love.",
+            "popularity": 1.131,
+            "poster_path": "/2Tt12RPDJP4KnepYsJ4hrEQS7El.jpg",
+            "release_date": "1955-05-05",
+            "title": "Daddy Long Legs",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wdAL52wzQ23as1G1Nxgqmwqbx66.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                12
+            ],
+            "id": 206171,
+            "original_language": "en",
+            "original_title": "The Littlest Outlaw",
+            "overview": "Little Pablito is the ten year old son of a cruel horse trainer. The trainer is responsible for training a Mexican General's horse to jump for the grand race. The trainer's methods cause the horse to become afraid of jumping and the general orders the animal's death. Pablito runs away with the horse, becoming a fugitive. He travels throughout Mexico encountering several fugitives and a priest who tries to help.",
+            "popularity": 0.1531,
+            "poster_path": "/zL64NjedV7cVxCyWyCQikv1Mm4x.jpg",
+            "release_date": "1955-12-22",
+            "title": "The Littlest Outlaw",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iQQ4jjYV8fgdEHDgkgSrc4mWgUx.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43316,
+            "original_language": "en",
+            "original_title": "All That Heaven Allows",
+            "overview": "Two different social classes collide when Cary Scott, a wealthy upper-class widow, falls in love with her much younger and down-to-earth gardener, prompting disapproval and criticism from her children and country club friends.",
+            "popularity": 0.7672,
+            "poster_path": "/wlSmIk6iQ8yQhBG795UOOBUs4gF.jpg",
+            "release_date": "1955-12-25",
+            "title": "All That Heaven Allows",
+            "video": false,
+            "vote_average": 7.315,
+            "vote_count": 316
+        }
+    ]
+}

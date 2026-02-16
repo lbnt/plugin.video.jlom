@@ -1,0 +1,996 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1939",
+    "source": "https://criticstop10.com/best-movies-of-1939/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/d9ThwpGXncwXLGk3jNOK1Xyrv5M.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 42852,
+            "original_language": "en",
+            "original_title": "Goodbye, Mr. Chips",
+            "overview": "A shy British teacher looks back nostalgically at his long career, taking note of the people who touched his life.",
+            "popularity": 0.7883,
+            "poster_path": "/1M8yXsSglaW3CdUSX7uAxurwLtp.jpg",
+            "release_date": "1939-07-28",
+            "title": "Goodbye, Mr. Chips",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AfK1tyoO0i47mzKhA9BJVNGq1vg.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                10749
+            ],
+            "id": 770,
+            "original_language": "en",
+            "original_title": "Gone with the Wind",
+            "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+            "popularity": 6.4829,
+            "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+            "release_date": "1939-12-15",
+            "title": "Gone with the Wind",
+            "video": false,
+            "vote_average": 7.925,
+            "vote_count": 4171
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 3083,
+            "original_language": "en",
+            "original_title": "Mr. Smith Goes to Washington",
+            "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+            "popularity": 1.877,
+            "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+            "release_date": "1939-10-19",
+            "title": "Mr. Smith Goes to Washington",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qWSWJnq38eVYrMzs6YkxRT8yMYK.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 3084,
+            "original_language": "en",
+            "original_title": "Wuthering Heights",
+            "overview": "The Earnshaws are Yorkshire farmers during the early 19th Century. One day, Mr. Earnshaw returns from a trip to the city, bringing with him a ragged little boy called Heathcliff. Earnshaw's son, Hindley, resents the child, but Heathcliff becomes companion and soulmate to Hindley's sister, Catherine. After her parents die, Cathy and Heathcliff grow up wild and free on the moors and despite the continued enmity between Hindley and Heathcliff they're happy -- until Cathy meets Edgar Linton, the son of a wealthy neighbor.",
+            "popularity": 1.4931,
+            "poster_path": "/pwHdSzXwlUFAcYGcFutKcPcX2OW.jpg",
+            "release_date": "1939-04-07",
+            "title": "Wuthering Heights",
+            "video": false,
+            "vote_average": 7.165,
+            "vote_count": 285
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jsIYE5ntyzkJlGKiJcKFGYqH9yN.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 27972,
+            "original_language": "en",
+            "original_title": "Dark Victory",
+            "overview": "Socialite Judith Traherne lives a lavish but emotionally empty life. Riding horses is one of her few joys, and her stable master is secretly in love with her. Told she has a brain tumor by her doctor, Frederick Steele, Judith becomes distraught. After she decides to have surgery to remove the tumor, Judith realizes she is in love with Dr. Steele, but more troubling medical news may sabotage her new relationship, and her second chance at life.",
+            "popularity": 1.1665,
+            "poster_path": "/fbbzkhKJAxaA6lpHbcJqQIBaI1d.jpg",
+            "release_date": "1939-04-20",
+            "title": "Dark Victory",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AjYX2r2dn1s31A8fDaPPiYRrZ6L.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 1859,
+            "original_language": "en",
+            "original_title": "Ninotchka",
+            "overview": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+            "popularity": 0.9393,
+            "poster_path": "/v4MkgNqZyodYwBDNbZ64MF9tVEL.jpg",
+            "release_date": "1939-11-23",
+            "title": "Ninotchka",
+            "video": false,
+            "vote_average": 7.501,
+            "vote_count": 399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v7d5LDcIhNn9j3wWeSWp1mesgBe.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 22490,
+            "original_language": "en",
+            "original_title": "The Women",
+            "overview": "A happily married woman lets her catty friends talk her into divorce when her husband strays.",
+            "popularity": 2.4487,
+            "poster_path": "/wMTbDI60uvt7ecLZ301XEE8mAOo.jpg",
+            "release_date": "1939-09-01",
+            "title": "The Women",
+            "video": false,
+            "vote_average": 7.152,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qAvou7F5P4VcIR72JzzrnKEQSN3.jpg",
+            "genre_ids": [
+                12,
+                14,
+                10751
+            ],
+            "id": 630,
+            "original_language": "en",
+            "original_title": "The Wizard of Oz",
+            "overview": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
+            "popularity": 8.1461,
+            "poster_path": "/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg",
+            "release_date": "1939-08-15",
+            "title": "The Wizard of Oz",
+            "video": false,
+            "vote_average": 7.591,
+            "vote_count": 5791
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wIkio1H3an8DidlNmosy1DZaXvN.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 78318,
+            "original_language": "en",
+            "original_title": "Juarez",
+            "overview": "The newly-named emperor Maximilian and his wife Carlota arrive in Mexico to face popular sentiment favoring Benito Ju\u00e1rez and democracy.",
+            "popularity": 0.4689,
+            "poster_path": "/khymYF2OFEkSukQouLdrjchugph.jpg",
+            "release_date": "1939-06-10",
+            "title": "Juarez",
+            "video": false,
+            "vote_average": 6.478,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8LerY6up6Q6WDbDvDInxBxr5IWr.jpg",
+            "genre_ids": [
+                12,
+                36
+            ],
+            "id": 89086,
+            "original_language": "en",
+            "original_title": "Stanley and Livingstone",
+            "overview": "When American newspaperman and adventurer Henry M. Stanley comes back from the western Indian wars, his editor James Gordon Bennett sends him to Africa to find Dr. David Livingstone, the missing Scottish missionary. Stanley finds Livingstone (\"Dr. Livingstone, I presume.\") blissfully doling out medicine and religion to the happy natives. His story is at first disbelieved.",
+            "popularity": 0.1487,
+            "poster_path": "/qzllhCKNOsrFWhULvMpSaE2OaFx.jpg",
+            "release_date": "1939-08-18",
+            "title": "Stanley and Livingstone",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rHnYpnvR2pFMk2wTVKs3sWU5hLF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 44919,
+            "original_language": "en",
+            "original_title": "The Old Maid",
+            "overview": "The lives of two cousins are complicated by the return of an ex-boyfriend and an illegitimate child.",
+            "popularity": 0.4291,
+            "poster_path": "/xBhLMf4KMayJAQqLmWBaZEF7th9.jpg",
+            "release_date": "1939-08-16",
+            "title": "The Old Maid",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oM2pdFnPzNIyvbM4I1MtF3YNmcS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 51802,
+            "original_language": "en",
+            "original_title": "Of Mice and Men",
+            "overview": "An intellectually disabled giant and his level headed guardian find work at a sadistic cowboy's ranch in depression era America.",
+            "popularity": 1.2396,
+            "poster_path": "/ihgGS9K8pCYdgb9SpanxoKcJ0Al.jpg",
+            "release_date": "1939-12-24",
+            "title": "Of Mice and Men",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2lfDV3DCNumvNyEhgsIGsrB19fs.jpg",
+            "genre_ids": [
+                37,
+                12
+            ],
+            "id": 995,
+            "original_language": "en",
+            "original_title": "Stagecoach",
+            "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+            "popularity": 4.441,
+            "poster_path": "/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
+            "release_date": "1939-03-02",
+            "title": "Stagecoach",
+            "video": false,
+            "vote_average": 7.626,
+            "vote_count": 1161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/buGNPL2zNGjPirZTMT3DwwkVdw1.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 43838,
+            "original_language": "en",
+            "original_title": "Young Mr. Lincoln",
+            "overview": "In this dramatized account of his early law career in Illinois, Abraham Lincoln is born into a modest log cabin, where he is encouraged by his first love, Ann Rutledge, to pursue law. Following her tragic death, Lincoln establishes a law practice in Springfield, where he meets a young Mary Todd. Lincoln's law skills are put to the test when he takes on the difficult task of defending two brothers who have been accused of murder.",
+            "popularity": 0.5611,
+            "poster_path": "/gVHbi2AZfWsZB10FJcwaFV59kIo.jpg",
+            "release_date": "1939-06-09",
+            "title": "Young Mr. Lincoln",
+            "video": false,
+            "vote_average": 7.193,
+            "vote_count": 179
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aBid3Ug0ZHiFwqtVXNKETxviVkd.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 32610,
+            "original_language": "en",
+            "original_title": "Babes in Arms",
+            "overview": "Mickey Moran, son of two vaudeville veterans, decides to put up his own vaudeville show with his girlfriend Patsy Barton. But child actress Rosalie wants to make a comeback and replace Patsy both professionally and as Mickey's girl.",
+            "popularity": 0.2831,
+            "poster_path": "/hCE0OHNjMI2LNpoqJxDX4Otb06X.jpg",
+            "release_date": "1939-10-10",
+            "title": "Babes in Arms",
+            "video": false,
+            "vote_average": 6.429,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sS1W3HmhIfXbMNp6OECMHyNej6K.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43739,
+            "original_language": "en",
+            "original_title": "Love Affair",
+            "overview": "A French playboy and an American former nightclub singer fall in love aboard a ship. They arrange to reunite six months later, if neither has changed their mind.",
+            "popularity": 0.9123,
+            "poster_path": "/2bKxlYgwKRQidS8S9DSPjpITPlv.jpg",
+            "release_date": "1939-04-07",
+            "title": "Love Affair",
+            "video": false,
+            "vote_average": 6.969,
+            "vote_count": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2irUfjyGZibkM2sR2AsBHTtgeuo.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 43837,
+            "original_language": "en",
+            "original_title": "Union Pacific",
+            "overview": "One of the last bills signed by President Lincoln authorizes pushing the Union Pacific Railroad across the wilderness to California. But financial opportunist Asa Barrows hopes to profit from obstructing it. Chief troubleshooter Jeff Butler has his hands full fighting Barrows' agent, gambler Sid Campeau; Campeau's partner Dick Allen is Jeff's war buddy and rival suitor for engineer's daughter Molly Monahan. Who will survive the effort to push the railroad through at any cost?",
+            "popularity": 1.0229,
+            "poster_path": "/lSk1CWl7EaHKBNMPaDWGnhRO598.jpg",
+            "release_date": "1939-05-05",
+            "title": "Union Pacific",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lvjg6qlEOtYUZzoweYkXuZuSJOA.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "id": 40730,
+            "original_language": "en",
+            "original_title": "On Borrowed Time",
+            "overview": "Young Pud is orphaned and left in the care of his aged grandparents. The boy and his grandfather are inseparable. Gramps is concerned for Pud's future and wary of a scheming relative who seeks custody of the child. One day Mr. Brink, an agent of Death, arrives to take Gramps \"to the land where the woodbine twineth.\" Through a bit of trickery, Gramps confines Mr. Brink, and thus Death, to the branches of a large apple tree, giving Gramps extra time to resolve issues about Pud's future.",
+            "popularity": 0.515,
+            "poster_path": "/oXMezIc8wpnaT8KdPpcx4cv4yfd.jpg",
+            "release_date": "1939-07-07",
+            "title": "On Borrowed Time",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2QL4R2BF7POan6b73Il8O1X2Yi0.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 36488,
+            "original_language": "en",
+            "original_title": "Bachelor Mother",
+            "overview": "Polly Parrish, a clerk at Merlin's Department Store, is mistakenly presumed to be the mother of a foundling. Outraged at Polly's unmotherly conduct, David Merlin becomes determined to keep the single woman and \"her\" baby together.",
+            "popularity": 0.6396,
+            "poster_path": "/asVj2RpNpr9CSDYdYYu5Osg33A.jpg",
+            "release_date": "1939-06-30",
+            "title": "Bachelor Mother",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6FqJf99xrNYvdputt2ssezNNOOr.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 218326,
+            "original_language": "en",
+            "original_title": "Nurse Edith Cavell",
+            "overview": "British nurse Edith Cavell is stationed at a hospital in Brussels during World War I. When the son of a former patient escapes from a German prisoner-of-war camp, she helps him flee to Holland. Outraged at the number of soldiers detained in the camps, Edith, along with a group of sympathizers, devises a plan to help the prisoners escape. As the group works to free the soldiers, Edith must keep her activities secret from the Germans",
+            "popularity": 0.2152,
+            "poster_path": "/ydEquMTPU1tdsNyzpbt9tBBoAqU.jpg",
+            "release_date": "1939-08-31",
+            "title": "Nurse Edith Cavell",
+            "video": false,
+            "vote_average": 6.364,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e2bbVKWvsci9ZvIA773EozFkEHd.jpg",
+            "genre_ids": [
+                12,
+                10752,
+                28,
+                35
+            ],
+            "id": 24965,
+            "original_language": "en",
+            "original_title": "Gunga Din",
+            "overview": "British army sergeants Ballantine, Cutter and MacChesney serve in India during the 1880s, along with their native water-bearer, Gunga Din. While completing a dangerous telegraph-repair mission, they unearth evidence of the suppressed Thuggee cult. When Gunga Din tells the sergeants about a secret temple made of gold, the fortune-hunting Cutter is captured by the Thuggees, and it's up to his friends to rescue him.",
+            "popularity": 0.6892,
+            "poster_path": "/n0tcuzMzQJGpTRkGzbg8c4fJ6Ga.jpg",
+            "release_date": "1939-01-26",
+            "title": "Gunga Din",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9RnsbF7POa9Fm5Eb8LPAdnGJQDN.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                12
+            ],
+            "id": 115109,
+            "original_language": "en",
+            "original_title": "The Rains Came",
+            "overview": "Indian aristocrat Rama Safti returns from medical training in the U.S. to give his life to the poor folk of Ranchipur. Lady Edwina and her drunken artist ex-lover Tom Ransome get in the way, but everyone shapes up when faced by earthquake, flooding, and plague.",
+            "popularity": 0.5583,
+            "poster_path": "/aQQcSrcnucDGDIXF0NmYd92tsdC.jpg",
+            "release_date": "1939-09-15",
+            "title": "The Rains Came",
+            "video": false,
+            "vote_average": 5.881,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wvM3T2lzv1QdByTMrizjyECuEBy.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 43829,
+            "original_language": "en",
+            "original_title": "Jesse James",
+            "overview": "After railroad agents forcibly evict the James family from their family farm, Jesse and Frank turn to banditry for revenge.",
+            "popularity": 0.712,
+            "poster_path": "/s85NggId22ntp4pbYwTbtHdalnY.jpg",
+            "release_date": "1939-01-14",
+            "title": "Jesse James",
+            "video": false,
+            "vote_average": 6.407,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jzXgFdjr1hsqd0i0rO8xW6iQcCX.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 18651,
+            "original_language": "en",
+            "original_title": "The Story of Vernon and Irene Castle",
+            "overview": "In 1911, minor stage comic, Vernon Castle meets the stage-struck Irene Foote. A few misadventures later, they marry and then abandon comedy to attempt a dancing career together. While they're performing in Paris, an agent sees them rehearse and starts them on their brilliant career as the world's foremost ballroom dancers. However, at the height of their fame, World War I begins.",
+            "popularity": 0.3651,
+            "poster_path": "/nIGYzyl31VD3doz9CYeh2yKHi0E.jpg",
+            "release_date": "1939-03-29",
+            "title": "The Story of Vernon and Irene Castle",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Gy9bSYod5QolabzAm4Ol1P6wHZ.jpg",
+            "genre_ids": [
+                37,
+                35
+            ],
+            "id": 43828,
+            "original_language": "en",
+            "original_title": "Destry Rides Again",
+            "overview": "Tom Destry, son of a legendary frontier peacekeeper, doesn\u2019t believe in gunplay. Thus he becomes the object of widespread ridicule when he rides into the wide-open town of Bottleneck, the personal fiefdom of the crooked Kent.",
+            "popularity": 0.4834,
+            "poster_path": "/zEycmpHvzi60EJpbZCKbTc32AT7.jpg",
+            "release_date": "1939-11-30",
+            "title": "Destry Rides Again",
+            "video": false,
+            "vote_average": 7.172,
+            "vote_count": 174
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1iTqhoqdzvyhTx0ldMTBkg7Ovbk.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 188768,
+            "original_language": "en",
+            "original_title": "We Are Not Alone",
+            "overview": "A British doctor and his son's Austrian governess have an affair and are accused of killing his wife.",
+            "popularity": 0.818,
+            "poster_path": "/8nPzdAUUw3hY3PjX24TpCKUQIDZ.jpg",
+            "release_date": "1939-11-25",
+            "title": "We Are Not Alone",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mt1RJGw7LvAoIGflIqYG87u84Xq.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                27
+            ],
+            "id": 31685,
+            "original_language": "en",
+            "original_title": "The Hunchback of Notre Dame",
+            "overview": "Paris, France, 1482. Frollo, Chief Justice of benevolent King Louis XI, gets infatuated by the beauty of Esmeralda, a young Romani girl. The hunchback Quasimodo, Frollo's protege and bell-ringer of Notre Dame, lives in peace among the bells in the heights of the immense cathedral until he is involved by the twisted magistrate in his malicious plans to free himself from Esmeralda's alleged spell, which he believes to be the devil's work.",
+            "popularity": 2.3351,
+            "poster_path": "/m6fsyHeqSQs4tktk9q3awgo7IzF.jpg",
+            "release_date": "1939-12-29",
+            "title": "The Hunchback of Notre Dame",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5agQvhI7FuAZj3xjYzKGuFP9MRr.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 61523,
+            "original_language": "en",
+            "original_title": "Idiot's Delight",
+            "overview": "A group of disparate travelers are thrown together in a posh Alpine hotel when the borders are closed at the start of WWII.",
+            "popularity": 0.4875,
+            "poster_path": "/fRM3nh7m941IfQXcb2RKc6EyM93.jpg",
+            "release_date": "1939-01-27",
+            "title": "Idiot's Delight",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oGrBAl69RJ03KKz5brTkUBVG0CL.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 67375,
+            "original_language": "en",
+            "original_title": "The Story of Alexander Graham Bell",
+            "overview": "Alexander Graham Bell falls in love with deaf girl Mabel Hubbard while teaching the deaf and trying to invent means for telegraphing the human voice. She urges him to put off thoughts of marriage until his experiments are complete. He invents the telephone, marries and becomes rich and famous, though his happiness is threatened when a rival company sets out to ruin him.",
+            "popularity": 0.2344,
+            "poster_path": "/mi1IX2qBgtwiMihaNTGiPC8nG72.jpg",
+            "release_date": "1939-04-04",
+            "title": "The Story of Alexander Graham Bell",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wj3W7G2sERcD80wOQRnHkdHqVPG.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10752,
+                36
+            ],
+            "id": 10568,
+            "original_language": "en",
+            "original_title": "The Four Feathers",
+            "overview": "A disgraced officer risks his life to help his childhood friends in battle.",
+            "popularity": 0.6881,
+            "poster_path": "/3GMbILAAjMdoVCba5fWjhz2ONuf.jpg",
+            "release_date": "1939-04-20",
+            "title": "The Four Feathers",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wq7KVxUAYH06cHuReBcV0Sx2kFv.jpg",
+            "genre_ids": [
+                10749,
+                12,
+                18
+            ],
+            "id": 43832,
+            "original_language": "en",
+            "original_title": "Only Angels Have Wings",
+            "overview": "A traveling performer arrives at a remote South American port town where the head of an air freight service must risk his pilots' lives to earn a major contract.",
+            "popularity": 0.5887,
+            "poster_path": "/lqcwiWancAkjtAQPHr9V3SfJjBM.jpg",
+            "release_date": "1939-05-15",
+            "title": "Only Angels Have Wings",
+            "video": false,
+            "vote_average": 7.27,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dR1bndcisajWYbG4YvbbN6Cmu7f.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 16902,
+            "original_language": "en",
+            "original_title": "The Private Lives of Elizabeth and Essex",
+            "overview": "This period drama frames the tumultuous affair between Queen Elizabeth I and the man who would be King of England.",
+            "popularity": 0.6768,
+            "poster_path": "/76UbFh03IvO8fwD8MywFpdfUCcj.jpg",
+            "release_date": "1939-11-11",
+            "title": "The Private Lives of Elizabeth and Essex",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WAIVDbISW49JZapha2Do88v8mr.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 73194,
+            "original_language": "en",
+            "original_title": "Drums Along the Mohawk",
+            "overview": "Albany, New York, 1776. After marrying, Gil and Lana travel north to settle on a small farm in the Mohawk River Valley, but soon their growing prosperity and happiness are threatened by the sinister sound of drums that announce dark times of revolution and war.",
+            "popularity": 0.4612,
+            "poster_path": "/xEBKiwxXByk5Co9ZwSwoQVLNT8e.jpg",
+            "release_date": "1939-11-10",
+            "title": "Drums Along the Mohawk",
+            "video": false,
+            "vote_average": 6.438,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1YsmP89lRD8SIb0WNXyzjFB8jvI.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10752
+            ],
+            "id": 36851,
+            "original_language": "en",
+            "original_title": "Beau Geste",
+            "overview": "When three brothers join the Foreign Legion to escape a troubled past, they find themselves trapped under the command of a sadistic sergeant deep in the scorching Sahara. Now the brothers must fight for their lives as they plot mutiny against tyranny and defend a desert fortress against a brutal enemy.",
+            "popularity": 0.5626,
+            "poster_path": "/xDRHfwghNNXy4ASdus5GSzyTX6x.jpg",
+            "release_date": "1939-07-24",
+            "title": "Beau Geste",
+            "video": false,
+            "vote_average": 6.971,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vbdguNCtuz4C7np3yC2r7a9eaaB.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43529,
+            "original_language": "en",
+            "original_title": "Golden Boy",
+            "overview": "Despite his talent as a musician, a city boy decides to become a boxer. He's successful as a fighter \u2014 much to the dismay of his parents. When gangsters try to buy a piece of him, he begins to have second thoughts.",
+            "popularity": 0.2479,
+            "poster_path": "/tSbDPwCSXpJ6OuUQ2T2vsGzBU2v.jpg",
+            "release_date": "1939-09-05",
+            "title": "Golden Boy",
+            "video": false,
+            "vote_average": 6.466,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wYWYya66V84JT8l8jqIuYTF5JZV.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 17660,
+            "original_language": "en",
+            "original_title": "Dodge City",
+            "overview": "In this epic Western, Wade Hatton, a wagon master turned sheriff, tames a cow town at the end of a railroad line.",
+            "popularity": 0.6565,
+            "poster_path": "/iySSQEAlvr87OYLA5aLzBU8q9lJ.jpg",
+            "release_date": "1939-04-08",
+            "title": "Dodge City",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xJrsqrOuRlZAI86XfVZsREP4HVg.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 51386,
+            "original_language": "en",
+            "original_title": "Hollywood Cavalcade",
+            "overview": "Starting in 1913 movie director Connors discovers singer Molly Adair. As she becomes a star she marries an actor, so Connors fires them. She asks for him as director of her next film. Many silent stars shown making the transition to sound.",
+            "popularity": 0.1132,
+            "poster_path": "/3vDvH3IDcUqU2eGtCoPwirJ9Ls2.jpg",
+            "release_date": "1939-10-13",
+            "title": "Hollywood Cavalcade",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xThXHCDKtfUp3xflylid4CMvYHt.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 131944,
+            "original_language": "en",
+            "original_title": "Daughters Courageous",
+            "overview": "Nan Masters, a single mother living with her four marriageable daughters, plans to marry Sam Sloane, businessman. Out of the blue her first husband Jim returns after deserting the family 20 years earlier. The worldly wanderer Jim gets a cool family reception at first but his warm personality gradually wins the affections of his four daughters. In fact, youngest daughter Buff, who has her eye on a maverick of her own in Gabriel Lopez, is pleased when Jim grants his stamp of approval on her relationship. Buff plans to elope with Gabriel on her mother's wedding day, but 'unpredictable' is Gabriel's middle name.",
+            "popularity": 0.1413,
+            "poster_path": "/spJAOXpF9IbxkhNAQpGqSxiuPNO.jpg",
+            "release_date": "1939-06-23",
+            "title": "Daughters Courageous",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4FGXDyt6p8r7q2AvgW0KhGUQWk2.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 99920,
+            "original_language": "en",
+            "original_title": "Confessions of a Nazi Spy",
+            "overview": "FBI agent Ed Renard investigates the pre-War espionage activities of the German-American Bund.",
+            "popularity": 0.6704,
+            "poster_path": "/344MutCY2Xd6nxztXa1tkTR9Nml.jpg",
+            "release_date": "1939-05-06",
+            "title": "Confessions of a Nazi Spy",
+            "video": false,
+            "vote_average": 6.133,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/emPMkwQMMrJmqiKkMocrltjBe3E.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10751
+            ],
+            "id": 43826,
+            "original_language": "en",
+            "original_title": "Andy Hardy Gets Spring Fever",
+            "overview": "Young Andy develops a crush on his drama teacher. When his play is chosen as the school's annual production, Andy seizes the opportunity to spend as much time as possible with his pretty teacher. Meanwhile, Judge Hardy has his own problems when he gets conned into forming a phony aluminum corporation.",
+            "popularity": 0.519,
+            "poster_path": "/oyakaVz7k8i35sNMIMOwtgDXfPo.jpg",
+            "release_date": "1939-07-21",
+            "title": "Andy Hardy Gets Spring Fever",
+            "video": false,
+            "vote_average": 5.692,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/abLgXm9M6tO3gLntYYzY2ovNuiI.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                10402
+            ],
+            "id": 68201,
+            "original_language": "en",
+            "original_title": "The Mikado",
+            "overview": "In a small Japanese town, Ko-Ko is appointed to the unenviable position of executioner. Knowing he must successfully perform before the appearance of the Mikado in a month's time, Ko-Ko finds a suitable victim in Nanki-Poo, who is distraught over his unrequited love for the maiden Yum-Yum. Nanki-Poo agrees to sacrifice his life if he is allowed to spend his remaining days with Yum-Yum, who is betrothed to Ko-Ko.",
+            "popularity": 0.2097,
+            "poster_path": "/8cMjvpBjKJZ2xTKLlvOGhszOeuH.jpg",
+            "release_date": "1939-05-01",
+            "title": "The Mikado",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ye9wO7oHbae13trtAEvS32vFOLZ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 31868,
+            "original_language": "en",
+            "original_title": "Intermezzo: A Love Story",
+            "overview": "A concert violinist becomes charmed with his daughter's talented piano teacher. When he invites her to go on tour with him, they make beautiful music away from the concert hall as well. He soon leaves his wife so the two can go off together.",
+            "popularity": 0.4005,
+            "poster_path": "/14cUqSYvzBEap5Hy7nJIImPRRD0.jpg",
+            "release_date": "1939-10-06",
+            "title": "Intermezzo: A Love Story",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aNp9f6ZqbWlTm1QtltWCNo1qQXE.jpg",
+            "genre_ids": [
+                10751,
+                10402,
+                18
+            ],
+            "id": 130841,
+            "original_language": "en",
+            "original_title": "They Shall Have Music",
+            "overview": "The future is bleak for a troubled boy from a broken home in the slums. He runs away when his step father breaks his violin, ending up sleeping in the basement of a music school for poor children.",
+            "popularity": 0.2015,
+            "poster_path": "/haCxpkR4kN1ZgimDIyjz5Lbm3Jn.jpg",
+            "release_date": "1939-08-18",
+            "title": "They Shall Have Music",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mbHljOan8c6S9abx57ewg7eMf7h.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 131462,
+            "original_language": "en",
+            "original_title": "Disputed Passage",
+            "overview": "A doctor's medical studies are threatened by his infatuation with a Chinese girl. The girl returns to China, but complications ensue when she runs into him in Nanking during a Japanese bombing raid.",
+            "popularity": 0.1185,
+            "poster_path": "/e2H8VhL6NwLeyqseKn2dijGe2YT.jpg",
+            "release_date": "1939-10-25",
+            "title": "Disputed Passage",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zf12H5D8ZD4yVwXeUgJYAeypAcw.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 176086,
+            "original_language": "en",
+            "original_title": "The Light That Failed",
+            "overview": "A London artist struggles to complete one last painting before going blind.",
+            "popularity": 0.2408,
+            "poster_path": "/bjUMKPmoJqTFrLv4UySBImye7o0.jpg",
+            "release_date": "1939-12-24",
+            "title": "The Light That Failed",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jrYY2SiSJC7XaQYfC9hzqF1zvzQ.jpg",
+            "genre_ids": [
+                80,
+                12,
+                53
+            ],
+            "id": 31995,
+            "original_language": "en",
+            "original_title": "Jamaica Inn",
+            "overview": "In coastal Cornwall, England, during the early 19th Century, a young woman who's come there to visit her aunt, discovers that she's married an innkeeper who's a member of a gang of criminals who arrange shipwrecking and murder for profit.",
+            "popularity": 4.5252,
+            "poster_path": "/qgeBF25h9MYoxJmKvlUj60IGDNz.jpg",
+            "release_date": "1939-05-11",
+            "title": "Jamaica Inn",
+            "video": false,
+            "vote_average": 6.097,
+            "vote_count": 227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4NIeQ6VYUkBMgbGmzNvxMmdtIZX.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 218321,
+            "original_language": "en",
+            "original_title": "The Great Victor Herbert",
+            "overview": "In his last film assignment, portly Walter Connolly fills the title role (in more ways than one) in The Great Victor Herbert. Very little of Herbert's life story is incorporated in the screenplay (a closing title actually apologizes for the film's paucity of cold hard facts); instead, the writers allow the famed composer's works to speak for themselves. In the tradition of one of his own operettas, Herbert spends most of his time patching up the shaky marriage between tenor John Ramsey (Allan Jones) and Louise Hall (Mary Martin). Many of Herbert's most famous compositions are well in evidence, including \"Ah! Sweet Mystery of Life\", \"March of the Toys\" and \"Kiss Me Again\", the latter performed con brio by teenaged coloratura Susanna Foster. Evidently, the producers were able to secure the film rights for the Herbert songs, but not for the stage productions in which they appeared, which may explain such bizarre interpolations as having a song from Naughty Marietta.",
+            "popularity": 0.0738,
+            "poster_path": "/70IfyoC0Bjgqr9qT7RYnXXZVE5y.jpg",
+            "release_date": "1939-12-29",
+            "title": "The Great Victor Herbert",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/88ZGBLeS5Qymfxb2Ke9cW4ssX3D.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 98125,
+            "original_language": "en",
+            "original_title": "Honeymoon in Bali",
+            "overview": "Bill Burnett, a resident of Bali, visits New York City, meets and falls in love with Gail Allen, the successful manager of a Fifth Avenue shop, who is determined to remain free and independent. Bill proposes, Gail declines and Bill goes home to Bali. But a young girl, Rosie, and Tony the Window Cleaner, who dispels advice on every floor, soon have Gail thinking maybe she was a bit hasty with her no to Bill's proposal. Ere long she discovers that she does love Bill and can't live without him. She goes down to Bali to give him the good news. He learns that he is soon to marry Noel Van Ness. She goes back to New York City.",
+            "popularity": 0.2241,
+            "poster_path": "/8a4HXvql8Ck85AJAUOqq8DI0NVB.jpg",
+            "release_date": "1939-09-29",
+            "title": "Honeymoon in Bali",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1L9o78czEQxRyLdsVUXvnx7oq9d.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 278283,
+            "original_language": "en",
+            "original_title": "The Great Man Votes",
+            "overview": "In 1923, Gregory Vance, a widower with two children, is a former scholar who has turned from book to bottle. He works, slightly, as a night-watchman, and his children, who know him for what he is and what he isn't, are his only admirers. Then, it is discovered that he is the only registered voter in a key precinct and the politicians, from both parties, arrive in droves bearing inducements. What he does about this situation, and the relatives who want to take his children away from him make up the story.",
+            "popularity": 0.2547,
+            "poster_path": "/e0CEIrunK4yqFiUej14A8dB0aVe.jpg",
+            "release_date": "1939-01-13",
+            "title": "The Great Man Votes",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wBmEuZmPJRvWSWeMcC4FB3mLYyv.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749,
+                10402
+            ],
+            "id": 64143,
+            "original_language": "en",
+            "original_title": "Three Smart Girls Grow Up",
+            "overview": "Three sisters who believe life is going to be easy, now that their parents are back together, until one sister falls in love with another's fianc\u00e9, and the youngest sister plays matchmaker.",
+            "popularity": 0.1672,
+            "poster_path": "/x0NEJmIcQIoSzmrkrd5iG6egNL4.jpg",
+            "release_date": "1939-03-24",
+            "title": "Three Smart Girls Grow Up",
+            "video": false,
+            "vote_average": 7.143,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nWwzoR4NYbn1IGlA5VQjna4nO0g.jpg",
+            "genre_ids": [
+                10402,
+                35
+            ],
+            "id": 43849,
+            "original_language": "en",
+            "original_title": "Sweethearts",
+            "overview": "The team behind a successful Broadway production tries to stop the married stars from transitioning to Hollywood.",
+            "popularity": 0.1409,
+            "poster_path": "/oBj60AHDKS9Bf4UxezVf2N8xqze.jpg",
+            "release_date": "1938-12-30",
+            "title": "Sweethearts",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 12
+        }
+    ]
+}

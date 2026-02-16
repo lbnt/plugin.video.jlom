@@ -1,0 +1,663 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1973",
+    "source": "https://criticstop10.com/best-movies-of-1973/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/xdofxnT2FADbSFOJflOTLnCoZe9.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 838,
+            "original_language": "en",
+            "original_title": "American Graffiti",
+            "overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+            "popularity": 2.2163,
+            "poster_path": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+            "release_date": "1973-08-11",
+            "title": "American Graffiti",
+            "video": false,
+            "vote_average": 7.033,
+            "vote_count": 1497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1675,
+            "original_language": "fr",
+            "original_title": "La Nuit am\u00e9ricaine",
+            "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+            "popularity": 1.281,
+            "poster_path": "/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
+            "release_date": "1973-05-24",
+            "title": "Day for Night",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 618
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1643,
+            "original_language": "it",
+            "original_title": "Ultimo tango a Parigi",
+            "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
+            "popularity": 2.9102,
+            "poster_path": "/dNgdUdNOWfHsZI3lDu6Epig7H2P.jpg",
+            "release_date": "1972-12-15",
+            "title": "Last Tango in Paris",
+            "video": false,
+            "vote_average": 6.94,
+            "vote_count": 1270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Cf8V0iQx0c52IxeLdxOvjI2bBf.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 11293,
+            "original_language": "en",
+            "original_title": "Paper Moon",
+            "overview": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
+            "popularity": 1.4405,
+            "poster_path": "/7fZZwQYFV3hN2KBPI0Y1BlvzF2T.jpg",
+            "release_date": "1973-05-09",
+            "title": "Paper Moon",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 762
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4lFsPbhYcez7EvKCpNyVl9IacsD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42459,
+            "original_language": "en",
+            "original_title": "Bang the Drum Slowly",
+            "overview": "The story of a New York pro baseball team and two of its players. Henry Wiggen is the star pitcher and Bruce Pearson is the normal, everyday catcher who is far from the star player on the team and friend to all of his teammates. During the off-season, Bruce learns that he is terminally ill, and Henry, his only true friend, is determined to be the one person there for him during his last season with the club. Throughout the course of the season, Henry and his teammates attempt to deal with Bruce's impending illness, all the while attempting to make his last year a memorable one.",
+            "popularity": 0.4544,
+            "poster_path": "/2MojRzTHI2UMmhEANYZZCsMPHr.jpg",
+            "release_date": "1973-08-26",
+            "title": "Bang the Drum Slowly",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zvNMZl0l2qYq0x0ntq8sILiIpLw.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 9040,
+            "original_language": "en",
+            "original_title": "Serpico",
+            "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+            "popularity": 3.6834,
+            "poster_path": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+            "release_date": "1973-12-18",
+            "title": "Serpico",
+            "video": false,
+            "vote_average": 7.531,
+            "vote_count": 2043
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kyDesXA3VEx74ua1ZGAoYmzvjCc.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 14886,
+            "original_language": "en",
+            "original_title": "The Last Detail",
+            "overview": "Two Navy men are ordered to bring a young offender to prison, but decide to show him one last good time along the way.",
+            "popularity": 0.5578,
+            "poster_path": "/zQoNkO99qfaBjh5aoA0pKau1prp.jpg",
+            "release_date": "1973-12-11",
+            "title": "The Last Detail",
+            "video": false,
+            "vote_average": 7.034,
+            "vote_count": 382
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 9277,
+            "original_language": "en",
+            "original_title": "The Sting",
+            "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+            "popularity": 4.8185,
+            "poster_path": "/ckmYng37zey8INYf6d10cVgIG93.jpg",
+            "release_date": "1973-12-25",
+            "title": "The Sting",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 2732
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kB9Y59YDMOFdm5LgSyTVj4b6hh6.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 4909,
+            "original_language": "en",
+            "original_title": "The Day of the Jackal",
+            "overview": "An international assassin known as \u2018The Jackal\u2019 is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin\u2019s trail.",
+            "popularity": 5.004,
+            "poster_path": "/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+            "release_date": "1973-05-16",
+            "title": "The Day of the Jackal",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 625
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVTEJPLof6fizkWvmhxEprut9oQ.jpg",
+            "genre_ids": [
+                35,
+                878
+            ],
+            "id": 11561,
+            "original_language": "en",
+            "original_title": "Sleeper",
+            "overview": "Miles Monroe, a clarinet-playing health food store proprietor, is revived out of cryostasis 200 years into a future world in order to help rebels fight an oppressive government regime.",
+            "popularity": 0.6694,
+            "poster_path": "/vVpUfsHuZecO7FlCtDBQd2ullyq.jpg",
+            "release_date": "1973-12-17",
+            "title": "Sleeper",
+            "video": false,
+            "vote_average": 6.899,
+            "vote_count": 799
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4CEtNdl70l4v0AcICcNyU6McvjQ.jpg",
+            "genre_ids": [
+                18,
+                37,
+                36
+            ],
+            "id": 42488,
+            "original_language": "sv",
+            "original_title": "Nybyggarna",
+            "overview": "A Swedish immigrant family struggles to adapt to their new life on the American frontier during the second half of the 19th century amidst civil war, native uprising and the lure of gold in California.",
+            "popularity": 0.2816,
+            "poster_path": "/eC9SDdBwCa0FGckc76q1MBxlks9.jpg",
+            "release_date": "1972-02-26",
+            "title": "The New Land",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kpPp3HxKdQpDBCJZzijntdK3k0X.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 203,
+            "original_language": "en",
+            "original_title": "Mean Streets",
+            "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+            "popularity": 1.8086,
+            "poster_path": "/rzVTH9ylCw0owKkMZQVz2Eve97E.jpg",
+            "release_date": "1973-10-14",
+            "title": "Mean Streets",
+            "video": false,
+            "vote_average": 7.077,
+            "vote_count": 2172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sLtdQeSXmOUI6twrrbIEfUfXAx9.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                14,
+                18
+            ],
+            "id": 42464,
+            "original_language": "en",
+            "original_title": "O Lucky Man!",
+            "overview": "An ambitious coffee salesman has a series of improbable and ironic adventures seemingly designed to challenge his naive idealism.",
+            "popularity": 0.4457,
+            "poster_path": "/2xlzrpQF76OCgcKpQZvP6WtlpJy.jpg",
+            "release_date": "1973-03-25",
+            "title": "O Lucky Man!",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 9552,
+            "original_language": "en",
+            "original_title": "The Exorcist",
+            "overview": "When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the Devil. Her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.",
+            "popularity": 9.7114,
+            "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+            "release_date": "1973-12-26",
+            "title": "The Exorcist",
+            "video": false,
+            "vote_average": 7.732,
+            "vote_count": 8209
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g3KOnOycUThwV4PRjtiAK0CuzID.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                35,
+                18,
+                53
+            ],
+            "id": 1847,
+            "original_language": "en",
+            "original_title": "The Long Goodbye",
+            "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
+            "popularity": 2.438,
+            "poster_path": "/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg",
+            "release_date": "1973-03-08",
+            "title": "The Long Goodbye",
+            "video": false,
+            "vote_average": 7.393,
+            "vote_count": 695
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vDxDTqm9SEgBESJ5kSrbuz7tHVi.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 109259,
+            "original_language": "en",
+            "original_title": "Blume in Love",
+            "overview": "Lawyer Stephen Blume, who specializes in divorces, lives a paradoxical situation when, having his own marriage break up, is still in love with his ex-wife.",
+            "popularity": 0.1806,
+            "poster_path": "/4Jw2nycNuJmUyTHhVtLwX64IBv6.jpg",
+            "release_date": "1973-06-17",
+            "title": "Blume in Love",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5RRoVs6zFYD7i1ikn3JyemLWL8v.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 42458,
+            "original_language": "en",
+            "original_title": "A Touch of Class",
+            "overview": "Steve, a happily married American man living in London meets Vicki, an English divorc\u00e9e and run off to Marbella for a rollicking week of sex. They then return to London to set up a cozy menage, despite the fact that he loves his wife and children, and now realize that he and Vicki have also fallen in love.",
+            "popularity": 0.6089,
+            "poster_path": "/zWBVZGYyNLwhTAl7h9hpIATmp4m.jpg",
+            "release_date": "1973-05-25",
+            "title": "A Touch of Class",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tNPwpLk76MNxIEYketYXiD8zP9F.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 14328,
+            "original_language": "en",
+            "original_title": "The Paper Chase",
+            "overview": "A first-year law student struggles with balancing his coursework and his relationship with the daughter of a stern professor.",
+            "popularity": 0.5709,
+            "poster_path": "/xqdGdasqPEV1mtWGIA1x8mrWOAe.jpg",
+            "release_date": "1973-10-16",
+            "title": "The Paper Chase",
+            "video": false,
+            "vote_average": 6.795,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7mRpaVetpIde0f3Ebk2ipCAqDls.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 10236,
+            "original_language": "en",
+            "original_title": "The Way We Were",
+            "overview": "Opposites attract when, during their college days, Katie Morosky, a politically active Jew, meets Hubbell Gardiner, a feckless WASP. Years later, in the wake of World War II, they meet once again and, despite their obvious differences, attempt to make their love for each other work.",
+            "popularity": 1.582,
+            "poster_path": "/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+            "release_date": "1973-10-17",
+            "title": "The Way We Were",
+            "video": false,
+            "vote_average": 6.956,
+            "vote_count": 475
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qqwg4IKEaCjTGP8IL8xYt37fy9U.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 41461,
+            "original_language": "en",
+            "original_title": "The Iceman Cometh",
+            "overview": "Set in 1912, inside a dive bar named The Last Chance Saloon, its destitute patrons eagerly await the arrival of Hickey, who arrives annually and props everyone up with free drinks and spirited stories of his travels. However, when Hickey does show up this year, it is with a message of temperance and an exhortation to give up hopeless dreams and face reality.",
+            "popularity": 0.3578,
+            "poster_path": "/7gYnHEzSepyA2tvknpwvhHvERLj.jpg",
+            "release_date": "1973-11-10",
+            "title": "The Iceman Cometh",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gsP414XS7iJ5Xe8bX4e1l7HH07M.jpg",
+            "genre_ids": [
+                53,
+                18,
+                27
+            ],
+            "id": 931,
+            "original_language": "en",
+            "original_title": "Don't Look Now",
+            "overview": "While grieving a terrible loss, a married couple meet two mysterious sisters, one of whom gives them a message sent from the afterlife.",
+            "popularity": 2.438,
+            "poster_path": "/mq3TW9GiF9MNlIEjnlL7D9X9tbx.jpg",
+            "release_date": "1973-10-11",
+            "title": "Don't Look Now",
+            "video": false,
+            "vote_average": 6.925,
+            "vote_count": 1109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2UoQWAxqhrP1iKhoWU4TzGO3FlT.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 91487,
+            "original_language": "fr",
+            "original_title": "\u00c9tat de si\u00e8ge",
+            "overview": "Using the interrogation of a US counterinsurgency agent as a backdrop, the film explores the consequences of the struggle between Uruguay's government and the leftist Tupamaro guerrillas.",
+            "popularity": 0.3775,
+            "poster_path": "/yEH5yjGFgcEmS36XhFzIblQF0fJ.jpg",
+            "release_date": "1972-12-30",
+            "title": "State of Siege",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iGz4tkGUxC6WmxmksMuX3DEHnFS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 122291,
+            "original_language": "en",
+            "original_title": "The Homecoming",
+            "overview": "In a dreary North London flat, the site of perpetual psychological warfare, a philosophy professor visits his family after a nine-year absence and introduces the four men - father, uncle and two brothers - to his wife.",
+            "popularity": 0.1808,
+            "poster_path": "/zcFuhojTnXChYFC23Tkye22rJx9.jpg",
+            "release_date": "1973-10-29",
+            "title": "The Homecoming",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iKRUOex2tI0fZ1kDUdOE3K0ej22.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 38714,
+            "original_language": "en",
+            "original_title": "Save the Tiger",
+            "overview": "A businessman's professional struggles begin to conflict with his personal life over the course of two days.",
+            "popularity": 0.4768,
+            "poster_path": "/htLwmbIc8L2ufP5g4Wv5OWCOYMl.jpg",
+            "release_date": "1973-02-14",
+            "title": "Save the Tiger",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mRRFX4LHJTEEnIfYI7dMCRvAdD3.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 25680,
+            "original_language": "en",
+            "original_title": "The Friends of Eddie Coyle",
+            "overview": "An aging hood is about to go back to prison. Hoping to escape his fate, he supplies information on stolen guns to the feds, while simultaneously supplying arms to his bank robbing chums.",
+            "popularity": 0.5938,
+            "poster_path": "/tyV8Bgf2huCIbGUxTdGgnzdIRKZ.jpg",
+            "release_date": "1973-06-26",
+            "title": "The Friends of Eddie Coyle",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yX6OohKs5Cp29BoQN3l2VTM00CE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 31605,
+            "original_language": "en",
+            "original_title": "The Last American Hero",
+            "overview": "A young hell raiser quits his moonshine business and tries to become the best NASCAR racer the south has ever seen. Loosely based on the true story of NASCAR driver Junior Johnson.",
+            "popularity": 0.5035,
+            "poster_path": "/1PEOlAC6KDaj0WxWPw87kan3Kmp.jpg",
+            "release_date": "1973-07-27",
+            "title": "The Last American Hero",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/teD2odnlfZUyAoSgxtzkZrR4UXG.jpg",
+            "genre_ids": [
+                9648,
+                18
+            ],
+            "id": 42595,
+            "original_language": "it",
+            "original_title": "Strategia del ragno",
+            "overview": "A young man returns to his countryside hometown to investigate the unclear circumstances behind the death of his father, ostensibly killed by Fascists in 1936, before his birth. As he unravels a web of lies that seems to encompass the whole town, he finds himself entangled in the same web.",
+            "popularity": 0.343,
+            "poster_path": "/z8IK3qwu3pscCFsIK6Wkbn4boq3.jpg",
+            "release_date": "1970-09-17",
+            "title": "The Spider's Stratagem",
+            "video": false,
+            "vote_average": 7.034,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3fQ3C4SetoVxSsODFPqJqmIOhJQ.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18,
+                28
+            ],
+            "id": 27331,
+            "original_language": "en",
+            "original_title": "Charley Varrick",
+            "overview": "Charley Varrick robs a bank in a small town with his friends, but instead of obtaining a small amount of money, they discover they stole a very large amount of money belonging to the mob. Charley must now come up with a plan to not only evade the police but the mob as well.",
+            "popularity": 0.8161,
+            "poster_path": "/qPG2VPNA72he1Kczm2yFmslPNZN.jpg",
+            "release_date": "1973-09-19",
+            "title": "Charley Varrick",
+            "video": false,
+            "vote_average": 7.346,
+            "vote_count": 259
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wW1tvUo56X97MRYLlFfHsS3FBfb.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 92311,
+            "original_language": "en",
+            "original_title": "Summer Wishes, Winter Dreams",
+            "overview": "Rita, a middle aged New York City homemaker, finds herself in an emotional crisis which forces her to re-examine her life, as well as her relationships with her mother, her eye doctor husband, her alienated daughter and estranged son.",
+            "popularity": 0.0818,
+            "poster_path": "/iphqHtyVjeuuzYjRUM0DBezYPY1.jpg",
+            "release_date": "1973-10-21",
+            "title": "Summer Wishes, Winter Dreams",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xQRh7hSPdtEE0aUmuY8EdifrXPK.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 12545,
+            "original_language": "en",
+            "original_title": "Jesus Christ Superstar",
+            "overview": "As played out by a theatre troupe, the last days of Jesus Christ are depicted from the perspective of Judas Iscariot, his betrayer. As Jesus' following increases, Judas begins to worry that Jesus is falling for his own hype, forgetting the principles of his teachings and growing too close to the prostitute Mary Magdalene.",
+            "popularity": 1.2035,
+            "poster_path": "/p5LGgKCVGGVZKTkwKzpBDIesydj.jpg",
+            "release_date": "1973-08-15",
+            "title": "Jesus Christ Superstar",
+            "video": false,
+            "vote_average": 7.084,
+            "vote_count": 574
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10749
+            ],
+            "id": 278242,
+            "original_language": "cs",
+            "original_title": "Láska",
+            "overview": "Sixteen-year-old students of a grammar school are supposed to write essays on \"Love\". The class best student Andrea (Jaroslava Schallerová) writes about a patriotic love to a country as she has no experience with a partner love. She has been living alone with her divorced pretty mother Eva (Milena Dvorská), a dentist, for many years. Recently, however, Eva met her former school-days love at a graduates' party, nowadays a famous hockey goalkeeper Brukner (Frantisek Velecký). Also his marriage fell apart; he leaves the national team and decides to leave Prague for his home town and to share flat with Eva. He takes with him his son Petr (Oldrich Kaiser), in Andrea's age, who gets his last chance to finish a grammar school in the town.",
+            "popularity": 0.1698,
+            "poster_path": "/3qXAJgzR2nUvIMpkc17XYwChFOw.jpg",
+            "release_date": "1973-09-21",
+            "title": "Love",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3lIuv1CO8g5vwbQsYsTqYJJ44qN.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 5924,
+            "original_language": "en",
+            "original_title": "Papillon",
+            "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+            "popularity": 3.788,
+            "poster_path": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+            "release_date": "1973-12-16",
+            "title": "Papillon",
+            "video": false,
+            "vote_average": 7.831,
+            "vote_count": 1985
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vcuT4cRrr1e7Pzy0U4qlHiEcYrq.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 25473,
+            "original_language": "en",
+            "original_title": "Walking Tall",
+            "overview": "Ex-wrestler and Tennessee Sheriff Buford Pusser walks tall and carries a big stick as he tussles with county-wide corruption and moonshining thugs.",
+            "popularity": 3.2446,
+            "poster_path": "/fL0fuJ5qdm6JVwtIyw6F7e8PZMe.jpg",
+            "release_date": "1973-02-22",
+            "title": "Walking Tall",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5CmrF7EqhYINcKh5uoS66GVOQyw.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 84847,
+            "original_language": "en",
+            "original_title": "Cinderella Liberty",
+            "overview": "A lonely Navy sailor falls in love with a Seattle hooker and becomes a surrogate father figure for her son during an extended liberty due to his service records being lost.",
+            "popularity": 0.2593,
+            "poster_path": "/eySmZJyPAJ4nQDvrpU59NSCbZHI.jpg",
+            "release_date": "1973-12-18",
+            "title": "Cinderella Liberty",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 28
+        }
+    ]
+}

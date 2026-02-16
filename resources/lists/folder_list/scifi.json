@@ -1,0 +1,28 @@
+{
+    "type" : "folder_list",
+    "title" : "Science-Fiction",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "RollingStone - The 150 Greatest Science Fiction Movies of All Time",
+            "id" : "RollingStone-best_sci-fi_movies",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Rotten Tomatoes - 150 Best Sci-Fi Movies Of All Time",
+            "id" : "rottentomatoes-essential_sci_fi_movies_of_all_time",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "TimeOut - The Best Sci-Fi Movies Of All Time",
+            "id" : "timeout-the_101_best_scifi_movies_of_all_time",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "IMDb's Sci-Fi Top 50",
+            "id" : "IMDb's_sci-fi_top_50",
+            "type" : "movie_list"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "Sports",
+    "added" : "10/10/24",
+    "modified" : "10/10/24",
+    "folders" : [
+        {
+            "title" : "Rotten Tomatoes - 150 Best Sports Movies Of All Time",
+            "id" : "rottentomatoes-best_sport_movies_of_all_time",
+            "type" : "movie_list"
+        }
+    ]
+}

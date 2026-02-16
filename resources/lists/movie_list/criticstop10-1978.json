@@ -1,0 +1,619 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1978",
+    "source": "https://criticstop10.com/best-movies-of-1978/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/nBSIspn1vSfBfZSBd26o2JbADnF.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 38731,
+            "original_language": "en",
+            "original_title": "An Unmarried Woman",
+            "overview": "A wealthy woman from Manhattan's Upper East Side struggles to deal with her new identity and her sexuality after her husband of 16 years leaves her for a younger woman.",
+            "popularity": 0.6185,
+            "poster_path": "/pJ6BLvNcLhNxvVCGgTynO5BJtQq.jpg",
+            "release_date": "1978-05-24",
+            "title": "An Unmarried Woman",
+            "video": false,
+            "vote_average": 6.694,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x7RIwen62HEUp3Sh5HYHp2gOdMX.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 31657,
+            "original_language": "en",
+            "original_title": "Coming Home",
+            "overview": "In 1968 California, a Marine officer's wife falls in love with a former high school classmate who suffered a paralyzing combat injury in the war.",
+            "popularity": 0.6936,
+            "poster_path": "/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+            "release_date": "1978-02-15",
+            "title": "Coming Home",
+            "video": false,
+            "vote_average": 7.024,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ojG57hVx69vhk5DDGPIcfyRR55I.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 11778,
+            "original_language": "en",
+            "original_title": "The Deer Hunter",
+            "overview": "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+            "popularity": 3.7214,
+            "poster_path": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+            "release_date": "1978-12-08",
+            "title": "The Deer Hunter",
+            "video": false,
+            "vote_average": 7.99,
+            "vote_count": 3985
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pW5UUdIWYfDWk2BAOR0fspYGb7q.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 15867,
+            "original_language": "en",
+            "original_title": "Interiors",
+            "overview": "When Eve, an interior designer, is deserted by her husband of many years, Arthur, the emotionally glacial relationships of the three grown-up daughters are laid bare. Twisted by jealousy, insecurity and resentment, Renata, a successful writer; Joey, a woman crippled by indecision; and Flyn, a budding actress; struggle to communicate for the sake of their shattered mother. But when their father unexpectedly falls for another woman, his decision to remarry sets in motion a terrible twist of fate\u2026",
+            "popularity": 0.547,
+            "poster_path": "/sTPy6Kfa1FRED1eaZdVex8b2MdB.jpg",
+            "release_date": "1978-08-02",
+            "title": "Interiors",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 360
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg",
+            "genre_ids": [
+                14,
+                35,
+                10749
+            ],
+            "id": 12185,
+            "original_language": "en",
+            "original_title": "Heaven Can Wait",
+            "overview": "Joe Pendleton is a quarterback preparing to lead his team to the superbowl when he is almost killed in an accident. An overanxious angel plucks him to heaven only to discover that he wasn't ready to die, and that his body has been cremated. A new body must be found, and that of a recently-murdered millionaire is chosen. His wife and accountant\u2014the murderers\u2014are confused by this development, as he buys the L.A. Rams in order to once again quarterback them into the Superbowl.",
+            "popularity": 0.9401,
+            "poster_path": "/h1yOiO9cow6gwmGxSAWvPdY4lhJ.jpg",
+            "release_date": "1978-06-28",
+            "title": "Heaven Can Wait",
+            "video": false,
+            "vote_average": 6.613,
+            "vote_count": 415
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5JrPWR6ve6gry6LG8SKr6tsQSBo.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 16642,
+            "original_language": "en",
+            "original_title": "Days of Heaven",
+            "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+            "popularity": 1.7257,
+            "poster_path": "/siE1XQ544MLO27geLYDbUDy3oTt.jpg",
+            "release_date": "1978-09-13",
+            "title": "Days of Heaven",
+            "video": false,
+            "vote_average": 7.499,
+            "vote_count": 1075
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jrVELg88uxw1scWJD0N5pZ657LF.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 85420,
+            "original_language": "en",
+            "original_title": "Movie Movie",
+            "overview": "Three movie genres of the 1930s, boxing films, WWI aviation dramas, and backstage Broadway musicals, are satirized using the same cast.",
+            "popularity": 0.2484,
+            "poster_path": "/ibbixbVqqAcs2fot7dUcyOALFsD.jpg",
+            "release_date": "1978-11-01",
+            "title": "Movie Movie",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3DOOgeZfoYUKXAyYrpRObv2PNDd.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 12761,
+            "original_language": "sv",
+            "original_title": "H\u00f6stsonaten",
+            "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
+            "popularity": 1.4818,
+            "poster_path": "/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+            "release_date": "1978-10-08",
+            "title": "Autumn Sonata",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 644
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dIeD6Sgnpkwu3pkuEQ3rsVsvNCE.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 11327,
+            "original_language": "en",
+            "original_title": "Midnight Express",
+            "overview": "Billy Hayes is caught attempting to smuggle drugs out of Turkey. The Turkish courts decide to make an example of him, sentencing him to more than 30 years in prison. Hayes has two opportunities for release: the appeals made by his lawyer, his family, and the American government, or the \"Midnight Express\".",
+            "popularity": 2.6152,
+            "poster_path": "/mW54BtqVRxrPnoO9gQQjTLJlnuU.jpg",
+            "release_date": "1978-08-31",
+            "title": "Midnight Express",
+            "video": false,
+            "vote_average": 7.473,
+            "vote_count": 1769
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dBTWOjGU7ry4jGgP9fp63FZs83y.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 8469,
+            "original_language": "en",
+            "original_title": "Animal House",
+            "overview": "At a 1962 College, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
+            "popularity": 3.7337,
+            "poster_path": "/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg",
+            "release_date": "1978-07-28",
+            "title": "Animal House",
+            "video": false,
+            "vote_average": 6.978,
+            "vote_count": 1581
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4h3xWMY40I881T6m9GqureeN5Y9.jpg",
+            "genre_ids": [
+                878,
+                27
+            ],
+            "id": 11850,
+            "original_language": "en",
+            "original_title": "Invasion of the Body Snatchers",
+            "overview": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+            "popularity": 2.8829,
+            "poster_path": "/5oNHdVo0vTsaC47Jv2Wb4eeo4V4.jpg",
+            "release_date": "1978-12-20",
+            "title": "Invasion of the Body Snatchers",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tdpHGUxipEmJZvtEmTCcmpE2HMp.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 24153,
+            "original_language": "en",
+            "original_title": "The Buddy Holly Story",
+            "overview": "A chronicle of the rise and brief career of rock 'n' roll star Buddy Holly, who aspires to play music the way he wants it to sound. Holly and his band, the Crickets, are first invited to record in Nashville, where they encounter creative differences with the producing staff. Later they play a major booking at the Apollo Theater, scheduled there under the mistaken assumption that they're a black band. Holly's career eventually goes solo -- until the tragic day the music dies.",
+            "popularity": 0.7649,
+            "poster_path": "/4Zu9YdN5O4jnXJmqBMHckkKpJ2S.jpg",
+            "release_date": "1978-05-18",
+            "title": "The Buddy Holly Story",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jZDD1orkxLkTBllVqV8IboeDi3v.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 45695,
+            "original_language": "en",
+            "original_title": "A Wedding",
+            "overview": "Muffin's wedding to Dino Corelli is to be a big affair. Except the ageing priest isn't too sure of the ceremony, only the families actually turn up as the Corelli Italian connection is suspect, security guards watch the gifts rather over-zealously, and Dino's grandma expires in bed just as the reception starts. Could be quite an occasion.",
+            "popularity": 0.5528,
+            "poster_path": "/4qNtQEInMF1d0IMoSCytHu8LCyA.jpg",
+            "release_date": "1978-08-29",
+            "title": "A Wedding",
+            "video": false,
+            "vote_average": 6.265,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oj9QrJ8BDPZbKLFZ2z9gBr06H9I.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 111469,
+            "original_language": "en",
+            "original_title": "Girlfriends",
+            "overview": "A photographer and her best friend are roommates. She is stuck with small-change shooting jobs and dreams of success. When her roommate decides to get married and leave, she feels hurt and has to learn how to deal with living alone.",
+            "popularity": 0.5187,
+            "poster_path": "/qoExB0pawOo5kPK2UGiwnthcGEw.jpg",
+            "release_date": "1978-08-11",
+            "title": "Girlfriends",
+            "video": false,
+            "vote_average": 6.712,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nehq8TDd7WnwBnTLnvv8BQNekzW.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 26973,
+            "original_language": "en",
+            "original_title": "Pretty Baby",
+            "overview": "Hattie, a New Orleans prostitute, meets a photographer named Bellocq at her brothel one night and, after he photographs her, he befriends her 12-year-old daughter, Violet. When Violet is brought on as a working girl by her mother's madam and Hattie skips town to get married, Violet quickly loses her innocence and focuses on reuniting with Bellocq. But a life with Bellocq is compromised for Violet after her mother returns to town.",
+            "popularity": 4.3208,
+            "poster_path": "/smBDqEIwEZbtOYdAEVpY0QYJyRG.jpg",
+            "release_date": "1978-04-05",
+            "title": "Pretty Baby",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 380
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/92xv8veoWBp1QjAY31E9Z7ImFEo.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 51242,
+            "original_language": "it",
+            "original_title": "Pane e cioccolata",
+            "overview": "An Italian immigrant tries to make a new life in Switzerland, taking on a series of increasingly menial jobs in order to do it. He attempts to fit into his new home and society but fails at every turn. Unable to go home again, will his tenacity and optimism be enough to live on?",
+            "popularity": 0.4088,
+            "poster_path": "/24D3e6xBPEvqlFoq4tSMVqVQ3TO.jpg",
+            "release_date": "1974-05-05",
+            "title": "Bread and Chocolate",
+            "video": false,
+            "vote_average": 7.245,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/70h14yIq4UQ52dSuCD7eLDgpnDs.jpg",
+            "genre_ids": [
+                80,
+                28,
+                18
+            ],
+            "id": 31941,
+            "original_language": "en",
+            "original_title": "Who'll Stop the Rain",
+            "overview": "John, a disillusioned Vietnam War journalist, turns to heroin smuggling. He cons Ray, an equally burnt out veteran into delivering the drugs stateside to his wife. Everything soon falls apart and Ray ends up on the run with John's wife trying to evade crooked narcotics agents.",
+            "popularity": 0.4808,
+            "poster_path": "/9PDM2JBdu73vWSq8rrfbHy2CYqL.jpg",
+            "release_date": "1978-08-02",
+            "title": "Who'll Stop the Rain",
+            "video": false,
+            "vote_average": 6.478,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qC23PvwjKwJ1Qi6oav0l9aJIMCl.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 42223,
+            "original_language": "fr",
+            "original_title": "La Vie devant soi",
+            "overview": "Madame Rosa lives in a sixth-floor walkup in the Pigalle; she's a retired prostitute, Jewish and an Auschwitz survivor, a foster mom to children of other prostitutes. Momo is the oldest and her favorite, an Algerian lad whom she raises as a Muslim. He asks about his parents; she answers evasively. As she ages and takes fewer children, Momo must do more for her; as money is tight, he tries to earn pennies on the street with a puppet. He's a beautiful man-child, and Madame Rosa makes him promise never to sell himself or become a pimp. A film editor, Nadine, befriends him, and his father appears as well. Madame Rosa reaches her last days in fear of hospitals, and Momo must act.",
+            "popularity": 0.4112,
+            "poster_path": "/o2yCU9XwakKnpD33D8TxenRSiNM.jpg",
+            "release_date": "1977-11-02",
+            "title": "Madame Rosa",
+            "video": false,
+            "vote_average": 6.955,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rLA4Dr4r9JNcc43OLNwMGy1cnFB.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 14839,
+            "original_language": "en",
+            "original_title": "Blue Collar",
+            "overview": "Fed up with mistreatment at the hands of both management and union brass, and coupled with financial hardships on each man's end, three auto assembly line workers hatch a plan to rob a safe at union headquarters.",
+            "popularity": 0.708,
+            "poster_path": "/7WBBcgzESyX1qEq9x7tg22dlORL.jpg",
+            "release_date": "1978-02-10",
+            "title": "Blue Collar",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 948,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+            "popularity": 6.4593,
+            "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+            "release_date": "1978-10-24",
+            "title": "Halloween",
+            "video": false,
+            "vote_average": 7.562,
+            "vote_count": 5840
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pEZ2w4DGCJD4DoK7ifQZLUDT7oK.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 23397,
+            "original_language": "en",
+            "original_title": "Straight Time",
+            "overview": "After being released on parole, a burglar attempts to go straight, get a regular job, and just go by the rules. He soon finds himself back in jail at the hands of a power-hungry parole officer.",
+            "popularity": 0.5516,
+            "poster_path": "/qht8SAqj7dEeEzv9yXalFB35ycb.jpg",
+            "release_date": "1978-03-18",
+            "title": "Straight Time",
+            "video": false,
+            "vote_average": 7.136,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 13963,
+            "original_language": "en",
+            "original_title": "The Last Waltz",
+            "overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends.",
+            "popularity": 0.9561,
+            "poster_path": "/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+            "release_date": "1978-04-26",
+            "title": "The Last Waltz",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 282
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 1924,
+            "original_language": "en",
+            "original_title": "Superman",
+            "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+            "popularity": 16.0883,
+            "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+            "release_date": "1978-12-14",
+            "title": "Superman",
+            "video": false,
+            "vote_average": 7.147,
+            "vote_count": 4022
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3EQrwVqg3px97hpzmoefT4tb1sO.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 621,
+            "original_language": "en",
+            "original_title": "Grease",
+            "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+            "popularity": 9.1347,
+            "poster_path": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+            "release_date": "1978-06-16",
+            "title": "Grease",
+            "video": false,
+            "vote_average": 7.376,
+            "vote_count": 7424
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vtasUI25QQHG8cwwk7dNyAdk6vh.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 4267,
+            "original_language": "fr",
+            "original_title": "Pr\u00e9parez vos mouchoirs",
+            "overview": "Solange is seriously depressed, and her kindhearted husband, Raoul, makes it his mission to cure her doldrums. After many failed attempts to cheer her up, Raoul hits upon a possible solution: find his wife a lover. Unfortunately, his choice, St\u00e9phane, proves to be just as ineffectual in restoring her flagging spirits. In the end, the gorgeous Solange finds her own, highly problematic tonic to her troubles in the form of a 13-year-old boy.",
+            "popularity": 0.7782,
+            "poster_path": "/vS4BlPEJV9QBS7W0urYlomYNWG7.jpg",
+            "release_date": "1978-01-11",
+            "title": "Get Out Your Handkerchiefs",
+            "video": false,
+            "vote_average": 6.596,
+            "vote_count": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 42210,
+            "original_language": "en",
+            "original_title": "Stevie",
+            "overview": "For a poet with a gift for crafting words into barbs, Stevie Smith lives a relatively conventional life. Sheltered in a London suburb, she spends her days engaged in tedious housework, crafting verse and conversing with her aunt. But while her body may be committed to drudgery, Stevie's mind is constantly trying to break free, which causes her to rail against religion and middle-class values, and prevents her from finding happiness with a man interested in her.",
+            "popularity": 0.1159,
+            "poster_path": "/rJwkmMAYDiUCNNsPU7ebTGldJaG.jpg",
+            "release_date": "1978-09-15",
+            "title": "Stevie",
+            "video": false,
+            "vote_average": 6.875,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0qTNliLQK7t31UVSNQBvxj8dpN.jpg",
+            "genre_ids": [
+                18,
+                27
+            ],
+            "id": 34193,
+            "original_language": "en",
+            "original_title": "Magic",
+            "overview": "A ventriloquist is at the mercy of his vicious dummy while he tries to renew a romance with his high school sweetheart.",
+            "popularity": 0.7061,
+            "poster_path": "/edxr6rPbpLh1V6dTiMIiyHNKRi9.jpg",
+            "release_date": "1978-11-08",
+            "title": "Magic",
+            "video": false,
+            "vote_average": 6.837,
+            "vote_count": 292
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AaWRVwgcrclhAgVNy7zXH7itSRF.jpg",
+            "genre_ids": [
+                12,
+                16,
+                18
+            ],
+            "id": 11837,
+            "original_language": "en",
+            "original_title": "Watership Down",
+            "overview": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
+            "popularity": 1.2557,
+            "poster_path": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
+            "release_date": "1978-10-14",
+            "title": "Watership Down",
+            "video": false,
+            "vote_average": 7.193,
+            "vote_count": 656
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f5QGIzd7A1yIEXTgQ3dkmvZZfwA.jpg",
+            "genre_ids": [
+                35,
+                53,
+                9648
+            ],
+            "id": 42213,
+            "original_language": "en",
+            "original_title": "The Big Fix",
+            "overview": "Private detective Moses Wine is hired by his former college girlfriend to investigate a political smear campaign and he sets out to find out who is responsible, with deadly results.",
+            "popularity": 0.1968,
+            "poster_path": "/maTu2lDmlrFwM1hS1tPYYXsHT6N.jpg",
+            "release_date": "1978-10-06",
+            "title": "The Big Fix",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvtE5EfU2iovfzfOgHrITndyISd.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 33337,
+            "original_language": "fr",
+            "original_title": "Tendre Poulet",
+            "overview": "When Lise's car bumps Antoine's bike, they recognize each other from a brief fling 20 years before while at the Sorbonne. He's now a professor of Greek; she's loathe to tell him she's a police inspector. A call interrupts their first dinner date: a Deputy of the National Assembly has been murdered. She has a suspect, another Deputy, and must track him while deflecting Antoine's eye from her vocation. All roads in the inquiry lead to Christine Vallier, the dead Deputy's mistress, a beguiling 22-year-old whose mother ran the Assembly's snack bar. When more deputies die and Antoine learns Lise's identity, she must act quickly solve the crime and save her future.",
+            "popularity": 0.3969,
+            "poster_path": "/rzHKScCssgA4gJZqNDxcYM4UgrU.jpg",
+            "release_date": "1978-01-18",
+            "title": "Dear Inspector",
+            "video": false,
+            "vote_average": 5.904,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/esdhJI8DcJuRJooQ7pAtK2ekNqE.jpg",
+            "genre_ids": [
+                9648
+            ],
+            "id": 4192,
+            "original_language": "en",
+            "original_title": "Death on the Nile",
+            "overview": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board and every elegant passenger becomes a prime suspect.",
+            "popularity": 2.8433,
+            "poster_path": "/8eOWgeWrdM9cz7JR0LNp6R50j3l.jpg",
+            "release_date": "1978-09-29",
+            "title": "Death on the Nile",
+            "video": false,
+            "vote_average": 7.141,
+            "vote_count": 841
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7R2GVQ1dhkshjZGOR2FJ7Q6ex1W.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 16214,
+            "original_language": "en",
+            "original_title": "Hooper",
+            "overview": "Legendary stunt man Sonny Hooper remains one of the top men in his field, but due to too many stressful impacts to the spine and the need to pop painkillers several times a day, he knows he should get out of the industry before he ends up permanently disabled.",
+            "popularity": 0.7358,
+            "poster_path": "/3qYgqCIrcKyq7eis9cOjIlGWRDE.jpg",
+            "release_date": "1978-07-28",
+            "title": "Hooper",
+            "video": false,
+            "vote_average": 6.309,
+            "vote_count": 131
+        }
+    ]
+}

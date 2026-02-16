@@ -1,0 +1,981 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 2018",
+    "source": "https://criticstop10.com/best-movies-of-2018/",
+    "created_by": "lbnt",
+    "added": "07/29/25",
+    "modified": "07/29/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/uYkQYnrAz8Gzw6WCmcFEAzhlJIA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 426426,
+            "original_language": "es",
+            "original_title": "Roma",
+            "overview": "In 1970s Mexico City, two domestic workers help a mother of four while her husband is away for an extended period of time.",
+            "popularity": 1.8198,
+            "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+            "release_date": "2018-11-21",
+            "title": "Roma",
+            "video": false,
+            "vote_average": 7.631,
+            "vote_count": 3975
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oXNtdwoRsG9MIpOjJHeT4xGjwbV.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 458737,
+            "original_language": "en",
+            "original_title": "First Reformed",
+            "overview": "A pastor of a small church in upstate New York starts to spiral out of control after a soul-shaking encounter with an unstable environmental activist and his pregnant wife.",
+            "popularity": 2.0831,
+            "poster_path": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+            "release_date": "2018-05-18",
+            "title": "First Reformed",
+            "video": false,
+            "vote_average": 6.992,
+            "vote_count": 1375
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+            "genre_ids": [
+                36,
+                35,
+                18
+            ],
+            "id": 375262,
+            "original_language": "en",
+            "original_title": "The Favourite",
+            "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+            "popularity": 3.4085,
+            "poster_path": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+            "release_date": "2018-11-23",
+            "title": "The Favourite",
+            "video": false,
+            "vote_average": 7.503,
+            "vote_count": 5643
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 465914,
+            "original_language": "en",
+            "original_title": "If Beale Street Could Talk",
+            "overview": "After her fiance is falsely imprisoned, a pregnant African-American woman sets out to clear his name and prove his innocence.",
+            "popularity": 5.1318,
+            "poster_path": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+            "release_date": "2018-12-14",
+            "title": "If Beale Street Could Talk",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 489925,
+            "original_language": "en",
+            "original_title": "Eighth Grade",
+            "overview": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school \u2014 the end of her thus far disastrous eighth grade year \u2014 before she begins high school.",
+            "popularity": 2.4317,
+            "poster_path": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+            "release_date": "2018-01-19",
+            "title": "Eighth Grade",
+            "video": false,
+            "vote_average": 7.164,
+            "vote_count": 1581
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+            "genre_ids": [
+                80,
+                35,
+                18,
+                36
+            ],
+            "id": 487558,
+            "original_language": "en",
+            "original_title": "BlacKkKlansman",
+            "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+            "popularity": 3.2588,
+            "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+            "release_date": "2018-08-09",
+            "title": "BlacKkKlansman",
+            "video": false,
+            "vote_average": 7.493,
+            "vote_count": 7735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 284054,
+            "original_language": "en",
+            "original_title": "Black Panther",
+            "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+            "popularity": 9.4034,
+            "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+            "release_date": "2018-02-13",
+            "title": "Black Panther",
+            "video": false,
+            "vote_average": 7.371,
+            "vote_count": 22695
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aTJJ38M7zLAmJZ7vl0vyKn69zzw.jpg",
+            "genre_ids": [
+                18,
+                80,
+                9648,
+                53
+            ],
+            "id": 1632,
+            "original_language": "en",
+            "original_title": "Mississippi Burning",
+            "overview": "Two FBI agents investigating the murder of civil rights workers during the 60s seek to breach the conspiracy of silence in a small Southern town where segregation divides black and white. The younger agent trained in FBI school runs up against the small town ways of his partner, a former sheriff.",
+            "popularity": 4.2772,
+            "poster_path": "/hTv8Bkq3W1vwKi1IWCLWQW9PNU4.jpg",
+            "release_date": "1988-12-08",
+            "title": "Mississippi Burning",
+            "video": false,
+            "vote_average": 7.67,
+            "vote_count": 1785
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 332562,
+            "original_language": "en",
+            "original_title": "A Star Is Born",
+            "overview": "Seasoned musician Jackson Maine discovers \u2014 and falls in love with \u2014 struggling artist Ally. She has just about given up on her dream to make it big as a singer \u2014 until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+            "popularity": 6.0913,
+            "poster_path": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+            "release_date": "2018-10-03",
+            "title": "A Star Is Born",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 11884
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+            "genre_ids": [
+                878,
+                27
+            ],
+            "id": 300668,
+            "original_language": "en",
+            "original_title": "Annihilation",
+            "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+            "popularity": 6.3112,
+            "poster_path": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+            "release_date": "2018-02-22",
+            "title": "Annihilation",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 8925
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                878
+            ],
+            "id": 324857,
+            "original_language": "en",
+            "original_title": "Spider-Man: Into the Spider-Verse",
+            "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+            "popularity": 19.5694,
+            "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+            "release_date": "2018-12-06",
+            "title": "Spider-Man: Into the Spider-Verse",
+            "video": false,
+            "vote_average": 8.399,
+            "vote_count": 16288
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 493922,
+            "original_language": "en",
+            "original_title": "Hereditary",
+            "overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+            "popularity": 11.9533,
+            "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+            "release_date": "2018-06-07",
+            "title": "Hereditary",
+            "video": false,
+            "vote_average": 7.291,
+            "vote_count": 8037
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ax6LwhsAXesGCsBagE21DgwUYZf.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 443463,
+            "original_language": "en",
+            "original_title": "Leave No Trace",
+            "overview": "A father and daughter live a perfect but mysterious existence in Forest Park, a beautiful nature reserve near Portland, Oregon, rarely making contact with the world. But when a small mistake tips them off to authorities, they are sent on an increasingly erratic journey in search of a place to call their own.",
+            "popularity": 2.6788,
+            "poster_path": "/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
+            "release_date": "2018-06-29",
+            "title": "Leave No Trace",
+            "video": false,
+            "vote_average": 6.784,
+            "vote_count": 1287
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h4Lk8Cgfvlzz0hcnSJBTAOwNDia.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 398181,
+            "original_language": "en",
+            "original_title": "You Were Never Really Here",
+            "overview": "A traumatized veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, his nightmares begin to overtake him, and a conspiracy is uncovered\u2014leading to what may be his death trip or his awakening.",
+            "popularity": 1.6439,
+            "poster_path": "/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg",
+            "release_date": "2017-11-08",
+            "title": "You Were Never Really Here",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2885
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x832ykgj3fx0Q0MFKEno77XM47e.jpg",
+            "genre_ids": [
+                14,
+                878,
+                35
+            ],
+            "id": 424781,
+            "original_language": "en",
+            "original_title": "Sorry to Bother You",
+            "overview": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success \u2013 which propels him into a macabre universe.",
+            "popularity": 3.1953,
+            "poster_path": "/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_date": "2018-07-06",
+            "title": "Sorry to Bother You",
+            "video": false,
+            "vote_average": 6.798,
+            "vote_count": 1625
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Z1JeznJExodyj0iUbL1wgkts88.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 505192,
+            "original_language": "ja",
+            "original_title": "\u4e07\u5f15\u304d\u5bb6\u65cf",
+            "overview": "In the outskirts of Tokyo, a poor but close-knit group living on the fringes of society survives through shoplifting and odd jobs. When Osamu and his son take in a neglected young girl, their already fragile existence begins to unravel. As the family grows attached to her, buried secrets surface, forcing them to confront the true meaning of love, belonging, and what makes a family.",
+            "popularity": 4.0418,
+            "poster_path": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+            "release_date": "2018-06-02",
+            "title": "Shoplifters",
+            "video": false,
+            "vote_average": 7.846,
+            "vote_count": 2152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 453278,
+            "original_language": "en",
+            "original_title": "The Rider",
+            "overview": "Once a rising star of the rodeo circuit, and a gifted horse trainer, young cowboy Brady is warned that his riding days are over after a horse crushed his skull at a rodeo. In an attempt to regain control of his own fate, Brady undertakes a search for a new identity and what it means to be a man in the heartland of the United States.",
+            "popularity": 1.1484,
+            "poster_path": "/cFsrA0Is5xode2INrPj1VJcQ18n.jpg",
+            "release_date": "2018-03-28",
+            "title": "The Rider",
+            "video": false,
+            "vote_average": 7.283,
+            "vote_count": 515
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3IzR3VhZAyhxVnuRRUHFLkfK4hT.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 353081,
+            "original_language": "en",
+            "original_title": "Mission: Impossible - Fallout",
+            "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+            "popularity": 13.9397,
+            "poster_path": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+            "release_date": "2018-07-25",
+            "title": "Mission: Impossible - Fallout",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 8627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nIrDm42dy5PaXtUAzUfPmxM4mQm.jpg",
+            "genre_ids": [
+                27,
+                18,
+                878
+            ],
+            "id": 447332,
+            "original_language": "en",
+            "original_title": "A Quiet Place",
+            "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+            "popularity": 9.8456,
+            "poster_path": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+            "release_date": "2018-04-03",
+            "title": "A Quiet Place",
+            "video": false,
+            "vote_average": 7.398,
+            "vote_count": 14673
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 369972,
+            "original_language": "en",
+            "original_title": "First Man",
+            "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+            "popularity": 3.4649,
+            "poster_path": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+            "release_date": "2018-10-10",
+            "title": "First Man",
+            "video": false,
+            "vote_average": 7.042,
+            "vote_count": 5402
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tkri1hMrb1FhWfb2bWpprsvq9Sd.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 401469,
+            "original_language": "en",
+            "original_title": "Widows",
+            "overview": "A police shootout leaves four thieves dead during an explosive armed robbery attempt in Chicago. Their widows have nothing in common except a debt left behind by their spouses' criminal activities. Hoping to forge a future on their own terms, they join forces to pull off a heist.",
+            "popularity": 3.0647,
+            "poster_path": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+            "release_date": "2018-11-06",
+            "title": "Widows",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2355
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+            "genre_ids": [
+                12,
+                35,
+                10751
+            ],
+            "id": 346648,
+            "original_language": "en",
+            "original_title": "Paddington 2",
+            "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+            "popularity": 6.1549,
+            "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+            "release_date": "2017-11-09",
+            "title": "Paddington 2",
+            "video": false,
+            "vote_average": 7.473,
+            "vote_count": 2536
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 311,
+            "original_language": "en",
+            "original_title": "Once Upon a Time in America",
+            "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+            "popularity": 11.183,
+            "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+            "release_date": "1984-05-23",
+            "title": "Once Upon a Time in America",
+            "video": false,
+            "vote_average": 8.41,
+            "vote_count": 5669
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
+            "genre_ids": [
+                37,
+                35,
+                18,
+                10402,
+                9648,
+                10749
+            ],
+            "id": 537996,
+            "original_language": "en",
+            "original_title": "The Ballad of Buster Scruggs",
+            "overview": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+            "popularity": 3.9788,
+            "poster_path": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+            "release_date": "2018-11-09",
+            "title": "The Ballad of Buster Scruggs",
+            "video": false,
+            "vote_average": 7.136,
+            "vote_count": 4176
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pDQDfAVSf9g0OI11r7RFo44tLyU.jpg",
+            "genre_ids": [
+                18,
+                80,
+                35,
+                36
+            ],
+            "id": 401847,
+            "original_language": "en",
+            "original_title": "Can You Ever Forgive Me?",
+            "overview": "When a bestselling celebrity biographer is no longer able to get published because she has fallen out of step with current tastes, she turns her art form to deception.",
+            "popularity": 1.2437,
+            "poster_path": "/y9pDvBdvU8Z5QjQ6Y4oF0Cq7p5j.jpg",
+            "release_date": "2018-10-19",
+            "title": "Can You Ever Forgive Me?",
+            "video": false,
+            "vote_average": 6.806,
+            "vote_count": 1299
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uIUhGW2PMMlxr3GccdMdOMcqsIa.jpg",
+            "genre_ids": [
+                10749,
+                10402,
+                18
+            ],
+            "id": 440298,
+            "original_language": "pl",
+            "original_title": "Zimna wojna",
+            "overview": "A man and a woman meet in the ruins of post-war Poland. With vastly different backgrounds and temperaments, they are fatally mismatched and yet drawn to each other.",
+            "popularity": 1.2651,
+            "poster_path": "/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg",
+            "release_date": "2018-06-08",
+            "title": "Cold War",
+            "video": false,
+            "vote_average": 7.437,
+            "vote_count": 1512
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yrepQdpreOorLyBJyvZkGn3Izfe.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 490003,
+            "original_language": "en",
+            "original_title": "Won't You Be My Neighbor?",
+            "overview": "For more than thirty years, and through his television program, Fred Rogers (1928-2003), host, producer, writer and pianist, accompanied by his puppets and his many friends, spoke directly to young children about some of life's most important issues.",
+            "popularity": 0.5968,
+            "poster_path": "/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+            "release_date": "2018-06-29",
+            "title": "Won't You Be My Neighbor?",
+            "video": false,
+            "vote_average": 8.015,
+            "vote_count": 562
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vv1l1WzwED9r6ZVUw1xTfvaSiPW.jpg",
+            "genre_ids": [
+                14,
+                28,
+                27
+            ],
+            "id": 460885,
+            "original_language": "en",
+            "original_title": "Mandy",
+            "overview": "The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.",
+            "popularity": 2.6676,
+            "poster_path": "/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg",
+            "release_date": "2018-09-13",
+            "title": "Mandy",
+            "video": false,
+            "vote_average": 6.192,
+            "vote_count": 1996
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qNYL8EAUPvTaiW1hVavX1vIWVcl.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 489930,
+            "original_language": "en",
+            "original_title": "Blindspotting",
+            "overview": "Collin must make it through his final three days of probation for a chance at a new beginning. He and his troublemaking childhood best friend, Miles, work as movers, and when Collin witnesses a police shooting, the two men\u2019s friendship is tested as they grapple with identity and their changed realities in the rapidly-gentrifying neighborhood they grew up in.",
+            "popularity": 0.9089,
+            "poster_path": "/x4DRZfTqOlmzNWAvy4vcKWkgEGL.jpg",
+            "release_date": "2018-07-20",
+            "title": "Blindspotting",
+            "video": false,
+            "vote_average": 7.339,
+            "vote_count": 683
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nzkNBGiyHBUdxQwBQ0eR2HZwIgu.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 456086,
+            "original_language": "en",
+            "original_title": "Support the Girls",
+            "overview": "Lisa Conroy is general manager at a highway-side 'sports bar with curves', Double Whammies. She nurtures and protects her employees fiercely - but over the course of one trying day, her optimism is battered from every direction. Double Whammies sells a big, weird American fantasy, but what happens when reality pokes a bunch of holes in it?",
+            "popularity": 0.714,
+            "poster_path": "/hXfwrs8g3pY4mmaO5WDAowWLqBg.jpg",
+            "release_date": "2018-08-24",
+            "title": "Support the Girls",
+            "video": false,
+            "vote_average": 6.08,
+            "vote_count": 175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2FqFdUxRekbNdow3vZdtDqL96z.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 402897,
+            "original_language": "en",
+            "original_title": "The Death of Stalin",
+            "overview": "When dictator Joseph Stalin dies, his parasitic cronies square off in a frantic power struggle to become the next Soviet leader. As they bumble, brawl and back-stab their way to the top, the question remains \u2014 just who is running the government?",
+            "popularity": 2.5852,
+            "poster_path": "/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg",
+            "release_date": "2017-10-20",
+            "title": "The Death of Stalin",
+            "video": false,
+            "vote_average": 7.005,
+            "vote_count": 1982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sGRA5xjv5XgHcnIm7zojZNSRWQr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 299782,
+            "original_language": "en",
+            "original_title": "The Other Side of the Wind",
+            "overview": "Surrounded by fans and sceptics, grizzled director J.J. \"Jake\" Hannaford returns from years abroad in Europe to a changed Hollywood, where he attempts to make his innovative comeback film.  This film was started in 1970 but never completed during Welles's lifetime.",
+            "popularity": 0.5839,
+            "poster_path": "/pFeWBVcCehkdr1BvXaVrepGUJQK.jpg",
+            "release_date": "2018-11-02",
+            "title": "The Other Side of the Wind",
+            "video": false,
+            "vote_average": 6.713,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 299536,
+            "original_language": "en",
+            "original_title": "Avengers: Infinity War",
+            "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "popularity": 27.0041,
+            "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "release_date": "2018-04-25",
+            "title": "Avengers: Infinity War",
+            "video": false,
+            "vote_average": 8.236,
+            "vote_count": 30761
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wXsDDQ4JEdvzL19DUsbsKzlPq9f.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 489985,
+            "original_language": "en",
+            "original_title": "Minding the Gap",
+            "overview": "Three young men bond together to escape volatile families in their Rust Belt hometown. As they face adult responsibilities, unexpected revelations threaten their decade-long friendship.",
+            "popularity": 2.0146,
+            "poster_path": "/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+            "release_date": "2018-08-17",
+            "title": "Minding the Gap",
+            "video": false,
+            "vote_average": 7.741,
+            "vote_count": 185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 490132,
+            "original_language": "en",
+            "original_title": "Green Book",
+            "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+            "popularity": 9.7655,
+            "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+            "release_date": "2018-11-16",
+            "title": "Green Book",
+            "video": false,
+            "vote_average": 8.229,
+            "vote_count": 12131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
+            "genre_ids": [
+                12,
+                35,
+                16
+            ],
+            "id": 399174,
+            "original_language": "en",
+            "original_title": "Isle of Dogs",
+            "overview": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
+            "popularity": 6.3487,
+            "poster_path": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+            "release_date": "2018-03-23",
+            "title": "Isle of Dogs",
+            "video": false,
+            "vote_average": 7.847,
+            "vote_count": 5081
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j7rl2LphIbC88FppTfwJ5Gxj9kX.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 11906,
+            "original_language": "it",
+            "original_title": "Suspiria",
+            "overview": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+            "popularity": 3.6807,
+            "poster_path": "/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg",
+            "release_date": "1977-02-01",
+            "title": "Suspiria",
+            "video": false,
+            "vote_average": 7.488,
+            "vote_count": 3023
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 429197,
+            "original_language": "en",
+            "original_title": "Vice",
+            "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive r\u00e9sum\u00e9 includes stints as White House chief of staff, House Minority Whip and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+            "popularity": 2.7748,
+            "poster_path": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+            "release_date": "2018-12-25",
+            "title": "Vice",
+            "video": false,
+            "vote_average": 7.016,
+            "vote_count": 3438
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zTnpY0BXP6ytvV4ZMsAmsIEDmNM.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 481432,
+            "original_language": "it",
+            "original_title": "Lazzaro felice",
+            "overview": "Purehearted teen Lazzaro is content living as a sharecropper in rural Italy, but an unlikely friendship with the marquise\u2019s son will change his world.",
+            "popularity": 1.1863,
+            "poster_path": "/j4x1O6G0cbchHQwNsEZ0DntOJMJ.jpg",
+            "release_date": "2018-05-31",
+            "title": "Happy as Lazzaro",
+            "video": false,
+            "vote_average": 7.389,
+            "vote_count": 728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6p6H2b4jZrm6V4uf39X21xAPgrK.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 458342,
+            "original_language": "en",
+            "original_title": "Private Life",
+            "overview": "Richard and Rachel, a couple in the throes of infertility, try to maintain their marriage as they descend deeper and deeper into the insular world of assisted reproduction and domestic adoption.",
+            "popularity": 0.661,
+            "poster_path": "/ljym9jQlw1HypwZxlfsjuWcjQV8.jpg",
+            "release_date": "2018-10-05",
+            "title": "Private Life",
+            "video": false,
+            "vote_average": 6.905,
+            "vote_count": 386
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y00OqbAb2AZMz8JM19vmjjCN1KU.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 468735,
+            "original_language": "en",
+            "original_title": "Madeline's Madeline",
+            "overview": "Madeline has become an integral part of a prestigious physical theater troupe. When the workshop's ambitious director pushes the teenager to weave her rich interior world and troubled history with her mother into their collective art, the lines between performance and reality begin to blur. The resulting battle between imagination and appropriation rips out of the rehearsal space and through all three women's lives.",
+            "popularity": 0.6319,
+            "poster_path": "/8PcvYO5SHmPUFzdXpI2kzj3JtXN.jpg",
+            "release_date": "2018-08-10",
+            "title": "Madeline's Madeline",
+            "video": false,
+            "vote_average": 5.839,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/FVsbs04gwhjCug1LBSFO1wtUOD.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 431017,
+            "original_language": "fr",
+            "original_title": "Un beau soleil int\u00e9rieur",
+            "overview": "Isabelle, Parisian artist, divorced mother, is looking for love, true love, at last.",
+            "popularity": 0.7988,
+            "poster_path": "/6O5F7dN47KUTB1HXcBvQlaQYYR6.jpg",
+            "release_date": "2017-09-27",
+            "title": "Let the Sunshine In",
+            "video": false,
+            "vote_average": 5.209,
+            "vote_count": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+            "genre_ids": [
+                18,
+                27,
+                80,
+                53
+            ],
+            "id": 398173,
+            "original_language": "en",
+            "original_title": "The House That Jack Built",
+            "overview": "Failed architect, engineer and vicious murderer Jack narrates the details of some of his most elaborately orchestrated crimes, each of them a towering piece of art that defines his life's work as a serial killer for twelve years.",
+            "popularity": 3.1022,
+            "poster_path": "/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg",
+            "release_date": "2018-07-05",
+            "title": "The House That Jack Built",
+            "video": false,
+            "vote_average": 7.126,
+            "vote_count": 2889
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wGfuDcS3dJ1EFivBDWDQAQfsk0G.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 11830,
+            "original_language": "ja",
+            "original_title": "\u30bf\u30f3\u30dd\u30dd",
+            "overview": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life.",
+            "popularity": 1.4678,
+            "poster_path": "/2XLDb3RDQmtlxt5Snnig9W4moq4.jpg",
+            "release_date": "1985-11-23",
+            "title": "Tampopo",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 455207,
+            "original_language": "en",
+            "original_title": "Crazy Rich Asians",
+            "overview": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+            "popularity": 7.5721,
+            "poster_path": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+            "release_date": "2018-08-15",
+            "title": "Crazy Rich Asians",
+            "video": false,
+            "vote_average": 7.062,
+            "vote_count": 3771
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qjLkeDuzGO6GxKyUHFq0UsDTK7M.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 489994,
+            "original_language": "en",
+            "original_title": "Shirkers",
+            "overview": "In 1992, teenager Sandi Tan shot Singapore's first indie road movie with her enigmatic American mentor Georges \u2013 who then vanished with all the footage. Twenty years later, the 16mm film is recovered, sending Tan, now a novelist in Los Angeles, on a personal odyssey in search of Georges' vanishing footprints.",
+            "popularity": 0.9321,
+            "poster_path": "/spd1fZNePSQFRhNam66jx3ZMoxF.jpg",
+            "release_date": "2018-01-21",
+            "title": "Shirkers",
+            "video": false,
+            "vote_average": 7.33,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 470044,
+            "original_language": "en",
+            "original_title": "The Hate U Give",
+            "overview": "Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she's torn between her two very different worlds as she tries to speak her truth.",
+            "popularity": 2.8943,
+            "poster_path": "/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+            "release_date": "2018-10-19",
+            "title": "The Hate U Give",
+            "video": false,
+            "vote_average": 8.094,
+            "vote_count": 2165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2shn4Kiq7qInZgKZhqM5BKie1zL.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 489988,
+            "original_language": "en",
+            "original_title": "Three Identical Strangers",
+            "overview": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives \u2013 and could transform our understanding of human nature forever.",
+            "popularity": 1.7995,
+            "poster_path": "/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+            "release_date": "2018-06-29",
+            "title": "Three Identical Strangers",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 750
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a26Gj4TqFKEdku1XLIWLFpzUgv4.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 407890,
+            "original_language": "en",
+            "original_title": "Lean on Pete",
+            "overview": "Charley Thompson, a teenager living with his single father, gets a summer job working for horse trainer Del Montgomery. Bonding with an aging racehorse named Lean on Pete, Charley is horrified to learn he is bound for slaughter, and so he steals the horse, and the duo embark on an odyssey across the new American frontier.",
+            "popularity": 1.0728,
+            "poster_path": "/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg",
+            "release_date": "2018-04-06",
+            "title": "Lean on Pete",
+            "video": false,
+            "vote_average": 6.925,
+            "vote_count": 346
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2FT4Li1enVvQBaYSqvGji6vlvbE.jpg",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "id": 356199,
+            "original_language": "en",
+            "original_title": "Amazing Grace",
+            "overview": "A behind-the-scenes documentary about the recording of Aretha Franklin's best-selling album finally sees the light of day more than four decades after the original footage was shot.",
+            "popularity": 0.5316,
+            "poster_path": "/eABsBr5TnW8FBSSSsAKFnwDW1BW.jpg",
+            "release_date": "2018-12-07",
+            "title": "Amazing Grace",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 103
+        }
+    ]
+}

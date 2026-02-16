@@ -1,0 +1,721 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1982",
+    "source": "https://criticstop10.com/best-movies-of-1982/",
+    "created_by": "lbnt",
+    "added": "07/29/25",
+    "modified": "07/29/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+            "genre_ids": [
+                878,
+                12,
+                10751,
+                14
+            ],
+            "id": 601,
+            "original_language": "en",
+            "original_title": "E.T. the Extra-Terrestrial",
+            "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliot who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliot, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+            "popularity": 9.8119,
+            "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+            "release_date": "1982-06-11",
+            "title": "E.T. the Extra-Terrestrial",
+            "video": false,
+            "vote_average": 7.514,
+            "vote_count": 11482
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 9576,
+            "original_language": "en",
+            "original_title": "Tootsie",
+            "overview": "When struggling, out of work actor Michael Dorsey secretly adopts a female alter ego \u2013 Dorothy Michaels \u2013 in order to land a part in a daytime drama, he unwittingly becomes a feminist icon and ends up in a romantic pickle.",
+            "popularity": 2.1363,
+            "poster_path": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+            "release_date": "1982-12-17",
+            "title": "Tootsie",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1825
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sgsW7aqUXg4jG2GcoLKotSvp807.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 24226,
+            "original_language": "en",
+            "original_title": "The Verdict",
+            "overview": "Frank Galvin is a down-on-his-luck lawyer and reduced to drinking and ambulance chasing, when a former associate reminds him of his obligations in a medical malpractice suit by serving it to Galvin on a silver platter\u2014all parties are willing to settle out of court. Blundering his way through the preliminaries, Galvin suddenly realizes that the case should actually go to court\u2014to punish the guilty, to get a decent settlement for his clients... and to restore his standing as a lawyer.",
+            "popularity": 1.8311,
+            "poster_path": "/bAe0telFqAzdV8a7aUiIBMEy9d8.jpg",
+            "release_date": "1982-12-08",
+            "title": "The Verdict",
+            "video": false,
+            "vote_average": 7.442,
+            "vote_count": 669
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/teiop9EWCTTlQ833jrhUPKkK5fs.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 13776,
+            "original_language": "en",
+            "original_title": "Diner",
+            "overview": "Set in 1959, Diner shows how five young men resist their adulthood and seek refuge in their beloved Diner. The mundane, childish, and titillating details of their lives are shared. But the golden moments pass, and the men shoulder their responsibilities, leaving the Diner behind.",
+            "popularity": 0.8226,
+            "poster_path": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
+            "release_date": "1982-04-02",
+            "title": "Diner",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 288
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/49rQkLwYxUK7zQP69e87MspS4E2.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 15600,
+            "original_language": "en",
+            "original_title": "Missing",
+            "overview": "Based on the real-life experiences of Ed Horman. A conservative American businessman travels to Chile to investigate the sudden disappearance of his son after a military takeover. Accompanied by his son's wife he uncovers a trail of cover-ups that implicate the US State department which supports the dictatorship.",
+            "popularity": 0.8333,
+            "poster_path": "/fAAhC4RkpXu7SJgIESWQwVxcelo.jpg",
+            "release_date": "1982-02-12",
+            "title": "Missing",
+            "video": false,
+            "vote_average": 7.257,
+            "vote_count": 403
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 783,
+            "original_language": "en",
+            "original_title": "Gandhi",
+            "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+            "popularity": 2.1708,
+            "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+            "release_date": "1982-12-01",
+            "title": "Gandhi",
+            "video": false,
+            "vote_average": 7.553,
+            "vote_count": 2370
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 387,
+            "original_language": "de",
+            "original_title": "Das Boot",
+            "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+            "popularity": 3.186,
+            "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+            "release_date": "1981-09-17",
+            "title": "Das Boot",
+            "video": false,
+            "vote_average": 8.084,
+            "vote_count": 2328
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Xb0LfbdrS2pwDYyMkUiawzbGBu.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 2623,
+            "original_language": "en",
+            "original_title": "An Officer and a Gentleman",
+            "overview": "Zack Mayo is an aloof, taciturn man who aspires to be a navy pilot. Once he arrives at training camp for his 13-week officer's course, Mayo runs afoul of abrasive, no-nonsense drill Sergeant Emil Foley. Mayo is an excellent cadet, but a little cold around the heart, so Foley rides him mercilessly, sensing that the young man would be prime officer material if he weren't so self-involved. Zack's affair with a working girl is likewise compromised by his unwillingness to give of himself.",
+            "popularity": 3.2099,
+            "poster_path": "/69adZbLeRk5TNQ3e0008dMnde9p.jpg",
+            "release_date": "1982-07-28",
+            "title": "An Officer and a Gentleman",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uiUpvnv8zgA2pm1J7tT8DPLxh84.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 15764,
+            "original_language": "en",
+            "original_title": "Sophie's Choice",
+            "overview": "Stingo, a young writer, moves to Brooklyn in 1947 to begin work on his first novel. As he becomes friendly with Sophie and her lover Nathan, he learns that she is a Holocaust survivor. Flashbacks reveal her harrowing story, from pre-war prosperity to Auschwitz. In the present, Sophie and Nathan's relationship increasingly unravels as Stingo grows closer to Sophie and Nathan's fragile mental state becomes ever more apparent.",
+            "popularity": 1.8737,
+            "poster_path": "/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
+            "release_date": "1982-12-08",
+            "title": "Sophie's Choice",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 882
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bEc081q9Ju5QLEOvAc6vMWUjW1p.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 11307,
+            "original_language": "en",
+            "original_title": "The World According to Garp",
+            "overview": "A struggling young writer finds his life and work dominated by his unfaithful wife and his radical feminist mother, whose best-selling manifesto turns her into a cultural icon.",
+            "popularity": 0.8619,
+            "poster_path": "/9ItRFdSCb7Sz3AC9LRxAzbH73kG.jpg",
+            "release_date": "1982-07-23",
+            "title": "The World According to Garp",
+            "video": false,
+            "vote_average": 6.68,
+            "vote_count": 358
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fzQ3ObTe924mzrq5M0qI64gzBvb.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 31044,
+            "original_language": "en",
+            "original_title": "My Favorite Year",
+            "overview": "Fledgling comic Benjy Stone can't believe his luck when his childhood hero, the swashbuckling matinee idol Alan Swann, gets booked to appear on the variety show he writes for. But when Swann arrives, he fails to live up to his silver screen image. Instead, he's a drunken womanizer who suffers from stage fright. Benjy is assigned to look after him before the show, and it's all he can do to keep his former idol from going completely off the rails.",
+            "popularity": 0.388,
+            "poster_path": "/xksAhZJx1WmHM03OaePNe9IiEBt.jpg",
+            "release_date": "1982-10-01",
+            "title": "My Favorite Year",
+            "video": false,
+            "vote_average": 6.665,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/elG982NKWQDhAdJ7KO5i3mBsbtW.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 4485,
+            "original_language": "fr",
+            "original_title": "Diva",
+            "overview": "Jules, a young Parisian postman, secretly records a concert performance given by the opera singer Cynthia Hawkins, whom he idolises. The following day, Jules runs into a woman who is being pursued by armed thugs. Before she is killed, the woman slips an audio cassette into his mail bag...",
+            "popularity": 0.8581,
+            "poster_path": "/L6ZrY3vU8o5GhRgQGV2MZ9AhmA.jpg",
+            "release_date": "1981-03-11",
+            "title": "Diva",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                10749
+            ],
+            "id": 12614,
+            "original_language": "en",
+            "original_title": "Victor/Victoria",
+            "overview": "A struggling female soprano finds work playing a male female impersonator, but it complicates her personal life.",
+            "popularity": 0.7057,
+            "poster_path": "/mCjXcPRM3Rc7gOCGeVrBdPvF2bk.jpg",
+            "release_date": "1982-04-25",
+            "title": "Victor/Victoria",
+            "video": false,
+            "vote_average": 7.285,
+            "vote_count": 425
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3gxGELiJ6wVJdKxlEuvagDV8UyN.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 52772,
+            "original_language": "en",
+            "original_title": "Shoot the Moon",
+            "overview": "After fifteen years of marriage, an affluent couple divorce and take up with new partners.",
+            "popularity": 0.4556,
+            "poster_path": "/71GK3DRyFWN0Ke0s8WwgEEEOUJQ.jpg",
+            "release_date": "1982-01-22",
+            "title": "Shoot the Moon",
+            "video": false,
+            "vote_average": 6.386,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "id": 8810,
+            "original_language": "en",
+            "original_title": "Mad Max 2",
+            "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+            "popularity": 4.5087,
+            "poster_path": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+            "release_date": "1981-12-24",
+            "title": "Mad Max 2",
+            "video": false,
+            "vote_average": 7.387,
+            "vote_count": 3924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 609,
+            "original_language": "en",
+            "original_title": "Poltergeist",
+            "overview": "Upon realizing that something truly evil haunts his home, Steve Freeling calls in a team of parapsychologists to help before it's too late.",
+            "popularity": 2.9624,
+            "poster_path": "/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+            "release_date": "1982-06-04",
+            "title": "Poltergeist",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 3127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ncO9pjB0PZ603Tp1LgbNpkeUxzL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11911,
+            "original_language": "de",
+            "original_title": "Mephisto",
+            "overview": "A German stage actor finds unexpected success and mixed blessings in the popularity of his performance in a Faustian play as the Nazis take power in pre-WWII Germany. As his associates and friends flee or are ground under by the Nazi terror, the popularity of his character supercedes his own existence until he finds that his best performance is keeping up appearances for his Nazi patrons.",
+            "popularity": 0.7813,
+            "poster_path": "/SNJoUTU8PSxQlj3RkrwYGOQPyj.jpg",
+            "release_date": "1981-02-11",
+            "title": "Mephisto",
+            "video": false,
+            "vote_average": 7.216,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7DrbZclOmUP2B9Ehmu5JNkrfjsT.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42134,
+            "original_language": "en",
+            "original_title": "Moonlighting",
+            "overview": "A Polish contractor, Nowak, leads a group of workmen to London so they can provide cheap labor for a government official based there. Nowak has to manage the project and the men as they encounter the tempations of the West and loneliness and separation from their families. Nowak is the only one of the group who speaks English, and he uses this as a tool over his team. When the unrest in Poland leads to a military takeover, Nowak is faced with a much more difficult situation than he expected.",
+            "popularity": 1.1358,
+            "poster_path": "/lOgz7d1QxgPgAlRtf8i3yMCHYAO.jpg",
+            "release_date": "1982-09-18",
+            "title": "Moonlighting",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/njsZ2rBTKXbwurqmA4h0OKlUnNM.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 27609,
+            "original_language": "en",
+            "original_title": "Personal Best",
+            "overview": "Young sprinter Chris Cahill is having difficulty reaching her potential as an athlete, until she meets established track star Tory Skinner. As Tory and her coach help Chris with her training, the two women form friendship that evolves into a romantic relationship. Their intimacy, however, becomes complicated when Chris' improvement causes them to be competitors for the Olympic team.",
+            "popularity": 0.5854,
+            "poster_path": "/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg",
+            "release_date": "1982-02-05",
+            "title": "Personal Best",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tew0Z5gYtvkzOgrSfg1qol0pmc2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 27332,
+            "original_language": "en",
+            "original_title": "Tex",
+            "overview": "After their mother dies and their father leaves them, teenage brothers Tex and Mason McCormick struggle to make it on their own.",
+            "popularity": 0.5107,
+            "poster_path": "/7WIIIZJ1iv2UCbYDiLHeGr1LOGV.jpg",
+            "release_date": "1982-07-30",
+            "title": "Tex",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEiOrpMvC4IXVWhZPfJd53sclUJ.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 21764,
+            "original_language": "en",
+            "original_title": "Gregory's Girl",
+            "overview": "A teenager falls hard for the female soccer player who has replaced him on the team and attempts to pursue her.",
+            "popularity": 0.3867,
+            "poster_path": "/vVOdKnervWwvxIeJzLCqQzQPs7o.jpg",
+            "release_date": "1981-04-23",
+            "title": "Gregory's Girl",
+            "video": false,
+            "vote_average": 6.777,
+            "vote_count": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+            "genre_ids": [
+                878,
+                18,
+                53
+            ],
+            "id": 78,
+            "original_language": "en",
+            "original_title": "Blade Runner",
+            "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+            "popularity": 12.9157,
+            "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+            "release_date": "1982-06-25",
+            "title": "Blade Runner",
+            "video": false,
+            "vote_average": 7.941,
+            "vote_count": 14260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/crxRwbzJCMmu7nfnUx0mDvYs2Px.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18,
+                9648
+            ],
+            "id": 14807,
+            "original_language": "en",
+            "original_title": "The Long Good Friday",
+            "overview": "In the late 1970s, Cockney crime boss Harold Shand, a gangster trying to become a legitimate property mogul, has big plans to get the American Mafia to bankroll his transformation of a derelict area of London into the possible venue for a future Olympic Games. However, a series of bombings targets his empire on the very weekend the Americans are in town. Shand is convinced there is a traitor in his organization, and sets out to eliminate the rat in typically ruthless fashion.",
+            "popularity": 1.8532,
+            "poster_path": "/pXS667me5Jfoj1b0xuxgjEMKunF.jpg",
+            "release_date": "1980-11-01",
+            "title": "The Long Good Friday",
+            "video": false,
+            "vote_average": 7.142,
+            "vote_count": 391
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yWdlOunLPsqACjLBrZll8fpX2Ok.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42150,
+            "original_language": "it",
+            "original_title": "Tre fratelli",
+            "overview": "In a farmhouse in southern Italy, an old woman dies. Her husband summons their sons: from Rome, Raffaele, a judge facing a political case for which he risks assassination; from Naples, the religious and ideological Rocco, a counselor at a correctional institute for boys; from Turin, Nicola, a factory worker involved in labor disputes. Once home, each encounters the past and engages in reveries of what may come.",
+            "popularity": 0.2569,
+            "poster_path": "/7sSuFTKNvno73Gn1CII5PuAgTWU.jpg",
+            "release_date": "1981-03-19",
+            "title": "Three Brothers",
+            "video": false,
+            "vote_average": 6.311,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/46iMqI1qzAtnXJxGRNCFwYNYqOo.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 9343,
+            "original_language": "de",
+            "original_title": "Fitzcarraldo",
+            "overview": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
+            "popularity": 2.2904,
+            "poster_path": "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+            "release_date": "1982-03-02",
+            "title": "Fitzcarraldo",
+            "video": false,
+            "vote_average": 7.63,
+            "vote_count": 809
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Hu3TMEcdtACZBXTBe4CiNVSIIV.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25773,
+            "original_language": "en",
+            "original_title": "The Chosen",
+            "overview": "In a 1940s New York, two Jewish teenage boys are determined to remain friends despite the deep differences between their two families.",
+            "popularity": 2.3795,
+            "poster_path": "/wtw4jMMKz5CfB4H408XGAa87XHp.jpg",
+            "release_date": "1981-08-20",
+            "title": "The Chosen",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5l3Xb2WQR0nXiVhbj5rAv0z4xsZ.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 62204,
+            "original_language": "fr",
+            "original_title": "La Guerre du feu",
+            "overview": "In the prehistoric world, a Cro-Magnon tribe depends on an ever-burning source of fire, which eventually extinguishes. Lacking the knowledge to start a new fire, the tribe sends three warriors on a quest for more. With the tribe's future at stake, the warriors make their way across a treacherous landscape full of hostile tribes and monstrous beasts. On their journey, they encounter Ika, a woman who has the knowledge they seek.",
+            "popularity": 1.4772,
+            "poster_path": "/tyzW1M00xfHKNtmTlT6wJ3F4pNr.jpg",
+            "release_date": "1981-12-16",
+            "title": "Quest for Fire",
+            "video": false,
+            "vote_average": 7.018,
+            "vote_count": 533
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53,
+                878
+            ],
+            "id": 8810,
+            "original_language": "en",
+            "original_title": "Mad Max 2",
+            "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+            "popularity": 4.5087,
+            "poster_path": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+            "release_date": "1981-12-24",
+            "title": "Mad Max 2",
+            "video": false,
+            "vote_average": 7.387,
+            "vote_count": 3924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bJd8rcyl6hAt6nDbEFhrxKlBrNJ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 2264,
+            "original_language": "de",
+            "original_title": "Lola",
+            "overview": "Germany in the autumn of 1957: Lola, a seductive cabaret singer-prostitute exults in her power as a temptress of men, but she wants out\u2014she wants money, property, and love. Pitting a corrupt building contractor against the new straight-arrow building commissioner, Lola launches an outrageous plan to elevate herself in a world where everything, and everyone, is for sale. Shot in childlike candy colors, Fassbinder\u2019s homage to Josef von Sternberg\u2019s classic The Blue Angel stands as a satiric tribute to capitalism.",
+            "popularity": 0.9626,
+            "poster_path": "/rZqgDP5kRqh2eaPj5uLzYEbWz40.jpg",
+            "release_date": "1981-08-20",
+            "title": "Lola",
+            "video": false,
+            "vote_average": 6.975,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/peLCkXDhUr7QxA2QDRDp7be7hQZ.jpg",
+            "genre_ids": [
+                80,
+                28,
+                35
+            ],
+            "id": 150,
+            "original_language": "en",
+            "original_title": "48 Hrs.",
+            "overview": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him, in order to track down a killer.",
+            "popularity": 3.064,
+            "poster_path": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+            "release_date": "1982-12-07",
+            "title": "48 Hrs.",
+            "video": false,
+            "vote_average": 6.684,
+            "vote_count": 1578
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uJy8ctBizlGWSslY3PZ8Pi0BWgt.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 33310,
+            "original_language": "en",
+            "original_title": "Smash Palace",
+            "overview": "Al Shaw's life revolves around motor racing and his back country junkyard, the \"Smash Palace\". His French wife, Jacqui, doesn't appreciate the lack of attention due to Al's obsession with cars. When Al finds her in the arms of another man, he takes his daughter, Georgie and heads for the bush, desperately hoping to hold on to the only family he has left.",
+            "popularity": 0.3407,
+            "poster_path": "/84u6i9r8jsqTYVG6SRd0CvlaoP6.jpg",
+            "release_date": "1981-05-01",
+            "title": "Smash Palace",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yUx3HXWybmOrvV6kffLarIFqZ57.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1371,
+            "original_language": "en",
+            "original_title": "Rocky III",
+            "overview": "After an intense fight with Clubber Lang and the death of his trainer Mickey, Rocky Balboa is left devastated. Former rival Apollo Creed steps in to help Balboa get back his fighting spirit.",
+            "popularity": 7.1148,
+            "poster_path": "/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+            "release_date": "1982-05-28",
+            "title": "Rocky III",
+            "video": false,
+            "vote_average": 6.895,
+            "vote_count": 4271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tLhQsabJnYbs1oCK0JgcZ4DPRnL.jpg",
+            "genre_ids": [
+                35,
+                99
+            ],
+            "id": 21923,
+            "original_language": "en",
+            "original_title": "Richard Pryor: Live on the Sunset Strip",
+            "overview": "Richard Pryor's stand-up act includes his frank discussion about his freebasing addiction, as well as the infamous night on June 9, 1980 that he caught on fire.",
+            "popularity": 0.1891,
+            "poster_path": "/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
+            "release_date": "1982-03-12",
+            "title": "Richard Pryor: Live on the Sunset Strip",
+            "video": false,
+            "vote_average": 7.309,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pE7XVUxxQ9qdCQKhBWalYNA57I8.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 35797,
+            "original_language": "fr",
+            "original_title": "Coup de torchon",
+            "overview": "A pathetic police chief, humiliated by everyone around him, suddenly wants a clean slate in life, and resorts to drastic means to achieve it.",
+            "popularity": 0.8345,
+            "poster_path": "/sYlANrZi5vxaHhmPaktuPlsO2Wz.jpg",
+            "release_date": "1981-11-04",
+            "title": "Coup de Torchon",
+            "video": false,
+            "vote_average": 7.047,
+            "vote_count": 203
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dPDnJSzMkALlzbJG9v7DTwFBFiL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 42132,
+            "original_language": "hu",
+            "original_title": "Meg\u00e1ll az id\u0151",
+            "overview": "A Budapest high school in the beginning of the 1960s. Dini suffers the torments of adolescence. His father had to leave Hungary after the uprise in 1956, and since then Dini's mother has had to take care of her two sons on her own. A friend of Dini\u2019s father, Bodor, is released from prison and moves in with them. Dini and his brother are far from happy about this intrusion on their family life.",
+            "popularity": 0.1408,
+            "poster_path": "/3Xla9F2wjXnVEcGYVoSsG7nTLvJ.jpg",
+            "release_date": "1982-10-07",
+            "title": "Time Stands Still",
+            "video": false,
+            "vote_average": 6.538,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "id": 154,
+            "original_language": "en",
+            "original_title": "Star Trek II: The Wrath of Khan",
+            "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+            "popularity": 2.2884,
+            "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+            "release_date": "1982-06-04",
+            "title": "Star Trek II: The Wrath of Khan",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1998
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ks7mFdNkLUssfJjWxIIEfL53ZRB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 67772,
+            "original_language": "en",
+            "original_title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
+            "overview": "On the 20th anniversary of his death, the members of a James Dean fanclub gather at a five-and-dime for a reunion.",
+            "popularity": 0.5966,
+            "poster_path": "/bnXigd6wq4XVfGLa67185cvXJuY.jpg",
+            "release_date": "1982-11-12",
+            "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 72
+        }
+    ]
+}

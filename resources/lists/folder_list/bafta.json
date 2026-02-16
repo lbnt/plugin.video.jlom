@@ -1,0 +1,18 @@
+{
+    "type" : "folder_list",
+    "title" : "BAFTA",
+    "added" : "31/01/26",
+    "modified" : "31/01/26",
+    "folders" : [
+        {
+            "title" : "BAFTA - Best film",
+            "id" : "bafta-best_film",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "BAFTA - Outstanding British Film",
+            "id" : "bafta-outstanding_british_film",
+            "type" : "movie_list"
+        }
+    ]
+}

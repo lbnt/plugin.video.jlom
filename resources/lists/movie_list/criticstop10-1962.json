@@ -1,0 +1,660 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1962",
+    "source": "https://criticstop10.com/best-movies-of-1962/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/v0kWieDdaMpThbcLr3lsjvCBj4I.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 109667,
+            "original_language": "en",
+            "original_title": "David and Lisa",
+            "overview": "Teenager David Clemens develops a hysterical fear that he will die if he comes into physical contact with another person. Perturbed, David's overbearing mother places him in a home for mentally disturbed young people, but David remains withdrawn from the other patients and his psychiatrist. Over time, however, David grows interested in 15-year-old Lisa, who suffers from multiple personalities \u2013 one who can only speak in rhyme, and the other, a mute.",
+            "popularity": 1.7409,
+            "poster_path": "/jujTT52xmggRVwdWvSD2DPqUI1O.jpg",
+            "release_date": "1962-12-26",
+            "title": "David and Lisa",
+            "video": false,
+            "vote_average": 7.281,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bbec0wDUaV8nQnQHC6Fb0fSYwNM.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 982,
+            "original_language": "en",
+            "original_title": "The Manchurian Candidate",
+            "overview": "Near the end of the Korean War, a platoon of U.S. soldiers is captured by communists and brainwashed. Following the war, the platoon is returned home, and Sergeant Raymond Shaw is lauded as a hero by the rest of his platoon. However, the platoon commander, Captain Bennett Marco, finds himself plagued by strange nightmares and soon races to uncover a terrible plot.",
+            "popularity": 1.731,
+            "poster_path": "/h0mkK00GjBCJoBYm3yvPdkzlIyV.jpg",
+            "release_date": "1962-10-24",
+            "title": "The Manchurian Candidate",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 745
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/urXv48loBPvUDf8CF1YtYjmRECW.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                10402,
+                10749
+            ],
+            "id": 13671,
+            "original_language": "en",
+            "original_title": "The Music Man",
+            "overview": "A con man comes to an Iowa town with a scam using a boy's marching band program, but things don't go according to plan.",
+            "popularity": 0.9783,
+            "poster_path": "/4yo6qaqVF1IThXMapo4yW9BRWjV.jpg",
+            "release_date": "1962-06-19",
+            "title": "The Music Man",
+            "video": false,
+            "vote_average": 7.082,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5bvQEihHBKJ0Rs1J46HcG0wASDr.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1162,
+            "original_language": "en",
+            "original_title": "The Miracle Worker",
+            "overview": "The true story of the frightening, lonely world of silence and darkness of 7-year-old Helen Keller who, since infancy, has never seen the sky, heard her mother's voice or expressed her innermost feelings. Then Annie Sullivan, a 20-year-old teacher from Boston, arrives. Having just recently regained her own sight, the no-nonsense Annie reaches out to Helen through the power of touch, the only tool they have in common, and leads her bold pupil on a miraculous journey from fear and isolation to happiness and light.",
+            "popularity": 1.3276,
+            "poster_path": "/dXbQE7t9JlLad0dSprWJ3jOiTua.jpg",
+            "release_date": "1962-05-23",
+            "title": "The Miracle Worker",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 317
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1yWn9A2LN0uRGudIg0bV2Np6T69.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 9289,
+            "original_language": "en",
+            "original_title": "The Longest Day",
+            "overview": "The retelling of June 6, 1944, from the perspectives of the Germans, US, British, Canadians, and the Free French. Marshall Erwin Rommel, touring the defenses being established as part of the Reich's Atlantic Wall, notes to his officers that when the Allied invasion comes they must be stopped on the beach. \"For the Allies as well as the Germans, it will be the longest day\"",
+            "popularity": 3.3891,
+            "poster_path": "/5zmvEofdIlgXrQl9A7e5IOzlnFU.jpg",
+            "release_date": "1962-09-25",
+            "title": "The Longest Day",
+            "video": false,
+            "vote_average": 7.59,
+            "vote_count": 974
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zP6pqpSRRiOCjjC5oWKZKkHqoSB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 595,
+            "original_language": "en",
+            "original_title": "To Kill a Mockingbird",
+            "overview": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+            "popularity": 3.7151,
+            "poster_path": "/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
+            "release_date": "1962-12-20",
+            "title": "To Kill a Mockingbird",
+            "video": false,
+            "vote_average": 7.99,
+            "vote_count": 2711
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fSvgYaDHuGZu19VppzuieBYOduO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 53229,
+            "original_language": "en",
+            "original_title": "Requiem for a Heavyweight",
+            "overview": "Mountain Rivera is a veteran heavyweight and near-champion who suddenly finds himself washed up in the only trade he knows\u2014prizefighting. Yet, threatened by gangsters for welshing on a gambling debt, Mountain\u2019s opportunistic manager, Maish Rennick, schemes to get the ex-boxer into a phony wrestling match to make some quick money. Although he and his loyal trainer, Army, oppose the degrading proposition, the disillusioned Mountain begins to wonder if he has any options left.",
+            "popularity": 0.2967,
+            "poster_path": "/qUKTcUhIeFZO0ZGvjja5bx1rsMu.jpg",
+            "release_date": "1962-10-16",
+            "title": "Requiem for a Heavyweight",
+            "video": false,
+            "vote_average": 7.226,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1J6QXImtqIQxiOdVTonLV5IbRwA.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 898,
+            "original_language": "en",
+            "original_title": "Birdman of Alcatraz",
+            "overview": "After killing a prison guard, convict Robert Stroud faces life imprisonment in solitary confinement. Driven nearly mad by loneliness and despair, Stroud's life gains new meaning when he happens upon a helpless baby sparrow in the exercise yard and nurses it back to health. Despite having only a third grade education, Stroud goes on to become a renowned ornithologist and achieves a greater sense of freedom and purpose behind bars than most people find in the outside world.",
+            "popularity": 1.2818,
+            "poster_path": "/6EODLN11HTX4l2cmakAhWIoJLF.jpg",
+            "release_date": "1962-07-04",
+            "title": "Birdman of Alcatraz",
+            "video": false,
+            "vote_average": 7.475,
+            "vote_count": 322
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nKwGUiqPdNf47XFjlbR5IFwAaOL.jpg",
+            "genre_ids": [
+                12,
+                36,
+                10752
+            ],
+            "id": 947,
+            "original_language": "en",
+            "original_title": "Lawrence of Arabia",
+            "overview": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+            "popularity": 3.416,
+            "poster_path": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+            "release_date": "1962-12-11",
+            "title": "Lawrence of Arabia",
+            "video": false,
+            "vote_average": 7.995,
+            "vote_count": 3190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/28tiYUtQ2nbBhzbrFjMSZbFmPxT.jpg",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "id": 5334,
+            "original_language": "en",
+            "original_title": "Billy Budd",
+            "overview": "Billy is an innocent, naive seaman in the British Navy in 1797. When the ship's sadistic master-at-arms is murdered, Billy is accused and tried.",
+            "popularity": 0.6282,
+            "poster_path": "/mdhGhduqT85qIbSgxD9VP6JvJlH.jpg",
+            "release_date": "1962-11-12",
+            "title": "Billy Budd",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zalZRF7sCtghHFg4xCBJfOqj0h5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25062,
+            "original_language": "en",
+            "original_title": "A Taste of Honey",
+            "overview": "While out to avoid spending time with her narcissistic and promiscuous mother, sixteen-year-old Jo has a brief affair that leaves her pregnant and abandoned. When her mother remarries, Jo's only support becomes her friend Geoffrey, a homosexual.",
+            "popularity": 0.3991,
+            "poster_path": "/5psrZNVZ9E6Eck7OtpO47A8zTbQ.jpg",
+            "release_date": "1961-10-01",
+            "title": "A Taste of Honey",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1L6or9sR7oW4BkYx18NZOwapLkD.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 32488,
+            "original_language": "en",
+            "original_title": "Days of Wine and Roses",
+            "overview": "An alcoholic falls in love with and gets married to a young woman, whom he systematically addicts to booze so they can share his \"passion\" together.",
+            "popularity": 0.7555,
+            "poster_path": "/cRVl1BR3x3P2NqUv61eveJNJ0ip.jpg",
+            "release_date": "1963-02-04",
+            "title": "Days of Wine and Roses",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k6E1lQBDb29OD5c9XlyyVpR4P8E.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 43004,
+            "original_language": "en",
+            "original_title": "Long Day's Journey Into Night",
+            "overview": "An Irish miser, his morphine addicted wife, their debauched older son, and a gravely ill younger son. A quiet Connecticut vacation home on one foggy day in August 1912 becomes the backdrop for domestic decline.",
+            "popularity": 0.4878,
+            "poster_path": "/gCEfENplIS1Ph5yMdz4aJnn1yAB.jpg",
+            "release_date": "1962-10-09",
+            "title": "Long Day's Journey Into Night",
+            "video": false,
+            "vote_average": 6.982,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8PrzDfd0i34h9bLYFm9ts9zEgzJ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 17185,
+            "original_language": "en",
+            "original_title": "Advise & Consent",
+            "overview": "Proposed by the President of the United States to fill the post of Secretary of State, Robert Leffingwell appears before a Senate committee, chaired by the idealistic Senator Brig Anderson, which must decide whether he is the right person for the job.",
+            "popularity": 0.309,
+            "poster_path": "/hdLQlarvUmZVtrbME6y4t6Km9ZC.jpg",
+            "release_date": "1962-06-06",
+            "title": "Advise & Consent",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xO298AhLjxTiJZSdpus5jszuyOy.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 48003,
+            "original_language": "en",
+            "original_title": "Gigot",
+            "overview": "A poignant comedy about a mute who befriends Nicole, the little daughter of a prostitute. Gleason shows his considerable talents as an actor without uttering a sound as he plays the bumbling, kind-hearted janitor, Gigot. Gleason wrote the original story and music for this film.",
+            "popularity": 0.218,
+            "poster_path": "/yICUAhX7RNGgSkZXDHMGq7qNYci.jpg",
+            "release_date": "1962-11-01",
+            "title": "Gigot",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+            "genre_ids": [
+                53,
+                18,
+                27
+            ],
+            "id": 10242,
+            "original_language": "en",
+            "original_title": "What Ever Happened to Baby Jane?",
+            "overview": "A former child star torments her paraplegic sister in their decaying Hollywood mansion.",
+            "popularity": 1.9851,
+            "poster_path": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+            "release_date": "1962-10-31",
+            "title": "What Ever Happened to Baby Jane?",
+            "video": false,
+            "vote_average": 7.908,
+            "vote_count": 1095
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/geVe65VGyRfC3B4eTtF65FAd0il.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 802,
+            "original_language": "en",
+            "original_title": "Lolita",
+            "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+            "popularity": 3.9002,
+            "poster_path": "/8Puqbeh0D95DpXFWep1rmH78btu.jpg",
+            "release_date": "1962-06-13",
+            "title": "Lolita",
+            "video": false,
+            "vote_average": 7.318,
+            "vote_count": 2134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eGxBSkwmRBMWRoH1LiQlLJ6SzRP.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 33632,
+            "original_language": "en",
+            "original_title": "Sweet Bird of Youth",
+            "overview": "Gigolo and drifter Chance Wayne returns to his hometown as the companion of a faded movie star, Alexandra Del Lago, whom he hopes to use to help him break into the movies. Chance runs into trouble when he finds his ex-girlfriend, the daughter of the local politician Tom \"Boss\" Finley, who more or less forced him to leave his daughter and the town many years ago.",
+            "popularity": 0.6608,
+            "poster_path": "/uA9tl4o8P1hNB3lDBhHKHcNGdtr.jpg",
+            "release_date": "1962-03-21",
+            "title": "Sweet Bird of Youth",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aJaWmyx0sIfVLaLneDdCWqwUiFU.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 12708,
+            "original_language": "en",
+            "original_title": "That Touch of Mink",
+            "overview": "Cathy Timberlake is en route to a job interview when a car transporting businessman Philip Shayne covers her in mud. He sends his assistant, Roger, to apologize, but upon meeting Cathy, Roger knows that she would be a suitable match for his boss. Despite their mutual attraction, Cathy and Philip want different things. Philip wants a fling, while Cathy wants a marriage. As they travel to exotic locales, their differing motivations are put to the test.",
+            "popularity": 0.7319,
+            "poster_path": "/eEG29x9cljGKL2GPmRK9IByyL9e.jpg",
+            "release_date": "1962-06-14",
+            "title": "That Touch of Mink",
+            "video": false,
+            "vote_average": 6.42,
+            "vote_count": 176
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fqRGoUOta2bYcAx3tyTvIbDIVzf.jpg",
+            "genre_ids": [
+                12,
+                35,
+                28
+            ],
+            "id": 11385,
+            "original_language": "en",
+            "original_title": "Hatari!",
+            "overview": "A female wildlife photographer arrives on an East African reservation where a group of men trap wild animals for zoos and circuses.",
+            "popularity": 1.3684,
+            "poster_path": "/fT1Ht8PSM5cFKmejrnufWvpXAPk.jpg",
+            "release_date": "1962-06-19",
+            "title": "Hatari!",
+            "video": false,
+            "vote_average": 6.734,
+            "vote_count": 252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u2nPH7STKcz8ddpvxo8Ler1SvPc.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 20271,
+            "original_language": "it",
+            "original_title": "Divorzio all'italiana",
+            "overview": "Ferdinando Cefal\u00f9 is desperate to marry his cousin, Angela, but he is married to Rosalia and divorce is illegal in Italy. To get around the law, he tries to trick his wife into having an affair so he can catch her and murder her, as he knows he would be given a light sentence for killing an adulterous woman. He persuades a painter to lure his wife into an affair, but Rosalia proves to be more faithful than he expected.",
+            "popularity": 0.9029,
+            "poster_path": "/vZbdSpUFyFiDBBTY0AiSrN9f303.jpg",
+            "release_date": "1961-12-20",
+            "title": "Divorce Italian Style",
+            "video": false,
+            "vote_average": 7.902,
+            "vote_count": 494
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hTYfahH0QbWUVmul3l9rVhuayjE.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 41521,
+            "original_language": "en",
+            "original_title": "Mr. Hobbs Takes a Vacation",
+            "overview": "Banker Roger Hobbs wants to spend his vacation alone with his wife, Peggy, but she insists on a family vacation at a California beach house that turns out to be ugly and broken down. Daughter Katey, embarrassed by her braces, refuses to go to the beach, as does TV-addicted son Danny. When the family is joined by Hobbs' two unhappily married daughters and their husbands, he must help everyone with their problems to get some peace.",
+            "popularity": 0.3903,
+            "poster_path": "/82JEB6tYkXwB1LshoT2mho9QH2p.jpg",
+            "release_date": "1962-06-15",
+            "title": "Mr. Hobbs Takes a Vacation",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/acaLHG0tgPdld78hcRGw65S7zHK.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 215535,
+            "original_language": "en",
+            "original_title": "The Interns",
+            "overview": "During their first year of internship at New North Hospital, a group of aspiring doctors undergo both personal and professional upheavals.",
+            "popularity": 0.1845,
+            "poster_path": "/xJOjsRFG3L6551vyDEoGRJeqDJj.jpg",
+            "release_date": "1962-08-08",
+            "title": "The Interns",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aPxzlAJkQBFB4VNrMi1gDJhW7Cc.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 183889,
+            "original_language": "en",
+            "original_title": "Vu du pont",
+            "overview": "Eddie Carbone, a Brooklyn longshoreman is unhappily married to Beatrice and unconsciously in love with Catherine, the niece that they have raised from childhood. Into his house come two brothers, illegal immigrants, Marco and Rodolpho. Catherine falls in love with Rudolpho; and Eddie, tormented but unable to admit even to himself his quasi-incestuous love, reports the illegal immigrants to the authorities.",
+            "popularity": 0.2068,
+            "poster_path": "/4O2fZ7DVTSDaCmiowopH5RR8WU7.jpg",
+            "release_date": "1962-01-19",
+            "title": "A View from the Bridge",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6XLeYldW5jxX6zIOPxXy8Xz1Cum.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 45267,
+            "original_language": "it",
+            "original_title": "Boccaccio '70",
+            "overview": "An anthology of four comic moral tales about the hypocrisies surrounding sex in 1960s Italy: frothy young love and office politics in the big city; milk advertisements that begin to haunt an aging prude; a trophy wife enduring her husband's very public affairs; a lucky ticket-holder at a small town fair.",
+            "popularity": 0.9715,
+            "poster_path": "/7ZkRvQr0HspqEDBDVBHs16noFxd.jpg",
+            "release_date": "1962-02-23",
+            "title": "Boccaccio '70",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/frVo9Q4TCYrH2Hm79SHa27SNYao.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 39391,
+            "original_language": "en",
+            "original_title": "Gypsy",
+            "overview": "Rose Hovick lives to see her daughter June succeed on Broadway by way of vaudeville. When June marries and leaves, Rose turns her hope and attention to her elder, less obviously talented, daughter Louise. However, having her headlining as a stripper at Minsky's Burlesque is not what she initially has in mind.",
+            "popularity": 0.9647,
+            "poster_path": "/qmeyhwe7pHJ30n6uLq8swyW1Juz.jpg",
+            "release_date": "1962-11-01",
+            "title": "Gypsy",
+            "video": false,
+            "vote_average": 6.389,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p55n7xZJnDUoJwopNpYsmJ09s5D.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 43007,
+            "original_language": "en",
+            "original_title": "Period of Adjustment",
+            "overview": "A newlywed couple on their honeymoon visit friends who are having marital problems of their own.",
+            "popularity": 0.1979,
+            "poster_path": "/8FA3Tww9kZLh29CIydbgbHkc2nR.jpg",
+            "release_date": "1962-10-31",
+            "title": "Period of Adjustment",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r2LdHEtkeMT6W5cb0uQsJ9HhnR2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 60792,
+            "original_language": "en",
+            "original_title": "Walk on the Wild Side",
+            "overview": "At a 1930s New Orleans bordello, Hallie is the main attraction for both clients and the shrewd madam. The arrival of Dove Linkhorn, her lovesick sweetheart from three years ago, disrupts the normal and triggers a chain of events involving a number of people, including the young woman he travelled with, who is now the Doll House's newest employee.",
+            "popularity": 0.6195,
+            "poster_path": "/t1fPzQlKpk06an9Akme1LJX2MjU.jpg",
+            "release_date": "1962-03-21",
+            "title": "Walk on the Wild Side",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4TqqMASEdL3E23Onc4742IQ1D8i.jpg",
+            "genre_ids": [
+                12,
+                10751
+            ],
+            "id": 34774,
+            "original_language": "en",
+            "original_title": "In Search of the Castaways",
+            "overview": "Two teenagers, Mary (Hayley Mills) and Robert (Keith Hamshere) are lead by Professor Paganel (Maurice Chevalier) on a search expedition for the children's shipwrecked sea captain father. This Disney film was based upon Jules Verne's 1868 adventure novel Captain Grant's Children.",
+            "popularity": 0.4882,
+            "poster_path": "/27hbGwIAmvcB9X9FdXSwvU05frt.jpg",
+            "release_date": "1962-12-01",
+            "title": "In Search of the Castaways",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/89ifkxMkT3zJG2BQuCB9ogWcU0q.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 103709,
+            "original_language": "en",
+            "original_title": "Bon Voyage!",
+            "overview": "The Willards from Terre Haute, Indiana travels abroad for the once-in-a-lifetime vacation in Paris, France. Harry Willard believes that the greatest problem will be avoiding tap water, but bringing his three children will prove to be more troublesome",
+            "popularity": 0.2003,
+            "poster_path": "/l2fkjhsGMft4XLDwXJsXA5qSATg.jpg",
+            "release_date": "1962-05-17",
+            "title": "Bon Voyage!",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kgAZX0WXLuK6YYQ6lKN2UdF1Tho.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 1818,
+            "original_language": "fr",
+            "original_title": "Tirez sur le pianiste",
+            "overview": "Charlie is a former classical pianist who has changed his name and now plays jazz in a grimy Paris bar. When Charlie's brothers, Richard and Chico, surface and ask for Charlie's help while on the run from gangsters they have scammed, he aids their escape. Soon Charlie and Lena, a waitress at the same bar, face trouble when the gangsters arrive, looking for his brothers.",
+            "popularity": 0.9086,
+            "poster_path": "/6UhMIZaaoe2HUU7sEIwYpuYgugh.jpg",
+            "release_date": "1960-11-25",
+            "title": "Shoot the Piano Player",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 416
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cwXL30jKFkUjE565M8qdBE8n8sw.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 118955,
+            "original_language": "en",
+            "original_title": "The Chapman Report",
+            "overview": "A research psychologist gets involved in the personal lives of four women.",
+            "popularity": 0.2424,
+            "poster_path": "/xHlkaDldivwkL9H8qOmb2zyXqNo.jpg",
+            "release_date": "1962-10-05",
+            "title": "The Chapman Report",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2MjzuMBXh9UjqiC2Hgoyj8zPwb9.jpg",
+            "genre_ids": [
+                12,
+                18,
+                36
+            ],
+            "id": 11085,
+            "original_language": "en",
+            "original_title": "Mutiny on the Bounty",
+            "overview": "The Bounty leaves Portsmouth in 1787. Its destination: to sail to Tahiti and load bread-fruit. Captain Bligh will do anything to get there as fast as possible, using any means to keep up a strict discipline. When they arrive at Tahiti, it is like a paradise for the crew, something completely different than the living hell aboard the ship. On the way back to England, officer Fletcher Christian becomes the leader of a mutiny.",
+            "popularity": 1.2086,
+            "poster_path": "/caxk06SANEacvycZFiApv1LA6Kl.jpg",
+            "release_date": "1962-11-08",
+            "title": "Mutiny on the Bounty",
+            "video": false,
+            "vote_average": 7.03,
+            "vote_count": 319
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e9CCHkt0Kz8YJrHf3JU3PHaq67P.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 34282,
+            "original_language": "en",
+            "original_title": "Whistle Down the Wind",
+            "overview": "When an injured wife-murderer takes refuge on a remote Lancashire farm, the farmer\u2019s three children mistakenly believe him to be the Second Coming of Christ.",
+            "popularity": 0.3256,
+            "poster_path": "/2Q8wpOJCmhE9B03HoifIcvrPzXz.jpg",
+            "release_date": "1961-07-25",
+            "title": "Whistle Down the Wind",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 52
+        }
+    ]
+}

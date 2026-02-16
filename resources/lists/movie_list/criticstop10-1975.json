@@ -1,0 +1,608 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1975",
+    "source": "https://criticstop10.com/best-movies-of-1975/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/lHH8o3YWBjoteijAI8yTxG3qqpX.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 3121,
+            "original_language": "en",
+            "original_title": "Nashville",
+            "overview": "The intersecting stories of twenty-four characters\u2014from country star to wannabe to reporter to waitress\u2014connect to the music business in Nashville, Tennessee.",
+            "popularity": 1.2163,
+            "poster_path": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+            "release_date": "1975-06-11",
+            "title": "Nashville",
+            "video": false,
+            "vote_average": 7.259,
+            "vote_count": 427
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 968,
+            "original_language": "en",
+            "original_title": "Dog Day Afternoon",
+            "overview": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
+            "popularity": 2.9593,
+            "poster_path": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+            "release_date": "1975-09-21",
+            "title": "Dog Day Afternoon",
+            "video": false,
+            "vote_average": 7.847,
+            "vote_count": 3108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 510,
+            "original_language": "en",
+            "original_title": "One Flew Over the Cuckoo's Nest",
+            "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.",
+            "popularity": 10.4574,
+            "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+            "release_date": "1975-11-19",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "video": false,
+            "vote_average": 8.413,
+            "vote_count": 10872
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
+            "genre_ids": [
+                27,
+                53,
+                12
+            ],
+            "id": 578,
+            "original_language": "en",
+            "original_title": "Jaws",
+            "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+            "popularity": 13.9023,
+            "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+            "release_date": "1975-06-20",
+            "title": "Jaws",
+            "video": false,
+            "vote_average": 7.672,
+            "vote_count": 10877
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/okdg55jhsr9k1F2lxsZoQncrLZL.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752,
+                36
+            ],
+            "id": 3175,
+            "original_language": "en",
+            "original_title": "Barry Lyndon",
+            "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+            "popularity": 4.1987,
+            "poster_path": "/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg",
+            "release_date": "1975-12-18",
+            "title": "Barry Lyndon",
+            "video": false,
+            "vote_average": 8.004,
+            "vote_count": 2959
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 11686,
+            "original_language": "en",
+            "original_title": "Love and Death",
+            "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+            "popularity": 2.1972,
+            "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+            "release_date": "1975-06-10",
+            "title": "Love and Death",
+            "video": false,
+            "vote_average": 7.501,
+            "vote_count": 924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2sDMMLK2A1aHh52abYRnzlTBy6t.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 31121,
+            "original_language": "en",
+            "original_title": "Shampoo",
+            "overview": "A Beverly Hills hairdresser runs around town on the eve of the 1968 presidential election trying to make heads or tails of his financial and romantic entanglements. His attempts to gather the money to open his own salon are continually side-tracked by the distractions presented by his many lovers.",
+            "popularity": 1.0895,
+            "poster_path": "/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
+            "release_date": "1975-02-11",
+            "title": "Shampoo",
+            "video": false,
+            "vote_average": 5.98,
+            "vote_count": 222
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9H64mSSezN1T9CQKgbgV06BCZM4.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 9652,
+            "original_language": "it",
+            "original_title": "Professione: reporter",
+            "overview": "David Locke is a world-weary American journalist who has been sent to cover a conflict in northern Africa, but he makes little progress with the story. When he discovers the body of a stranger who looks similar to him, Locke assumes the dead man's identity. However, he soon finds out that the man was an arms dealer, leading Locke into dangerous situations. Aided by a beautiful woman, Locke attempts to avoid both the police and criminals out to get him.",
+            "popularity": 1.1591,
+            "poster_path": "/A8jYH43plz70dNmHy82zAHGTqxN.jpg",
+            "release_date": "1975-02-28",
+            "title": "The Passenger",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 513
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dFXGxxVSwb9tYNfKMeFnxORmBlt.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 37916,
+            "original_language": "it",
+            "original_title": "Travolti da un insolito destino nell'azzurro mare d'agosto",
+            "overview": "A spoiled rich woman and a brutish Communist deckhand become stranded alone on a desert island after venturing away from their cruise.",
+            "popularity": 1.1346,
+            "poster_path": "/8bkEUeQWVFBk3HE4qhluDarTMDj.jpg",
+            "release_date": "1974-12-18",
+            "title": "Swept Away",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ffI5k9rPEkEKRTYm4bS4da3Yh20.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "id": 10711,
+            "original_language": "en",
+            "original_title": "French Connection II",
+            "overview": "\"Popeye\" Doyle travels to Marseilles to find Alain Charnier, the drug smuggler that eluded him in New York.",
+            "popularity": 1.7578,
+            "poster_path": "/n1BxZzJpjR6tc6rJhYGO50z87SO.jpg",
+            "release_date": "1975-05-18",
+            "title": "French Connection II",
+            "video": false,
+            "vote_average": 6.771,
+            "vote_count": 437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/CHlsunJ6Nh3V34J6JOfip1nOJm.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 5122,
+            "original_language": "en",
+            "original_title": "The Day of the Locust",
+            "overview": "Hollywood, 1930s. Tod Hackett, a young painter who tries to make his way as an art director in the lurid world of film industry, gets infatuated with his neighbor Faye Greener, an aspiring actress who prefers the life that Homer Simpson, a lone accountant, can offer her.",
+            "popularity": 0.6663,
+            "poster_path": "/rUpMatTbyPnANIbUxycfTtJQOHC.jpg",
+            "release_date": "1975-05-07",
+            "title": "The Day of the Locust",
+            "video": false,
+            "vote_average": 6.45,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/30VFInw6IUlMgKCYTxI3LgrNTqs.jpg",
+            "genre_ids": [
+                10402,
+                10749,
+                14
+            ],
+            "id": 44864,
+            "original_language": "sv",
+            "original_title": "Trollflöjten",
+            "overview": "The Queen of the Night enlists a handsome prince named Tamino to rescue her beautiful kidnapped daughter, Princess Pamina, in this screen adaptation of the beloved Mozart opera. Aided by the lovelorn bird hunter Papageno and a magical flute that holds the power to change the hearts of men, young Tamino embarks on a quest for true love, leading to the evil Sarastro's temple where Pamina is held captive.",
+            "popularity": 0.5596,
+            "poster_path": "/3N0L2ijwcVjRLJRSXbv3AKT2Vnt.jpg",
+            "release_date": "1975-10-04",
+            "title": "The Magic Flute",
+            "video": false,
+            "vote_average": 7.27,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k2JbuuXgQe3vBlKxcNua4EzJWHr.jpg",
+            "genre_ids": [
+                35,
+                37
+            ],
+            "id": 84259,
+            "original_language": "en",
+            "original_title": "Hearts of the West",
+            "overview": "Lewis Tater writes Wild West dime novels and dreams of actually becoming a cowboy. When he goes west to find his dream he finds himself in possession of the loot box of two crooks who tried to rob him.",
+            "popularity": 0.3837,
+            "poster_path": "/bOrOGtucFF39EAXXeM2kY5wGbTy.jpg",
+            "release_date": "1975-10-08",
+            "title": "Hearts of the West",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5R6B4qXXtTfXMASIPzIA4nCn4jG.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 76452,
+            "original_language": "it",
+            "original_title": "Una breve vacanza",
+            "overview": "Forced to support herself, her children, her physically incapacitated husband and her obtrusive brother and mother, a downtrodden working woman contracts tuberculosis. She is granted a brief vacation at a health spa, where a whole new world \u2014 and potential new life \u2014 is opened up to her.",
+            "popularity": 0.1757,
+            "poster_path": "/qFwfvPHsZJGL4zCDxegbARQFgVq.jpg",
+            "release_date": "1973-07-21",
+            "title": "A Brief Vacation",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 983,
+            "original_language": "en",
+            "original_title": "The Man Who Would Be King",
+            "overview": "A robust adventure about two British adventurers who take over primitive Kafiristan as \"godlike\" rulers, meeting a tragic end through their desire for a native girl. Based on a short story by Rudyard Kipling.",
+            "popularity": 1.0032,
+            "poster_path": "/gc5fS9UfNrGm5cBlbAI560YbDSF.jpg",
+            "release_date": "1975-12-03",
+            "title": "The Man Who Would Be King",
+            "video": false,
+            "vote_average": 7.496,
+            "vote_count": 664
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dQabL85QJgk9xNxyP5GtV5z5v62.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 42264,
+            "original_language": "en",
+            "original_title": "Smile",
+            "overview": "It's time again for California's \"Young American Miss\" beauty pageant, the biggest event of the year for Big Bob Freelander and Brenda DiCarlo, who give their all to put on a successful pageant. But Brenda is having marital difficulties and Bob's son is up to some mischief. Could this year's pageant be in jeopardy?",
+            "popularity": 0.6789,
+            "poster_path": "/6j1YtyZ9DPzZknqGyuk5veajLnv.jpg",
+            "release_date": "1975-07-09",
+            "title": "Smile",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oIZzr5PKgMRCb685CzBJVfW0zkg.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                18,
+                53
+            ],
+            "id": 32042,
+            "original_language": "en",
+            "original_title": "Night Moves",
+            "overview": "Private detective and former football player Harry Moseby gets hired on to what seems a standard missing person case - a former Hollywood actress wants Moseby to find and return her daughter. Harry travels to Florida to find her, but he begins to see a connection between the runaway girl, the world of Hollywood stuntmen, and a suspicious mechanic when an unsolved murder comes to light.",
+            "popularity": 1.1849,
+            "poster_path": "/j3zMCyvhGlpw31BAWLVMEZNPfOX.jpg",
+            "release_date": "1975-06-11",
+            "title": "Night Moves",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 318
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9fTuRksyQvCAzyuzktof4kDc5Xt.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 1829,
+            "original_language": "fr",
+            "original_title": "L'Histoire d'Ad\u00e8le H.",
+            "overview": "Ad\u00e8le Hugo, daughter of renowned French writer Victor Hugo, falls in love with British soldier Albert Pinson while living in exile off the coast of England. Though he spurns her affections, she follows him to Nova Scotia and takes on the alias of Ad\u00e8le Lewly. Albert continues to reject her, but she remains obsessive in her quest to win him over.",
+            "popularity": 0.837,
+            "poster_path": "/ymzUeHZP5SguHeyx28aN3PLBReA.jpg",
+            "release_date": "1975-10-08",
+            "title": "The Story of Adele H.",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 220
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6PM9BRYYrYTkj0Ez7btxf46t7o0.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 42257,
+            "original_language": "en",
+            "original_title": "Hester Street",
+            "overview": "A Russian emigre prides himself on the way he's molded himself into a real Yankee in the USA, though the world he lives in, New York's Lower East Side in the late 19th century, is almost exclusively populated by other Jewish immigrants. When his wife finally arrives in the New World, however, she has a lot of assimilating to do.",
+            "popularity": 0.2454,
+            "poster_path": "/sEYKnLShvnJuXzYWFI870F1hqZK.jpg",
+            "release_date": "1975-10-19",
+            "title": "Hester Street",
+            "video": false,
+            "vote_average": 6.217,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4rw8hb8Idl48PXLss01sXbYnwDf.jpg",
+            "genre_ids": [
+                12,
+                36
+            ],
+            "id": 14815,
+            "original_language": "en",
+            "original_title": "The Wind and the Lion",
+            "overview": "At the beginning of the 20th century an American woman is abducted in Morocco by Berbers, and the attempts to free her range from diplomatic pressure to military intervention.",
+            "popularity": 1.1592,
+            "poster_path": "/3QLqEZL1kBBfKjVz3nAm5vJruRZ.jpg",
+            "release_date": "1975-05-22",
+            "title": "The Wind and the Lion",
+            "video": false,
+            "vote_average": 6.552,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5XSitXno6yxYkNppwP5gOhC7SfA.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 11326,
+            "original_language": "en",
+            "original_title": "Tommy",
+            "overview": "After a series of traumatic childhood events, a psychosomatically deaf, dumb and blind boy becomes a master pinball player and the object of a religious cult.",
+            "popularity": 1.034,
+            "poster_path": "/pAImVnqBJwoFAKrcpAe17JjLGUs.jpg",
+            "release_date": "1975-03-19",
+            "title": "Tommy",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 341
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i5CKsYWx3eKbwSokg0qouLpHfqo.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 16561,
+            "original_language": "en",
+            "original_title": "The Sunshine Boys",
+            "overview": "Lewis and Clark, aka The Sunshine Boys, were famous comedians during the vaudeville era, but off-stage they couldn't stand each other and haven't spoken in over 20 years of retirement. Willy Clark's nephew is the producer of a TV variety show that wants to feature a reunion of this classic duo. It is up to him to try to get the Sunshine Boys back together again.",
+            "popularity": 0.603,
+            "poster_path": "/hgMB8Ixl4zvzn2ttfnEHUdJLmre.jpg",
+            "release_date": "1975-11-06",
+            "title": "The Sunshine Boys",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mF5Xb4zfHV4G04dilPGA4Dz1h5x.jpg",
+            "genre_ids": [
+                35,
+                80,
+                9648
+            ],
+            "id": 11843,
+            "original_language": "en",
+            "original_title": "The Return of the Pink Panther",
+            "overview": "The famous Pink Panther jewel has once again been stolen and Inspector Clouseau is called in to catch the thief. The Inspector is convinced that 'The Phantom' has returned and utilises all of his resources \u2013 himself and his Asian manservant \u2013 to reveal the identity of 'The Phantom'.",
+            "popularity": 1.5723,
+            "poster_path": "/cDi6lHXmY12SxtjcP6IdK7mB3W1.jpg",
+            "release_date": "1975-05-21",
+            "title": "The Return of the Pink Panther",
+            "video": false,
+            "vote_average": 6.793,
+            "vote_count": 627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r0EBtfYplRIagrYMfi0pni3xpzr.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 1835,
+            "original_language": "en",
+            "original_title": "Farewell, My Lovely",
+            "overview": "Private eye Philip Marlowe is hired by ex-con Moose Malloy to find his girlfriend, a former lounge dancer. While also investigating the murder of a client and the theft of a jade necklace, Marlowe becomes entangled with seductress Helen Grayle and discovers a web of dark secrets that are better left hidden.",
+            "popularity": 1.0286,
+            "poster_path": "/ygk9oP5BJM7viLut42RidNB5JPV.jpg",
+            "release_date": "1975-08-08",
+            "title": "Farewell, My Lovely",
+            "video": false,
+            "vote_average": 6.562,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+            "genre_ids": [
+                12,
+                35,
+                14
+            ],
+            "id": 762,
+            "original_language": "en",
+            "original_title": "Monty Python and the Holy Grail",
+            "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+            "popularity": 5.1711,
+            "poster_path": "/hWx1ANiWEWWyzKPN0us35HCGnhQ.jpg",
+            "release_date": "1975-04-03",
+            "title": "Monty Python and the Holy Grail",
+            "video": false,
+            "vote_average": 7.805,
+            "vote_count": 6044
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 174713,
+            "original_language": "en",
+            "original_title": "Give 'em Hell, Harry!",
+            "overview": "One-man show about the presidency of Harry S. Truman.",
+            "popularity": 0.0818,
+            "poster_path": "/ea3u7HZwap6DNdfqyk6Ap2XFOFF.jpg",
+            "release_date": "1975-09-17",
+            "title": "Give 'em Hell, Harry!",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4vCHa6Ko8PMepe14B5JRfeEIlLN.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 92285,
+            "original_language": "en",
+            "original_title": "Lies My Father Told Me",
+            "overview": "A Jewish boy grows up in 1920s Montreal with a grandfather who tells stories and a father who won't work.",
+            "popularity": 0.0919,
+            "poster_path": "/jQHLqnkIzZi1OmN09WK1iJZlv7s.jpg",
+            "release_date": "1975-09-26",
+            "title": "Lies My Father Told Me",
+            "video": false,
+            "vote_average": 4.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eXQX4fi2AzPMskGCVgV7l5yfJnm.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 139851,
+            "original_language": "fr",
+            "original_title": "Toute une vie",
+            "overview": "The movie follows the lives of a woman and a man starting from several generations earlier. The story spans a whole century and several continents.",
+            "popularity": 0.182,
+            "poster_path": "/3TbOqP4weWzXz09By3qQ6oWy4K7.jpg",
+            "release_date": "1974-05-15",
+            "title": "And Now My Love",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cjA8bxjXcw3I63DlO3qa6uFwrH4.jpg",
+            "genre_ids": [
+                18,
+                28,
+                80
+            ],
+            "id": 22094,
+            "original_language": "en",
+            "original_title": "Hard Times",
+            "overview": "In the depression, Chaney, a strong silent streetfighter, joins with Speed, a promoter of no-holds-barred street boxing bouts. They go to New Orleans where Speed borrows money to set up fights for Chaney, but Speed gambles away any winnings.",
+            "popularity": 1.1372,
+            "poster_path": "/yWIh8cMGd9XubkdhJB2TJ7buGy3.jpg",
+            "release_date": "1975-08-13",
+            "title": "Hard Times",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMnWYxjHHj8g7sD2YugHE9rpoyD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 113012,
+            "original_language": "bn",
+            "original_title": "\u0985\u09b6\u09a8\u09bf \u09b8\u0982\u0995\u09c7\u09a4",
+            "overview": "Gangacharan is the new Brahmin of a village, where he assumes various duties: teaching, organizing religious events, and trying to prevent epidemics. But in that year 1943, war is raging (as reminded by the planes occasionally heard flying over the countryside), and a major famine is under way. As food shortages reach catastrophic proportions, Gangacharan attempts to preserve his privileged situation, while his generous wife, Ananga, conversely tries to help and support the community.",
+            "popularity": 0.9743,
+            "poster_path": "/7AT7RPArBH6k5Ac01VSk2uWQkZW.jpg",
+            "release_date": "1973-08-16",
+            "title": "Distant Thunder",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tEcojg2mgUe0WS7OLnbOP69h6w.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 11963,
+            "original_language": "en",
+            "original_title": "Three Days of the Condor",
+            "overview": "When bookish CIA researcher Joe Turner finds all his co-workers dead, he, together with a woman he has kidnapped, must work together to outwit those responsible until he determines who he can really trust.",
+            "popularity": 2.0408,
+            "poster_path": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+            "release_date": "1975-09-24",
+            "title": "Three Days of the Condor",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1228
+        }
+    ]
+}

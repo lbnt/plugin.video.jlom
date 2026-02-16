@@ -1,0 +1,63 @@
+{
+    "type" : "folder_list",
+    "title" : "By decade",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "1920s",
+            "id" : "1920s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1930s",
+            "id" : "1930s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1940s",
+            "id" : "1940s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1950s",
+            "id" : "1950s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1960s",
+            "id" : "1960s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1970s",
+            "id" : "1970s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1980s",
+            "id" : "1980s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1990s",
+            "id" : "1990s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "2000s",
+            "id" : "2000s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "2010s",
+            "id" : "2010s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "2020s",
+            "id" : "2020s",
+            "type" : "folder_list"
+        }
+    ]
+}

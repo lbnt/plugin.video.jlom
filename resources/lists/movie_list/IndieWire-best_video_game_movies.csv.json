@@ -1,0 +1,233 @@
+{
+    "type": "movie_list",
+    "title": "IndieWire - The 12 Best Live-Action Video Game Movies of All Time",
+    "source" : "https://www.indiewire.com/gallery/best-video-game-movies/",
+    "created_by": "lbnt",
+    "added": "04/04/24",
+    "modified": "04/04/24",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/fVNl1NS6wGHhb9xrU9DdHutBi9v.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                18
+            ],
+            "id": 91694,
+            "original_language": "ja",
+            "original_title": "\u9006\u8ee2\u88c1\u5224",
+            "overview": "Based primarily on the first game in the series, Phoenix Wright: Ace Attorney, the film focuses on rookie defense attorney Phoenix Wright, as he strives to protect his clients in various murder trials, including the death of his mentor, Mia Fey, and the accusation of rival prosecutor, Miles Edgeworth. Phoenix's greatest ally is Mia's younger sister Maya, a spirit medium whose body is possessed by Mia to communicate with him.",
+            "popularity": 10.467,
+            "poster_path": "/j2QcDHN7nScDSLsnuS3tCXOl2SN.jpg",
+            "release_date": "2012-02-11",
+            "title": "Ace Attorney",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bbFHu1kyMqV1s1tyVfoBC8tPtmT.jpg",
+            "genre_ids": [
+                27,
+                35,
+                14
+            ],
+            "id": 800497,
+            "original_language": "en",
+            "original_title": "Werewolves Within",
+            "overview": "When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.",
+            "popularity": 24.866,
+            "poster_path": "/5CGgbgyvmE39Yoqa80GKsgClbQm.jpg",
+            "release_date": "2021-06-25",
+            "title": "Werewolves Within",
+            "video": false,
+            "vote_average": 6.041,
+            "vote_count": 484
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/29BCwmpV9HQUekAGlJLplkslRRf.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 588,
+            "original_language": "en",
+            "original_title": "Silent Hill",
+            "overview": "Rose, a desperate mother takes her adopted daughter, Sharon, to the town of Silent Hill in an attempt to cure her of her ailment. After a violent car crash, Sharon disappears and Rose begins a desperate search to get her back. She descends into the center of the twisted reality of a town's terrible secret. Pursued by grotesquely deformed creatures and townspeople stuck in permanent purgatory, Rose begins to uncover the truth behind the apocalyptic disaster that burned the town 30 years earlier.",
+            "popularity": 46.708,
+            "poster_path": "/r0bEDWO2w4a43K2xTNSF284qOsc.jpg",
+            "release_date": "2006-04-21",
+            "title": "Silent Hill",
+            "video": false,
+            "vote_average": 6.553,
+            "vote_count": 4095
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nB8WhH6VPvHiXngfEn7kSBdfSr2.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                53
+            ],
+            "id": 11667,
+            "original_language": "en",
+            "original_title": "Street Fighter",
+            "overview": "Col. Guile and various other martial arts heroes fight against the tyranny of Dictator M. Bison and his cohorts.",
+            "popularity": 32.798,
+            "poster_path": "/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg",
+            "release_date": "1994-12-23",
+            "title": "Street Fighter",
+            "video": false,
+            "vote_average": 4.578,
+            "vote_count": 1391
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eDg6HPCnQaUhTOdZB3LzJjpnGtT.jpg",
+            "genre_ids": [
+                28,
+                14
+            ],
+            "id": 9312,
+            "original_language": "en",
+            "original_title": "Mortal Kombat",
+            "overview": "For nine generations an evil sorcerer has been victorious in hand-to-hand battle against his mortal enemies. If he wins a tenth Mortal Kombat tournament, desolation and evil will reign over the multiverse forever. To save Earth, three warriors must overcome seemingly insurmountable odds, their own inner demons, and superhuman foes in this action/adventure movie based on one of the most popular video games of all time.",
+            "popularity": 30.821,
+            "poster_path": "/fcK7tzSSXMYiMN8E9KlZJL1BYyp.jpg",
+            "release_date": "1995-08-18",
+            "title": "Mortal Kombat",
+            "video": false,
+            "vote_average": 5.836,
+            "vote_count": 2172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1GGfWFp9hp4RUHRHxd505z9rVFa.jpg",
+            "genre_ids": [
+                12,
+                14,
+                35,
+                10751
+            ],
+            "id": 9607,
+            "original_language": "en",
+            "original_title": "Super Mario Bros.",
+            "overview": "Mario and Luigi, plumbers from Brooklyn, find themselves in an alternate universe where evolved dinosaurs live in hi-tech squalor. They're the only hope to save our universe from invasion by the dino dictator, Koopa.",
+            "popularity": 27.533,
+            "poster_path": "/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg",
+            "release_date": "1993-05-28",
+            "title": "Super Mario Bros.",
+            "video": false,
+            "vote_average": 4.403,
+            "vote_count": 1249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8wwXPG22aNMpPGuXnfm3galoxbI.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10751,
+                35
+            ],
+            "id": 675353,
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 2",
+            "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+            "popularity": 132.917,
+            "poster_path": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+            "release_date": "2022-03-30",
+            "title": "Sonic the Hedgehog 2",
+            "video": false,
+            "vote_average": 7.519,
+            "vote_count": 4667
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9EpgaLS44zlXoTSAOhGiJmkIA4B.jpg",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "id": 8814,
+            "original_language": "en",
+            "original_title": "Doom",
+            "overview": "A team of space marines known as the Rapid Response Tactical Squad, led by Sarge, is sent to a science facility on Mars after somebody reports a security breach. There, they learn that the alert came after a test subject, a mass murderer purposefully injected with alien DNA, broke free and began killing people. Dr. Grimm, who is related to team member Reaper, informs them all that the chromosome can mutate humans into monsters -- and is highly infectious.",
+            "popularity": 31.161,
+            "poster_path": "/y50lH061yWOvEstoZRn7lYs0huk.jpg",
+            "release_date": "2005-10-20",
+            "title": "Doom",
+            "video": false,
+            "vote_average": 5.132,
+            "vote_count": 2124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6a3tiuwoM0vyytHkQHNmMppijCe.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28,
+                53
+            ],
+            "id": 1995,
+            "original_language": "en",
+            "original_title": "Lara Croft: Tomb Raider",
+            "overview": "English aristocrat Lara Croft is skilled in hand-to-hand combat and in the midst of a battle with a secret society. The shapely archaeologist moonlights as a tomb raider to recover lost antiquities and meets her match in the wicked Powell, who's in search of a powerful relic.",
+            "popularity": 46.742,
+            "poster_path": "/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
+            "release_date": "2001-06-11",
+            "title": "Lara Croft: Tomb Raider",
+            "video": false,
+            "vote_average": 5.889,
+            "vote_count": 5872
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 447404,
+            "original_language": "en",
+            "original_title": "Pok\u00e9mon Detective Pikachu",
+            "overview": "In a world where people collect pocket-size monsters (Pok\u00e9mon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+            "popularity": 54.31,
+            "poster_path": "/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+            "release_date": "2019-05-03",
+            "title": "Pok\u00e9mon Detective Pikachu",
+            "video": false,
+            "vote_average": 6.937,
+            "vote_count": 6550
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o76ZDm8PS9791XiuieNB93UZcRV.jpg",
+            "genre_ids": [
+                27,
+                878,
+                28
+            ],
+            "id": 460458,
+            "original_language": "en",
+            "original_title": "Resident Evil: Welcome to Raccoon City",
+            "overview": "Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company\u2019s exodus left the city a wasteland\u2026with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever\u2026changed\u2026and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.",
+            "popularity": 76.931,
+            "poster_path": "/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+            "release_date": "2021-11-24",
+            "title": "Resident Evil: Welcome to Raccoon City",
+            "video": false,
+            "vote_average": 5.977,
+            "vote_count": 2312
+        }
+    ]
+}

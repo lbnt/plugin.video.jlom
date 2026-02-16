@@ -1,0 +1,971 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1941",
+    "source": "https://criticstop10.com/best-movies-of-1941/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 43266,
+            "original_language": "en",
+            "original_title": "How Green Was My Valley",
+            "overview": "A man in his fifties reminisces about his childhood growing up in a Welsh mining village at the turn of the 20th century.",
+            "popularity": 0.9997,
+            "poster_path": "/8N7OmxBqjRVUrqergUduGgr6exy.jpg",
+            "release_date": "1941-10-28",
+            "title": "How Green Was My Valley",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 16442,
+            "original_language": "en",
+            "original_title": "Sergeant York",
+            "overview": "Alvin York a hillbilly sharpshooter transforms himself from ruffian to religious pacifist. He is then called to serve his country and despite deep religious and moral objections to fighting becomes one of the most celebrated American heroes of WWI.",
+            "popularity": 1.0202,
+            "poster_path": "/54LTgyRHSixyeeFhLtCFj0SMAQ3.jpg",
+            "release_date": "1941-09-27",
+            "title": "Sergeant York",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 219
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+            "genre_ids": [
+                9648,
+                18
+            ],
+            "id": 15,
+            "original_language": "en",
+            "original_title": "Citizen Kane",
+            "overview": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+            "popularity": 4.1831,
+            "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+            "release_date": "1941-04-17",
+            "title": "Citizen Kane",
+            "video": false,
+            "vote_average": 7.998,
+            "vote_count": 5713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sl0tLI7ThQI6PEho6nNvO2wBgcn.jpg",
+            "genre_ids": [
+                35,
+                14,
+                10749
+            ],
+            "id": 38914,
+            "original_language": "en",
+            "original_title": "Here Comes Mr. Jordan",
+            "overview": "Boxer Joe Pendleton, flying to his next fight, crashes...because a Heavenly Messenger, new on the job, snatched Joe's spirit prematurely from his body. Before the matter can be rectified, Joe's body is cremated; so the celestial Mr. Jordan grants him the use of the body of wealthy Bruce Farnsworth, who's just been murdered by his wife. Joe tries to remake Farnsworth's unworthy life in his own clean-cut image, but then falls in love; and what about that murderous wife?",
+            "popularity": 0.7102,
+            "poster_path": "/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg",
+            "release_date": "1941-08-07",
+            "title": "Here Comes Mr. Jordan",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zcGLxxXHUtjbkZLIrdQjXSLGQmx.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                36
+            ],
+            "id": 43802,
+            "original_language": "en",
+            "original_title": "The Little Foxes",
+            "overview": "In 1900, a clan attempts to strike a deal with a Chicago industrialist to get him to build cotton mills in their Deep South town.",
+            "popularity": 0.6891,
+            "poster_path": "/ynawR42jT8ueNWO0ZSBoclr4WoC.jpg",
+            "release_date": "1941-08-29",
+            "title": "The Little Foxes",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fy2hkQgAWj1st3FWBzqc27JlytC.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 32574,
+            "original_language": "en",
+            "original_title": "Meet John Doe",
+            "overview": "As a parting shot, fired reporter Ann Mitchell prints a fake letter from unemployed \"John Doe,\" who threatens suicide in protest of social ills. The paper is forced to rehire Ann and hires John Willoughby to impersonate \"Doe.\" Ann and her bosses cynically milk the story for all it's worth, until the made-up \"John Doe\" philosophy starts a whole political movement.",
+            "popularity": 3.3293,
+            "poster_path": "/dnBZbFE2OGlTGNGBVTn6t83tJtd.jpg",
+            "release_date": "1941-03-14",
+            "title": "Meet John Doe",
+            "video": false,
+            "vote_average": 7.302,
+            "vote_count": 265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oa6yoeeZtjxdgzAcZtbCSW3GEE9.jpg",
+            "genre_ids": [
+                9648,
+                10749,
+                53
+            ],
+            "id": 11462,
+            "original_language": "en",
+            "original_title": "Suspicion",
+            "overview": "A wealthy and sheltered young woman elopes with a charming playboy and soon learns of his bad traits, including his extreme dishonesty and lust for money. Gradually, she begins to suspect that he intends to kill her to collect her life insurance.",
+            "popularity": 1.2267,
+            "poster_path": "/clWNlzlbyaEoIK63lcFjqBmXoQz.jpg",
+            "release_date": "1941-11-14",
+            "title": "Suspicion",
+            "video": false,
+            "vote_average": 7.132,
+            "vote_count": 846
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aXCUVOdmysmq6gKgpLQukS2TNHl.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 84086,
+            "original_language": "en",
+            "original_title": "One Foot in Heaven",
+            "overview": "Episodic look at the life of a minister and his family as they move from one parish to another.",
+            "popularity": 0.2855,
+            "poster_path": "/vsQkW4kgaJME7emvrZfIpCkAT6P.jpg",
+            "release_date": "1941-11-01",
+            "title": "One Foot in Heaven",
+            "video": false,
+            "vote_average": 6.605,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d0jHDB6c2yu2c2yJBJkzkkADoUz.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 84087,
+            "original_language": "en",
+            "original_title": "Blossoms in the Dust",
+            "overview": "Edna marries Texan Sam Gladney, operator of a wheat mill. They have a son, who is killed when very young. Edna discovers by chance how the law treats children who are without parents and decides to do something about it. She opens a home for foundlings and orphans and begins to place children in good homes, despite the opposition of \"conservative\" citizens, who would condemn illegitimate children for being born out of wedlock. Eventually Edna leads a fight in the Texas legislature to remove the stigma of illegitimacy from birth records in that state, while continuing to be an advocate for homeless children.",
+            "popularity": 0.6899,
+            "poster_path": "/qKfQuCvpHpmyywk0hgqtbHyHfN2.jpg",
+            "release_date": "1941-08-15",
+            "title": "Blossoms in the Dust",
+            "video": false,
+            "vote_average": 6.563,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uudTreOlFCOefYNGXFlLcaAI3lj.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 51395,
+            "original_language": "en",
+            "original_title": "Hold Back the Dawn",
+            "overview": "Romanian-French gigolo Georges Iscovescu wishes to enter the USA. Stopped in Mexico by the quota system, he decides to marry an American, then desert her and join his old partner Anita, who's done likewise. But after sweeping teacher Emmy Brown off her feet, he finds her so sweet that love and jealousy endanger his plans.",
+            "popularity": 0.3214,
+            "poster_path": "/wYfLVAvGZcikP3KI3gTNsrLX3W2.jpg",
+            "release_date": "1941-09-26",
+            "title": "Hold Back the Dawn",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5pmh6lxg7R06nhzcslPCeoWHgoX.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 142876,
+            "original_language": "en",
+            "original_title": "Cheers for Miss Bishop",
+            "overview": "Ella Bishop is an inhibited girl whose frustrations grow as she approaches womanhood. As a women, her ambitions to teach cause her to lose her only opportunity for true love. Ella's life becomes one of missed chances and wrong choices. As she reaches old age, she reflects back and realizes she allowed the years to go by without achieving what she believes to be her true fulfillment. However, her years have not been without glory, and her moment of triumph arrives when her numerous now-famous students from over the years, return to honor their beloved Miss Bishop.",
+            "popularity": 1.5945,
+            "poster_path": "/qskXMXp76tEuIyKtg117UCG4LqS.jpg",
+            "release_date": "1941-02-21",
+            "title": "Cheers for Miss Bishop",
+            "video": false,
+            "vote_average": 5.625,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oPhyvR1UJ7qfOp1697HKz9xmtJP.jpg",
+            "genre_ids": [
+                53,
+                10752
+            ],
+            "id": 22404,
+            "original_language": "en",
+            "original_title": "Man Hunt",
+            "overview": "Shortly before the start of WW2, renowned British big-game hunter Alan Thorndike, vacationing in Bavaria, has Hitler in his gun sight. He is captured, beaten, left for dead, and escapes back to London where he is hounded by Nazi agents and aided by a young woman.",
+            "popularity": 0.5886,
+            "poster_path": "/5cQ3rmbzMcVeExlAyhgcJXlGgSO.jpg",
+            "release_date": "1941-06-13",
+            "title": "Man Hunt",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2XlhcXPhnzYKcyNQjomToxdhuQj.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 96107,
+            "original_language": "en",
+            "original_title": "H.M. Pulham, Esq.",
+            "overview": "A middle-aged businessman who has lived a conservative life according to the routine conventions of society, still remembers the beautiful young woman who once brought him out of his shell.",
+            "popularity": 0.2528,
+            "poster_path": "/usj8p3y51ePMcMoHlNkzqe4A9me.jpg",
+            "release_date": "1941-12-04",
+            "title": "H.M. Pulham, Esq.",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "id": 11360,
+            "original_language": "en",
+            "original_title": "Dumbo",
+            "overview": "Dumbo is a baby elephant born with over-sized ears and a supreme lack of confidence. But thanks to his even more diminutive buddy Timothy the Mouse,  the pint-sized pachyderm learns to surmount all obstacles.",
+            "popularity": 4.9278,
+            "poster_path": "/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg",
+            "release_date": "1941-10-31",
+            "title": "Dumbo",
+            "video": false,
+            "vote_average": 6.995,
+            "vote_count": 5099
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/61MzmuuyTZ1afikdmT3HgFYTd3z.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 43798,
+            "original_language": "en",
+            "original_title": "That Hamilton Woman",
+            "overview": "The story of courtesan and dance-hall girl Emma Hamilton, including her relationships with Sir William Hamilton and Admiral Horatio Nelson and her rise and fall, set during the Napoleonic Wars.",
+            "popularity": 0.4034,
+            "poster_path": "/zDXsdF9Eqk9hs9KyxakRYYijKxK.jpg",
+            "release_date": "1941-04-03",
+            "title": "That Hamilton Woman",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zydSOaJk2qf9maONGsktK5Pyjw1.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 29451,
+            "original_language": "en",
+            "original_title": "All That Money Can Buy",
+            "overview": "Farmer Jabez Stone, about to lose his land, agrees to sell his soul to the devil, known as Mr. Scratch, who gives Jabez seven years to enjoy the fruits of his sale before he collects. Over that time, Jabez pays off his debts and helps many neighboring farmers, then becomes an advocate for the upstanding Sen. Daniel Webster. When Jabez's contract with Mr. Scratch concludes, he desperately turns to Webster to represent him in a trial for his soul.",
+            "popularity": 0.2949,
+            "poster_path": "/2GUZ0Yg3DKlZpc3HEF5qJz7KqD5.jpg",
+            "release_date": "1941-10-17",
+            "title": "All That Money Can Buy",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                53
+            ],
+            "id": 963,
+            "original_language": "en",
+            "original_title": "The Maltese Falcon",
+            "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+            "popularity": 2.2251,
+            "poster_path": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+            "release_date": "1941-10-18",
+            "title": "The Maltese Falcon",
+            "video": false,
+            "vote_average": 7.711,
+            "vote_count": 1762
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vI2MbOOUPY3jTQNkbUbtxQYKuKn.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 38770,
+            "original_language": "en",
+            "original_title": "Major Barbara",
+            "overview": "Idealistic young Barbara is the daughter of rich weapons manufacturer Andrew Undershaft. She rebels against her estranged father by joining the Salvation Army. Wooed by professor-turned-preacher Adolphus Cusins, Barbara eventually grows disillusioned with her causes and begins to see things from her father's perspective.",
+            "popularity": 0.1492,
+            "poster_path": "/pGn2yUY23pDkjw1OcfXfwYvkApA.jpg",
+            "release_date": "1941-05-14",
+            "title": "Major Barbara",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AlYEWpTN09IKc2nxj1eHu4zpfsZ.jpg",
+            "genre_ids": [
+                18,
+                27,
+                878
+            ],
+            "id": 3022,
+            "original_language": "en",
+            "original_title": "Dr. Jekyll and Mr. Hyde",
+            "overview": "Dr. Jekyll believes good and evil exist in everyone and creates a potion that allows his evil side, Mr. Hyde, to come to the fore. He faces horrible consequences when he lets his dark side run amok.",
+            "popularity": 1.1075,
+            "poster_path": "/2GDdW84XSX3BYMJ9tmnFkZOGJyB.jpg",
+            "release_date": "1941-08-12",
+            "title": "Dr. Jekyll and Mr. Hyde",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 171
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fLOIGRuN5XDx0ezIt8ppqam99ME.jpg",
+            "genre_ids": [
+                37,
+                18,
+                35,
+                10749,
+                80
+            ],
+            "id": 95131,
+            "original_language": "en",
+            "original_title": "Honky Tonk",
+            "overview": "Fast-talking con-man and grifter Candy Johnson rises to be the corrupt boss of Yellow Creek, but his wife's alcoholic father tries to set things right.",
+            "popularity": 0.2001,
+            "poster_path": "/tspJB5bT5pTKfn2HbRHjPxH2A8t.jpg",
+            "release_date": "1941-10-01",
+            "title": "Honky Tonk",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Gwr3cbt94yrsNM2xOHIZP0Lwn8.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 27622,
+            "original_language": "en",
+            "original_title": "A Woman's Face",
+            "overview": "A female blackmailer with a disfiguring facial scar meets a plastic surgeon who offers her the possibility of looking like a normal woman.",
+            "popularity": 0.3816,
+            "poster_path": "/v5ULQxXBUomMgqwQjNwRHqlxCQ5.jpg",
+            "release_date": "1941-05-09",
+            "title": "A Woman's Face",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l8kGXKlUIKJ63XJm4xkn1ABYzW3.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 43705,
+            "original_language": "en",
+            "original_title": "The Great Lie",
+            "overview": "After a newlywed's husband apparently dies in a plane crash, she discovers that her rival for his affections is pregnant with his child.",
+            "popularity": 0.3819,
+            "poster_path": "/sibxFGB8qmriHBi2z38d3qfEsgV.jpg",
+            "release_date": "1941-04-05",
+            "title": "The Great Lie",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2gI7jZ16RZxwM8HlVvi2EMsSFMO.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 43801,
+            "original_language": "en",
+            "original_title": "The Devil and Miss Jones",
+            "overview": "The wealthiest man in the world, John P. Merrick, is a private person who likes to stay anonymous. One of his many assets is Neeley's Department Store. There is labor unrest at the store, and the employees' anger is directed at him, who they hang in effigy outside the store despite not knowing what he looks like. Merrick, not happy at what he sees going on, decides to mete out the rabble-rousers. So he goes undercover as a sales clerk in the shoe department.",
+            "popularity": 1.0988,
+            "poster_path": "/spGm2v3Jpg5l5xZS9xjKYNrLYF1.jpg",
+            "release_date": "1941-04-11",
+            "title": "The Devil and Miss Jones",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cfWxR72RiA3cO9qurVaAAuFoNqk.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43795,
+            "original_language": "en",
+            "original_title": "Penny Serenade",
+            "overview": "Julie and Roger are a love-struck married couple who desperately want to have a child. Tragedy after tragedy gets in their way, as the two attempt to rise above their troubles and fulfill their dreams of parenthood.",
+            "popularity": 1.3728,
+            "poster_path": "/7MC1fE5FSEIP9xf0N2VD68zRKv2.jpg",
+            "release_date": "1941-04-24",
+            "title": "Penny Serenade",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eVzQFWYICGBql9cfss1WKn0CxZK.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                80
+            ],
+            "id": 29884,
+            "original_language": "en",
+            "original_title": "Ball of Fire",
+            "overview": "A group of academics have spent years shut up in a house working on the definitive encyclopedia. When one of them discovers that his entry on slang is hopelessly outdated, he ventures into the wide world to learn about the evolving language. Here he meets Sugarpuss O\u2019Shea, a nightclub singer, who\u2019s on top of all the slang\u2014and, it just so happens, needs a place to stay.",
+            "popularity": 0.9938,
+            "poster_path": "/t9L16dMTuNq4saLpQswZjkNvaMt.jpg",
+            "release_date": "1941-12-02",
+            "title": "Ball of Fire",
+            "video": false,
+            "vote_average": 7.367,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7nL4SLErtTIU9lO1ZZMNIJYH0XD.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 3086,
+            "original_language": "en",
+            "original_title": "The Lady Eve",
+            "overview": "It's no accident when wealthy Charles falls for Jean. Jean is a con artist with her sights set on Charles' fortune. Matters complicate when Jean starts falling for her mark. When Charles suspects Jean is a gold digger, he dumps her. Jean, fixated on revenge and still pining for the millionaire, devises a plan to get back in Charles' life. With love and payback on her mind, she re-introduces herself to Charles, this time as an aristocrat named Lady Eve Sidwich.",
+            "popularity": 0.8876,
+            "poster_path": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg",
+            "release_date": "1941-02-25",
+            "title": "The Lady Eve",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 363
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h9qgkNFLDeMqXDwDbBkIvaZ76G0.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 44399,
+            "original_language": "en",
+            "original_title": "Blood and Sand",
+            "overview": "Bullfighter Juan Gallardo falls for socialite Dona Sol, turning from the faithful Carmen who nevertheless stands by her man as he continues to face real danger in the bullring.",
+            "popularity": 0.8223,
+            "poster_path": "/1cp4d9Mwz1IxZWcfKq0D53oVD0x.jpg",
+            "release_date": "1941-05-30",
+            "title": "Blood and Sand",
+            "video": false,
+            "vote_average": 6.508,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AkgwfE8aOS3BNpqCD2g9ujmmpmU.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 43822,
+            "original_language": "en",
+            "original_title": "The Stars Look Down",
+            "overview": "Davey Fenwick leaves his mining village on a university scholarship intent on returning to better support the miners against the owners. But he falls in love with Jenny who gets him to marry her and return home as local schoolteacher before finishing his degree.",
+            "popularity": 0.2401,
+            "poster_path": "/aUmcGT0ghKBc82fXvJYypkVt2Pg.jpg",
+            "release_date": "1940-01-22",
+            "title": "The Stars Look Down",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5XH1iCv2f7PDbrFufqJAVqrcoWV.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 242479,
+            "original_language": "en",
+            "original_title": "Virginia",
+            "overview": "Post-Civil War romantic drama about defeated Southerners, starring Madeleine Carroll and Fred MacMurray.",
+            "popularity": 0.0934,
+            "poster_path": "/5t6Hdd4FuQyAFrpnwoFiY3y5PV7.jpg",
+            "release_date": "1941-01-28",
+            "title": "Virginia",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s53sqtiAEzv0MqCW1prRf51nFYl.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 97818,
+            "original_language": "en",
+            "original_title": "Louisiana Purchase",
+            "overview": "A bumbling senator investigating graft in Louisiana is the target of a scheme involving a Viennese beauty.",
+            "popularity": 0.2347,
+            "poster_path": "/fyH0aA3nbipy4ylAIW7TbhxsRPj.jpg",
+            "release_date": "1941-12-31",
+            "title": "Louisiana Purchase",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bfN8fraehQ2issUCp1nHs7fxuuC.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 18539,
+            "original_language": "en",
+            "original_title": "Tobacco Road",
+            "overview": "Shiftless Jeeter Lester and his family of sharecroppers live in rural Georgia where their ancestors were once wealthy planters. Their slapstick existence is threatened by a bank's plans to take over the land for more profitable farming.",
+            "popularity": 0.4926,
+            "poster_path": "/7Iw6h2e2nc9hVioq0sLOc6pW4sL.jpg",
+            "release_date": "1941-02-20",
+            "title": "Tobacco Road",
+            "video": false,
+            "vote_average": 6.619,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5doH8NYYtXkbce6s7N6pVlJUTAF.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                10749
+            ],
+            "id": 49609,
+            "original_language": "en",
+            "original_title": "A Yank in the R.A.F.",
+            "overview": "An American pilot impulsively joins His Majesty's Royal Air Force in Britain in an attempt to impress his ex-girlfriend.",
+            "popularity": 0.2946,
+            "poster_path": "/2rnMINMnWv5iBM6YaqO6tiFaws7.jpg",
+            "release_date": "1941-09-26",
+            "title": "A Yank in the R.A.F.",
+            "video": false,
+            "vote_average": 5.591,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pDDJaYXJMvcD2NYo2u180xrNDX4.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10752
+            ],
+            "id": 100084,
+            "original_language": "en",
+            "original_title": "Underground",
+            "overview": "A World War II Hollywood propaganda film detailing the dark underside of Nazism and the Third Reich set between two brothers, Kurt and Erik Franken, whom are SS officers in the Nazi party. Kurt learns and exposes the evils of the system to Erik and tries to convince him of the immoral stance that marches under the symbol of the swastika.",
+            "popularity": 3.4284,
+            "poster_path": "/yvtnifiSr2CKqhj30QAU5OPeoSw.jpg",
+            "release_date": "1941-06-28",
+            "title": "Underground",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eHv14CWLRavWYNMQjnX6CqF7Rk4.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 32619,
+            "original_language": "en",
+            "original_title": "Ziegfeld Girl",
+            "overview": "Discovery by Flo Ziegfeld changes a girl's life but not necessarily for the better, as three beautiful women find out when they join the spectacle on Broadway: Susan, the singer who must leave behind her ageing vaudevillian father; vulnerable Sheila, the working girl pursued both by a millionaire and by her loyal boyfriend from Flatbush; and the mysterious European beauty Sandra, whose concert violinist husband cannot endure the thought of their escaping from poverty by promenading her glamor in skimpy costumes.",
+            "popularity": 0.6296,
+            "poster_path": "/jzVzrPg5tFR9WbVL04aLWqz3lMv.jpg",
+            "release_date": "1941-04-25",
+            "title": "Ziegfeld Girl",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6xPGvzPnHSLYvqNOUtvUDd681L.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 86604,
+            "original_language": "en",
+            "original_title": "Tom, Dick and Harry",
+            "overview": "Janie is a telephone operator who is caught up in the lines of love of three men: car salesman Tom, Chicago millionaire Dick and auto mechanic Harry. But Janie just can't seem to make up her mind between them. While fantasizing about her futures with each of the men, Janie spends her time desperately trying to juggle between them until she can make a decision.",
+            "popularity": 0.2729,
+            "poster_path": "/aZnucljYes0E8NkzH3Bg5jWiQg.jpg",
+            "release_date": "1941-06-13",
+            "title": "Tom, Dick and Harry",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eqKPmUhUjvkfBGS3GZf3FHk1BkY.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 42066,
+            "original_language": "en",
+            "original_title": "Ladies in Retirement",
+            "overview": "Ellen Creed is a housekeeper who looks after Leonora Fiske, a retired actress living in the English countryside. When Ellen's eccentric sisters visit their sibling at Leonora's home, tensions soon lead to murder.",
+            "popularity": 0.1873,
+            "poster_path": "/5KULYDhSbuvDdYVMT08mouLLm4Q.jpg",
+            "release_date": "1941-09-09",
+            "title": "Ladies in Retirement",
+            "video": false,
+            "vote_average": 6.515,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5gbhNb2QJsZw4l9QaDFnhhGH6Cv.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 131766,
+            "original_language": "en",
+            "original_title": "I Wanted Wings",
+            "overview": "Told in flashback, this drama follows the training and personal lives of three recruits in the Army Air Corps: a wealthy playboy, a college jock, and an auto mechanic. Love interest is supplied by a female photographer and a sultry blonde.",
+            "popularity": 0.111,
+            "poster_path": "/iiEkitLzTfR1JAeHxR0AyFQTFxf.jpg",
+            "release_date": "1941-03-26",
+            "title": "I Wanted Wings",
+            "video": false,
+            "vote_average": 5.375,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tIOQjkYg8VGZwZZSwN7T8M9BATx.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10752
+            ],
+            "id": 108014,
+            "original_language": "en",
+            "original_title": "Caught in the Draft",
+            "overview": "Don Bolton is a movie star who can't stand loud noises. To evade the draft, he decides to get married...but falls for a colonel's daughter. By mistake, he and his two cronies enlist. In basic training, Don hopes to make a good impression on the fair Antoinette and her father, but his military career is largely slapstick. Will he ever get his corporal's stripes?",
+            "popularity": 0.3056,
+            "poster_path": "/aG7BGllrdT5e6Zet2nneuM7TeI0.jpg",
+            "release_date": "1941-07-04",
+            "title": "Caught in the Draft",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4NcNulbm915IIsfV9zyq3ILWz2X.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 218305,
+            "original_language": "en",
+            "original_title": "So Ends Our Night",
+            "overview": "An anti-Nazi refugee on the run and a young Jewish couple race across Europe trying to escape Hitler's ever powerful influence.",
+            "popularity": 0.1218,
+            "poster_path": "/9IOc4bdqnIFPzWSs9l0qEDObJKJ.jpg",
+            "release_date": "1941-02-27",
+            "title": "So Ends Our Night",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uJVryqvFC6pOnw7OLXvdfBAZHQ3.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10752
+            ],
+            "id": 29601,
+            "original_language": "en",
+            "original_title": "Buck Privates",
+            "overview": "Petty con artists Slicker Smith and Herbie Brown mistakenly join the Army evading the cops. The cop chasing them winds up as their drill instructor. A rich young man and his former working class chauffeur are not only in the same unit, they're vying for a pretty girl who seems attracted to both.",
+            "popularity": 0.2927,
+            "poster_path": "/nmLdVuteO4rJB1HJKdgmhw74CW7.jpg",
+            "release_date": "1941-01-31",
+            "title": "Buck Privates",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cdFKUIxnLtDaQV850ArvKvDmVlM.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 105038,
+            "original_language": "en",
+            "original_title": "Men of Boys Town",
+            "overview": "Father Flanagan raises funds, helps a disabled boy, and saves an older boy  from reform school.",
+            "popularity": 0.2748,
+            "poster_path": "/nFJEkWQY9D5WBsaA3PfhwOYqwHu.jpg",
+            "release_date": "1941-04-11",
+            "title": "Men of Boys Town",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5EjoUHdoePpgZlkXgdsnhBJSP1O.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 65587,
+            "original_language": "en",
+            "original_title": "Dive Bomber",
+            "overview": "A military surgeon teams with a ranking navy flyer to develop a high-altitude suit which will protect pilots from blacking out when they go into a steep dive.",
+            "popularity": 0.5925,
+            "poster_path": "/2my6RE1UuD7M3I0gwrToUUosyUQ.jpg",
+            "release_date": "1941-01-01",
+            "title": "Dive Bomber",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fK2jeu56jfdHPHbIQSseG2JQ2IA.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                10749
+            ],
+            "id": 56558,
+            "original_language": "en",
+            "original_title": "Remember the Day",
+            "overview": "Elderly schoolteacher Nora Trinell, waiting to meet presidential nominee Dewey Roberts, recalls him as her student back in 1916 and his relation to Dan Hopkins, the man she married and lost.",
+            "popularity": 0.1321,
+            "poster_path": "/7gkw9EK4SAnOVHTkMrHy5JbqyyD.jpg",
+            "release_date": "1941-12-25",
+            "title": "Remember the Day",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/190UKO8hp01RUxqwVHykFkyzYX8.jpg",
+            "genre_ids": [
+                10402,
+                14,
+                10749
+            ],
+            "id": 130866,
+            "original_language": "en",
+            "original_title": "Smilin' Through",
+            "overview": "John Carteret has long been depressed and lonely, because, at his wedding years ago, his bride, Moonyean, was murdered. He accepts into his house Kathleen, the 5-year-old orphaned niece of Moonyean, and she quickly grows up to look just like her aunt.",
+            "popularity": 0.1726,
+            "poster_path": "/dU4rta0lY0Y5glZIOKpHxaiSQHz.jpg",
+            "release_date": "1941-10-01",
+            "title": "Smilin' Through",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6AcvQvapwSI0fw2j9fVUxMOkwNB.jpg",
+            "genre_ids": [
+                80,
+                18,
+                28
+            ],
+            "id": 27725,
+            "original_language": "en",
+            "original_title": "High Sierra",
+            "overview": "Given a pardon from jail, Roy Earle gets back into the swing of things as he robs a swanky resort.",
+            "popularity": 1.1656,
+            "poster_path": "/fkP6yy25Wja6Sn3AIlZ4F1BWsy0.jpg",
+            "release_date": "1941-01-23",
+            "title": "High Sierra",
+            "video": false,
+            "vote_average": 7.054,
+            "vote_count": 332
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/758J2XvQKNm0wCFrAv7TiYiJH0H.jpg",
+            "genre_ids": [
+                99,
+                36,
+                10752
+            ],
+            "id": 98478,
+            "original_language": "en",
+            "original_title": "Target for Tonight",
+            "overview": "This is the authentic story of a bombing raid on Germany... how it is planned and how it is executed. Every person seen in the picture is a member of the Royal Air Force from Commander-in-Chief to aircraft hand, re-enacting his own daily life on the job. They are the men and women who actually direct, plan and execute the raids.",
+            "popularity": 0.1043,
+            "poster_path": "/rGiuN6KghkC7RtrBZUrpP0jBeGs.jpg",
+            "release_date": "1941-08-18",
+            "title": "Target for Tonight",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hZhWbscVb8X6RD2ur8Ang02AdqY.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 54635,
+            "original_language": "en",
+            "original_title": "When Ladies Meet",
+            "overview": "Mary, a writer working on a novel about a love triangle, is attracted to her publisher. Her suitor Jimmy is determined to break them up; he introduces Mary to the publisher's wife without telling Mary who she is.",
+            "popularity": 0.178,
+            "poster_path": "/b8JFVbtijLnVkaf9rTP0ebjnCHc.jpg",
+            "release_date": "1941-08-29",
+            "title": "When Ladies Meet",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ROTfmQCbtfCRs38vrqE34k0vWv.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 61334,
+            "original_language": "en",
+            "original_title": "Charley's Aunt",
+            "overview": "In 1890, two students at Oxford force their rascally friend and fellow student to pose as an aunt from Brazil--where the nuts come from.",
+            "popularity": 0.1553,
+            "poster_path": "/x5g1VnEsn50DX7AdMrV3Kn7lhSp.jpg",
+            "release_date": "1941-08-01",
+            "title": "Charley's Aunt",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tdsXoeFxNXq5lhZfDvATrKDLsr6.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 43804,
+            "original_language": "en",
+            "original_title": "Western Union",
+            "overview": "When Edward Creighton leads the construction of the Western Union to unite East with West, he hires a Western reformed outlaw and a tenderfoot Eastern surveyor.  Preserved by the Academy Film Archive in partnership with Twentieth Century Fox Film Corporation in 2000.",
+            "popularity": 1.1387,
+            "poster_path": "/wpWsAhUjcOnnkGCcGDDeEWehMw0.jpg",
+            "release_date": "1941-02-21",
+            "title": "Western Union",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v4Xw399f5RIuoM6JLRrsoQytK7H.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 29886,
+            "original_language": "en",
+            "original_title": "The Bride Came C.O.D.",
+            "overview": "A financially-strapped charter pilot hires himself to an oil tycoon to kidnap his madcap daughter and prevent her from marrying a vapid band leader.",
+            "popularity": 0.1818,
+            "poster_path": "/xGYLD2oZKpJae4lnrF5mTqQ88kE.jpg",
+            "release_date": "1941-07-12",
+            "title": "The Bride Came C.O.D.",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 30
+        }
+    ]
+}

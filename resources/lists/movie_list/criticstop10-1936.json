@@ -1,0 +1,980 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1936",
+    "source": "https://criticstop10.com/best-movies-of-1936/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/CL7u2Zbh0oO5ppBvOkuoIX4xF8.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 24807,
+            "original_language": "en",
+            "original_title": "Mr. Deeds Goes to Town",
+            "overview": "Longfellow Deeds lives in a small town, leading a small town kind of life. When a relative dies and leaves Deeds a fortune, Longfellow moves to the big city where he becomes an instant target for everyone. Deeds outwits them all until Babe Bennett comes along. When small-town boy meets big-city girl anything can, and does, happen.",
+            "popularity": 0.8276,
+            "poster_path": "/20p5Cxib8wX0AyGl5i1uwPm6UwC.jpg",
+            "release_date": "1936-04-09",
+            "title": "Mr. Deeds Goes to Town",
+            "video": false,
+            "vote_average": 7.542,
+            "vote_count": 381
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cBre1N5vS1sbjDeU7qF1W6TadAe.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 43277,
+            "original_language": "en",
+            "original_title": "The Great Ziegfeld",
+            "overview": "At the 1893 Chicago World's Fair, sideshow barker Florenz Ziegfeld turns the tables on his more-successful neighbor Billings, and also steals his girlfriend. This pattern repeats throughout their lives, as Ziegfeld makes and loses many fortunes putting on ever-bigger, more spectacular shows",
+            "popularity": 0.5542,
+            "poster_path": "/7wkIYI2r0ICajBcCW0JlIT3zSwc.jpg",
+            "release_date": "1936-04-08",
+            "title": "The Great Ziegfeld",
+            "video": false,
+            "vote_average": 6.269,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10402
+            ],
+            "id": 43881,
+            "original_language": "en",
+            "original_title": "San Francisco",
+            "overview": "A beautiful singer and a battling priest try to reform a Barbary Coast saloon owner in the days before the great earthquake and subsequent fires in 1906.",
+            "popularity": 0.6123,
+            "poster_path": "/zQF1UDB0ck4dRfKAn4XixGrCkjx.jpg",
+            "release_date": "1936-06-26",
+            "title": "San Francisco",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 31507,
+            "original_language": "en",
+            "original_title": "Dodsworth",
+            "overview": "A retired auto manufacturer and his wife take a long-planned European vacation only to find that they want very different things from life.",
+            "popularity": 0.7226,
+            "poster_path": "/qpd9P54mLYvzdC6rBz56is8aeDB.jpg",
+            "release_date": "1936-09-23",
+            "title": "Dodsworth",
+            "video": false,
+            "vote_average": 7.082,
+            "vote_count": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kRY4Y3en26BiJCC0GO4YZ4EDyOb.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43879,
+            "original_language": "en",
+            "original_title": "Romeo and Juliet",
+            "overview": "Young love is poisoned by a generations long feud between two noble families.",
+            "popularity": 0.5773,
+            "poster_path": "/tGK16kxbsSrNnuRyhw57Yl1H20w.jpg",
+            "release_date": "1936-09-03",
+            "title": "Romeo and Juliet",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dNrOYlSjx9F6WPrtVaKai6OAa1k.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 74469,
+            "original_language": "en",
+            "original_title": "The Story of Louis Pasteur",
+            "overview": "A true story about Louis Pasteur, who revolutionized medicine by proving that much disease is caused by microbes, that sanitation is paramount and that at least some diseases can be cured by vaccinations.",
+            "popularity": 0.3762,
+            "poster_path": "/tEYBb5ZKK22TWSwLY1hkFSD2rjG.jpg",
+            "release_date": "1936-02-22",
+            "title": "The Story of Louis Pasteur",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rvUITyIhqSxFDhg3SE5J1yiwgrn.jpg",
+            "genre_ids": [
+                36,
+                18,
+                10749,
+                12
+            ],
+            "id": 17831,
+            "original_language": "en",
+            "original_title": "A Tale of Two Cities",
+            "overview": "Set against the conditions leading up to the French Revolution and the Reign of Terror, French doctor Alexandre Manette serves an 18-year imprisonment in the Bastille in Paris, followed by his release to live in London with the daughter he has never met.",
+            "popularity": 0.8798,
+            "poster_path": "/mO8ezngn6ZYqpCQuhXUSEtDDwos.jpg",
+            "release_date": "1935-12-25",
+            "title": "A Tale of Two Cities",
+            "video": false,
+            "vote_average": 6.764,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dww52MSjI109oUWCoxBjoqg1o38.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 37658,
+            "original_language": "en",
+            "original_title": "Anthony Adverse",
+            "overview": "Based on the novel by Hervey Allen, this expansive drama follows the many adventures of the eponymous hero, Anthony Adverse. Abandoned at a convent by his heartless nobleman father, Don Luis, Anthony is later mentored by his kind grandfather, John Bonnyfeather, and falls for the beautiful Angela Giuseppe. When circumstances separate Anthony and Angela and he embarks on a long journey, he must find his way back to her, no matter what the cost.",
+            "popularity": 0.3661,
+            "poster_path": "/9SPjkq5z86t80Q7XBw8AG2si2vQ.jpg",
+            "release_date": "1936-08-26",
+            "title": "Anthony Adverse",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j6e4VqPMEWRo4ell3lcKEHDyIhO.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 95015,
+            "original_language": "en",
+            "original_title": "The Green Pastures",
+            "overview": "God, heaven, and several Old Testament stories, including the Creation and Noah's Ark, are described supposedly using the perspective of rural, black Americans.",
+            "popularity": 0.155,
+            "poster_path": "/oyYQzdDPyS0EXmpJaurjOnKpH83.jpg",
+            "release_date": "1936-08-01",
+            "title": "The Green Pastures",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vtgsdDm0uGNBYqQ14J3ONnhxiAm.jpg",
+            "genre_ids": [
+                10749,
+                80,
+                18
+            ],
+            "id": 87445,
+            "original_language": "en",
+            "original_title": "Winterset",
+            "overview": "A man is determined to find the real culprit behind the crime for which his father was wrongly executed.",
+            "popularity": 0.164,
+            "poster_path": "/3t9wRsjNYJobOV5leydtv9tuPfD.jpg",
+            "release_date": "1936-12-03",
+            "title": "Winterset",
+            "video": false,
+            "vote_average": 5.667,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xRD6SIjR2ezwcMKw6J5UX7gef3v.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 81687,
+            "original_language": "en",
+            "original_title": "Lloyd's of London",
+            "overview": "Norfolk, England, 1770. The nephew of an innkeeper and the son of a reverend maintain a very close friendship until, after living a great adventure, they must separate their paths. The former will head his footsteps to London and bound his destiny to Lloyd's, a thriving insurance company; the latter will eventually become one of the greatest heroes in the history of the British Empire.",
+            "popularity": 0.3189,
+            "poster_path": "/7Fg6Kcgrbw3Ek6SCK6DYDp4Y0OT.jpg",
+            "release_date": "1936-11-25",
+            "title": "Lloyd's of London",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nRBw8JYA3Li1d40kJN4AFMi5TT3.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 14615,
+            "original_language": "en",
+            "original_title": "Fury",
+            "overview": "Joe, who owns a gas station along with his brothers and is about to marry Katherine, travels to the small town where she lives to visit her, but is wrongly mistaken for a wanted kidnapper and arrested.",
+            "popularity": 0.9272,
+            "poster_path": "/u1kjLTUqmqjDMlRxcwCqWagjf6r.jpg",
+            "release_date": "1936-06-05",
+            "title": "Fury",
+            "video": false,
+            "vote_average": 7.432,
+            "vote_count": 237
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5F4vuX92TxKcZH5hdunrgl0mBRi.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 54569,
+            "original_language": "en",
+            "original_title": "These Three",
+            "overview": "Close friends Martha and Karen build a private boarding school together with the aid of the local doctor Joe. The school takes off and many students enroll, one of whom is a trouble-maker who tells a scandalous lie that threatens to destroy the trio's lives.",
+            "popularity": 0.4677,
+            "poster_path": "/2qGq9jTAaf6XtcGBXSf2xUHxzAl.jpg",
+            "release_date": "1936-03-18",
+            "title": "These Three",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/96cNUk1Uj8fQcmbOTnpBauUdqzC.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 13562,
+            "original_language": "en",
+            "original_title": "My Man Godfrey",
+            "overview": "Fifth Avenue socialite Irene Bullock needs a \"forgotten man\" to win a scavenger hunt, and no one is more forgotten than Godfrey Park, who resides in a dump by the East River. Irene hires Godfrey as a servant for her riotously unhinged family, to the chagrin of her spoiled sister, Cornelia, who tries her best to get Godfrey fired. As Irene falls for her new butler, Godfrey turns the tables and teaches the frivolous Bullocks a lesson or two.",
+            "popularity": 2.5601,
+            "poster_path": "/wtfOW7fIxBZWY78rvUoPpWhMSiR.jpg",
+            "release_date": "1936-09-02",
+            "title": "My Man Godfrey",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yIj4Y2BXbjr8Qem6Ly8QJWt4PgL.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 31773,
+            "original_language": "en",
+            "original_title": "Libeled Lady",
+            "overview": "When a major newspaper accuses wealthy socialite Connie Allenbury of being a home-wrecker, and she files a multi-million-dollar libel lawsuit, the publication's frazzled head editor, Warren Haggerty, must find a way to turn the tables on her. Soon Haggerty's harried fianc\u00e9e, Gladys Benton, and his dashing friend Bill Chandler are in on a scheme that aims to discredit Connie, with amusing and unexpected results.",
+            "popularity": 0.5109,
+            "poster_path": "/mu2zGdHZJ9IASvnQktjGLZ4kU13.jpg",
+            "release_date": "1936-10-09",
+            "title": "Libeled Lady",
+            "video": false,
+            "vote_average": 7.31,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g0SCy0sGaJa381iDQRxqonCMTGN.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10749,
+                53
+            ],
+            "id": 17030,
+            "original_language": "en",
+            "original_title": "The Petrified Forest",
+            "overview": "Gabby, the waitress in an isolated Arizona diner, dreams of a bigger and better life. One day penniless intellectual Alan drifts into the joint and the two strike up a rapport. Soon enough, notorious killer Duke Mantee takes the diner's inhabitants hostage. Surrounded by miles of desert, the patrons and staff are forced to sit tight with Mantee and his gang overnight.",
+            "popularity": 0.6026,
+            "poster_path": "/kjE4pw6mqoA1OJHNLq1aol4y4C1.jpg",
+            "release_date": "1936-02-08",
+            "title": "The Petrified Forest",
+            "video": false,
+            "vote_average": 7.08,
+            "vote_count": 201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kCS199RUNeox68UV7C4NZrx9u4M.jpg",
+            "genre_ids": [
+                10749,
+                12,
+                10402
+            ],
+            "id": 43880,
+            "original_language": "en",
+            "original_title": "Rose Marie",
+            "overview": "An incognito opera singer falls for a policeman who has been assigned to track down her fugitive brother.",
+            "popularity": 0.2415,
+            "poster_path": "/54J30pAeefdKGIrImWPSiiUU3Su.jpg",
+            "release_date": "1936-01-31",
+            "title": "Rose Marie",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lWRtcQRzmqN4Rtl9JoI40ff4cd9.jpg",
+            "genre_ids": [
+                10402,
+                10749,
+                18,
+                35
+            ],
+            "id": 31548,
+            "original_language": "en",
+            "original_title": "Show Boat",
+            "overview": "Despite her mother's objections, the naive young daughter of a show boat captain is thrust into the limelight as the company's new leading lady.",
+            "popularity": 0.3448,
+            "poster_path": "/vFJ1vdOvOJjKVsoi8x7eZUthAJm.jpg",
+            "release_date": "1936-05-17",
+            "title": "Show Boat",
+            "video": false,
+            "vote_average": 6.761,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/niEFccPTepmUGoO8jWZgZ4uHVKB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 286571,
+            "original_language": "en",
+            "original_title": "The Country Doctor",
+            "overview": "A doctor has a rough time obtaining the money for his services in a lumber town until he delivers quintuplets.",
+            "popularity": 0.2313,
+            "poster_path": "/99SzJ2LhdyA7S5AAYHmvXPyJ6JX.jpg",
+            "release_date": "1936-03-12",
+            "title": "The Country Doctor",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oBlTxZS8aSLH1i67nczMeSuwg2a.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 52429,
+            "original_language": "en",
+            "original_title": "Theodora Goes Wild",
+            "overview": "The small-town prudes of Lynnfield are up in arms over 'The Sinner,' a sexy best-seller. They little suspect that author 'Caroline Adams' is really Theodora Lynn, scion of the town's leading family. Michael Grant, devil-may-care book jacket illustrator, penetrates Theodora's incognito and sets out to 'free her' from Lynnfield against her will. But Michael has a secret too, and gets a taste of his own medicine.",
+            "popularity": 0.3683,
+            "poster_path": "/rCrLr32lMOeqKHrBuxAPYpDEDJX.jpg",
+            "release_date": "1936-11-12",
+            "title": "Theodora Goes Wild",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s7DtYI6KPd5s5UDdpTbXcbmDamB.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                14
+            ],
+            "id": 132263,
+            "original_language": "en",
+            "original_title": "The Ghost Goes West",
+            "overview": "Donald Glourie shares his crumbling ancestral home with the ghost of his Highland ancestor, Murdoch, who has been condemned to haunt the castle until he avenges a 200-year-old insult from a rival clan. To clear his mounting debts, Donald sells the dilapidated pile to an American businessman, Mr Martin, who has the castle complete with the Glourie ghost transported and rebuilt in Florida. While old-world gentility rubs up comically against 20th-century materialism, Martin's daughter takes a liking to both Donald and Murdoch, convinced they are one and the same man...",
+            "popularity": 0.5127,
+            "poster_path": "/zT8v1fXrs1SpttBzXVamPjfBqRh.jpg",
+            "release_date": "1935-12-17",
+            "title": "The Ghost Goes West",
+            "video": false,
+            "vote_average": 6.529,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f0XZOJYk9sNk22qDbzGfR7Q0wbf.jpg",
+            "genre_ids": [
+                37,
+                10752,
+                10749
+            ],
+            "id": 43885,
+            "original_language": "en",
+            "original_title": "The Plainsman",
+            "overview": "Wild Bill Hickok, Calamity Jane and Buffalo Bill go up against Indians and a gunrunner.",
+            "popularity": 0.6105,
+            "poster_path": "/ka6BADguVn6ZNYhbwMqDONhbcfR.jpg",
+            "release_date": "1936-11-16",
+            "title": "The Plainsman",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f87Lsbz3TWb1YaJaYSYU2uUqFHc.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 50031,
+            "original_language": "en",
+            "original_title": "Rembrandt",
+            "overview": "A character study depicting the life of Rembrandt Van Rijn at the height of his fame in the mid 1600s. Beginning with the death of his wife, Rembrandt's work takes a dark turn, which offends many of his patrons.",
+            "popularity": 0.8904,
+            "poster_path": "/mGoJsDTITN1WBCEUzbSQEEUIGzj.jpg",
+            "release_date": "1936-11-06",
+            "title": "Rembrandt",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cvVv9Xr8AaYhhV6Dfae4iQUuPa6.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10749
+            ],
+            "id": 76094,
+            "original_language": "en",
+            "original_title": "The Trail of the Lonesome Pine",
+            "overview": "A well-established tale of a long-running feud between two mountain clans.",
+            "popularity": 0.7718,
+            "poster_path": "/6x9MA5AAfGYuRLCDT8d2dogYtC4.jpg",
+            "release_date": "1936-03-13",
+            "title": "The Trail of the Lonesome Pine",
+            "video": false,
+            "vote_average": 6.433,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d2TRgU9AMB7PHQ36Y2tZo0y9g9k.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 43875,
+            "original_language": "en",
+            "original_title": "Mary of Scotland",
+            "overview": "The recently widowed Mary Stuart returns to Scotland to reclaim her throne but is opposed by her half-brother and her own Scottish lords.",
+            "popularity": 0.6976,
+            "poster_path": "/AKInVpVxnGQLSrmnOUoqTlCtdm.jpg",
+            "release_date": "1936-07-28",
+            "title": "Mary of Scotland",
+            "video": false,
+            "vote_average": 6.338,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iuqShSmgUOCM72Mu4u7Btqelflx.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10402
+            ],
+            "id": 64142,
+            "original_language": "en",
+            "original_title": "Three Smart Girls",
+            "overview": "The three Craig sisters \u2013 Penny, Kay, and Joan \u2013 go to New York to stop their divorced father from marrying gold digger Donna Lyons and re-unite him with their mother.",
+            "popularity": 0.48,
+            "poster_path": "/zae2mPsb621u2U4vLa2KkDGG7el.jpg",
+            "release_date": "1936-12-20",
+            "title": "Three Smart Girls",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 3082,
+            "original_language": "en",
+            "original_title": "Modern Times",
+            "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+            "popularity": 2.9133,
+            "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+            "release_date": "1936-02-05",
+            "title": "Modern Times",
+            "video": false,
+            "vote_average": 8.282,
+            "vote_count": 3853
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9aiwz7W64ngTBf7v3pSs6lSEj0I.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 93313,
+            "original_language": "en",
+            "original_title": "Come and Get It",
+            "overview": "An ambitious lumberjack abandons his saloon girl lover so that he can marry into wealth, but years later becomes infatuated with the woman's daughter.",
+            "popularity": 0.3558,
+            "poster_path": "/1XrclgIlth8nt2Hh7gl3LpRyCfV.jpg",
+            "release_date": "1936-11-06",
+            "title": "Come and Get It",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pDSSSx5ipRMvFwVfhgGGUTxeOsi.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 23114,
+            "original_language": "en",
+            "original_title": "Little Lord Fauntleroy",
+            "overview": "An American boy turns out to be the heir of a wealthy British earl. He is sent to live with the irritable and unsentimental aristocrat, his grandfather.",
+            "popularity": 1.639,
+            "poster_path": "/xW0wVXvcc9i1BE7xIsx0ZCGqryS.jpg",
+            "release_date": "1936-03-06",
+            "title": "Little Lord Fauntleroy",
+            "video": false,
+            "vote_average": 6.705,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/33jVTjHv4MmJtSIRDQljMToYrXU.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 120357,
+            "original_language": "en",
+            "original_title": "Craig's Wife",
+            "overview": "Harriet, Walter Craig's wife, is an upper-class woman obsessed with control, material possessions and social status whose behavior makes difficult her relationship with domestic service and family members.",
+            "popularity": 0.2429,
+            "poster_path": "/30vQfNP0O40izigUrPc0WHffyey.jpg",
+            "release_date": "1936-09-25",
+            "title": "Craig's Wife",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g4jdGrWYn0ZwrTs2hcs1MW1yaBm.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 112284,
+            "original_language": "en",
+            "original_title": "The Gorgeous Hussy",
+            "overview": "It's the early nineteenth century Washington. Young adult Margaret O'Neal, Peggy to most that know her, is the daughter of Major William O'Neal, who is the innkeeper of the establishment where most out-of-town politicians and military men stay when they're in Washington. Peggy is pretty and politically aware. She is courted by several of those politicians and military men who all want to marry her, except for the one with who she is truly in love.",
+            "popularity": 0.1812,
+            "poster_path": "/jvqWDuu9NRjB8MnIMunYH9GchfZ.jpg",
+            "release_date": "1936-08-28",
+            "title": "The Gorgeous Hussy",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nKzpS3LMhKCWRYNt3QApXzH1gYX.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 281480,
+            "original_language": "en",
+            "original_title": "Tudor Rose",
+            "overview": "The tragic story of Lady Jane Grey, the young queen who reigned in England for nine days before she was executed.",
+            "popularity": 0.1713,
+            "poster_path": "/7hM1vYpB6IUeLTDENxBASB5DPre.jpg",
+            "release_date": "1936-09-01",
+            "title": "Tudor Rose",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5VSgKy4sMrdyThobNZVEW2Zp4gt.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 113916,
+            "original_language": "en",
+            "original_title": "The General Died at Dawn",
+            "overview": "China, 1930s, during the ravaging civil war. General Pen entrusts O'Hara, an intrepid American adventurer, with the mission of providing a large sum of money to Mr. Wu with the task of buying weapons in Shanghai to help end General Yang's tyranny that keeps an entire province under his ruthless iron boot.",
+            "popularity": 0.2016,
+            "poster_path": "/mpt6AyISPBYesV8lFxED7PoHxZD.jpg",
+            "release_date": "1936-11-17",
+            "title": "The General Died at Dawn",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/berFcW4jty3bPar7SVPIyIcqru9.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 20325,
+            "original_language": "en",
+            "original_title": "Swing Time",
+            "overview": "Lucky is tricked into missing his own wedding to Margaret and has to make $25,000 so her father will allow him to marry her. He and business partner Pop go to New York where they run into dancing instructor Penny. She and Lucky form a successful dance partnership, but romance is blighted by his old attachment to Margaret and hers for Ricky.",
+            "popularity": 0.6586,
+            "poster_path": "/cECQGtw13ooPIuEpVWOUlUXaAnO.jpg",
+            "release_date": "1936-08-28",
+            "title": "Swing Time",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kIvFFWx0iDY9EA39xJFmXcVmK6H.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 88031,
+            "original_language": "en",
+            "original_title": "The Devil Is a Sissy",
+            "overview": "A well-bred young English lad living in lower Manhattan tries to gain acceptance from his not-so-well-bred peers at school.",
+            "popularity": 0.177,
+            "poster_path": "/d9DOU8L48d5nVVdF57WwcD35DCn.jpg",
+            "release_date": "1936-09-18",
+            "title": "The Devil Is a Sissy",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jFyavNLieZMLr3jYEidxU7m336K.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 130342,
+            "original_language": "en",
+            "original_title": "One in a Million",
+            "overview": "American theatrical manager discovers Greta Muller preparing for the Olympics in Switzerland and brings her to Madison Square Garden.",
+            "popularity": 0.0595,
+            "poster_path": "/qs8e9jBY0gRgwweTeG9TJkjpwui.jpg",
+            "release_date": "1937-01-01",
+            "title": "One in a Million",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dsrHhe5Ljve2WKwDUHJPIfyG3f1.jpg",
+            "genre_ids": [
+                18,
+                12,
+                10752
+            ],
+            "id": 43884,
+            "original_language": "en",
+            "original_title": "The Charge of the Light Brigade",
+            "overview": "In 1853, as the British and Russian empires compete to gain and maintain their place in the dreadful Great Game of political intrigues and alliances whose greatest prize is the domination of India and the border territories, Major Geoffrey Vickers must endure several betrayals and misfortunes before he can achieve his revenge at the Balaclava Heights, on October 25, 1854, the most glorious day of the Crimean War.",
+            "popularity": 0.6231,
+            "poster_path": "/v7PFjyhEAWKGQ8g6cTGw4GzYKsa.jpg",
+            "release_date": "1936-10-20",
+            "title": "The Charge of the Light Brigade",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wCKoZibsAdSbtNkLZOJphPeG5w0.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                12
+            ],
+            "id": 151848,
+            "original_language": "en",
+            "original_title": "The Garden of Allah",
+            "overview": "The star-crossed desert romance of a cloistered woman and a renegade monk.",
+            "popularity": 0.4207,
+            "poster_path": "/ilEUSPjSJC50sgsJgQkDesW7iok.jpg",
+            "release_date": "1936-10-14",
+            "title": "The Garden of Allah",
+            "video": false,
+            "vote_average": 5.734,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AnKzR6MedfZC3jbdaUBM1WucT0G.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 114057,
+            "original_language": "en",
+            "original_title": "Valiant Is the Word for Carrie",
+            "overview": "Carrie Snyder is a prostitute, who is forced out of the fictional southern town of Crebillon, after forming a friendship with a young boy named Paul, whose dying mother is unable to protest against her son visiting such a woman. After Carrie has left town Paul runs away from his abusive father, and meets a girl named Lady who has run away from a burning trainwreck, not wanting to go back to the people she was with. Carrie comes back for Paul and ends up taking Paul and Lady to New York with her.",
+            "popularity": 0.1048,
+            "poster_path": "/cHvn0S8sSiabWbdrCuioOmTEGvC.jpg",
+            "release_date": "1936-10-06",
+            "title": "Valiant Is the Word for Carrie",
+            "video": false,
+            "vote_average": 6.417,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yC9YsYzfebz5aD5ybAyTAuHgYih.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10402
+            ],
+            "id": 216068,
+            "original_language": "en",
+            "original_title": "The Big Broadcast of 1937",
+            "overview": "The employees of a failing radio station must put on a huge ratings winner to have any chance of continued operation.",
+            "popularity": 0.0861,
+            "poster_path": "/sbUbg0Smib3GjRLFhssDqIuqkgD.jpg",
+            "release_date": "1936-10-05",
+            "title": "The Big Broadcast of 1937",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2nVGLtUhXD6rizfSecQJNjfyW8M.jpg",
+            "genre_ids": [
+                12,
+                10749
+            ],
+            "id": 56559,
+            "original_language": "en",
+            "original_title": "Under Two Flags",
+            "overview": "Sergeant Victor comes to the French Foreign Legion after taking the blame for his brother's crime. Cigarette falls in love with him though Major Doyle is in love with her. Doyle sends Victor on dangerous assignments to be rid of him. He falls in love with Lady Venetia Cunningham, a visitor to the garrison",
+            "popularity": 0.2193,
+            "poster_path": "/rrJiteKQPH3iu74HwFKGQzEXLWf.jpg",
+            "release_date": "1936-04-30",
+            "title": "Under Two Flags",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xRyu3WKWBATP8T4afJ5vArNlElB.jpg",
+            "genre_ids": [
+                35,
+                9648,
+                80
+            ],
+            "id": 14588,
+            "original_language": "en",
+            "original_title": "After the Thin Man",
+            "overview": "Nick and Nora Charles investigate when Nora's cousin reports her disreputable husband is missing, and find themselves in a mystery involving the shady owners of a popular nightclub, a singer and her dark brother, the cousin's forsaken true love, and Nora's bombastic and controlling aunt.",
+            "popularity": 0.6699,
+            "poster_path": "/1fkCHOffEkPOY0UwSrvzG6YKDVp.jpg",
+            "release_date": "1936-12-25",
+            "title": "After the Thin Man",
+            "video": false,
+            "vote_average": 7.347,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2zIcM8ApiRIaQTHFvQXDxfWx1Co.jpg",
+            "genre_ids": [
+                10402,
+                35
+            ],
+            "id": 137608,
+            "original_language": "en",
+            "original_title": "The Gay Desperado",
+            "overview": "Opera singer Chivo is currently playing a singing cowboy, and Mexican bandito Braganza kidnaps him (along with Jane, an heiress) so he can learn to become more like the American movie gangsters he admires.",
+            "popularity": 0.1112,
+            "poster_path": "/7PPstjjngZpYRcLrVCFrcHBazMx.jpg",
+            "release_date": "1936-10-02",
+            "title": "The Gay Desperado",
+            "video": false,
+            "vote_average": 2.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/muPb0OHjTmmEM1Bo6o3mn8avTiR.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 292633,
+            "original_language": "en",
+            "original_title": "The White Angel",
+            "overview": "In Victorian England, Florence Nightingale's heroic measures slowly change the attitude towards nurses when it was considered a disreputable profession.",
+            "popularity": 0.1772,
+            "poster_path": "/qaKhddLijEzfugwuwGGkbtRDaTv.jpg",
+            "release_date": "1936-06-25",
+            "title": "The White Angel",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/389kf36hGoXwAmT4UwXiAQgFtlU.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 140276,
+            "original_language": "en",
+            "original_title": "The Road to Glory",
+            "overview": "The story of trench life during World War I through the lives of a French regiment. As men are killed and replaced jaunty Lt. Denet becomes more and more somber. His rival for the affection of nurse Monique is Capt. La Roche.",
+            "popularity": 0.2506,
+            "poster_path": "/nOmL60w66TyOaNZUnGHCLJ9sUqt.jpg",
+            "release_date": "1936-09-04",
+            "title": "The Road to Glory",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sv6KLwDXi7QNSDcdSofc2NF3tk.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 77245,
+            "original_language": "en",
+            "original_title": "The Prisoner of Shark Island",
+            "overview": "After healing the leg of the murderer John Wilkes Booth, responsible for the assassination of President Abraham Lincoln, perpetrated on April 14, 1865, during a performance at Ford's Theatre in Washington; Dr. Samuel A. Mudd, considered part of the atrocious conspiracy, is sentenced to life imprisonment and sent to the sinister Shark Island Prison.",
+            "popularity": 0.8567,
+            "poster_path": "/sRwHEfjPmRhK9rbqV3XNThERKCX.jpg",
+            "release_date": "1936-02-28",
+            "title": "The Prisoner of Shark Island",
+            "video": false,
+            "vote_average": 6.88,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a4uWcOpL9fpdOdCNlod0esC4iY3.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 28292,
+            "original_language": "en",
+            "original_title": "Follow the Fleet",
+            "overview": "When the US Navy fleet docks at San Francisco, sailor Bake Baker tries to rekindle the flame with his old dancing partner, Sherry Martin, while Bake's buddy Bilge Smith romances Sherry's sister, Connie. But it's not all smooth sailing\u2014Bake has a habit of losing Sherry's jobs for her and, despite Connie's dreams, Bilge is not ready to settle down.",
+            "popularity": 0.3922,
+            "poster_path": "/2YQUMsVNykdmCkOevlQv1aKEa91.jpg",
+            "release_date": "1936-02-20",
+            "title": "Follow the Fleet",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vhDnUK6f3uusLph58gbNR0I9FYG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 297158,
+            "original_language": "en",
+            "original_title": "To Mary - with Love",
+            "overview": "Mary stands by Jack after the Depression of 1929 but considers divorce when he again becomes successful by 1935. Bill, who loves Mary, works at keeping them together.",
+            "popularity": 0.119,
+            "poster_path": "/5arQE7wQgnlkihMH8PiHYYHu5rG.jpg",
+            "release_date": "1936-08-01",
+            "title": "To Mary - with Love",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/58SAOO9LymwpWeuV5QdCUp1nDpg.jpg",
+            "genre_ids": [
+                10749,
+                12
+            ],
+            "id": 132597,
+            "original_language": "en",
+            "original_title": "Ramona",
+            "overview": "Half-Indian girl brought up in a wealthy household is loved by the son of the house against his family's wishes and loves another Indian employed by the household.",
+            "popularity": 0.118,
+            "poster_path": "/z5vwASjJuWiafNiea8hQ6U29dnU.jpg",
+            "release_date": "1936-09-25",
+            "title": "Ramona",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xv4tkhvQGMwNTRKsWcAzelQkJtf.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10749
+            ],
+            "id": 84208,
+            "original_language": "en",
+            "original_title": "Ceiling Zero",
+            "overview": "War veteran pilots Dizzy Davis, Texas Clark and Jake Lee are working in an airline. Dizzy is fooling with one of the younger pilot's girl-friend and due to this he changes flights with Texas.",
+            "popularity": 0.1281,
+            "poster_path": "/yUsasw5UCRbebpD8wk6S0z4C1Ll.jpg",
+            "release_date": "1936-01-16",
+            "title": "Ceiling Zero",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 15
+        }
+    ]
+}

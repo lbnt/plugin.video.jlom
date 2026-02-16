@@ -1,0 +1,903 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1934",
+    "source": "https://criticstop10.com/best-movies-of-1934/",
+    "created_by": "lbnt",
+    "added": "07/31/25",
+    "modified": "07/31/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/lLmI59EA1gYKuOLVIHt1n7N0CnN.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43693,
+            "original_language": "en",
+            "original_title": "The Barretts of Wimpole Street",
+            "overview": "Remarkable poet Elizabeth Barrett is slowly recovering from a crippling illness with the help of her siblings, especially her youngest sister, Henrietta, but feels stifled by the domestic tyranny of her wealthy widowed father. When she meets fellow poet Robert Browning in a romantic first encounter, her heart belongs to him. However, her controlling father has no intention of allowing her out of his sight.",
+            "popularity": 0.4556,
+            "poster_path": "/c8BfdxxwmABRATDnMVJNmW2sLhG.jpg",
+            "release_date": "1934-09-21",
+            "title": "The Barretts of Wimpole Street",
+            "video": false,
+            "vote_average": 6.048,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uIkXyOqSoIXggEXAgIWESmSZEJ4.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 57035,
+            "original_language": "en",
+            "original_title": "The House of Rothschild",
+            "overview": "The story of the rise of the Rothschild financial empire founded by Mayer Rothschild and continued by his five sons. From humble beginnings the business grows and helps to finance the war against Napoleon, but it's not always easy, especially because of the prejudices against Jews.",
+            "popularity": 0.5665,
+            "poster_path": "/emqmRhpoMpN565Djn4yps3GnZal.jpg",
+            "release_date": "1934-04-07",
+            "title": "The House of Rothschild",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 3078,
+            "original_language": "en",
+            "original_title": "It Happened One Night",
+            "overview": "A runaway heiress makes a deal with the rogue reporter trailing her but the mismatched pair end up stuck with each other when their bus leaves them behind.",
+            "popularity": 1.382,
+            "poster_path": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+            "release_date": "1934-02-22",
+            "title": "It Happened One Night",
+            "video": false,
+            "vote_average": 7.826,
+            "vote_count": 1314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 84097,
+            "original_language": "en",
+            "original_title": "One Night of Love",
+            "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
+            "popularity": 0.1841,
+            "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
+            "release_date": "1934-07-16",
+            "title": "One Night of Love",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+            "genre_ids": [
+                35,
+                9648,
+                80
+            ],
+            "id": 3529,
+            "original_language": "en",
+            "original_title": "The Thin Man",
+            "overview": "A husband and wife detective team takes on the search for a missing inventor and almost get killed for their efforts.",
+            "popularity": 0.6195,
+            "poster_path": "/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+            "release_date": "1934-05-25",
+            "title": "The Thin Man",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 490
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 43604,
+            "original_language": "en",
+            "original_title": "Viva Villa!",
+            "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
+            "popularity": 0.3978,
+            "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
+            "release_date": "1934-04-27",
+            "title": "Viva Villa!",
+            "video": false,
+            "vote_average": 6.192,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6nDGPhvBm5SGqotqwueTL2SYSdK.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 43691,
+            "original_language": "en",
+            "original_title": "The Count of Monte Cristo",
+            "overview": "After greedy men have Edmound Dantes unjustly imprisoned for 20 years for innocently delivering a letter entrusted to him, he escapes to revenge himself on them.",
+            "popularity": 0.6452,
+            "poster_path": "/gpfDds86hBynC48ZJdb6mmijgkk.jpg",
+            "release_date": "1934-09-06",
+            "title": "The Count of Monte Cristo",
+            "video": false,
+            "vote_average": 6.75,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 28288,
+            "original_language": "en",
+            "original_title": "The Gay Divorcee",
+            "overview": "Seeking a divorce from her absentee husband, Mimi Glossop travels to an English seaside resort. There she falls in love with dancer Guy Holden, whom she later mistakes for the corespondent her lawyer hired.",
+            "popularity": 0.6407,
+            "poster_path": "/xD6oUOAa0Q6PppaOnY6dy6sWPLG.jpg",
+            "release_date": "1934-10-12",
+            "title": "The Gay Divorcee",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2OhwfIKb0zvt5JGgmc24tATyE2J.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 23024,
+            "original_language": "en",
+            "original_title": "Judge Priest",
+            "overview": "Judge Priest, a proud Confederate veteran, restores the justice in a small town in the Post-Bellum Kentucky using his common sense and his great sense of humanity.",
+            "popularity": 3.6167,
+            "poster_path": "/vo7jPkmVR4M0rlw4wwM31bUopyK.jpg",
+            "release_date": "1934-09-15",
+            "title": "Judge Priest",
+            "video": false,
+            "vote_average": 6.382,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12
+            ],
+            "id": 111312,
+            "original_language": "en",
+            "original_title": "Sequoia",
+            "overview": "A wilderness girl raises a deer and a mountain lion to be friends.",
+            "popularity": 0.0851,
+            "poster_path": "/lQxYXCz1Dkn5L4JZUdtmFLRhJ7P.jpg",
+            "release_date": "1935-01-16",
+            "title": "Sequoia",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nMzwClZuT1cYtppGuwB8XTciNLB.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 77198,
+            "original_language": "en",
+            "original_title": "Broadway Bill",
+            "overview": "Tycoon J.L. Higgins controls his whole family, but one of his sons-in-law, Dan Brooks, and his daughter Alice are fed up with that. Brooks quits his job as manager of J.L.'s paper box factory and devotes his life to his racing horse Broadway Bill, but his bankroll is thin and the luck is against him. He is arrested because of $150 he owes somebody for horse food, but suddenly a planned fraud by somebody else seems to offer him a chance...",
+            "popularity": 0.2797,
+            "poster_path": "/dDWQjYnnxNTsU99mpjr4CRPOry7.jpg",
+            "release_date": "1934-11-30",
+            "title": "Broadway Bill",
+            "video": false,
+            "vote_average": 5.976,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zV7JeAgHut2diYjC6LzB5I8mx50.jpg",
+            "genre_ids": [
+                12,
+                10751
+            ],
+            "id": 43605,
+            "original_language": "en",
+            "original_title": "Treasure Island",
+            "overview": "In this early film adaptation of the classic novel by Robert Louis Stevenson, young Jim Hawkins is caught up with the pirate Long John Silver in search of buccaneer Captain Flint's buried treasure.",
+            "popularity": 0.5398,
+            "poster_path": "/gagTpKHWd9DiDtSb6hIFTAuXi0k.jpg",
+            "release_date": "1934-08-17",
+            "title": "Treasure Island",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e6YpCECKNPMBonp425jmHgd6D44.jpg",
+            "genre_ids": [
+                10749,
+                36,
+                18
+            ],
+            "id": 31526,
+            "original_language": "en",
+            "original_title": "Queen Christina",
+            "overview": "Popular monarch Queen Christina of Sweden must choose between love and loyalty to her nation when she unexpectedly falls for a Spanish envoy.",
+            "popularity": 1.1994,
+            "poster_path": "/lGGYwoBp21CzF7cMzNPcOr6i6iw.jpg",
+            "release_date": "1933-12-26",
+            "title": "Queen Christina",
+            "video": false,
+            "vote_average": 6.837,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nfhnwX0SyCw9qEPyFVdMc4zZnSp.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 43687,
+            "original_language": "en",
+            "original_title": "The Rise of Catherine the Great",
+            "overview": "The woman who will become Catherine the Great marries into the Russian royal family when she weds Grand Duke Peter, the nephew of Empress Elizabeth. Although the couple has moments of contentment, Peter's cruel and erratic behavior causes a rift between him and Catherine. Mere months after Peter succeeds his aunt as the ruler of Russia, a revolt is brewing, and Catherine is poised to ascend to the throne as the country's new empress.",
+            "popularity": 4.2687,
+            "poster_path": "/tcfc8jgMrmP0R6VD2cSqr58D1IQ.jpg",
+            "release_date": "1934-02-09",
+            "title": "The Rise of Catherine the Great",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fbc8uZJ6snwCbOSNjbikBajGUx0.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43905,
+            "original_language": "en",
+            "original_title": "Of Human Bondage",
+            "overview": "A young man finds himself attracted to a cold and unfeeling waitress who may ultimately destroy them both.",
+            "popularity": 0.4418,
+            "poster_path": "/cpGAPsHnCpifmLKeiLnwNgT157y.jpg",
+            "release_date": "1934-07-20",
+            "title": "Of Human Bondage",
+            "video": false,
+            "vote_average": 6.515,
+            "vote_count": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rXlqB55eKfa59bqkKrydbaTFAIV.jpg",
+            "genre_ids": [
+                14,
+                10749,
+                18
+            ],
+            "id": 37215,
+            "original_language": "en",
+            "original_title": "Death Takes a Holiday",
+            "overview": "After years of questioning why people fear him, Death takes on human form so he can mingle among the mortals and find an answer. However, events soon spiral out of control as he falls in love with the beautiful young Grazia, the only woman not afraid of him. As he falls in love with her, her father sees him for what he is and begs him to return to his duties. Death must decide whether or not to seek his own happiness or sacrifice it so that Grazia may live.",
+            "popularity": 0.5818,
+            "poster_path": "/becYmbZXZalAvxNC4JVpQSjvqtk.jpg",
+            "release_date": "1934-03-30",
+            "title": "Death Takes a Holiday",
+            "video": false,
+            "vote_average": 6.405,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kOZpCxSvaGZogZAU1o9zJdcuZs0.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 261754,
+            "original_language": "en",
+            "original_title": "David Harum",
+            "overview": "Rogers plays a small town banker in the 1890s whose chief rival is the deacon (Middleton) with whom he has traded horse flesh. Taylor is a bank teller who places a winning $4,500 bet on a 10-1 harness racing horse, making him Rogers' bank partner.",
+            "popularity": 0.0825,
+            "poster_path": "/p39WjKYRzvSi4yCA7qh1hSoDDPN.jpg",
+            "release_date": "1934-03-02",
+            "title": "David Harum",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gb01PQypcQVz7Q15vsZQRqhdSQc.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 28293,
+            "original_language": "en",
+            "original_title": "Flying Down to Rio",
+            "overview": "A dance band leader finds love and success in Brazil.",
+            "popularity": 0.3856,
+            "poster_path": "/zKBXy84eN6tgwXaYsiFSCgq0GBc.jpg",
+            "release_date": "1933-12-22",
+            "title": "Flying Down to Rio",
+            "video": false,
+            "vote_average": 6.258,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yWLMR2dZMMQLrPgkJaankQZJXNK.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 43150,
+            "original_language": "en",
+            "original_title": "Little Miss Marker",
+            "overview": "Big Steve Halloway, gambler and proprietor of New York's Horseshoe Cabaret, is in desperate need of money. He arranges for his fellow bookies, especially Sorrowful Jones, to each pay him $1,000 for his racehorse, Dream Prince, to lose. With all bets being placed at the window, Sorrowful encounters a gambler, having lost $500, wanting to place his bet but unable to come up with $20. Instead, he places his little girl, Marthy Jane, as security, or in bookie's terms a \"marker\". \"Marky\", as she comes to be known, winds up under the care of Sorrowful Jones and his lady friend, singer Bangles Carson.",
+            "popularity": 0.2886,
+            "poster_path": "/eLt4sYP6fJLkac7ETgy9lL5Kl6J.jpg",
+            "release_date": "1934-06-01",
+            "title": "Little Miss Marker",
+            "video": false,
+            "vote_average": 6.417,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cMUjH61we5JUDLmIpLFxlS0tHvB.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 77210,
+            "original_language": "en",
+            "original_title": "Design for Living",
+            "overview": "An independent woman can't choose between the two men she loves.",
+            "popularity": 0.8462,
+            "poster_path": "/h0T4FHsY51IccSGqGfaoYsd7hyx.jpg",
+            "release_date": "1933-12-29",
+            "title": "Design for Living",
+            "video": false,
+            "vote_average": 7.133,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/E5OcBHn8QpEl0uoVI9jWf9Emqw.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 234939,
+            "original_language": "en",
+            "original_title": "What Every Woman Knows",
+            "overview": "Aspiring young Scottish politician John Shand enters into an unusual agreement with the wealthy Wylie family -- if they fund his education, he must marry their daughter, Maggie. Staying true to his word, John weds Maggie and begins a successful career, thanks largely to his savvy wife. The couple's relationship is placed in jeopardy when John faces temptation in the form of the lovely aristocrat Lady Sybil Tenterden.",
+            "popularity": 0.2029,
+            "poster_path": "/4SQHFGu4IqxkoPqhkwh10Qi9Ayp.jpg",
+            "release_date": "1934-10-18",
+            "title": "What Every Woman Knows",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/C4tgLW3LHP0o0ivenYdgCPqLIr.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 55777,
+            "original_language": "en",
+            "original_title": "Mrs. Wiggs of the Cabbage Patch",
+            "overview": "The Wiggs family plan to celebrate Thanksgiving in their rundown shack with leftover stew, without Mr. Wiggs who wandered off long ago an has never been heard from. Do-gooder Miss Lucy brings them a real feast. Her boyfriend Bob arranges to take Wiggs' sick boy to a hospital. Their other boy makes some money peddling kindling and takes the family to a show. Mrs. Wiggs is called to the hopsital just in time to see her boy die. Her neighbor Miss Mazy wants to marry Mr. Stubbins who insists on tasting her cooking. Mrs. Wiggs sneaks her dishes past Stubbins who agrees to marriage. Mr. Wiggs appears suddenly, in tatters, with just the amount of money (twenty dollars) needed to save the family from foreclosure. Miss Lucy and Bob get married.",
+            "popularity": 0.1046,
+            "poster_path": "/sNworf7TDQlMPC5pj1RXsB8SXxd.jpg",
+            "release_date": "1934-10-28",
+            "title": "Mrs. Wiggs of the Cabbage Patch",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4WWRNYRhTRLXWIsUNgTRKJGEDxW.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43690,
+            "original_language": "en",
+            "original_title": "The Little Minister",
+            "overview": "The stoic, proper Rev. Gavin Dishart, newly assigned to a church in the small Scottish village of Thrums, finds himself unexpectedly falling for one of his parishioners, the hot-blooded Gypsy girl Babbie. A village-wide scandal soon erupts over the minister's relationship with this feisty, passionate young woman, who holds a secret about the village's nobleman, Lord Milford Rintoul, and his role in an increasingly fractious labor dispute.",
+            "popularity": 0.2746,
+            "poster_path": "/kKj7KJDsgoTX5PtfQkMZosfwf9v.jpg",
+            "release_date": "1934-12-28",
+            "title": "The Little Minister",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5kLEnnZImaiRWO5F6hmdi4vnTJF.jpg",
+            "genre_ids": [
+                18,
+                28,
+                12
+            ],
+            "id": 113638,
+            "original_language": "en",
+            "original_title": "Eskimo",
+            "overview": "The happy life of an Eskimo is disastrously changed when he mingles with an unscrupulous white trader.",
+            "popularity": 0.0854,
+            "poster_path": "/nMTSrwpL3X3kjnSOiMOYBfLTMy0.jpg",
+            "release_date": "1933-11-14",
+            "title": "Eskimo",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cY4ItLkrWPhdFZEgyME6su9ZYQA.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 104661,
+            "original_language": "en",
+            "original_title": "Men in White",
+            "overview": "A dedicated young doctor places his patients above everyone else in his life. Unfortunately, his social register fiance\u00e9 can't accept the fact that he considers an appointment in the operating room more important than attending a cocktail party. He soon drifts into an affair with a pretty nurse who shares his passion for healing.",
+            "popularity": 0.1416,
+            "poster_path": "/gnD3XousuE2zkt4Y1dQP9lfOa4Y.jpg",
+            "release_date": "1934-04-06",
+            "title": "Men in White",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
+            "genre_ids": [
+                36,
+                18,
+                10749
+            ],
+            "id": 43902,
+            "original_language": "en",
+            "original_title": "Cleopatra",
+            "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
+            "popularity": 0.6664,
+            "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
+            "release_date": "1934-10-05",
+            "title": "Cleopatra",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qG1Q0BTLtwo1Onbyy5wgUN2i9qo.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 31835,
+            "original_language": "en",
+            "original_title": "Twentieth Century",
+            "overview": "A temperamental Broadway producer trains an untutored actress, but when she becomes a star, she proves a match for him.",
+            "popularity": 0.5094,
+            "poster_path": "/lHZcuD5pEoyoNHqeTEUEyDEDVKi.jpg",
+            "release_date": "1934-05-11",
+            "title": "Twentieth Century",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xcVYow0RZZv4KCHLk32r7vuR5Xm.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 47684,
+            "original_language": "en",
+            "original_title": "Man of Aran",
+            "overview": "A documentary on the life of the people of  the Aran Islands, who were believed to contain the essence of the ancient Irish life, represented by a pure uncorrupted peasant existence centred around the struggle between man and his hostile but magnificent surroundings. A blend of documentary and fictional narrative, the film captures the everyday trials of life on Ireland's unforgiving Aran Islands.",
+            "popularity": 0.372,
+            "poster_path": "/A67tl48MWZM8bxEYxJZhFGGth9A.jpg",
+            "release_date": "1934-05-06",
+            "title": "Man of Aran",
+            "video": false,
+            "vote_average": 7.221,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qFVBzz29GllQwTeRgwi6EQnUEcA.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 28157,
+            "original_language": "en",
+            "original_title": "Crime Without Passion",
+            "overview": "Caddish lawyer Lee Gentry is going out with Katy Costello, but carrying on an affair with dancer Carmen Brown. When he wants to end the dalliance with Carmen, she is so distraught that she becomes suicidal. Seizing the gun from Carmen, he accidentally shoots her, and thinking she's dead, concocts a series of increasingly outlandish alibis to cover his tracks under the guidance of a ghostly apparition that is his alter ego.",
+            "popularity": 0.1622,
+            "poster_path": "/8DHkiHKEdWB7TRjqTIJf7AQWEzm.jpg",
+            "release_date": "1934-08-30",
+            "title": "Crime Without Passion",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 112951,
+            "original_language": "en",
+            "original_title": "The Affairs of Cellini",
+            "overview": "The 16th-century sculptor woos the Duchess of Florence despite the duke.",
+            "popularity": 0.1309,
+            "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
+            "release_date": "1934-08-24",
+            "title": "The Affairs of Cellini",
+            "video": false,
+            "vote_average": 5.25,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p8X8FzjF72yu9W1nESrqTHOmX0N.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 179139,
+            "original_language": "en",
+            "original_title": "As the Earth Turns",
+            "overview": "Love happens between the son of Polish immigrants settled in Maine and the daughter of a neighboring farm family.",
+            "popularity": 0.189,
+            "poster_path": "/iAf302zXuNh5dDph5aHcnFjBMWO.jpg",
+            "release_date": "1934-02-14",
+            "title": "As the Earth Turns",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rt4wkaBe0YEvLMBBp7scJMtEoAP.jpg",
+            "genre_ids": [
+                28,
+                10752
+            ],
+            "id": 46910,
+            "original_language": "en",
+            "original_title": "The Lost Patrol",
+            "overview": "A World War I British Army patrol is crossing the Mesopotamian desert when their commanding officer, the only one who knows their destination, is killed by the bullet of unseen bandits. The patrol's sergeant keeps them heading north on the assumption that they will hit their brigade. They stop for the night at an oasis and awaken the next morning to find their horses stolen, their sentry dead, the oasis surrounded and survival difficult.",
+            "popularity": 0.3035,
+            "poster_path": "/7zwui44GZmgEq1bLZ7uBfjZ5MLX.jpg",
+            "release_date": "1934-02-16",
+            "title": "The Lost Patrol",
+            "video": false,
+            "vote_average": 6.451,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jJSIjb4UlrbjmsSIQrsBI5sjHlH.jpg",
+            "genre_ids": [
+                35,
+                18,
+                80
+            ],
+            "id": 217387,
+            "original_language": "en",
+            "original_title": "Hi, Nellie!",
+            "overview": "Managing Editor Brad Bradshaw refuses to run a story linking the disappearance of Frank Canfield with embezzlement of the bank. He considers Frank a straight shooter and he goes easy on the story. Every other paper goes with the story that Frank took the money and Brad is demoted, by the publisher, to the Heartthrob column - writing advice to the lovelorn. After feeling sorry for himself for two months, he takes the column seriously and makes it the talk of the town. But Brad still wants his old job back so he will have to find Canfield and the missing money.",
+            "popularity": 0.2687,
+            "poster_path": "/uH5HeMmSy04H0hx7L7mma0NRHKS.jpg",
+            "release_date": "1934-01-20",
+            "title": "Hi, Nellie!",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c1Dp010y53V808QCTClNawrqhwU.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 178449,
+            "original_language": "en",
+            "original_title": "Riptide",
+            "overview": "Mary is an impetuous romantic who marries British aristocrat Lord Philip Rexford on a whim. Their marriage is successful, though, and they grow closer over the years. Then, a trip to the Italian Riviera unexpectedly reunites Mary with her former beau, Tommie. After some vicious gossip makes Rexford distrust her, he begins work on a divorce. Mary must now choose between the man she has married and the man she once loved.",
+            "popularity": 0.1547,
+            "poster_path": "/7FbgeJZwZIiwi8b1fvVc42taXNZ.jpg",
+            "release_date": "1934-03-29",
+            "title": "Riptide",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qytu013HQUfsDDaOry3e5asBVx7.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 41347,
+            "original_language": "en",
+            "original_title": "The Cat's-Paw",
+            "overview": "Naive Ezekial Cobb, brought up by his missionary father in China returns to America to seek a wife. Corrupt politicians enlist him to run for mayor as a dummy candidate with no chance of winning. Their plan backfires as he wins and embarks upon a reform crusade.",
+            "popularity": 0.1972,
+            "poster_path": "/qxrR4uZ1JpNQDS0FKYvuueYh3cn.jpg",
+            "release_date": "1934-08-07",
+            "title": "The Cat's-Paw",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o2jszhiNYwyJ882pG7UIEu9vU9K.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 84095,
+            "original_language": "en",
+            "original_title": "The White Parade",
+            "overview": "The title represents the hopeful, ambitious students at a hospital training school and is primarily a story of the stern discipline and laborious physical and mental toil they endure in order to become nurses and join the White Parade. It is told mainly through the character of June Arden who finds romance with Ronald Hall III on the way, with side stories of the other girls who find failure, success, laughs and tears on the way.",
+            "popularity": 0.1148,
+            "poster_path": "/1S8Lddk2JI6phE4veYhF1qyUA64.jpg",
+            "release_date": "1934-11-16",
+            "title": "The White Parade",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9GnYxSEDtiiSFygsqRu5IogVDFC.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 99472,
+            "original_language": "en",
+            "original_title": "The Mighty Barnum",
+            "overview": "20th Century Fox's highly fabricated film biography of circus showman P. T. Barnum stars Wallace Beery (as Barnum), Virginia Bruce (as Jenny Lind), Janet Beecher and Adolphe Menjou. Released in 1934.",
+            "popularity": 0.1352,
+            "poster_path": "/5rKJRbeLfxqszvQk44C3nHlccd6.jpg",
+            "release_date": "1934-12-23",
+            "title": "The Mighty Barnum",
+            "video": false,
+            "vote_average": 0.5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tyWecsrUhbhHeOb6OeLZ1Vjph84.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 147850,
+            "original_language": "en",
+            "original_title": "No Greater Glory",
+            "overview": "A frail boy fights to win acceptance from the leader of a street gang.",
+            "popularity": 0.0841,
+            "poster_path": "/fTqthQUFR6JoapNLH0hmtMv53hd.jpg",
+            "release_date": "1934-03-30",
+            "title": "No Greater Glory",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gbTyjM4dHlvkVtQ0Z1STI5aJKOF.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "id": 43689,
+            "original_language": "en",
+            "original_title": "The Merry Widow",
+            "overview": "A prince from a small kingdom courts a wealthy widow to keep her money in the country.",
+            "popularity": 0.4492,
+            "poster_path": "/yjrHjvP5PGxGLmba2Gu6SVPh59I.jpg",
+            "release_date": "1934-11-02",
+            "title": "The Merry Widow",
+            "video": false,
+            "vote_average": 6.839,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qIG3nO6RQTDTlKTxDp6FuPIinbB.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 111310,
+            "original_language": "en",
+            "original_title": "Operator 13",
+            "overview": "American Civil War, 1862. After the disaster of the Second Battle of Bull Run, Major Allen, chief of the Secret Service of the Union, asks actress Gail Loveless to become one of his operators and infiltrate enemy territory.",
+            "popularity": 0.7354,
+            "poster_path": "/n53ekxC0iWdo4Q1aEUXCPlE8b8t.jpg",
+            "release_date": "1934-06-08",
+            "title": "Operator 13",
+            "video": false,
+            "vote_average": 5.75,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x950hSkQXWwZ0B2tFRsZ6TL4IR6.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 188465,
+            "original_language": "en",
+            "original_title": "The Life of Vergie Winters",
+            "overview": "A small town politician, kept from marrying the love of his life, eventually marries another woman and his career ascends, but he secretly continues the relationship with his true love.",
+            "popularity": 0.0875,
+            "poster_path": "/iguti300GJ86e9sNY7DsXDKA7vb.jpg",
+            "release_date": "1934-06-14",
+            "title": "The Life of Vergie Winters",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 200576,
+            "original_language": "en",
+            "original_title": "The Last Gentleman",
+            "overview": "In New England circa 1933, a niece is reported missing and presumed dead and Cabot Barr (George Arliss) summons his relatives to the family estate for a memorial service. Once there, Barr taunts each one, claiming their only interest in him is his money, and sends them away when the report about the niece proves to be false. Only niece Marjorie, who has ridiculed one of his pet eccentricities, seems to be the object of any sentimental affection.",
+            "popularity": 0.2514,
+            "poster_path": "/qfXk9w3aUsCySbmosKhIzagiVla.jpg",
+            "release_date": "1934-04-27",
+            "title": "The Last Gentleman",
+            "video": false,
+            "vote_average": 3.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3XbH78PkOZsRijfWQq6xnNLjVpc.jpg",
+            "genre_ids": [
+                28,
+                12,
+                9648
+            ],
+            "id": 167057,
+            "original_language": "en",
+            "original_title": "Bulldog Drummond Strikes Back",
+            "overview": "Bulldog Drummond finds himself immersed in another adventure when he stumbles upon a corpse in the mysterious London mansion of Prince Achmed. Enlisting the help of his old friend Algy and the beautiful Lola, Drummond uncovers a scheme to ship illegal cargo into the country. He must rely on his cunning to survive when the prince offers a reward for his capture.",
+            "popularity": 0.3139,
+            "poster_path": "/qPp8feJejNXt2UlbiwevFZYQSha.jpg",
+            "release_date": "1934-08-15",
+            "title": "Bulldog Drummond Strikes Back",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kWqGsq1jJm666OfvIViFesuT2c4.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                10752
+            ],
+            "id": 134618,
+            "original_language": "en",
+            "original_title": "British Agent",
+            "overview": "In the days leading up to the Russian Revolution, Stephen Locke, a minor British diplomat in St Petersburg, falls in love with a Russian spy.",
+            "popularity": 0.275,
+            "poster_path": "/1RpsrH4jOCOoqmOxO7yS3Id1mJT.jpg",
+            "release_date": "1934-09-15",
+            "title": "British Agent",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Ag72HFOs0TusUiPeohCpg4b5JH.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 84099,
+            "original_language": "en",
+            "original_title": "Here Comes the Navy",
+            "overview": "A cocky guy joins the Navy for the wrong reason but finds romance and twice is cited for heroism.",
+            "popularity": 0.1774,
+            "poster_path": "/m2eHdAuXq1UElpmGK3RjfXOBjUR.jpg",
+            "release_date": "1934-07-21",
+            "title": "Here Comes the Navy",
+            "video": false,
+            "vote_average": 5.909,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ZNs6osNvwad4jjTBew7CgI1ZBY.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 423844,
+            "original_language": "en",
+            "original_title": "Handy Andy",
+            "overview": "A small-town druggist is henpecked by his social-climbing wife to sell his pharmacy to a national chain. In addition, she tries to set up her pretty young daughter with the nitwit son of the chain's owner, even though the girl is in love with the handsome son of the town doctor. Finally the druggist decides he's had enough and takes matters into his own hands.",
+            "popularity": 0.1423,
+            "poster_path": "/5MtzSqNizJH0IPE8ITAB8YMwZI7.jpg",
+            "release_date": "1934-07-19",
+            "title": "Handy Andy",
+            "video": false,
+            "vote_average": 1.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jpG4SstOafnIZrwgikdZq9xfYb1.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 201121,
+            "original_language": "en",
+            "original_title": "Caravan",
+            "overview": "A countess marries a Gypsy fiddler instead of a baron's son at harvest time in Tokay wine country, Hungary.",
+            "popularity": 0.207,
+            "poster_path": "/qDiwsk1M60iiq72zyBGs86vvbDU.jpg",
+            "release_date": "1934-12-30",
+            "title": "Caravan",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 1
+        }
+    ]
+}

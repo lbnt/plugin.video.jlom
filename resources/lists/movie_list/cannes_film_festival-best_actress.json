@@ -1,0 +1,1656 @@
+{
+    "type": "movie_list",
+    "title": "Cannes Film Festival - Best Actress",
+    "source": "https://www.festival-cannes.com/",
+    "created_by": "lbnt",
+    "added": "01/11/26",
+    "modified": "01/11/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/esHMpy4lQQ9ngpp3l4JTVMNGs45.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 961077,
+            "original_language": "fr",
+            "original_title": "La Petite Derni\u00e8re",
+            "overview": "Fatima, 17, the youngest of three daughters, treads carefully as she searches for her own path, grappling with emerging desires, her attraction to women, and her loyalty to her caring French-Algerian family. Starting university in Paris, she dates, makes friends, and explores a whole new world, all while confronting a timeless and heartrending dilemma: How can one stay true to oneself when reconciling different parts of one\u2019s identity feels impossible?",
+            "popularity": 2.5567,
+            "poster_path": "/1KpM3v14D5SBEKYvveqYJZvn3BC.jpg",
+            "release_date": "2025-10-22",
+            "title": "The Little Sister",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u2eA9pqi1q3DvevT7RuDuJHxxBT.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 974950,
+            "original_language": "fr",
+            "original_title": "Emilia P\u00e9rez",
+            "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
+            "popularity": 4.7368,
+            "poster_path": "/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg",
+            "release_date": "2024-08-21",
+            "title": "Emilia P\u00e9rez",
+            "video": false,
+            "vote_average": 6.491,
+            "vote_count": 1864
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y2fxmO7IUV9YXvoUhFppwGcUTt.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 665733,
+            "original_language": "tr",
+            "original_title": "Kuru Otlar \u00dcst\u00fcne",
+            "overview": "A young art teacher hopes to be transferred to Istanbul after completing his mandatory duty in a remote village school in Anatolia. After accusations of inappropriate contact with a student surface, his hopes of escape fade and he descends further into an existential crisis.",
+            "popularity": 1.4482,
+            "poster_path": "/mUFpdQSFAch1fMUb9MqHoESpmLS.jpg",
+            "release_date": "2023-07-12",
+            "title": "About Dry Grasses",
+            "video": false,
+            "vote_average": 7.642,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fx6c2UuNnXPwuRvu4tGaJJJITT6.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80,
+                27
+            ],
+            "id": 889699,
+            "original_language": "fa",
+            "original_title": "\u0639\u0646\u06a9\u0628\u0648\u062a \u0645\u0642\u062f\u0633",
+            "overview": "A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called \"Spider Killer\", who believes he is cleansing the streets of sinners.",
+            "popularity": 1.5587,
+            "poster_path": "/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg",
+            "release_date": "2022-07-13",
+            "title": "Holy Spider",
+            "video": false,
+            "vote_average": 7.273,
+            "vote_count": 486
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4oWU9FPOvjCE85DaHm4vo89Whpz.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 660120,
+            "original_language": "no",
+            "original_title": "Verdens verste menneske",
+            "overview": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
+            "popularity": 5.7337,
+            "poster_path": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
+            "release_date": "2021-10-13",
+            "title": "The Worst Person in the World",
+            "video": false,
+            "vote_average": 7.439,
+            "vote_count": 1695
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jnq1lg6Fd8b6pn5ud5hVFS2hSyf.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 504585,
+            "original_language": "en",
+            "original_title": "Little Joe",
+            "overview": "Alice, a single mother who is more dedicated to her work as a genetic engineer than to her teenage son Joe, develops a new variety of flower that is supposed to have the ability to make its owner happy thanks to its special chemical properties.",
+            "popularity": 2.0367,
+            "poster_path": "/q4VMyavCoXxN9U8AONE2YryQDVz.jpg",
+            "release_date": "2019-11-01",
+            "title": "Little Joe",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 304
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1GGeJLU8Q0aL5nZ9KiznpVe1uWv.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 519185,
+            "original_language": "ru",
+            "original_title": "\u0410\u0439\u043a\u0430",
+            "overview": "A young Kyrgyz immigrant tries to eke out a living in Moscow after abandoning her newborn and fleeing the hospital.",
+            "popularity": 0.9115,
+            "poster_path": "/7jdtAkYV5WO2zr27VZey52lxVh3.jpg",
+            "release_date": "2018-02-14",
+            "title": "Ayka",
+            "video": false,
+            "vote_average": 6.891,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rbmJvTsPzVDszka97NguVUALUoh.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 423646,
+            "original_language": "de",
+            "original_title": "Aus dem Nichts",
+            "overview": "Katja's life collapses after the deaths of her husband and son in a bomb attack. After a time of mourning and injustice, Katja seeks revenge.",
+            "popularity": 0.8123,
+            "poster_path": "/AdH8xoP2wAFZDMWiSoCGoLa0DUr.jpg",
+            "release_date": "2017-11-23",
+            "title": "In the Fade",
+            "video": false,
+            "vote_average": 6.904,
+            "vote_count": 859
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tTMGaeVu4Xaikba5QaHqvIf915Q.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 392790,
+            "original_language": "tl",
+            "original_title": "Ma' Rosa",
+            "overview": "Ma\u2019 Rosa has four children. She owns a small convenience store in a poor section of Manila where everybody knows her. To make ends meet, Rosa and her husband, Nestor, resell small amounts of narcotics on the side. One day, they get arrested. Rosa\u2019s children are ready to do anything to buy their parents\u2019 freedom from the corrupt police.",
+            "popularity": 0.2453,
+            "poster_path": "/bKfnlEoZHewglGvNmWvnJ9X1Bt7.jpg",
+            "release_date": "2016-11-09",
+            "title": "Ma' Rosa",
+            "video": false,
+            "vote_average": 6.238,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g3yflwqajsVEYdUr7B84fMHBkAw.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 329805,
+            "original_language": "fr",
+            "original_title": "Mon roi",
+            "overview": "Tony is admitted to a rehabilitation center after a serious ski accident. Dependent on the medical staff and pain relievers, she takes time to look back on a turbulent relationship that she experienced with Georgio.",
+            "popularity": 0.6404,
+            "poster_path": "/kOhRkC7J3jpAgHGC0Uh3SoCqU4c.jpg",
+            "release_date": "2015-10-21",
+            "title": "My King",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 799
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 258480,
+            "original_language": "en",
+            "original_title": "Carol",
+            "overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
+            "popularity": 4.5514,
+            "poster_path": "/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+            "release_date": "2015-11-20",
+            "title": "Carol",
+            "video": false,
+            "vote_average": 7.497,
+            "vote_count": 3886
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ytwTVas9vms9dh510TX5i25gV7e.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 157851,
+            "original_language": "en",
+            "original_title": "Maps to the Stars",
+            "overview": "Driven by an intense need for fame and validation, members of a dysfunctional Hollywood family are chasing celebrity, one another and the relentless ghosts of their pasts.",
+            "popularity": 2.2798,
+            "poster_path": "/aoMNfiaMmT7o7wY8oXWCLErZtah.jpg",
+            "release_date": "2014-05-21",
+            "title": "Maps to the Stars",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ddK0Ba1jd81n6yA7gIFbaw5QgG.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 152780,
+            "original_language": "fr",
+            "original_title": "Le pass\u00e9",
+            "overview": "After four years apart, Ahmad returns to his wife Marie in Paris in order to progress their divorce. During his brief stay, he cannot help noticing the strained relationship between Marie and her daughter Lucie. As he attempts to improve matters between mother and daughter Ahmad unwittingly lifts the lid on a long buried secret...",
+            "popularity": 2.1299,
+            "poster_path": "/8nff89qjYN3Hck5G33xeRPsM8TZ.jpg",
+            "release_date": "2013-05-17",
+            "title": "The Past",
+            "video": false,
+            "vote_average": 7.225,
+            "vote_count": 594
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kC7YmW69fEdM0cazeVIVdmj7644.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 103740,
+            "original_language": "ro",
+            "original_title": "Dup\u0103 dealuri",
+            "overview": "Alina returns to Romania from Germany, hoping to bring Voichita\u2014the only person in the world she loves and was loved by\u2014back with her. But Voichita has found God, and God is the hardest lover of all to best.",
+            "popularity": 2.9852,
+            "poster_path": "/zV2v5jFXlN2We3GS2IkGQ6e2Bmm.jpg",
+            "release_date": "2012-10-25",
+            "title": "Beyond the Hills",
+            "video": false,
+            "vote_average": 7.093,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qzrS5ShZZPsPdhM5ZbcQKG7fwFo.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 62215,
+            "original_language": "en",
+            "original_title": "Melancholia",
+            "overview": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+            "popularity": 2.4799,
+            "poster_path": "/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+            "release_date": "2011-05-26",
+            "title": "Melancholia",
+            "video": false,
+            "vote_average": 7.158,
+            "vote_count": 3709
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/slNzn4E0XA1WE0yh9I53oIzXQ4e.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 48303,
+            "original_language": "fr",
+            "original_title": "Copie conforme",
+            "overview": "In Tuscany to promote his latest book, a middle-aged English writer meets a French woman who leads him to the village of Lucignano.",
+            "popularity": 1.9498,
+            "poster_path": "/soBvtCR33Gv1j6gXwXOIc3JTlNc.jpg",
+            "release_date": "2010-05-19",
+            "title": "Certified Copy",
+            "video": false,
+            "vote_average": 6.99,
+            "vote_count": 432
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/utABPVjXBlM8NUOBecCyLLuzQSe.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 17609,
+            "original_language": "en",
+            "original_title": "Antichrist",
+            "overview": "A grieving couple retreats to their cabin 'Eden' in the woods, hoping to repair their broken hearts and troubled marriage. But nature takes its course and things go from bad to worse.",
+            "popularity": 4.2456,
+            "poster_path": "/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg",
+            "release_date": "2009-05-20",
+            "title": "Antichrist",
+            "video": false,
+            "vote_average": 6.624,
+            "vote_count": 2746
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3WLHzUlF4xvQ6mQwjZFpZdFH6yt.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 8902,
+            "original_language": "pt",
+            "original_title": "Linha de Passe",
+            "overview": "In the periphery of S\u00e3o Paulo, the pregnant single mother Cleuza works as maid in the apartment of a middle-class family. Each of her sons has a different unknown father: the oldest, D\u00eanis, has a baby son that lives with his mother and he works as motorcycle courier.",
+            "popularity": 0.428,
+            "poster_path": "/xKx5msZOhp71R7w9LPudDfrFQsz.jpg",
+            "release_date": "2008-09-05",
+            "title": "Linha de Passe",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4GB3RbhHV1KCjd51in1mhiq65bL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 2015,
+            "original_language": "ko",
+            "original_title": "\ubc00\uc591",
+            "overview": "Shin-ae moves to her recently late husband\u2019s hometown. Despite her efforts to settle in this unfamiliar and too-normal place, she finds that she can\u2019t fit in. After a sudden tragedy, Shin-ae turns to Christianity to relieve her pain, but when even this is not permitted, she wages a war against God.",
+            "popularity": 1.7264,
+            "poster_path": "/vee1jyUrqUEmi5ZStWI1JJzLQJH.jpg",
+            "release_date": "2007-05-23",
+            "title": "Secret Sunshine",
+            "video": false,
+            "vote_average": 7.215,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cLvcOx8RbSUPCbkynKzNIg1zc2g.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 219,
+            "original_language": "es",
+            "original_title": "Volver",
+            "overview": "A resourcefull working-class woman living in Madrid gets her hands dirty in family secrets with the help of a teenage daughter and hairdresser sister.",
+            "popularity": 4.9315,
+            "poster_path": "/m1ZUDGTFtVGE3zjTvF8OiQ9um5e.jpg",
+            "release_date": "2006-03-17",
+            "title": "Volver",
+            "video": false,
+            "vote_average": 7.463,
+            "vote_count": 1847
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9MIVMcFo5B8R5pNuCg9gkc82mzZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 7483,
+            "original_language": "en",
+            "original_title": "Free Zone",
+            "overview": "Rebecca, an American who has been living in Jerusalem for a few months now, has just broken off her engagement. She gets into a cab driven by Hanna, an Israeli. But Hanna is on her way to Jordan, to the Free Zone, to pick up a large sum of money.",
+            "popularity": 3.1802,
+            "poster_path": "/ud4A2xRAa6j92dTuOy2B2Glv5xY.jpg",
+            "release_date": "2005-06-18",
+            "title": "Free Zone",
+            "video": false,
+            "vote_average": 5.407,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dwSdmuui68qmSCalGWsDZEgkgOg.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 39851,
+            "original_language": "en",
+            "original_title": "Clean",
+            "overview": "After she ends up in prison and loses custody of her son, a woman struggles to assimilate outside her former life and remain clean long enough to regain custody of her son.",
+            "popularity": 2.0586,
+            "poster_path": "/srenglG0ITLow4pR35IvJiAYuiX.jpg",
+            "release_date": "2004-09-01",
+            "title": "Clean",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 11042,
+            "original_language": "fr",
+            "original_title": "Les Invasions barbares",
+            "overview": "In this belated sequel to 'The Decline of the American Empire', middle-aged Montreal college professor, Remy, learns that he is dying of liver cancer. His ex-wife, Louise, asks their estranged son, Sebastian, a successful businessman living in London, to come home. Sebastian makes the impossible happen, using his contacts and disrupting the Canadian healthcare system in every way possible to help his father fight his terminal illness to the bitter end, while reuniting some of Remy's old friends, including Pierre, Alain, Dominique, Diane, and Claude, who return to see their friend before he passes on.",
+            "popularity": 1.1671,
+            "poster_path": "/ekmFbyMgm3SPklSlDUW1wZ33yMP.jpg",
+            "release_date": "2003-09-24",
+            "title": "The Barbarian Invasions",
+            "video": false,
+            "vote_average": 7.049,
+            "vote_count": 388
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nvzRMLQSYB1XYooexBr8Nqp5vcU.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 7294,
+            "original_language": "fi",
+            "original_title": "Mies vailla menneisyytt\u00e4",
+            "overview": "Arriving in Helsinki, a nameless man is beaten within an inch of his life by thugs, miraculously recovering only to find that he has completely lost his memory. Back on the streets, he attempts to begin again from zero, befriending a moody dog and becoming besotted with a Salvation Army volunteer.",
+            "popularity": 1.2591,
+            "poster_path": "/9tBepCujkyNg1qM52MsaJfDkIRw.jpg",
+            "release_date": "2002-03-01",
+            "title": "The Man Without a Past",
+            "video": false,
+            "vote_average": 7.42,
+            "vote_count": 413
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1791,
+            "original_language": "fr",
+            "original_title": "La Pianiste",
+            "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+            "popularity": 3.3564,
+            "poster_path": "/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+            "release_date": "2001-09-05",
+            "title": "The Piano Teacher",
+            "video": false,
+            "vote_average": 7.253,
+            "vote_count": 1211
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vxvzf0cGtFY2Vpw5ULWumCIW6Ri.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 16,
+            "original_language": "en",
+            "original_title": "Dancer in the Dark",
+            "overview": "Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life gets too difficult, Selma learns to cope through her love of musicals, dreaming up little numbers to the rhythmic beats of her surroundings.",
+            "popularity": 2.3441,
+            "poster_path": "/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg",
+            "release_date": "2000-09-01",
+            "title": "Dancer in the Dark",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2n7x2ZfMocYkzEY75g4UxvQYSC.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 65296,
+            "original_language": "fr",
+            "original_title": "L'humanit\u00e9",
+            "overview": "In a quiet little French town, two detectives are tasked with investigating the brutal rape and murder of a preteen girl.",
+            "popularity": 2.9197,
+            "poster_path": "/fEEVsOpI21ZDY64tKMh4T3FZzCp.jpg",
+            "release_date": "1999-09-10",
+            "title": "Humanit\u00e9",
+            "video": false,
+            "vote_average": 6.668,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ZBPashbl6CQ3IhfbM38A67tNnj.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11489,
+            "original_language": "fr",
+            "original_title": "Rosetta",
+            "overview": "Young, impulsive Rosetta lives a hard and stressful life as she struggles to support herself and her alcoholic mother. Refusing all charity, she is desperate to maintain a dignified job.",
+            "popularity": 1.829,
+            "poster_path": "/buwLjQPPA9FaATvKzeAppLXiGMB.jpg",
+            "release_date": "1999-09-29",
+            "title": "Rosetta",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j0wlDzErOlU4NFOIhrKl5qmFmGi.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 9840,
+            "original_language": "fr",
+            "original_title": "La Vie r\u00eav\u00e9e des anges",
+            "overview": "Isa and Marie bond while working in a French sweatshop and soon begin sharing an apartment that Marie is watching for a hospitalized mother and daughter. Marie, hoping to avoid a life of struggle and poverty, takes up with Chriss, a nightclub owner whose most attractive asset is his money. Isa recognizes the ultimate futility of the relationship and tries to keep Marie away from him, but her interference puts their friendship at risk.",
+            "popularity": 0.4486,
+            "poster_path": "/1yxr5KJHJk5aPCbapJaBS8Znx8V.jpg",
+            "release_date": "1998-10-16",
+            "title": "The Dreamlife of Angels",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJHbC2PZHfX4YZ8MzLCv5rDCP8Y.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 21252,
+            "original_language": "en",
+            "original_title": "Nil by Mouth",
+            "overview": "The family of Raymond, his wife Val and her brother Billy live in working-class London district. Also in their family is Val and Billy's mother Janet and grandmother Kath. Billy is a drug addict and Raymond kicks him out of the house, making him live on his own. Raymond is generally a rough and even violent person, and that leads to problems in the life of the family.",
+            "popularity": 0.7116,
+            "poster_path": "/u0Zl9uF0LV37X6oKECLT6rU7TsI.jpg",
+            "release_date": "1997-10-10",
+            "title": "Nil by Mouth",
+            "video": false,
+            "vote_average": 6.845,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AkzMPGRG6mtn6XllsoIDB8xDkgR.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11159,
+            "original_language": "en",
+            "original_title": "Secrets & Lies",
+            "overview": "After her adoptive mother dies, Hortense, a successful black optometrist, seeks out her birth mother. She's shocked when her research leads her to Cynthia, a working class white woman.",
+            "popularity": 1.3498,
+            "poster_path": "/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg",
+            "release_date": "1996-05-24",
+            "title": "Secrets & Lies",
+            "video": false,
+            "vote_average": 7.571,
+            "vote_count": 704
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Rf6jQMHGDZpzoeoNdBLbCyRCK7.jpg",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 11318,
+            "original_language": "en",
+            "original_title": "The Madness of King George",
+            "overview": "Aging King George III of England is exhibiting signs of madness, a problem little understood in 1788. As the monarch alternates between bouts of confusion and near-violent outbursts of temper, his hapless doctors attempt the ineffectual cures of the day. Meanwhile, Queen Charlotte and Prime Minister William Pitt the Younger attempt to prevent the king's political enemies, led by the Prince of Wales, from usurping the throne.",
+            "popularity": 0.7543,
+            "poster_path": "/1dTSY023ZyBbgVSKDRuA6JLGSnZ.jpg",
+            "release_date": "1994-12-28",
+            "title": "The Madness of King George",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 10452,
+            "original_language": "fr",
+            "original_title": "La Reine Margot",
+            "overview": "Paris, Kingdom of France, August 18, 1572. To avoid the outbreak of a religious war, the Catholic princess Marguerite de Valois, sister of the feeble King Charles IX, marries the Huguenot King Henry III of Navarre.",
+            "popularity": 2.1942,
+            "poster_path": "/8uGkhBLiJMIkwohGPo3iB9AuwDg.jpg",
+            "release_date": "1994-05-13",
+            "title": "Queen Margot",
+            "video": false,
+            "vote_average": 7.188,
+            "vote_count": 407
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c2O99arhWcuLexMHiuRfSuDMpYm.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 713,
+            "original_language": "en",
+            "original_title": "The Piano",
+            "overview": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
+            "popularity": 5.0282,
+            "poster_path": "/dUxjG6baSzGIgP7R8BQI5rpMuET.jpg",
+            "release_date": "1993-05-18",
+            "title": "The Piano",
+            "video": false,
+            "vote_average": 7.378,
+            "vote_count": 1606
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f9diUEYPfjgDnC4pzXoWFhunzzQ.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 41764,
+            "original_language": "sv",
+            "original_title": "Den goda viljan",
+            "overview": "In this film about Ingmar Bergman's parents, Henrik Bergman is studying for the priesthood and trying to make ends meet when he encounters the lovely, affluent Anna. Despite their social differences, Henrik and Anna fall in love, wed and move to the country. They lead a quiet life as Henrik works as a priest, but it isn't long before the simple people and plain surroundings make Anna long for a more lavish lifestyle, which causes marital stress.",
+            "popularity": 1.1573,
+            "poster_path": "/kkwKpqYac8zUNNMkRTfAQfbMQWl.jpg",
+            "release_date": "1992-05-24",
+            "title": "The Best Intentions",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vjsFyeCf5W5rxCFpS9MIAEZJkIG.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 1600,
+            "original_language": "fr",
+            "original_title": "La Double Vie de V\u00e9ronique",
+            "overview": "V\u00e9ronique is a beautiful young French woman who aspires to be a renowned singer; Weronika lives in Poland, has a similar career goal and looks identical to V\u00e9ronique, though the two are not related. The film follows both women as they contend with the ups and downs of their individual lives, with V\u00e9ronique embarking on an unusual romance with Alexandre Fabbri, a puppeteer who may be able to help her with her existential issues.",
+            "popularity": 1.8524,
+            "poster_path": "/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+            "release_date": "1991-05-15",
+            "title": "The Double Life of V\u00e9ronique",
+            "video": false,
+            "vote_average": 7.491,
+            "vote_count": 867
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hTkBjpiUjzhrJEBE6b25hMfA9CW.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 18614,
+            "original_language": "pl",
+            "original_title": "Przes\u0142uchanie",
+            "overview": "In Stalinist Poland, cabaret singer Tonia decides to spend the evening drinking with a group of friends. The next morning, she awakes to find that, for reasons unknown to her, she has been jailed as a political prisoner. As prison officials interrogate, torture and humiliate her, she fights for survival and to maintain her innocence by refusing to sign a false confession. As her years of imprisonment pass, her relationship with her captors grows more complicated.",
+            "popularity": 1.6471,
+            "poster_path": "/9v0ZByK1cradwYBmtmtrp2US8od.jpg",
+            "release_date": "1982-12-13",
+            "title": "Interrogation",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lDULCevM5oreITICKy1t75wAuqB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 35119,
+            "original_language": "en",
+            "original_title": "Evil Angels",
+            "overview": "Based on the true story of Lindy Chamberlain who, during a family camping trip to Ayers Rock in central Australia, claimed she witnessed a dingo take her baby daughter, Azaria, from their tent. Azaria's body was never found and, after investigations and two public inquests, she is charged with murder.",
+            "popularity": 2.0939,
+            "poster_path": "/auyoK8OZh1sZldjJfy9RGzS6crV.jpg",
+            "release_date": "1988-11-03",
+            "title": "Evil Angels",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 218
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y2IHNomsqj5pNFDS8gDcPnfoPJS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 41949,
+            "original_language": "en",
+            "original_title": "A World Apart",
+            "overview": "A White enclave in Johannesburg, South Africa, in the 1960s. Molly Roth, 13 years old, is the daughter of leftist parents, and she must piece together what's happening around her when her father disappears one night, barely evading arrest, and, not long after, her mother is detained by the authorities. Some of Molly's White friends turn against her, and her family's friendships with Blacks take on new meaning. Relationships are fragile in the world of apartheid. How will she manage?",
+            "popularity": 0.8787,
+            "poster_path": "/rLo4PwbuT3C7k2VxAGbMQU1aINp.jpg",
+            "release_date": "1988-06-17",
+            "title": "A World Apart",
+            "video": false,
+            "vote_average": 6.339,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6eH6cyXGKiTrt7GsF5o1Bgjj1Sc.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 69040,
+            "original_language": "en",
+            "original_title": "Shy People",
+            "overview": "A Cosmo Magazine journalist and her daughter leave New York City to visit their distant relatives deep in the bayous of Louisiana.",
+            "popularity": 1.9121,
+            "poster_path": "/6GWGbFWk6fB9FuYSF5c5EuR3Jfp.jpg",
+            "release_date": "1987-12-04",
+            "title": "Shy People",
+            "video": false,
+            "vote_average": 6.292,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qhYUFeyu05eBb9kmS9LStql8P53.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 55562,
+            "original_language": "de",
+            "original_title": "Rosa Luxemburg",
+            "overview": "Polish socialist and Marxist Rosa Luxemburg works tirelessly in the service of revolution in early 20th century Poland and Germany. While Luxemburg campaigns for her beliefs, she is repeatedly imprisoned as she forms the Spartacist League offering a new vision for Germany.",
+            "popularity": 1.4336,
+            "poster_path": "/xsbuAzu2ZsZsV0hROoiarPTOsPv.jpg",
+            "release_date": "1986-04-10",
+            "title": "Rosa Luxemburg",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/swpCaRTCqeYLdTS7y0IMpLhf1ny.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 74649,
+            "original_language": "pt",
+            "original_title": "Eu sei que vou te amar",
+            "overview": "Young and recently separated couple meet in a modern house and start discussing their past relationship.",
+            "popularity": 0.6978,
+            "poster_path": "/xPfTQ8fi8XrMxfHQ5JerhSnd2Ca.jpg",
+            "release_date": "1986-04-17",
+            "title": "Love Me Forever or Never",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xhaIbAXa6HOpYFn387a63Ser2wy.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11177,
+            "original_language": "en",
+            "original_title": "Mask",
+            "overview": "A significantly deformed but highly intelligent teenage boy and his biker gang mother attempt to live as normal a life as possible under the circumstances.",
+            "popularity": 3.9389,
+            "poster_path": "/dBYzEETDHNyt12VCD5owVW6bpEC.jpg",
+            "release_date": "1985-03-08",
+            "title": "Mask",
+            "video": false,
+            "vote_average": 7.243,
+            "vote_count": 479
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qYQmznfMC433HrX5m58MJB0QOlK.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 29263,
+            "original_language": "es",
+            "original_title": "La historia oficial",
+            "overview": "Buenos Aires, Argentina, 1983. In the last and turbulent days of the military dictatorship, Alicia, a high school history teacher, begins to ask uncomfortable questions about the dark origins of Gaby, her adopted daughter.",
+            "popularity": 0.7088,
+            "poster_path": "/kkeUKaETggOrR0eW9nzPOIoZkZH.jpg",
+            "release_date": "1985-04-03",
+            "title": "The Official Story",
+            "video": false,
+            "vote_average": 7.449,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hczAdfGHC1sjl9FOjMaoaTIfp3T.jpg",
+            "genre_ids": [
+                18,
+                53,
+                10749
+            ],
+            "id": 42084,
+            "original_language": "en",
+            "original_title": "Cal",
+            "overview": "Cal, a young man on the fringes of the IRA, falls in love with Marcella, a Catholic woman whose husband, a Protestant policeman, was killed one year earlier by the IRA.",
+            "popularity": 2.1679,
+            "poster_path": "/gpyM3J9HeQQ8JSO3RxhoxLEA6kN.jpg",
+            "release_date": "1984-08-24",
+            "title": "Cal",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s3ICglPYb0xjEYBIQdAQ7HptRhF.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 53914,
+            "original_language": "it",
+            "original_title": "Storia di Piera",
+            "overview": "Piera is a young woman who grows up under the parentage of two extremely original overseers: both her mother and father have incestuous relations with her before they are committed to insane asylums.\r A special connection, between a mother and her daughter, full of sensuality and complicity, has allowed to portray a family full of fears, rather unbalanced, but nevertheless searching infinite love.",
+            "popularity": 0.7619,
+            "poster_path": "/5JOjkbiAZWDlhTGak3afhkbrkIr.jpg",
+            "release_date": "1983-02-02",
+            "title": "The Story of Piera",
+            "video": false,
+            "vote_average": 5.583,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jDiv0GWoulxwDCTfO0ErA2VpjEX.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 100215,
+            "original_language": "hu",
+            "original_title": "Egym\u00e1sra n\u00e9zve",
+            "overview": "Political and sexual repression in Hungary, just after the revolution of 1956. Passionate and determined, Eva gets a job as a journalist. There, she meets Livia and is attracted to her. Livia feels much the same, but as a married woman, has doubts and hesitations. In their work, they (and Eva in particular) bang up against the limits of telling political truths; in private, they confront the limits of living out sexual and emotional truth.",
+            "popularity": 2.4323,
+            "poster_path": "/ly5f3QlR9XSEMnpR6ltItE2lGfH.jpg",
+            "release_date": "1982-05-01",
+            "title": "Another Way",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ai8IfYhlhlg6PWXaczKLCpB6aLu.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 67022,
+            "original_language": "fr",
+            "original_title": "Quartet",
+            "overview": "When her husband's arrest leaves her penniless, a woman accepts an invitation to move in with a strange couple.",
+            "popularity": 1.9015,
+            "poster_path": "/e6mAdf5RoWBxnPNbDA3zgTPl91Q.jpg",
+            "release_date": "1981-10-25",
+            "title": "Quartet",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dHvNDVe4gdyp3QxAzX5yaWnoaEB.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 21484,
+            "original_language": "en",
+            "original_title": "Possession",
+            "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+            "popularity": 5.0878,
+            "poster_path": "/lUFZsUuJ0YyhBXH8D2BFUd6wODm.jpg",
+            "release_date": "1981-05-27",
+            "title": "Possession",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lbLcgmNJJWvFkNxhpT9eeiiOMBo.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 198494,
+            "original_language": "lt",
+            "original_title": "Faktas",
+            "overview": "Facts is a dramatization of a massacre in a Lithuanian village during World War II when Nazis rounded up over 100 men, women, and children accused of partisan activity and then torched the houses in which they were held. Using Russian interrogations of a few survivors, the testimony of villagers, and some of the Germans responsible for the killing, the film gradually reconstructs the event and its context.",
+            "popularity": 0.6869,
+            "poster_path": "/37TgNVegaw2EcyGc0QxsOJeS1qe.jpg",
+            "release_date": "1981-06-04",
+            "title": "Fact",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1VWfLTFzUEUqKvjj2NqBXYfZXdE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 51882,
+            "original_language": "it",
+            "original_title": "Salto nel vuoto",
+            "overview": "Mauro, a judge, is worried about his older sister Marta, who took care of him since he was a boy, and now suffers from mental illness and suicidal thoughts. She seems to recover from her depression when Mauro acquaints her with Giovanni, a brilliant actor at the edge of legality. However, Mauro becomes unconsciously jealous of their relationship.",
+            "popularity": 0.2481,
+            "poster_path": "/7ay1Z9W2byacCBDsZQJBa9pSMEK.jpg",
+            "release_date": "1980-02-14",
+            "title": "A Leap in the Dark",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/anvpc5ZLJR2XdRKr9MDKrrS0PLS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 76711,
+            "original_language": "sh",
+            "original_title": "\u041f\u043e\u0441\u0435\u0431\u0430\u043d \u0442\u0440\u0435\u0442\u043c\u0430\u043d",
+            "overview": "Dr. Ilic works in the hospital for compulsory treatment of alcoholics. By conducting his own \"special treatment\" through physical exercises, apple eating, the healing effects of listening to Wagner's music and psychodrama, a group of six patients have been taken to visit the brewery where there is a problem of alcoholism in the workplace.",
+            "popularity": 0.8757,
+            "poster_path": "/mrre1UwGF1gEfVglpEkUf5XJD8A.jpg",
+            "release_date": "1980-03-08",
+            "title": "Special Treatment",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rjEoEfJDhDlYW0bMdeIntKFuSkS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 77334,
+            "original_language": "it",
+            "original_title": "La terrazza",
+            "overview": "Eight Italian politicians from the communist party gather on a terrace in Rome for a get-together. They discuss about their past, present and future.",
+            "popularity": 0.5746,
+            "poster_path": "/9VQpe6Olw355r0PmxmgBBs5BFSk.jpg",
+            "release_date": "1980-02-08",
+            "title": "The Terrace",
+            "video": false,
+            "vote_average": 7.169,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5l58tPlYA1JaacBvcojq3YMQyL5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 40842,
+            "original_language": "en",
+            "original_title": "Norma Rae",
+            "overview": "Norma Rae is a southern textile worker employed in a factory with intolerable working conditions. This concern about the situation gives her the gumption to be the key associate to a visiting labor union organizer. Together, they undertake the difficult, and possibly dangerous, struggle to unionize her factory.",
+            "popularity": 3.053,
+            "poster_path": "/6au7WBVYoKhV1jORyFSIRszb46S.jpg",
+            "release_date": "1979-03-02",
+            "title": "Norma Rae",
+            "video": false,
+            "vote_average": 7.193,
+            "vote_count": 189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7J9mhvkKH6kvjshBNNcEJungJvG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 10319,
+            "original_language": "de",
+            "original_title": "Woyzeck",
+            "overview": "Having fathered an illegitimate child with his lover, Marie, feckless soldier Franz Woyzeck takes odd jobs around his small town to provide some extra money for them. One job is volunteering for experiments conducted by a local doctor, who puts Woyzeck on a diet of peas. This serves to drive him close to madness, and the discovery that Marie is involved in an affair with the local drum major exacerbates the situation. Pushed too far, Woyzeck resorts to violence.",
+            "popularity": 1.192,
+            "poster_path": "/lxJThwhfqvyIRD6VszknCNCSokK.jpg",
+            "release_date": "1979-05-25",
+            "title": "Woyzeck",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nBSIspn1vSfBfZSBd26o2JbADnF.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 38731,
+            "original_language": "en",
+            "original_title": "An Unmarried Woman",
+            "overview": "A wealthy woman from Manhattan's Upper East Side struggles to deal with her new identity and her sexuality after her husband of 16 years leaves her for a younger woman.",
+            "popularity": 0.9909,
+            "poster_path": "/pJ6BLvNcLhNxvVCGgTynO5BJtQq.jpg",
+            "release_date": "1978-05-24",
+            "title": "An Unmarried Woman",
+            "video": false,
+            "vote_average": 6.675,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lQH7ZASIhyXwfvN71FbFSrHq8BY.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 2813,
+            "original_language": "fr",
+            "original_title": "Violette Nozi\u00e8re",
+            "overview": "Paris, 1933. The daughter of a respectable lower middle class couple, Violette Nozi\u00e8re, leads a disreputable double life. Far from being the innocent 18-year-old her parents mistake her for, she spends her nights with dissolute young men in the less salubrious areas of the city.",
+            "popularity": 1.6176,
+            "poster_path": "/6I5SxAjsNSXtaZZ1M7clcRmhfgW.jpg",
+            "release_date": "1978-05-24",
+            "title": "Violette Nozi\u00e8re",
+            "video": false,
+            "vote_average": 6.673,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c2OhDLHrMP6vBjA9DR8Vkp0FelX.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 92799,
+            "original_language": "fr",
+            "original_title": "J.A. Martin photographe",
+            "overview": "The wife of photographer J.A. Martin decides to go with him in his tour of the hard Canadian countryside at the turn of the century. She hopes the intimacy will revive their marriage.",
+            "popularity": 0.1262,
+            "poster_path": "/CKDenWDCfZpyTURxduFiPvTjbd.jpg",
+            "release_date": "1977-05-26",
+            "title": "J.A. Martin Photographer",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pTmMEIW2cyOkcSRkWTCDEbd5if0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 41662,
+            "original_language": "en",
+            "original_title": "3 Women",
+            "overview": "Two co-workers, one a vain woman and the other an awkward teenager, share an increasingly bizarre relationship after becoming roommates.",
+            "popularity": 2.7815,
+            "poster_path": "/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg",
+            "release_date": "1977-04-29",
+            "title": "3 Women",
+            "video": false,
+            "vote_average": 7.094,
+            "vote_count": 332
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pXHExnmGBDHll69aH1kCt7saQhZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 198522,
+            "original_language": "hu",
+            "original_title": "D\u00e9ryn\u00e9, hol van?",
+            "overview": "Dery is a grande dame actress of the Sarah Bernhardt school of big-gesture theater. Her beauty and popularity is fading, and a new school of acting which involves the use of one's own emotions (a-la Eleanora Duse) is emerging in the person of her younger Viennese rival. She thinks of retiring from the stage, and reunites briefly with her estranged husband in a newly-built manor in the country. Finding that life there is boring, she returns to town, the theater, and her old friends.",
+            "popularity": 0.1988,
+            "poster_path": "/p8xz0kdfY3fGsJwRberWs9OCll7.jpg",
+            "release_date": "1975-06-02",
+            "title": "Mrs. Dery Where Are You?",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tfZ75p9sfKCVOeMJgMWjwhe8J0v.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 106224,
+            "original_language": "it",
+            "original_title": "L'eredit\u00e0 Ferramonti",
+            "overview": "In 1880 Rome, a patriarch closes the family bakery. His ambitious daughter-in-law manipulates her brothers-in-law to prevent their father's remarriage, securing her inheritance.",
+            "popularity": 1.1228,
+            "poster_path": "/xSOOxYtUk1wLNYlaliSsa3vYngz.jpg",
+            "release_date": "1976-08-11",
+            "title": "The Inheritance",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6zqFDzIKPKyGX1jwYAiJTGvYyXz.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 27094,
+            "original_language": "en",
+            "original_title": "Lenny",
+            "overview": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
+            "popularity": 1.8055,
+            "poster_path": "/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg",
+            "release_date": "1974-11-10",
+            "title": "Lenny",
+            "video": false,
+            "vote_average": 7.28,
+            "vote_count": 289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rFgIY3VaLm7eezErEYlabkgK9bf.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 198537,
+            "original_language": "fr",
+            "original_title": "Les Violons du bal",
+            "overview": "In this WW II drama based on an autobiographical story by director Michel Drach, a Jewish boy and his family living in Nazi occupied France, attempt to escape the cruel invaders. Later the boy grows up to become a filmmaker obsessed with chronicling his childhood.",
+            "popularity": 0.3985,
+            "poster_path": "/cfS9dPrAJtIk9YYi7rmnoHbcjtR.jpg",
+            "release_date": "1974-06-02",
+            "title": "Violins at the Ball",
+            "video": false,
+            "vote_average": 5.731,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 88875,
+            "original_language": "en",
+            "original_title": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
+            "overview": "Middle-aged widow Beatrice Hunsdorfer and her daughters Ruth and Matilda are struggling to survive in a society they barely understand. Beatrice dreams of opening an elegant tea room but does not have the wherewithal to achieve her lofty goal. Epileptic Ruth is a rebellious adolescent, while shy but highly intelligent and idealistic Matilda seeks solace in her pets and school projects, including one designed to show how small amounts of radium affect marigolds.",
+            "popularity": 0.3004,
+            "poster_path": "/hFGpoV5hDewXyBvjd44ajO58Sxw.jpg",
+            "release_date": "1972-12-20",
+            "title": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yL4nA0MtGqWQdqkquhEdQ3O0tBN.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                27
+            ],
+            "id": 29449,
+            "original_language": "en",
+            "original_title": "Images",
+            "overview": "While holidaying in Ireland, a pregnant children's author finds her mental state becoming increasingly unstable, resulting in paranoia, hallucinations, and visions of a doppelg\u00e4nger.",
+            "popularity": 0.4891,
+            "poster_path": "/aTezEYoe3hKPGva8yY4M7b24F3D.jpg",
+            "release_date": "1972-12-18",
+            "title": "Images",
+            "video": false,
+            "vote_average": 6.801,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rHhNgpxeuIglRO7Fskmk7Ru6Nke.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                80
+            ],
+            "id": 27554,
+            "original_language": "en",
+            "original_title": "The Panic in Needle Park",
+            "overview": "A stark portrayal of life among a group of heroin addicts who hang out in Needle Park in New York City. Played against this setting is a low-key love story between Bobby, a young addict and small-time hustler, and Helen, a homeless girl who finds in her relationship with Bobby the stability she craves.",
+            "popularity": 1.1982,
+            "poster_path": "/rhJ8Dnl6Z9KR9R2zskBKIfrFeFs.jpg",
+            "release_date": "1971-06-01",
+            "title": "The Panic in Needle Park",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 353
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l1QUs78NFFCLQQewzi3yG2z6XHL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 198661,
+            "original_language": "it",
+            "original_title": "Metello",
+            "overview": "The story of a young man of the working class, who has grown up practically an orphan due to his father\u2019s repeated jailings for anarchistic activism. Struggling with life in 19th-century Italy, Metello Salani is determined to change his situation for the better - but love, marriage and politics complicate things considerably...",
+            "popularity": 1.1667,
+            "poster_path": "/mf56O69waf4C3MdS6xKVpr9Ropn.jpg",
+            "release_date": "1970-03-10",
+            "title": "Metello",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f2lktfjHGCKphm12KQ79iHQRIii.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10402
+            ],
+            "id": 42626,
+            "original_language": "en",
+            "original_title": "Isadora",
+            "overview": "A biography of the dancer Isadora Duncan, the 1920s dancer who forever changed people's ideas of ballet. Her nude, semi-nude, and pro-Soviet dance projects as well as her attitudes on free love, debt, dress, and lifestyle shocked the public of her time.",
+            "popularity": 2.4004,
+            "poster_path": "/5NAjQxJgf4BJWz8m2Qj0fryG3bV.jpg",
+            "release_date": "1968-09-14",
+            "title": "Isadora",
+            "video": false,
+            "vote_average": 6.083,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/npDDNi2b7XBvaFL2Noh2MbS2EWd.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                36
+            ],
+            "id": 42692,
+            "original_language": "sv",
+            "original_title": "Elvira Madigan",
+            "overview": "Bound by their all-consuming desire, a young circus tightrope walker and a lieutenant forsake everything to be together and escape to the countryside\u2014only to see their lovers\u2019 idyll gradually give way to poverty and desperation.",
+            "popularity": 2.1126,
+            "poster_path": "/odjkOW8BYVTj1q73Ad5KIHFfAge.jpg",
+            "release_date": "1967-04-24",
+            "title": "Elvira Madigan",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1d6wE08ywDeUTqlPRbLjSYRcmEe.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 42724,
+            "original_language": "en",
+            "original_title": "Morgan: A Suitable Case for Treatment",
+            "overview": "Morgan, an aggressive and self-admitted dreamer, a fantasist who uses his flights of fancy as refuge from external reality, where his unconventional behavior lands him in a divorce from his wife, Leonie, trouble with the police and, ultimately, incarceration in a lunatic asylum.",
+            "popularity": 0.2618,
+            "poster_path": "/xu4awPUFmrFUaX2qk12Lv4QhJSF.jpg",
+            "release_date": "1966-04-03",
+            "title": "Morgan: A Suitable Case for Treatment",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rqpa2fAAHvH3ej9e2LWrpn0N8xl.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 42740,
+            "original_language": "en",
+            "original_title": "The Collector",
+            "overview": "A man kidnaps a woman and holds her hostage just for the pleasure of having her there.",
+            "popularity": 1.4507,
+            "poster_path": "/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg",
+            "release_date": "1965-06-17",
+            "title": "The Collector",
+            "video": false,
+            "vote_average": 7.317,
+            "vote_count": 219
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jV6Q2xEXuSW8eYfCD1I7loBzeVZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 143841,
+            "original_language": "en",
+            "original_title": "One Potato, Two Potato",
+            "overview": "Study of interracial marriage in the 1960s. A white divorc\u00e9e falls in love with and marries an African-American man. When her ex-husband sues for custody of her child, arguing that a mixed household is an improper place to raise the girl, the new husband fights for his parental rights in court, fighting against a judge who represents the prejudices of the era.",
+            "popularity": 4.1205,
+            "poster_path": "/e11qlc4rPaYzIigaEfV8XuVtKo3.jpg",
+            "release_date": "1964-07-29",
+            "title": "One Potato, Two Potato",
+            "video": false,
+            "vote_average": 6.806,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jxyLXwFaccE8XzhF62HauyXJi14.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 69557,
+            "original_language": "en",
+            "original_title": "The Pumpkin Eater",
+            "overview": "Jo, the mother of seven children, divorces her second husband in order to marry Jake, a successful but promiscuous screenwriter. Though they are physically and emotionally compatible, they are slowly torn apart.",
+            "popularity": 0.6239,
+            "poster_path": "/5llEDfwte6SnAd2grP065N95yeo.jpg",
+            "release_date": "1964-07-16",
+            "title": "The Pumpkin Eater",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eJrEvztU8yRKKk3qWkh8daqDGuI.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 67378,
+            "original_language": "it",
+            "original_title": "Una storia moderna - L'ape regina",
+            "overview": "A forty-year-old employee marries a seemingly quiet girl who turns into a mantis after the wedding.",
+            "popularity": 0.2438,
+            "poster_path": "/2Tpl6sQJPR83uXANWnynfdWZP21.jpg",
+            "release_date": "1963-04-07",
+            "title": "The Conjugal Bed",
+            "video": false,
+            "vote_average": 6.403,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zalZRF7sCtghHFg4xCBJfOqj0h5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 25062,
+            "original_language": "en",
+            "original_title": "A Taste of Honey",
+            "overview": "While out to avoid spending time with her narcissistic and promiscuous mother, sixteen-year-old Jo has a brief affair that leaves her pregnant and abandoned. When her mother remarries, Jo's only support becomes her friend Geoffrey, a homosexual.",
+            "popularity": 0.7248,
+            "poster_path": "/5psrZNVZ9E6Eck7OtpO47A8zTbQ.jpg",
+            "release_date": "1961-10-01",
+            "title": "A Taste of Honey",
+            "video": false,
+            "vote_average": 6.935,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k6E1lQBDb29OD5c9XlyyVpR4P8E.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 43004,
+            "original_language": "en",
+            "original_title": "Long Day's Journey Into Night",
+            "overview": "An Irish miser, his morphine addicted wife, their debauched older son, and a gravely ill younger son. A quiet Connecticut vacation home on one foggy day in August 1912 becomes the backdrop for domestic decline.",
+            "popularity": 0.4276,
+            "poster_path": "/gCEfENplIS1Ph5yMdz4aJnn1yAB.jpg",
+            "release_date": "1962-10-09",
+            "title": "Long Day's Journey Into Night",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3TcUsPiVU0fSLX0Mk7lc3DDuzkY.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 24167,
+            "original_language": "it",
+            "original_title": "La ciociara",
+            "overview": "A young widow flees from Rome during WWII and takes her lonely twelve-year-old-daughter to her rural hometown but the horrors of war soon catch up with them.",
+            "popularity": 5.3164,
+            "poster_path": "/biWDAUQD58enMEcyO2BqIVSycF4.jpg",
+            "release_date": "1960-12-22",
+            "title": "Two Women",
+            "video": false,
+            "vote_average": 7.827,
+            "vote_count": 560
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6YgRhojLENb3y3ufWqC6SUH1IBE.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 43039,
+            "original_language": "el",
+            "original_title": "\u03a0\u03bf\u03c4\u03ad \u03c4\u03b7\u03bd \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae",
+            "overview": "An American scholar in Greece sets about improving the local prostitute with whom he is infatuated.",
+            "popularity": 0.9061,
+            "poster_path": "/t9zLlS5O5GB57BKjJCtzB21VKZB.jpg",
+            "release_date": "1960-05-24",
+            "title": "Never on Sunday",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7mzqRltG7gWEtAX4CM6lfcelS4L.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 83662,
+            "original_language": "fr",
+            "original_title": "Moderato cantabile",
+            "overview": "Anne Desbar\u00e8des is a young woman who is married to a wealthy businessman and lives a monotonous existence in the small commune town of Blaye. After indirectly witnessing a murder in a caf\u00e9, she returns to the scene of the crime the next day and meets Chauvin, who informs her in more detail about the events that took place. Mentally unbalanced, Anne begins to believe that Chauvin intends to kill her.",
+            "popularity": 1.2392,
+            "poster_path": "/Gti1xNWrLOOefC1bmcK9ku0HqE.jpg",
+            "release_date": "1960-05-25",
+            "title": "Seven Days\u2026 Seven Nights",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3U5CUwhmJuPzWxlOfiIoJqy6dgi.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 43103,
+            "original_language": "en",
+            "original_title": "Room at the Top",
+            "overview": "An ambitious young accountant schemes to wed a wealthy factory owner's daughter, despite falling in love with a married older woman.",
+            "popularity": 0.5583,
+            "poster_path": "/uuyruoqh7oBtjwN1mJyOF04CPjO.jpg",
+            "release_date": "1958-12-29",
+            "title": "Room at the Top",
+            "video": false,
+            "vote_average": 6.871,
+            "vote_count": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l810ZtbnQzqivGJRqNjs007LbC0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 60899,
+            "original_language": "sv",
+            "original_title": "N\u00e4ra livet",
+            "overview": "Three women in a maternity ward share their lives and intimate thoughts, and face the choice of keeping their babies or offering them for adoption.",
+            "popularity": 1.6361,
+            "poster_path": "/powLbhuyWu53PHe6NrHoDCGewUp.jpg",
+            "release_date": "1958-03-31",
+            "title": "Brink of Life",
+            "video": false,
+            "vote_average": 7.467,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Ls2O8NnH8PR21Yqh0u7PU8GPtk.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 19426,
+            "original_language": "it",
+            "original_title": "Le notti di Cabiria",
+            "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+            "popularity": 1.5161,
+            "poster_path": "/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+            "release_date": "1957-10-03",
+            "title": "Nights of Cabiria",
+            "video": false,
+            "vote_average": 7.987,
+            "vote_count": 831
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jsoJNVwZ9tXxEdtGoJstzJAJ4xH.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 28575,
+            "original_language": "en",
+            "original_title": "I'll Cry Tomorrow",
+            "overview": "Deprived of a normal childhood by her ambitious mother, Lillian Roth becomes a star of Broadway and Hollywood before she is twenty. Shortly before her marriage to her childhood sweetheart, David Tredman, he dies and Lillian takes her first drink of many down the road of becoming an alcoholic.",
+            "popularity": 0.8425,
+            "poster_path": "/8UfnjpxvNa5nbckfE9EWdc38VRg.jpg",
+            "release_date": "1955-12-25",
+            "title": "I'll Cry Tomorrow",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tnQZ4loEVVZTrxR5eymTm7JyrhE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 199248,
+            "original_language": "ru",
+            "original_title": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0441\u0435\u043c\u044c\u044f",
+            "overview": "Drama based on the novel by Vsevolod Kochetov \u201cThe Zhurbin Family\u201d.  The characters of the picture are a large family of hereditary shipbuilders. Three generations of the Zhurbin live under one roof: grandfather Matvei, his son Ilya, three sons of Ilya \u2014 Aleksei, Anton and Viktor. In a short time, representatives of the fourth generation are born. The share of the youngest son of Aleksei fall the most severe life tests. The background for family conflicts is the reorganization of production. All Zhurbin's have to change their profession to move on.",
+            "popularity": 0.674,
+            "poster_path": "/lv4RA52fbLTtTeTKV07sKnbUIVa.jpg",
+            "release_date": "1954-11-05",
+            "title": "A Big Family",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6BXP1XEWP31Tvm8wADiONAUs4uL.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 20853,
+            "original_language": "en",
+            "original_title": "Detective Story",
+            "overview": "Tells the story of one day in the lives of the various people who populate a police detective squad. An embittered cop, Det. Jim McLeod, leads a precinct of characters in their grim daily battle with the city's lowlife. The characters who pass through the precinct over the course of the day include a young petty embezzler, a pair of burglars, and a naive shoplifter.",
+            "popularity": 0.7958,
+            "poster_path": "/hMbAiGIrfhhp0XNB4mdgfgtSDdK.jpg",
+            "release_date": "1951-10-24",
+            "title": "Detective Story",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zAL3LOswagN9onjN8DPcNFTqKuD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 705,
+            "original_language": "en",
+            "original_title": "All About Eve",
+            "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+            "popularity": 2.3656,
+            "poster_path": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+            "release_date": "1950-11-09",
+            "title": "All About Eve",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 1642
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5lnwcKo491fGgUQlTG0j5qaRqcF.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 65718,
+            "original_language": "fr",
+            "original_title": "Au-del\u00e0 des grilles",
+            "overview": "A French fugitive arrives in Genoa, where he becomes entangled with an Italian woman and her daughter.",
+            "popularity": 0.346,
+            "poster_path": "/iwiLJb8xzbh4JSwMxg990Rm7D3A.jpg",
+            "release_date": "1949-09-19",
+            "title": "The Walls of Malapaga",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2EU2Y4Usnpa95A0YqkCYwreaWbq.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 117500,
+            "original_language": "fr",
+            "original_title": "La Symphonie pastorale",
+            "overview": "A minister falls in love with a blind young woman he sheltered, but so does his son.",
+            "popularity": 0.9378,
+            "poster_path": "/g4SRd1J6Gw1p2BsW7BgUz2EaqLA.jpg",
+            "release_date": "1946-09-26",
+            "title": "Pastoral Symphony",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 19
+        }
+    ]
+}

@@ -1,0 +1,983 @@
+{
+    "type": "movie_list",
+    "title": "IMDb's 1980s Top 50",
+    "source": "https://wwww.imdb.com",
+    "created_by": "lbnt",
+    "added": "11/21/25",
+    "modified": "11/21/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 1891,
+            "original_language": "en",
+            "original_title": "The Empire Strikes Back",
+            "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+            "popularity": 6.3395,
+            "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+            "release_date": "1980-05-20",
+            "title": "The Empire Strikes Back",
+            "video": false,
+            "vote_average": 8.394,
+            "vote_count": 17836
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pZCLGHynFPOv8dve6u9waxknLth.jpg",
+            "genre_ids": [
+                12,
+                35,
+                878
+            ],
+            "id": 105,
+            "original_language": "en",
+            "original_title": "Back to the Future",
+            "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+            "popularity": 14.0902,
+            "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+            "release_date": "1985-07-03",
+            "title": "Back to the Future",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 21069
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10752
+            ],
+            "id": 12477,
+            "original_language": "ja",
+            "original_title": "\u706b\u5782\u308b\u306e\u5893",
+            "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+            "popularity": 0.0088,
+            "poster_path": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+            "release_date": "1988-04-16",
+            "title": "Grave of the Fireflies",
+            "video": false,
+            "vote_average": 8.447,
+            "vote_count": 6200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11216,
+            "original_language": "it",
+            "original_title": "Nuovo Cinema Paradiso",
+            "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+            "popularity": 3.9656,
+            "poster_path": "/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+            "release_date": "1988-11-17",
+            "title": "Cinema Paradiso",
+            "video": false,
+            "vote_average": 8.431,
+            "vote_count": 4653
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 694,
+            "original_language": "en",
+            "original_title": "The Shining",
+            "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+            "popularity": 12.3415,
+            "poster_path": "/sNWdOLae80AdQkD1NpvcDN5f3PB.jpg",
+            "release_date": "1980-05-23",
+            "title": "The Shining",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 18338
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 85,
+            "original_language": "en",
+            "original_title": "Raiders of the Lost Ark",
+            "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+            "popularity": 7.9913,
+            "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+            "release_date": "1981-06-12",
+            "title": "Raiders of the Lost Ark",
+            "video": false,
+            "vote_average": 7.922,
+            "vote_count": 13188
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 679,
+            "original_language": "en",
+            "original_title": "Aliens",
+            "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+            "popularity": 8.889,
+            "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+            "release_date": "1986-07-18",
+            "title": "Aliens",
+            "video": false,
+            "vote_average": 7.955,
+            "vote_count": 10429
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+            "genre_ids": [
+                36,
+                10402,
+                18
+            ],
+            "id": 279,
+            "original_language": "en",
+            "original_title": "Amadeus",
+            "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+            "popularity": 4.5205,
+            "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+            "release_date": "1984-09-19",
+            "title": "Amadeus",
+            "video": false,
+            "vote_average": 8.026,
+            "vote_count": 4537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 387,
+            "original_language": "de",
+            "original_title": "Das Boot",
+            "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+            "popularity": 3.0601,
+            "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+            "release_date": "1981-09-17",
+            "title": "Das Boot",
+            "video": false,
+            "vote_average": 8.087,
+            "vote_count": 2377
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oIQMt3Q6Qa37YD0JOdYkrIAPYDk.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 25237,
+            "original_language": "ru",
+            "original_title": "\u0418\u0434\u0438 \u0438 \u0441\u043c\u043e\u0442\u0440\u0438",
+            "overview": "The invasion of a village in Belarus by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+            "popularity": 4.8694,
+            "poster_path": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+            "release_date": "1985-10-17",
+            "title": "Come and See",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 1697
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 111,
+            "original_language": "en",
+            "original_title": "Scarface",
+            "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+            "popularity": 11.7215,
+            "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+            "release_date": "1983-12-09",
+            "title": "Scarface",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 12569
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 311,
+            "original_language": "en",
+            "original_title": "Once Upon a Time in America",
+            "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+            "popularity": 5.9969,
+            "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+            "release_date": "1984-05-23",
+            "title": "Once Upon a Time in America",
+            "video": false,
+            "vote_average": 8.398,
+            "vote_count": 5791
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 1892,
+            "original_language": "en",
+            "original_title": "Return of the Jedi",
+            "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+            "popularity": 6.8517,
+            "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+            "release_date": "1983-05-25",
+            "title": "Return of the Jedi",
+            "video": false,
+            "vote_average": 7.905,
+            "vote_count": 16444
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                878
+            ],
+            "id": 1091,
+            "original_language": "en",
+            "original_title": "The Thing",
+            "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+            "popularity": 8.147,
+            "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+            "release_date": "1982-06-25",
+            "title": "The Thing",
+            "video": false,
+            "vote_average": 8.07,
+            "vote_count": 7551
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rahJyvdMruvqUmSLWRQKYS57mx8.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 562,
+            "original_language": "en",
+            "original_title": "Die Hard",
+            "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+            "popularity": 11.0944,
+            "poster_path": "/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+            "release_date": "1988-07-15",
+            "title": "Die Hard",
+            "video": false,
+            "vote_average": 7.802,
+            "vote_count": 11785
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 89,
+            "original_language": "en",
+            "original_title": "Indiana Jones and the Last Crusade",
+            "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+            "popularity": 6.4479,
+            "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+            "release_date": "1989-05-24",
+            "title": "Indiana Jones and the Last Crusade",
+            "video": false,
+            "vote_average": 7.848,
+            "vote_count": 10701
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 600,
+            "original_language": "en",
+            "original_title": "Full Metal Jacket",
+            "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "popularity": 7.8217,
+            "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+            "release_date": "1987-06-26",
+            "title": "Full Metal Jacket",
+            "video": false,
+            "vote_average": 8.124,
+            "vote_count": 11079
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gfR3GEClL7WrNpQOg8mcPhM8fx6.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 11645,
+            "original_language": "ja",
+            "original_title": "\u4e71",
+            "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
+            "popularity": 4.4991,
+            "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+            "release_date": "1985-06-01",
+            "title": "Ran",
+            "video": false,
+            "vote_average": 8.046,
+            "vote_count": 1703
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1YlaU9vXlD4K5EBGZKjaCb9rJb9.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1955,
+            "original_language": "en",
+            "original_title": "The Elephant Man",
+            "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of great intelligence and sensitivity. Based on the true story of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.",
+            "popularity": 4.6805,
+            "poster_path": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+            "release_date": "1980-10-09",
+            "title": "The Elephant Man",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 3762
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 207,
+            "original_language": "en",
+            "original_title": "Dead Poets Society",
+            "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "popularity": 8.9021,
+            "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+            "release_date": "1989-06-02",
+            "title": "Dead Poets Society",
+            "video": false,
+            "vote_average": 8.301,
+            "vote_count": 12045
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 218,
+            "original_language": "en",
+            "original_title": "The Terminator",
+            "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+            "popularity": 11.5017,
+            "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+            "release_date": "1984-10-26",
+            "title": "The Terminator",
+            "video": false,
+            "vote_average": 7.673,
+            "vote_count": 13985
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cFZRtb1Q4whERknfYtj7Fjsvxpg.jpg",
+            "genre_ids": [
+                878,
+                18,
+                53
+            ],
+            "id": 78,
+            "original_language": "en",
+            "original_title": "Blade Runner",
+            "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+            "popularity": 8.711,
+            "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+            "release_date": "1982-06-25",
+            "title": "Blade Runner",
+            "video": false,
+            "vote_average": 7.942,
+            "vote_count": 14490
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 235,
+            "original_language": "en",
+            "original_title": "Stand by Me",
+            "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four Oregon boys decide to go see the body. On the way, Gordie,  Vern, Chris and Teddy encounter a mean junk man and a marsh full of leeches, as they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+            "popularity": 5.1735,
+            "poster_path": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+            "release_date": "1986-08-08",
+            "title": "Stand by Me",
+            "video": false,
+            "vote_average": 7.85,
+            "vote_count": 6227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xywFHPls3rMTiRtZUhrCghMCsMe.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                28
+            ],
+            "id": 792,
+            "original_language": "en",
+            "original_title": "Platoon",
+            "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+            "popularity": 11.4599,
+            "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+            "release_date": "1986-12-19",
+            "title": "Platoon",
+            "video": false,
+            "vote_average": 7.746,
+            "vote_count": 4864
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1578,
+            "original_language": "en",
+            "original_title": "Raging Bull",
+            "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+            "popularity": 3.1835,
+            "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+            "release_date": "1980-11-14",
+            "title": "Raging Bull",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 4571
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/95ozIP0A2fKaAXxwDxUEVn74Iux.jpg",
+            "genre_ids": [
+                14,
+                16,
+                10751
+            ],
+            "id": 8392,
+            "original_language": "ja",
+            "original_title": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
+            "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+            "popularity": 9.6932,
+            "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+            "release_date": "1988-04-16",
+            "title": "My Neighbor Totoro",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 8465
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 655,
+            "original_language": "en",
+            "original_title": "Paris, Texas",
+            "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
+            "popularity": 3.3187,
+            "poster_path": "/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg",
+            "release_date": "1984-07-16",
+            "title": "Paris, Texas",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 2082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+            "genre_ids": [
+                14,
+                18,
+                9648
+            ],
+            "id": 5961,
+            "original_language": "sv",
+            "original_title": "Fanny och Alexander",
+            "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+            "popularity": 2.1618,
+            "poster_path": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+            "release_date": "1982-12-17",
+            "title": "Fanny and Alexander",
+            "video": false,
+            "vote_average": 7.78,
+            "vote_count": 835
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1GzNRA6kKW18EsL52vQVybUAu1v.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 31056,
+            "original_language": "pl",
+            "original_title": "Kr\u00f3tki film o mi\u0142o\u015bci",
+            "overview": "19-year-old Tomek whiles away his lonely life by spying on his opposite neighbour Magda through binoculars. She's an artist in her mid-thirties, and appears to have everything - not least a constant stream of men at her beck and call. But when the two finally meet, they discover that they have a lot more in common than appeared at first sight...",
+            "popularity": 2.5219,
+            "poster_path": "/kLAMz50Or2So1aEzHYv0R8iXo46.jpg",
+            "release_date": "1988-08-21",
+            "title": "A Short Film About Love",
+            "video": false,
+            "vote_average": 7.773,
+            "vote_count": 398
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                12
+            ],
+            "id": 49964,
+            "original_language": "fa",
+            "original_title": "\u062e\u0627\u0646\u0647\u200c\u06cc \u062f\u0648\u0633\u062a \u06a9\u062c\u0627\u0633\u062a\u061f",
+            "overview": "An 8-year-old boy must return his friend's notebook he took by mistake, lest his friend be punished by expulsion from school.",
+            "popularity": 2.3224,
+            "poster_path": "/aU9WdjwfKTiBsiIh9Vgjr4onhnD.jpg",
+            "release_date": "1987-07-01",
+            "title": "Where Is The Friend's House?",
+            "video": false,
+            "vote_average": 7.894,
+            "vote_count": 409
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 4480,
+            "original_language": "fr",
+            "original_title": "Jean de Florette",
+            "overview": "In a rural French village, an old man and his only remaining relative cast their covetous eyes on an adjoining vacant property. They need its spring water for growing their flowers, and are dismayed to hear that the man who has inherited it is moving in. They block up the spring and watch as their new neighbour tries to keep his crops watered from wells far afield through the hot summer. Though they see his desperate efforts are breaking his health and his wife and daughter's hearts, they think only of getting the water.",
+            "popularity": 2.1827,
+            "poster_path": "/r9UAevVU0lhRKNGlxXXUeKiRwtM.jpg",
+            "release_date": "1986-08-27",
+            "title": "Jean de Florette",
+            "video": false,
+            "vote_average": 7.693,
+            "vote_count": 593
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5swI23sPOvSjd5LJ9TQDsMYkCPc.jpg",
+            "genre_ids": [
+                18,
+                35,
+                80,
+                14
+            ],
+            "id": 20123,
+            "original_language": "sh",
+            "original_title": "Dom za ve\u0161anje",
+            "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves.",
+            "popularity": 2.4203,
+            "poster_path": "/av6K9MX0jNNFAH6NZVrVV2DMAOA.jpg",
+            "release_date": "1988-12-21",
+            "title": "Time of the Gypsies",
+            "video": false,
+            "vote_average": 7.633,
+            "vote_count": 412
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                35,
+                10749
+            ],
+            "id": 2493,
+            "original_language": "en",
+            "original_title": "The Princess Bride",
+            "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "popularity": 8.2176,
+            "poster_path": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+            "release_date": "1987-09-25",
+            "title": "The Princess Bride",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 4873
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 380,
+            "original_language": "en",
+            "original_title": "Rain Man",
+            "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+            "popularity": 7.5135,
+            "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+            "release_date": "1988-12-12",
+            "title": "Rain Man",
+            "video": false,
+            "vote_average": 7.752,
+            "vote_count": 6766
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+            "genre_ids": [
+                16,
+                878,
+                28
+            ],
+            "id": 149,
+            "original_language": "ja",
+            "original_title": "AKIRA",
+            "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+            "popularity": 7.8334,
+            "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+            "release_date": "1988-06-10",
+            "title": "Akira",
+            "video": false,
+            "vote_average": 7.938,
+            "vote_count": 4557
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6OZ2Q4FYELeGoBj9tVDWCvevkj.jpg",
+            "genre_ids": [
+                12,
+                14,
+                16,
+                28,
+                10751
+            ],
+            "id": 10515,
+            "original_language": "ja",
+            "original_title": "\u5929\u7a7a\u306e\u57ce\u30e9\u30d4\u30e5\u30bf",
+            "overview": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+            "popularity": 8.6885,
+            "poster_path": "/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
+            "release_date": "1986-08-02",
+            "title": "Castle in the Sky",
+            "video": false,
+            "vote_average": 7.967,
+            "vote_count": 4482
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oYOZay9hyW3uI5paKWLIYkWZlzv.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 925,
+            "original_language": "en",
+            "original_title": "Do the Right Thing",
+            "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+            "popularity": 1.9063,
+            "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+            "release_date": "1989-06-14",
+            "title": "Do the Right Thing",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1906
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+            "genre_ids": [
+                12,
+                16,
+                14
+            ],
+            "id": 81,
+            "original_language": "ja",
+            "original_title": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab",
+            "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausica\u00e4, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+            "popularity": 5.9582,
+            "poster_path": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+            "release_date": "1984-03-11",
+            "title": "Nausica\u00e4 of the Valley of the Wind",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 3868
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AsXHPS2U58MDAkoEJUT7Vlxndfu.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 783,
+            "original_language": "en",
+            "original_title": "Gandhi",
+            "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+            "popularity": 4.2401,
+            "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+            "release_date": "1982-12-01",
+            "title": "Gandhi",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 2417
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ag4eANWzHEwC7rQVyvcGsL34ieP.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 12104,
+            "original_language": "en",
+            "original_title": "Pink Floyd: The Wall",
+            "overview": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+            "popularity": 1.8341,
+            "poster_path": "/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+            "release_date": "1982-07-14",
+            "title": "Pink Floyd: The Wall",
+            "video": false,
+            "vote_average": 7.942,
+            "vote_count": 1585
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 1786,
+            "original_language": "fr",
+            "original_title": "Au revoir les enfants",
+            "overview": "Au revoir les enfants tells a heartbreaking story of friendship and devastating loss concerning two boys living in Nazi-occupied France. At a provincial Catholic boarding school, the precocious youths enjoy true camaraderie\u2014until a secret is revealed. Based on events from writer-director Malle\u2019s own childhood, the film is a subtle, precisely observed tale of courage, cowardice, and tragic awakening.",
+            "popularity": 2.6796,
+            "poster_path": "/lXP90Vx7OcviBfbbokcaG6zVnPG.jpg",
+            "release_date": "1987-10-07",
+            "title": "Au Revoir les Enfants",
+            "video": false,
+            "vote_average": 7.512,
+            "vote_count": 694
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ejcvnHxMFfCbnFi736cXi1ChH1.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 4481,
+            "original_language": "fr",
+            "original_title": "Manon des sources",
+            "overview": "In this, the sequel to Jean de Florette, Manon has grown into a beautiful young shepherdess living in the idyllic Provencal countryside. She plots vengeance on the men who greedily conspired to acquire her father's land years earlier.",
+            "popularity": 1.8827,
+            "poster_path": "/1qpu6Zc1PSDL3UbDNIZJ6YuhJDW.jpg",
+            "release_date": "1986-11-19",
+            "title": "Manon of the Spring",
+            "video": false,
+            "vote_average": 7.574,
+            "vote_count": 546
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+            "genre_ids": [
+                878,
+                12,
+                10751,
+                14
+            ],
+            "id": 601,
+            "original_language": "en",
+            "original_title": "E.T. the Extra-Terrestrial",
+            "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+            "popularity": 11.0839,
+            "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+            "release_date": "1982-06-11",
+            "title": "E.T. the Extra-Terrestrial",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 11646
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+            "genre_ids": [
+                10402,
+                35,
+                28,
+                80
+            ],
+            "id": 525,
+            "original_language": "en",
+            "original_title": "The Blues Brothers",
+            "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+            "popularity": 4.1678,
+            "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+            "release_date": "1980-06-16",
+            "title": "The Blues Brothers",
+            "video": false,
+            "vote_average": 7.721,
+            "vote_count": 4416
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yxk5kc1n7OyQKWAzcXhLKcKFHKl.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 11031,
+            "original_language": "en",
+            "original_title": "This Is Spinal Tap",
+            "overview": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+            "popularity": 3.0976,
+            "poster_path": "/lTdoAGlVvIn3W1ZVa8iX4Sh2SCq.jpg",
+            "release_date": "1984-03-02",
+            "title": "This Is Spinal Tap",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1530
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ka4jdz4n88JMHDSCjp8JmCyXXqf.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 850,
+            "original_language": "en",
+            "original_title": "A Christmas Story",
+            "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
+            "popularity": 3.1144,
+            "poster_path": "/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+            "release_date": "1983-11-18",
+            "title": "A Christmas Story",
+            "video": false,
+            "vote_average": 7.218,
+            "vote_count": 1332
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+            "genre_ids": [
+                18,
+                14,
+                10749
+            ],
+            "id": 144,
+            "original_language": "de",
+            "original_title": "Der Himmel \u00fcber Berlin",
+            "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
+            "popularity": 2.3506,
+            "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+            "release_date": "1987-09-23",
+            "title": "Wings of Desire",
+            "video": false,
+            "vote_average": 7.772,
+            "vote_count": 1436
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wGfuDcS3dJ1EFivBDWDQAQfsk0G.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 11830,
+            "original_language": "ja",
+            "original_title": "タンポポ",
+            "overview": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life.",
+            "popularity": 2.5,
+            "poster_path": "/ArYdSuX3zY9fMsE4LqmBl7xJq5R.jpg",
+            "release_date": "1985-11-23",
+            "title": "Tampopo",
+            "video": false,
+            "vote_average": 7.823,
+            "vote_count": 401
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/46iMqI1qzAtnXJxGRNCFwYNYqOo.jpg",
+            "genre_ids": [
+                18,
+                12
+            ],
+            "id": 9343,
+            "original_language": "de",
+            "original_title": "Fitzcarraldo",
+            "overview": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
+            "popularity": 7.106,
+            "poster_path": "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+            "release_date": "1982-03-02",
+            "title": "Fitzcarraldo",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 835
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/48y1eAboPFgt7rKcynRAPPvtJ1E.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 24657,
+            "original_language": "sv",
+            "original_title": "Offret",
+            "overview": "Alexander, a journalist, philosopher and retired actor, celebrates a birthday with friends and family when it is announced that nuclear war has begun.",
+            "popularity": 3.9243,
+            "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+            "release_date": "1986-05-09",
+            "title": "The Sacrifice",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 580
+        }
+    ]
+}

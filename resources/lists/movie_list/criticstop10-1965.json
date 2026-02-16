@@ -1,0 +1,685 @@
+{
+    "type": "movie_list",
+    "title": "Critics' Top 10 - 1965",
+    "source": "https://criticstop10.com/best-movies-of-1965/",
+    "created_by": "lbnt",
+    "added": "07/30/25",
+    "modified": "07/30/25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg",
+            "genre_ids": [
+                18,
+                10751,
+                10402,
+                10749
+            ],
+            "id": 15121,
+            "original_language": "en",
+            "original_title": "The Sound of Music",
+            "overview": "In the years before the Second World War, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.",
+            "popularity": 5.574,
+            "poster_path": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+            "release_date": "1965-03-29",
+            "title": "The Sound of Music",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 3409
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t3bXP5pUnckfoJ8WonlvAGovCun.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 30080,
+            "original_language": "en",
+            "original_title": "Ship of Fools",
+            "overview": "Passengers on a ship traveling from Mexico to Europe in the 1930s represent society at large in that era. The crew is German, including the ship's Dr. Schumann, who falls in love with one of the passengers, La Condesa. A young American woman, Jenny, is traveling with the man she loves, David. Jenny is fascinated and puzzled by just who some of the other passengers are.",
+            "popularity": 2.4966,
+            "poster_path": "/2LOe4Hu6Gxw6k76hLWhS8JVVILa.jpg",
+            "release_date": "1965-07-29",
+            "title": "Ship of Fools",
+            "video": false,
+            "vote_average": 6.55,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8L16E06tKUkypSVYV47pHg7gOHM.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 20540,
+            "original_language": "en",
+            "original_title": "The Pawnbroker",
+            "overview": "A Jewish pawnbroker, a victim of Nazi persecution, loses all faith in his fellow man until he realizes too late the tragedy of his actions.",
+            "popularity": 0.7309,
+            "poster_path": "/o4CT5WPqmOLF2QfodAuGT7jQNn1.jpg",
+            "release_date": "1965-04-20",
+            "title": "The Pawnbroker",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8b6j2HY159XwnLn6Qh9HxrtYeR0.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 24134,
+            "original_language": "en",
+            "original_title": "Darling",
+            "overview": "Diana, a beautiful but shallow and easily distracted model and failed actress, toys with the affections of several men while attempting to gain fame and fortune in Swinging London.",
+            "popularity": 1.1821,
+            "poster_path": "/cBd5YO9xG7VmRuC8Q27uR3PV9mn.jpg",
+            "release_date": "1965-08-03",
+            "title": "Darling",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rqpa2fAAHvH3ej9e2LWrpn0N8xl.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 42740,
+            "original_language": "en",
+            "original_title": "The Collector",
+            "overview": "Freddie is an inept bank clerk with no future. His only hobby is collecting butterflies, which gives him a feeling of power and control that is otherwise totally missing from his life. He comes into a large sum of money and buys himself a country house. Still unable to make himself at ease socially, he starts to plan on acquiring a girlfriend - in the same manner as he collects butterflies. He prepares the cellar of the house to be a collecting jar and stalks his victim over several days.",
+            "popularity": 1.0236,
+            "poster_path": "/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg",
+            "release_date": "1965-06-17",
+            "title": "The Collector",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 209
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ilxJjPUHcHAkHbQExzEQyPnPE61.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 10338,
+            "original_language": "en",
+            "original_title": "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes",
+            "overview": "In order to boost circulation of his newspaper, Lord Rawnsley announces an air race and offers \u00a310,000 to the first person who can fly across the English Channel. But one of the participants, Percy, plots to sabotage his competitor's planes. Will Percy triumph?",
+            "popularity": 1.3078,
+            "poster_path": "/wcGELNaQ8TbiMUpAnkKLl5g09OO.jpg",
+            "release_date": "1965-06-16",
+            "title": "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes",
+            "video": false,
+            "vote_average": 6.797,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rgy1Nf2kf7UodG4BI6awfQqttac.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 907,
+            "original_language": "en",
+            "original_title": "Doctor Zhivago",
+            "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+            "popularity": 2.4159,
+            "poster_path": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+            "release_date": "1965-12-22",
+            "title": "Doctor Zhivago",
+            "video": false,
+            "vote_average": 7.546,
+            "vote_count": 1198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/llwusQFdHmHCWS7jySP2r6bbAIm.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 13580,
+            "original_language": "en",
+            "original_title": "The Spy Who Came In from the Cold",
+            "overview": "British agent Alec Leamas refuses to come in from the Cold War during the 1960s, choosing to face another mission, which may prove to be his final one.",
+            "popularity": 1.4756,
+            "poster_path": "/hgcVc0pHSCa8MDhLQC0Gdj42Ru7.jpg",
+            "release_date": "1965-12-16",
+            "title": "The Spy Who Came In from the Cold",
+            "video": false,
+            "vote_average": 7.068,
+            "vote_count": 309
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/593s1exlgxnzybKBhzlfq529wuy.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 15247,
+            "original_language": "en",
+            "original_title": "The Ipcress File",
+            "overview": "Sly and dry intelligence agent Harry Palmer is tasked with investigating British Intelligence security, and is soon enmeshed in a world of double-dealing, kidnap and murder when he finds a traitor operating at the heart of the secret service.",
+            "popularity": 0.7209,
+            "poster_path": "/iCNRK7NVhBvNpiyMRmCpTBFNoLO.jpg",
+            "release_date": "1965-03-18",
+            "title": "The Ipcress File",
+            "video": false,
+            "vote_average": 6.803,
+            "vote_count": 322
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+            "genre_ids": [
+                35,
+                12,
+                28,
+                10751,
+                10749
+            ],
+            "id": 11575,
+            "original_language": "en",
+            "original_title": "The Great Race",
+            "overview": "Professional daredevil and white-suited hero, The Great Leslie, convinces turn-of-the-century auto makers that a race from New York to Paris (westward across America, the Bering Straight and Russia) will help to promote automobile sales. Leslie's arch-rival, the mustached and black-attired Professor Fate vows to beat Leslie to the finish line in a car of Fate's own invention.",
+            "popularity": 1.4714,
+            "poster_path": "/9rL8GWuFdO3fLXcNV9rZRHskoOn.jpg",
+            "release_date": "1965-07-01",
+            "title": "The Great Race",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 343
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/65Ixfe35wlVxgZdEIJUV2Zo7qfu.jpg",
+            "genre_ids": [
+                10752,
+                53
+            ],
+            "id": 3482,
+            "original_language": "en",
+            "original_title": "The Train",
+            "overview": "As the Allied forces approach Paris in August 1944, German Colonel Von Waldheim is desperate to take all of France's greatest paintings to Germany. He manages to secure a train to transport the valuable art works even as the chaos of retreat descends upon them. The French resistance however wants to stop them from stealing their national treasures but have received orders from London that they are not to be destroyed. The station master, Labiche, is tasked with scheduling the train and making it all happen smoothly but he is also part of a dwindling group of resistance fighters tasked with preventing the theft. He and others stage an elaborate ruse to keep the train from ever leaving French territory.",
+            "popularity": 1.4923,
+            "poster_path": "/bzgPLB7efMohled42PIn6CcOTnO.jpg",
+            "release_date": "1964-09-24",
+            "title": "The Train",
+            "video": false,
+            "vote_average": 7.528,
+            "vote_count": 344
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/brYujqSBuefAyHBL42nyM0GJtFw.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 42731,
+            "original_language": "en",
+            "original_title": "A Thousand Clowns",
+            "overview": "Twelve-year-old Nick lives with his Uncle Murray, a Mr.Micawber-like Dickensian character who keeps hoping something won't turn up. What turns up is a social worker, who falls in love with Murray and a bit in love with Nick. As the child welfare people try to force Murray to become a conventional man (as the price they demand for allowing him to keep Nick), the nephew, who until now has gloried in his Uncle's iconoclastic approach to life, tries to play mediator. But when he succeeds, he is alarmed by the uncle's willingness to cave in to society in order to save the relationship.",
+            "popularity": 0.4307,
+            "poster_path": "/tXPsmtVy3T5Whz20LwiscprCdCT.jpg",
+            "release_date": "1965-12-13",
+            "title": "A Thousand Clowns",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7DLCXCQx52YLle1qTokrjROTwVV.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "id": 660,
+            "original_language": "en",
+            "original_title": "Thunderball",
+            "overview": "A criminal organization has obtained two nuclear bombs and are asking for a 100 million pound ransom in the form of diamonds in seven days or they will use the weapons. The secret service sends James Bond to the Bahamas to once again save the world.",
+            "popularity": 4.5524,
+            "poster_path": "/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg",
+            "release_date": "1965-12-11",
+            "title": "Thunderball",
+            "video": false,
+            "vote_average": 6.671,
+            "vote_count": 2437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9VeXz4mj4QaOfTNSLy0owJHkWEo.jpg",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "id": 19120,
+            "original_language": "it",
+            "original_title": "Giulietta degli spiriti",
+            "overview": "Middle-aged Giulietta grows suspicious of her husband, Giorgio, when his behavior grows increasingly questionable. One night when Giorgio initiates a seance amongst his friends, Giulietta gets in touch with spirits and learns more about herself and her painful past. Slightly skeptical, but intrigued, she visits a mystic who gives her more information -- and nudges her toward the realization that her husband is indeed a philanderer.",
+            "popularity": 0.9618,
+            "poster_path": "/durUhLVqmYlgXsA064A6P5sM4Lc.jpg",
+            "release_date": "1965-10-22",
+            "title": "Juliet of the Spirits",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 321
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sL60DTK9En5ycup3mulBhSOTJsG.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 886,
+            "original_language": "en",
+            "original_title": "The Cincinnati Kid",
+            "overview": "An up-and-coming poker player tries to prove himself in a high-stakes match against a long-time master of the game.",
+            "popularity": 1.3846,
+            "poster_path": "/s4Apy8FcF6a0lR1Qay1atpfwAv9.jpg",
+            "release_date": "1965-10-15",
+            "title": "The Cincinnati Kid",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 284
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kKfmcvVPQ7Qu5FNzjMqe8L45WbR.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 47616,
+            "original_language": "en",
+            "original_title": "The Yellow Rolls-Royce",
+            "overview": "One Rolls-Royce belongs to three vastly different owners, starting with Lord Charles, who buys the car for his wife as an anniversary present. The next owner is Paolo Maltese, a mafioso who purchases the car during a trip to Italy and leaves it with his girlfriend while he returns to Chicago. Finally, the car is owned by American widow Gerda, who joins the Yugoslavian resistance against the invading Nazis.",
+            "popularity": 0.5991,
+            "poster_path": "/2LgXARrIIafiBk0sImU83NUo4Sr.jpg",
+            "release_date": "1964-12-31",
+            "title": "The Yellow Rolls-Royce",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Rf6qaHRZkq0tN5wd4xh8ezSJa8.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 42744,
+            "original_language": "en",
+            "original_title": "The Knack... and How to Get It",
+            "overview": "A nebbish schoolteacher begs his smooth (and misogynistic) pal to teach him 'the knack' \u2013 how to score with women. Serendipitously, the men meet up with a new girl in town, as well as a friendly lunatic who can\u2019t help but paint things white.",
+            "popularity": 0.4548,
+            "poster_path": "/xO2dJcCISY6lujaU4Qew3RzSErJ.jpg",
+            "release_date": "1965-06-03",
+            "title": "The Knack... and How to Get It",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4nIEoIesbcW85iwgneg92a9xU2P.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                12,
+                53
+            ],
+            "id": 21876,
+            "original_language": "en",
+            "original_title": "Von Ryan's Express",
+            "overview": "Von Ryan's Express stars Frank Sinatra as a POW colonel who leads a daring escape from WWII Italy by taking over a freight train, but he has to win over the British soldiers he finds himself commanding.",
+            "popularity": 0.9536,
+            "poster_path": "/hwaeSCWhiPZXTmOcK1XJFMbFHjJ.jpg",
+            "release_date": "1965-06-23",
+            "title": "Von Ryan's Express",
+            "video": false,
+            "vote_average": 7.093,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hzaXG3ScAXpR45yCR3ZCbMG7ZFq.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 29586,
+            "original_language": "en",
+            "original_title": "King Rat",
+            "overview": "When Singapore surrendered to the Japanese in 1942, the Allied POWs, mostly British but including a few Americans, were incarcerated in Changi prison. Among the American prisoners is Cpl. King, a wheeler-dealer who has managed to establish a pretty good life for himself in the camp. King soon forms a friendship with an upper-class British officer who is fascinated with King's enthusiastic approach to life.",
+            "popularity": 0.765,
+            "poster_path": "/jprgw0VtGF6Ln2ckZM19vl6igM2.jpg",
+            "release_date": "1965-10-27",
+            "title": "King Rat",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e6615TUkrhQvOyCYM60SQLPTVAL.jpg",
+            "genre_ids": [
+                37,
+                10752
+            ],
+            "id": 21027,
+            "original_language": "en",
+            "original_title": "Shenandoah",
+            "overview": "Charlie Anderson, a farmer in Shenandoah, Virginia, finds himself and his family in the middle of the Civil War he wants nothing to do with. When his youngest boy is taken prisoner by the North, the Civil War is forced upon him.",
+            "popularity": 0.848,
+            "poster_path": "/jAB8UFwpoKPdgJlCuYZiF1hyn9E.jpg",
+            "release_date": "1965-06-03",
+            "title": "Shenandoah",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/33Aeb2U7cFBcD2OS1WFv46heJG0.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 36815,
+            "original_language": "en",
+            "original_title": "The Agony and the Ecstasy",
+            "overview": "During the Italian Renaissance, Pope Julius II contracts the influential artist Michelangelo to sculpt 40 statues for his tomb. When the pope changes his mind and asks the sculptor to paint a mural in the Sistine Chapel, Michelangelo doubts his painting skills and abandons the project. Divine inspiration returns Michelangelo to the mural, but his artistic vision clashes with the pope's demanding personality and threatens the success of the historic painting.",
+            "popularity": 0.6898,
+            "poster_path": "/4ZiwyXtyxYDmMnNiVemCPgxY8X6.jpg",
+            "release_date": "1965-09-16",
+            "title": "The Agony and the Ecstasy",
+            "video": false,
+            "vote_average": 7.133,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kINVRRAAWa1p1sHkme5GK7ZKNMx.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                80
+            ],
+            "id": 20723,
+            "original_language": "en",
+            "original_title": "That Darn Cat!",
+            "overview": "A young woman suspects foul play when her cat comes home wearing a wristwatch. Convincing the FBI, though, and catching the bad guys is tougher than she imagined.",
+            "popularity": 0.7001,
+            "poster_path": "/by92HEWg2d4WrkgbUIPEA0ufsHI.jpg",
+            "release_date": "1965-12-02",
+            "title": "That Darn Cat!",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 176
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vITHhBDV2t4QIT9UBcLl4zEa7Zy.jpg",
+            "genre_ids": [
+                37,
+                35
+            ],
+            "id": 11694,
+            "original_language": "en",
+            "original_title": "Cat Ballou",
+            "overview": "A woman seeking revenge for her murdered father hires a famous gunman, but he's very different from what she expects.",
+            "popularity": 2.5207,
+            "poster_path": "/3WJmB1F5z4mLwt84i1FuIrSYEe.jpg",
+            "release_date": "1965-06-24",
+            "title": "Cat Ballou",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 261
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rq8908sDqtyEGiRagGtPYuWSwFb.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 3681,
+            "original_language": "en",
+            "original_title": "What's New Pussycat?",
+            "overview": "A playboy who refuses to give up his hedonistic lifestyle to settle down and marry his true love seeks help from a demented psychoanalyst who is having romantic problems of his own.",
+            "popularity": 0.6976,
+            "poster_path": "/seKbiGx8mjF04Bx4LVBQk741Eqv.jpg",
+            "release_date": "1965-06-22",
+            "title": "What's New Pussycat?",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2dgbGQr4MAt6ljJHIsW0ObqwWD.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 77915,
+            "original_language": "en",
+            "original_title": "The Sandpiper",
+            "overview": "A free-spirited single mother forms a connection with the wedded headmaster of an Episcopalian boarding school in Monterey, California.",
+            "popularity": 0.578,
+            "poster_path": "/cOEIl9QjFe6Pt5W7hbkt2Hy7EfX.jpg",
+            "release_date": "1965-06-23",
+            "title": "The Sandpiper",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ePEMEklx5d5ItZ1Cp5CDqJiP3Ms.jpg",
+            "genre_ids": [
+                12,
+                18,
+                10749
+            ],
+            "id": 11387,
+            "original_language": "en",
+            "original_title": "Lord Jim",
+            "overview": "After being discredited as a coward, a 19th century seaman lives for only one purpose: to redeem himself.  Preserved by the Academy Film Archive in partnership with Sony Pictures Entertainment in 2000.",
+            "popularity": 0.8446,
+            "poster_path": "/hgoxcPLJYYqDIlFDl7pnndcm9MT.jpg",
+            "release_date": "1965-02-15",
+            "title": "Lord Jim",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AjylZxTsFiE7QoCUD01LHtoNxhj.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 16303,
+            "original_language": "en",
+            "original_title": "The Loved One",
+            "overview": "Newly arrived in Hollywood from England, Dennis Barlow finds he has to arrange his uncle's interment at the highly-organised and very profitable Whispering Glades funeral parlour. His fancy is caught by one of their cosmeticians, Aimee Thanatogenos. But he has three problems - the strict rules of owner Blessed Reverand Glenworthy, the rivalry of embalmer Mr Joyboy, and the shame of now working himself at The Happy Hunting Ground pets' memorial home.",
+            "popularity": 0.7458,
+            "poster_path": "/ismkfTtpJ1Nu8EJacMdwaiAmLwy.jpg",
+            "release_date": "1965-10-11",
+            "title": "The Loved One",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 10299,
+            "original_language": "en",
+            "original_title": "Hush... Hush, Sweet Charlotte",
+            "overview": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness after the arrival of a lost relative.",
+            "popularity": 0.7683,
+            "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+            "release_date": "1964-12-15",
+            "title": "Hush... Hush, Sweet Charlotte",
+            "video": false,
+            "vote_average": 7.289,
+            "vote_count": 266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qhpib62efVnZon7yiYaV1hEb2kF.jpg",
+            "genre_ids": [
+                35,
+                10402,
+                12
+            ],
+            "id": 14831,
+            "original_language": "en",
+            "original_title": "Help!",
+            "overview": "An obscure Eastern cult that practices human sacrifice pursues Ringo after he unknowingly puts on a ceremonial ring (that, of course, won't come off). On top of that, a pair of mad scientists, members of Scotland Yard, and a beautiful but dead-eyed assassin all have their own plans for the Fab Four.",
+            "popularity": 1.1079,
+            "poster_path": "/nLvgIB3bVb8jyhls5W6B74Xt4Ei.jpg",
+            "release_date": "1965-07-29",
+            "title": "Help!",
+            "video": false,
+            "vote_average": 6.841,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u9Yrx1ZYMSvtujeCRlLbNON8hR2.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 16211,
+            "original_language": "en",
+            "original_title": "The Sons of Katie Elder",
+            "overview": "The four sons of Katie Elder reunite in their hometown of Clearwater, Texas for her funeral and discover that the family ranch is now in the hands of Morgan Hastings, a corrupt businessman who wants to exploit the area around the town.",
+            "popularity": 1.5228,
+            "poster_path": "/n6ox5IniBxxx6ISTol5pm36WoFr.jpg",
+            "release_date": "1965-06-23",
+            "title": "The Sons of Katie Elder",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 292
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1MIGohQHwGcGXLld8PvBcpWtGIO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 51054,
+            "original_language": "en",
+            "original_title": "The Slender Thread",
+            "overview": "Alan is a Seattle college student volunteering at a crisis center. One night when at the clinic alone, a woman calls up the number and tells Alan that she needs to talk to someone. She informs Alan she took a load of pills, and he secretly tries to get help. During this time, he learns more about the woman, her family life, and why she wants to die. Can Alan get the cavalry to save her in time before it's too late?",
+            "popularity": 0.364,
+            "poster_path": "/bVJ9p6nTX2nvzAviASuvtMSQ6Jp.jpg",
+            "release_date": "1965-12-15",
+            "title": "The Slender Thread",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3RrBUEWUELfW1o1zv0ddXNZOq0F.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 33364,
+            "original_language": "en",
+            "original_title": "A Patch of Blue",
+            "overview": "A blind, uneducated white girl is befriended by a black man, who becomes determined to help her escape her impoverished and abusive home life.",
+            "popularity": 0.5585,
+            "poster_path": "/mekzNjmSO0aERjJ6EgY5938pvXR.jpg",
+            "release_date": "1965-12-10",
+            "title": "A Patch of Blue",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aDZkNvnJn4CET2URJ6DtpxMP2fY.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                80
+            ],
+            "id": 105537,
+            "original_language": "en",
+            "original_title": "The Amorous Adventures of Moll Flanders",
+            "overview": "A bawdy story of how a poor damsel surrenders her virtue again and again to get to the top of society.",
+            "popularity": 0.416,
+            "poster_path": "/h5eTacGAQc3oaJE9OtPxZQYhFBf.jpg",
+            "release_date": "1965-05-26",
+            "title": "The Amorous Adventures of Moll Flanders",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pBWAMf19IINuYbOODDDc59730C9.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 24395,
+            "original_language": "en",
+            "original_title": "The Hill",
+            "overview": "North Africa, World War II. British soldiers on the brink of collapse push beyond endurance to struggle up a brutal incline. It's not a military objective. It's The Hill, a manmade instrument of torture, a tower of sand seared by a white-hot sun. And the troops' tormentors are not the enemy, but their own comrades-at-arms.",
+            "popularity": 0.8629,
+            "poster_path": "/cmBpImAjHJnuHXMVByzqnxtDcae.jpg",
+            "release_date": "1965-06-17",
+            "title": "The Hill",
+            "video": false,
+            "vote_average": 7.504,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rVL6ZMDOOajNxElpRw4qF40jvUq.jpg",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "id": 37921,
+            "original_language": "en",
+            "original_title": "In Harm's Way",
+            "overview": "A Naval officer, reprimanded after Pearl Harbor, is later promoted to Rear Admiral and gets a second chance to prove himself against the Japanese.",
+            "popularity": 1.091,
+            "poster_path": "/4NrxQVGjIfGdPJdG4RJggAgs4vW.jpg",
+            "release_date": "1965-04-06",
+            "title": "In Harm's Way",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 145
+        }
+    ]
+}
