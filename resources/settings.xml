@@ -3,7 +3,12 @@
 	<section id="plugin.video.jlom">
 		<category id="general" label="30000" help="">
 			<group id="lists" label="30001">
-				<setting id="general_url" type="string" label="30002" help="">
+				<setting id="lists_source" type="boolean" label="30050" help="">
+					<level>0</level>
+					<default>false</default>
+					<control type="toggle"/>
+				</setting>
+				<setting id="lists_url" type="string" label="30002" help="">
 					<level>0</level>
 					<default>https://raw.githubusercontent.com/lbnt/jlom_lists/main/</default>
 					<constraints>
@@ -12,6 +17,9 @@
 					<control type="edit" format="string">
 							<heading>30002</heading>
 					</control>
+					<dependencies>
+						<dependency type="enable" setting="lists_source">false</dependency>
+					</dependencies>
 				</setting>
 			</group>
 		</category>

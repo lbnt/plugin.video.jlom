@@ -42,6 +42,28 @@ FANART_DIR = os.path.join(ADDON_PATH, 'resources', 'images', 'fanart')
 #TMDB url for poster and fanart
 TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
+GENRES = {
+    28: "Action",
+    12: "Adventure",
+    16: "Animation",
+    35: "Comedy",
+    80: "Crime",
+    99: "Documentary",
+    18: "Drama",
+    10751: "Family",
+    14: "Fantasy",
+    36: "History",
+    27: "Horror",
+    10402: "Music",
+    9648: "Mystery",
+    10749: "Romance",
+    878: "Science Fiction",
+    10770: "TV Movie",
+    53: "Thriller",
+    10752: "War",
+    37: "Western"
+}
+
 #global tmdb to local dbid index
 tmdb_index = {}
 
@@ -273,7 +295,10 @@ def list_movies(movie_list):
         info_tag.setTitle(movie['title'])
         info_tag.setOriginalTitle(movie['original_title'])
         info_tag.setYear(int(movie['release_date'][0:4]) if movie['release_date'] != "" else None)
-        #info_tag.setGenres([genre_info['genre']])
+        genres = []
+        for genre_id in movie.get("genre_ids", []):
+            genres.append(GENRES.get(genre_id, "Unknown"))
+        info_tag.setGenres(genres)
         info_tag.setPlot(movie['overview'])
 
         #try to find the movie in the local database using the tmdb index
@@ -358,21 +383,36 @@ def list_movies(movie_list):
     # Finish creating a virtual folder.
     xbmcplugin.endOfDirectory(HANDLE)
 
-def get_list(list_type, list_id):
+def get_local_list(list_type, list_id):
+    """
+    Get a list from the local filesystem
+    """
+
+    list_path = os.path.join(ADDON_PATH, 'resources', 'lists', list_type, f"{list_id}.json")
+    xbmc.log(f'list path: {list_path}',level=xbmc.LOGDEBUG)
+
+    try:
+        with open(list_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        xbmc.log("Error reading local list file", level=xbmc.LOGERROR)
+        raise
+
+
+def get_distant_list(list_type, list_id):
     """
     Get a list from the configured URL
     """
 
-    list_url = Addon().getSettingString('general_url')
+    list_url = Addon().getSettingString('lists_url')
     list_url = list_url if list_url.endswith('/') else list_url + '/'
-    #list_url += list_type + "?id=" + list_id
     list_url += f"{list_type}/{list_id}.json"
+    xbmc.log(f'list url: {list_url}',level=xbmc.LOGDEBUG)
 
     try:
         response = requests.get(list_url, timeout=5)
         #log if response was from cache
         from_cache = getattr(response, 'from_cache', False)
-        xbmc.log(f'Url: {list_url}',level=xbmc.LOGDEBUG)
         xbmc.log(f'GitHub requests cached: {from_cache}',level=xbmc.LOGDEBUG)
     except requests.exceptions.RequestException as e:
         xbmc.log("Error requesting list url",level=xbmc.LOGERROR)
@@ -382,6 +422,17 @@ def get_list(list_type, list_id):
             return json.loads(response.text)
         else:
             return None
+
+def get_list(list_type, list_id):
+    """
+    Get a list, either from the local filesystem or from the configured URL depending on the settings.
+    """
+
+    if Addon().getSettingBool('lists_source') == True:
+        return get_local_list(list_type, list_id)
+    else:
+        return get_distant_list(list_type, list_id)
+
 
 def radarr_add_movie(movie_data):
     """
@@ -407,6 +458,7 @@ def radarr_add_movie(movie_data):
     except requests.exceptions.RequestException as e:
         # Log error if request fails
         xbmc.log("Error adding movie to Radarr : exception", level=xbmc.LOGERROR)
+        xbmc.log(f"{e}", level=xbmc.LOGERROR)
         return False
     else:
         # Success: movie added (HTTP 200 or 201)
@@ -449,7 +501,7 @@ def radarr_add_movie_dialogs(id):
         return
     
     # Ask user to select a quality profile for the movie
-    quality_profile_id = radar_quality_profiles_dialog()
+    quality_profile_id = radarr_quality_profiles_dialog()
     if quality_profile_id is None:
         xbmcgui.Dialog().notification('Radarr', 'No quality profile selected', xbmcgui.NOTIFICATION_ERROR)
         return
@@ -587,7 +639,7 @@ def radarr_get_quality_profiles():
         else:
             return None
 
-def radar_quality_profiles_dialog():
+def radarr_quality_profiles_dialog():
     """
     Show a dialog to select a Radarr quality profile.
     Returns the selected profile ID or None if cancelled or error.
