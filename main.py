@@ -256,6 +256,9 @@ def list_movies(movie_list):
     movies = movie_list["movies"]
     ordered_by = movie_list["ordered_by"]
 
+    # Read the "hide not in library" setting once for the whole list
+    hide_not_in_library = Addon().getSettingBool('hide_not_in_library')
+
     # Set subtitle
     xbmcplugin.setPluginCategory(HANDLE, movie_list['title'])
     # Set plugin content
@@ -275,6 +278,14 @@ def list_movies(movie_list):
 
     # Iterate through movies.
     for index, movie in enumerate(movies):
+
+        #try to find the movie in the local database using the tmdb index
+        local_id = tmdb_index.get(str(movie['id']))
+
+        # Skip movies not in the local library if the setting is enabled
+        if local_id is None and hide_not_in_library:
+            continue
+
         # Create a list item with a text label
         if ordered_by == "rank":
             movie_label = str(index+1) + " - " + movie['title']
@@ -300,9 +311,6 @@ def list_movies(movie_list):
             genres.append(GENRES.get(genre_id, "Unknown"))
         info_tag.setGenres(genres)
         info_tag.setPlot(movie['overview'])
-
-        #try to find the movie in the local database using the tmdb index
-        local_id = tmdb_index.get(str(movie['id']))
         
         #if found, make it playable
         if local_id != None :
