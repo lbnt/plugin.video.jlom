@@ -3,8 +3,8 @@
     "title": "Rotten Tomatoes - 150 Best Sci-Fi Movies Of All Time",
     "source": "https://editorial.rottentomatoes.com/guide/essential-sci-fi-movies-of-all-time/",
     "created_by": "lbnt",
-    "added": "10/10/24",
-    "modified": "10/10/24",
+    "added": "02/19/26",
+    "modified": "02/19/26",
     "ordered_by": "rank",
     "movies": [
         {
@@ -19,17 +19,17 @@
             "original_language": "en",
             "original_title": "2001: A Space Odyssey",
             "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-            "popularity": 47.78,
+            "popularity": 12.407,
             "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
             "release_date": "1968-04-02",
             "title": "2001: A Space Odyssey",
             "video": false,
-            "vote_average": 8.072,
-            "vote_count": 11392
+            "vote_average": 8.057,
+            "vote_count": 12345
         },
         {
             "adult": false,
-            "backdrop_path": "/hxSB02ksqnkXY4hPGAXqgO2fL01.jpg",
+            "backdrop_path": "/qskzmLTbarKnXDbo2HRj4NJ3vcW.jpg",
             "genre_ids": [
                 12,
                 35,
@@ -39,17 +39,17 @@
             "original_language": "en",
             "original_title": "Back to the Future",
             "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
-            "popularity": 66.852,
-            "poster_path": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+            "popularity": 17.6143,
+            "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
             "release_date": "1985-07-03",
             "title": "Back to the Future",
             "video": false,
-            "vote_average": 8.318,
-            "vote_count": 19751
+            "vote_average": 8.324,
+            "vote_count": 21399
         },
         {
             "adult": false,
-            "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+            "backdrop_path": "/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
             "genre_ids": [
                 878,
                 18,
@@ -59,13 +59,13 @@
             "original_language": "en",
             "original_title": "Blade Runner",
             "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-            "popularity": 37.138,
+            "popularity": 14.9627,
             "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
             "release_date": "1982-06-25",
             "title": "Blade Runner",
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 13655
+            "vote_average": 7.94,
+            "vote_count": 14701
         },
         {
             "adult": false,
@@ -78,17 +78,17 @@
             "original_language": "de",
             "original_title": "Metropolis",
             "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
-            "popularity": 33.736,
-            "poster_path": "/vZIJxGnjcswPCAa52jhbl01FQkV.jpg",
-            "release_date": "1927-02-06",
+            "popularity": 4.2281,
+            "poster_path": "/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+            "release_date": "1927-01-10",
             "title": "Metropolis",
             "video": false,
-            "vote_average": 8.119,
-            "vote_count": 2721
+            "vote_average": 8.1,
+            "vote_count": 3036
         },
         {
             "adult": false,
-            "backdrop_path": "/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+            "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
             "genre_ids": [
                 12,
                 28,
@@ -98,17 +98,17 @@
             "original_language": "en",
             "original_title": "Star Wars",
             "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-            "popularity": 81.543,
+            "popularity": 22.3582,
             "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
             "release_date": "1977-05-25",
             "title": "Star Wars",
             "video": false,
             "vote_average": 8.2,
-            "vote_count": 20457
+            "vote_count": 21946
         },
         {
             "adult": false,
-            "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+            "backdrop_path": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
             "genre_ids": [
                 28,
                 878
@@ -117,13 +117,13 @@
             "original_language": "en",
             "original_title": "The Matrix",
             "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
-            "popularity": 77.957,
-            "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+            "popularity": 28.1525,
+            "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
             "release_date": "1999-03-31",
             "title": "The Matrix",
             "video": false,
-            "vote_average": 8.218,
-            "vote_count": 25477
+            "vote_average": 8.238,
+            "vote_count": 27392
         },
         {
             "adult": false,
@@ -137,17 +137,17 @@
             "original_language": "en",
             "original_title": "Inception",
             "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
-            "popularity": 84.767,
-            "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+            "popularity": 30.3895,
+            "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
             "release_date": "2010-07-15",
             "title": "Inception",
             "video": false,
-            "vote_average": 8.4,
-            "vote_count": 36363
+            "vote_average": 8.37,
+            "vote_count": 38699
         },
         {
             "adult": false,
-            "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+            "backdrop_path": "/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
             "genre_ids": [
                 28,
                 53,
@@ -156,18 +156,18 @@
             "id": 280,
             "original_language": "en",
             "original_title": "Terminator 2: Judgment Day",
-            "overview": "Set ten years after the events of the original, James Cameron\u2019s classic sci-fi action flick tells the story of a second attempt to get the rid of rebellion leader John Connor, this time targeting the boy himself. However, the rebellion has sent a reprogrammed terminator to protect Connor.",
-            "popularity": 58.262,
-            "poster_path": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+            "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+            "popularity": 15.4173,
+            "poster_path": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
             "release_date": "1991-07-03",
             "title": "Terminator 2: Judgment Day",
             "video": false,
-            "vote_average": 8.1,
-            "vote_count": 12748
+            "vote_average": 8.139,
+            "vote_count": 13958
         },
         {
             "adult": false,
-            "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+            "backdrop_path": "/cEobq5QrnOJjO6giDs8q4RxmMKh.jpg",
             "genre_ids": [
                 27,
                 878
@@ -176,17 +176,17 @@
             "original_language": "en",
             "original_title": "Alien",
             "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
-            "popularity": 128.349,
+            "popularity": 16.6375,
             "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
             "release_date": "1979-05-25",
             "title": "Alien",
             "video": false,
-            "vote_average": 8.157,
-            "vote_count": 14579
+            "vote_average": 8.2,
+            "vote_count": 16022
         },
         {
             "adult": false,
-            "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+            "backdrop_path": "/l0eIS009XtEO80aC6zjM3o3AkEl.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -196,13 +196,13 @@
             "original_language": "en",
             "original_title": "Mad Max: Fury Road",
             "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
-            "popularity": 104.114,
+            "popularity": 18.487,
             "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
             "release_date": "2015-05-13",
             "title": "Mad Max: Fury Road",
             "video": false,
-            "vote_average": 7.614,
-            "vote_count": 22443
+            "vote_average": 7.629,
+            "vote_count": 23765
         },
         {
             "adult": false,
@@ -215,14 +215,14 @@
             "id": 1091,
             "original_language": "en",
             "original_title": "The Thing",
-            "overview": "In the winter of 1982, a twelve-man research team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror... and becomes one of them.",
-            "popularity": 56.77,
+            "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+            "popularity": 11.9805,
             "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
             "release_date": "1982-06-25",
             "title": "The Thing",
             "video": false,
-            "vote_average": 8.1,
-            "vote_count": 6876
+            "vote_average": 8.067,
+            "vote_count": 7714
         },
         {
             "adult": false,
@@ -236,17 +236,17 @@
             "original_language": "en",
             "original_title": "The Empire Strikes Back",
             "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
-            "popularity": 49.078,
+            "popularity": 9.425,
             "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
             "release_date": "1980-05-20",
             "title": "The Empire Strikes Back",
             "video": false,
             "vote_average": 8.392,
-            "vote_count": 16819
+            "vote_count": 18081
         },
         {
             "adult": false,
-            "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+            "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
             "genre_ids": [
                 28,
                 53,
@@ -256,13 +256,13 @@
             "original_language": "en",
             "original_title": "Aliens",
             "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
-            "popularity": 75.603,
+            "popularity": 14.2325,
             "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
             "release_date": "1986-07-18",
             "title": "Aliens",
             "video": false,
-            "vote_average": 7.946,
-            "vote_count": 9616
+            "vote_average": 7.956,
+            "vote_count": 10607
         },
         {
             "adult": false,
@@ -275,13 +275,13 @@
             "original_language": "en",
             "original_title": "Edge of Tomorrow",
             "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
-            "popularity": 47.536,
-            "poster_path": "/xjw5trHV7Mwo61P0kCTy8paEkgO.jpg",
+            "popularity": 10.9288,
+            "poster_path": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
             "release_date": "2014-05-27",
             "title": "Edge of Tomorrow",
             "video": false,
-            "vote_average": 7.623,
-            "vote_count": 13692
+            "vote_average": 7.634,
+            "vote_count": 14788
         },
         {
             "adult": false,
@@ -295,17 +295,17 @@
             "original_language": "en",
             "original_title": "The Terminator",
             "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
-            "popularity": 182.406,
+            "popularity": 24.7792,
             "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
             "release_date": "1984-10-26",
             "title": "The Terminator",
             "video": false,
-            "vote_average": 7.659,
-            "vote_count": 13006
+            "vote_average": 7.675,
+            "vote_count": 14296
         },
         {
             "adult": false,
-            "backdrop_path": "/z8FzomPxfCb2nv827VWLSI6oYiB.jpg",
+            "backdrop_path": "/gFGLwUBhVrq0bq4j9DU08xQDRU2.jpg",
             "genre_ids": [
                 18,
                 28,
@@ -316,17 +316,17 @@
             "original_language": "en",
             "original_title": "Children of Men",
             "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
-            "popularity": 23.462,
-            "poster_path": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+            "popularity": 7.7615,
+            "poster_path": "/lQcXgb0fFzffnLV5WY0Q0X2WW7E.jpg",
             "release_date": "2006-09-22",
             "title": "Children of Men",
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 7004
+            "vote_average": 7.611,
+            "vote_count": 7674
         },
         {
             "adult": false,
-            "backdrop_path": "/pHtVkUvKiG7CEemZkUiqPzjpMri.jpg",
+            "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
             "genre_ids": [
                 16,
                 878,
@@ -336,37 +336,37 @@
             "original_language": "ja",
             "original_title": "AKIRA",
             "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-            "popularity": 32.775,
+            "popularity": 7.1867,
             "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
             "release_date": "1988-06-10",
             "title": "Akira",
             "video": false,
-            "vote_average": 7.945,
-            "vote_count": 4164
+            "vote_average": 7.9,
+            "vote_count": 4637
         },
         {
             "adult": false,
-            "backdrop_path": "/9UUikoZdhXglbIIbUifXFsAbPUE.jpg",
+            "backdrop_path": "/qwZRvb0DJ5IwDoRuKDRCBuHWzkw.jpg",
             "genre_ids": [
-                18,
                 878,
-                53
+                53,
+                18
             ],
-            "id": 10200,
+            "id": 828,
             "original_language": "en",
             "original_title": "The Day the Earth Stood Still",
-            "overview": "A representative of an alien race that went through drastic evolution to survive its own climate change, Klaatu comes to Earth to assess whether humanity can prevent the environmental damage they have inflicted on their own planet. When barred from speaking to the United Nations, he decides humankind shall be exterminated so the planet can survive.",
-            "popularity": 35.35,
-            "poster_path": "/3744nDNrKIFcgXEDL2WDkqYc7vF.jpg",
-            "release_date": "2008-12-10",
+            "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+            "popularity": 2.6288,
+            "poster_path": "/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg",
+            "release_date": "1951-09-18",
             "title": "The Day the Earth Stood Still",
             "video": false,
-            "vote_average": 5.622,
-            "vote_count": 3352
+            "vote_average": 7.5,
+            "vote_count": 1205
         },
         {
             "adult": false,
-            "backdrop_path": "/7WUS3j7UmYEulWkFSouRl5VxYis.jpg",
+            "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
             "genre_ids": [
                 28,
                 53,
@@ -376,17 +376,17 @@
             "original_language": "en",
             "original_title": "RoboCop",
             "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
-            "popularity": 65.634,
-            "poster_path": "/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+            "popularity": 10.2246,
+            "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
             "release_date": "1987-07-17",
             "title": "RoboCop",
             "video": false,
-            "vote_average": 7.327,
-            "vote_count": 5046
+            "vote_average": 7.352,
+            "vote_count": 5587
         },
         {
             "adult": false,
-            "backdrop_path": "/ysnVjBz5iRSRSl3xrNcQTUfa4L3.jpg",
+            "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
             "genre_ids": [
                 878,
                 80
@@ -395,13 +395,13 @@
             "original_language": "en",
             "original_title": "A Clockwork Orange",
             "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
-            "popularity": 42.134,
+            "popularity": 8.7761,
             "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
-            "release_date": "1971-12-19",
+            "release_date": "1971-10-28",
             "title": "A Clockwork Orange",
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 12738
+            "vote_average": 8.18,
+            "vote_count": 13607
         },
         {
             "adult": false,
@@ -413,17 +413,17 @@
             "original_language": "en",
             "original_title": "District 9",
             "overview": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
-            "popularity": 35.407,
+            "popularity": 7.1405,
             "poster_path": "/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
             "release_date": "2009-08-05",
             "title": "District 9",
             "video": false,
-            "vote_average": 7.447,
-            "vote_count": 9354
+            "vote_average": 7.461,
+            "vote_count": 10140
         },
         {
             "adult": false,
-            "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+            "backdrop_path": "/meqmvZjKpQ7WRhpZvIoKIAvioSD.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -434,13 +434,13 @@
             "original_language": "en",
             "original_title": "Star Trek II: The Wrath of Khan",
             "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
-            "popularity": 21.873,
+            "popularity": 4.3786,
             "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
             "release_date": "1982-06-04",
             "title": "Star Trek II: The Wrath of Khan",
             "video": false,
-            "vote_average": 7.444,
-            "vote_count": 1890
+            "vote_average": 7.446,
+            "vote_count": 2076
         },
         {
             "adult": false,
@@ -453,17 +453,17 @@
             "original_language": "en",
             "original_title": "Brazil",
             "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
-            "popularity": 15.925,
-            "poster_path": "/li6ABwitsBHg0Ah88HbFfPq1hxM.jpg",
+            "popularity": 4.6972,
+            "poster_path": "/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
             "release_date": "1985-02-20",
             "title": "Brazil",
             "video": false,
-            "vote_average": 7.673,
-            "vote_count": 3249
+            "vote_average": 7.666,
+            "vote_count": 3607
         },
         {
             "adult": false,
-            "backdrop_path": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+            "backdrop_path": "/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
             "genre_ids": [
                 28,
                 16,
@@ -473,13 +473,13 @@
             "original_language": "ja",
             "original_title": "GHOST IN THE SHELL",
             "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
-            "popularity": 37.632,
+            "popularity": 8.501,
             "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
             "release_date": "1995-11-18",
             "title": "Ghost in the Shell",
             "video": false,
-            "vote_average": 7.924,
-            "vote_count": 3342
+            "vote_average": 7.922,
+            "vote_count": 3759
         },
         {
             "adult": false,
@@ -493,33 +493,33 @@
             "id": 782,
             "original_language": "en",
             "original_title": "Gattaca",
-            "overview": "In a future society in the era of indefinite eugenics, humans are set on a life course depending on their DNA. Young Vincent Freeman is born with a condition that would prevent him from space travel, yet is determined to infiltrate the GATTACA space program.",
-            "popularity": 19.006,
-            "poster_path": "/mi8ow4MIoPvgBnWB1OKe0ph0woa.jpg",
-            "release_date": "1997-09-07",
+            "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+            "popularity": 7.2596,
+            "poster_path": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+            "release_date": "1997-07-09",
             "title": "Gattaca",
             "video": false,
-            "vote_average": 7.56,
-            "vote_count": 6240
+            "vote_average": 7.565,
+            "vote_count": 6783
         },
         {
             "adult": false,
-            "backdrop_path": "/uJN9BXZuFOqKGcuBsyUBDNUXRgJ.jpg",
+            "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
             "genre_ids": [
-                53,
-                27
+                878,
+                18
             ],
-            "id": 724901,
-            "original_language": "en",
-            "original_title": "Stalker",
-            "overview": "A young man\u2019s budding romance is threatened when he befriends a strange ride share driver.",
-            "popularity": 7.988,
-            "poster_path": "/r0DxpP5gdTPQKxZrBV4FWQdBfLB.jpg",
-            "release_date": "2020-08-31",
+            "id": 1398,
+            "original_language": "ru",
+            "original_title": "\u0421\u0442\u0430\u043b\u043a\u0435\u0440",
+            "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+            "popularity": 3.9978,
+            "poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+            "release_date": "1979-05-25",
             "title": "Stalker",
             "video": false,
-            "vote_average": 5.0,
-            "vote_count": 16
+            "vote_average": 8.1,
+            "vote_count": 2434
         },
         {
             "adult": false,
@@ -532,18 +532,18 @@
             "id": 14337,
             "original_language": "en",
             "original_title": "Primer",
-            "overview": "Two fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
-            "popularity": 12.801,
+            "overview": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+            "popularity": 3.6353,
             "poster_path": "/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
             "release_date": "2004-10-08",
             "title": "Primer",
             "video": false,
-            "vote_average": 6.768,
-            "vote_count": 2119
+            "vote_average": 6.761,
+            "vote_count": 2350
         },
         {
             "adult": false,
-            "backdrop_path": "/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+            "backdrop_path": "/alqZDg4DXBpNCVTzRPXe5zkkAXX.jpg",
             "genre_ids": [
                 12,
                 878
@@ -552,17 +552,17 @@
             "original_language": "en",
             "original_title": "Jurassic Park",
             "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-            "popularity": 25.736,
-            "poster_path": "/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+            "popularity": 8.1286,
+            "poster_path": "/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
             "release_date": "1993-06-11",
             "title": "Jurassic Park",
             "video": false,
-            "vote_average": 7.951,
-            "vote_count": 16160
+            "vote_average": 7.965,
+            "vote_count": 17532
         },
         {
             "adult": false,
-            "backdrop_path": "/1IWaKG7AWiYMhADxhGtnElDJAGI.jpg",
+            "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
             "genre_ids": [
                 878,
                 53,
@@ -571,14 +571,14 @@
             "id": 63,
             "original_language": "en",
             "original_title": "Twelve Monkeys",
-            "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly, and patient Jeffrey Goines, the son of a famous virus expert, who may hold the key to the mysterious rogue group, the Army of the 12 Monkeys, thought to be responsible for unleashing the killer disease.",
-            "popularity": 36.649,
+            "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+            "popularity": 10.0801,
             "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
             "release_date": "1995-12-29",
             "title": "Twelve Monkeys",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 8250
+            "vote_count": 8930
         },
         {
             "adult": false,
@@ -590,38 +590,38 @@
             "id": 830,
             "original_language": "en",
             "original_title": "Forbidden Planet",
-            "overview": "Starship C57D travels to planet Altair 4 in search of the crew of spaceship \"Bellerophon,\" a scientific expedition that has been missing for 20 years, only to find themselves unwelcome by the expedition's lone survivor and warned of destruction by an invisible force if they don't turn back immediately.",
-            "popularity": 25.537,
+            "overview": "Starship C57D travels to planet Altair 4 in search of the crew of spaceship \"Bellerophon,\" a scientific expedition that has been missing for twenty years. They find themselves unwelcome by the expedition's lone survivor and warned of destruction by an invisible force if they don't turn back immediately.",
+            "popularity": 2.81,
             "poster_path": "/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg",
-            "release_date": "1956-03-23",
+            "release_date": "1956-03-02",
             "title": "Forbidden Planet",
             "video": false,
-            "vote_average": 7.26,
-            "vote_count": 920
+            "vote_average": 7.2,
+            "vote_count": 1028
         },
         {
             "adult": false,
-            "backdrop_path": "/zCjZfevPFBbOh2SAx2syIBHSqEI.jpg",
+            "backdrop_path": "/UD0PBqGgXJOOqsNMOHeZ9Apjde.jpg",
             "genre_ids": [
-                28,
-                18,
+                53,
+                27,
                 878
             ],
-            "id": 124905,
-            "original_language": "en",
-            "original_title": "Godzilla",
-            "overview": "Ford Brody, a Navy bomb expert, has just reunited with his family in San Francisco when he is forced to go to Japan to help his estranged father, Joe. Soon, both men are swept up in an escalating crisis when an ancient alpha predator arises from the sea to combat malevolent adversaries that threaten the survival of humanity. The creatures leave colossal destruction in their wake, as they make their way toward their final battleground: San Francisco.",
-            "popularity": 71.058,
-            "poster_path": "/zokD6uxR2iWfYM3Y84yGJvnNTK7.jpg",
-            "release_date": "2014-05-14",
+            "id": 1678,
+            "original_language": "ja",
+            "original_title": "\u30b4\u30b8\u30e9",
+            "overview": "Japan is thrown into a panic after several ships are sunk near Odo Island. An expedition to the island led by Dr. Kyohei Yamane soon discover something far more devastating than imagined in the form of a 50 meter tall monster whom the natives call Gojira. Now the monster begins a rampage that threatens to destroy not only Japan, but the rest of the world as well.",
+            "popularity": 3.1449,
+            "poster_path": "/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
+            "release_date": "1954-11-03",
             "title": "Godzilla",
             "video": false,
-            "vote_average": 6.339,
-            "vote_count": 9034
+            "vote_average": 7.635,
+            "vote_count": 1077
         },
         {
             "adult": false,
-            "backdrop_path": "/1jVEONg10d7lJunwl9GAS6tUGkB.jpg",
+            "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
             "genre_ids": [
                 878,
                 12,
@@ -631,37 +631,38 @@
             "id": 601,
             "original_language": "en",
             "original_title": "E.T. the Extra-Terrestrial",
-            "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliot who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliot, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
-            "popularity": 41.61,
+            "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+            "popularity": 11.3616,
             "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
             "release_date": "1982-06-11",
             "title": "E.T. the Extra-Terrestrial",
             "video": false,
-            "vote_average": 7.518,
-            "vote_count": 11085
+            "vote_average": 7.512,
+            "vote_count": 11809
         },
         {
             "adult": false,
-            "backdrop_path": "/fF7jnygQZEUIP4Q1VoEAlAIaw47.jpg",
+            "backdrop_path": "/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
             "genre_ids": [
-                18,
-                10749
+                16,
+                10751,
+                878
             ],
-            "id": 298621,
-            "original_language": "fr",
-            "original_title": "Au pan coup\u00e9",
-            "overview": "Jeanne looks back on her love for Jean. The melancholic young man wouldn't accept the world as it was, always wishing to depart. She doesn't know that he's dead.",
-            "popularity": 2.318,
-            "poster_path": "/fl5DmLQOan2t5PSuaKZ9ypz5tXd.jpg",
-            "release_date": "1968-02-07",
-            "title": "Wall Engravings",
+            "id": 10681,
+            "original_language": "en",
+            "original_title": "WALL\u00b7E",
+            "overview": "After hundreds of years doing what he was built for, WALL\u2022E\u2014 a robot designed to clean up the earth\u2014discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL\u2022E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL\u2022E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+            "popularity": 13.1233,
+            "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+            "release_date": "2008-06-22",
+            "title": "WALL\u00b7E",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 31
+            "vote_average": 8.107,
+            "vote_count": 19928
         },
         {
             "adult": false,
-            "backdrop_path": "/jFxxqdEQ9TkXQSytO7qM8wlwXL1.jpg",
+            "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
             "genre_ids": [
                 18,
                 878
@@ -670,13 +671,13 @@
             "original_language": "en",
             "original_title": "Ex Machina",
             "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
-            "popularity": 23.476,
-            "poster_path": "/9goPE2IoMIXxTLWzl7aizwuIiLh.jpg",
+            "popularity": 8.7067,
+            "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
             "release_date": "2015-01-21",
             "title": "Ex Machina",
             "video": false,
-            "vote_average": 7.572,
-            "vote_count": 13149
+            "vote_average": 7.574,
+            "vote_count": 14025
         },
         {
             "adult": false,
@@ -690,13 +691,13 @@
             "original_language": "en",
             "original_title": "Arrival",
             "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
-            "popularity": 44.499,
-            "poster_path": "/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+            "popularity": 15.2786,
+            "poster_path": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
             "release_date": "2016-11-10",
             "title": "Arrival",
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 17600
+            "vote_average": 7.624,
+            "vote_count": 18987
         },
         {
             "adult": false,
@@ -709,17 +710,17 @@
             "original_language": "en",
             "original_title": "Close Encounters of the Third Kind",
             "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
-            "popularity": 21.974,
-            "poster_path": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+            "popularity": 5.0897,
+            "poster_path": "/gCWPB8cF82tqzrS9tvzcO6q6nyz.jpg",
             "release_date": "1977-12-14",
             "title": "Close Encounters of the Third Kind",
             "video": false,
-            "vote_average": 7.355,
-            "vote_count": 4154
+            "vote_average": 7.352,
+            "vote_count": 4538
         },
         {
             "adult": false,
-            "backdrop_path": "/8UiZP1dTIPRYkIcwR84zZTwgKpZ.jpg",
+            "backdrop_path": "/4GPCnwvTbsDleH5QIOyDLMsK8a2.jpg",
             "genre_ids": [
                 28,
                 53,
@@ -729,17 +730,17 @@
             "original_language": "en",
             "original_title": "Looper",
             "overview": "In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.",
-            "popularity": 24.453,
+            "popularity": 8.0142,
             "poster_path": "/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
             "release_date": "2012-09-26",
             "title": "Looper",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 10065
+            "vote_average": 6.901,
+            "vote_count": 10693
         },
         {
             "adult": false,
-            "backdrop_path": "/12imOn96zRI2EMHOjOxm2qNY2BA.jpg",
+            "backdrop_path": "/jzZcW65MZQfAgvbEoX8EWCvlxpk.jpg",
             "genre_ids": [
                 878,
                 18,
@@ -749,17 +750,17 @@
             "original_language": "en",
             "original_title": "Eternal Sunshine of the Spotless Mind",
             "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
-            "popularity": 95.579,
+            "popularity": 12.3451,
             "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
             "release_date": "2004-03-19",
             "title": "Eternal Sunshine of the Spotless Mind",
             "video": false,
-            "vote_average": 8.102,
-            "vote_count": 14768
+            "vote_average": 8.092,
+            "vote_count": 16034
         },
         {
             "adult": false,
-            "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+            "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
             "genre_ids": [
                 12,
                 18,
@@ -769,13 +770,13 @@
             "original_language": "en",
             "original_title": "Interstellar",
             "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-            "popularity": 165.09,
+            "popularity": 48.429,
             "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
             "release_date": "2014-11-05",
             "title": "Interstellar",
             "video": false,
-            "vote_average": 8.44,
-            "vote_count": 35324
+            "vote_average": 8.467,
+            "vote_count": 38897
         },
         {
             "adult": false,
@@ -788,18 +789,18 @@
             "id": 49047,
             "original_language": "en",
             "original_title": "Gravity",
-            "overview": "Dr. Ryan Stone, a brilliant medical engineer on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.",
-            "popularity": 24.89,
+            "overview": "Dr. Ryan Stone, a brilliant medical engineer, is on her first Shuttle mission, with veteran astronaut Matt Kowalski in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalski completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.",
+            "popularity": 6.8764,
             "poster_path": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
             "release_date": "2013-10-03",
             "title": "Gravity",
             "video": false,
             "vote_average": 7.166,
-            "vote_count": 15184
+            "vote_count": 16096
         },
         {
             "adult": false,
-            "backdrop_path": "/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+            "backdrop_path": "/sq8oUjbBvKkqv9h0Ns5rQbbquhZ.jpg",
             "genre_ids": [
                 18,
                 12,
@@ -809,17 +810,17 @@
             "original_language": "en",
             "original_title": "The Martian",
             "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
-            "popularity": 49.458,
-            "poster_path": "/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+            "popularity": 14.0191,
+            "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
             "release_date": "2015-09-30",
             "title": "The Martian",
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 19566
+            "vote_average": 7.692,
+            "vote_count": 20840
         },
         {
             "adult": false,
-            "backdrop_path": "/7by1GIdmBJFHKDz1XJWXCmOztmK.jpg",
+            "backdrop_path": "/xvNNdKrQo57gEEndrqoqZSzEjNj.jpg",
             "genre_ids": [
                 878,
                 18
@@ -827,38 +828,38 @@
             "id": 17431,
             "original_language": "en",
             "original_title": "Moon",
-            "overview": "With only three weeks left in his three year contract, Sam Bell is getting anxious to finally return to Earth. He is the only occupant of a Moon-based manufacturing facility along with his computer and assistant, GERTY. When he has an accident however, he wakens to find that he is not alone.",
-            "popularity": 20.938,
-            "poster_path": "/cJ6JnuLwCNbiAAOBuHDjRTP7bQJ.jpg",
+            "overview": "With only three weeks left in his three-year contract, Sam Bell is eager to return to Earth. Stationed alone at a Moon-based facility with his computer assistant GERTY, an unexpected accident sets off a series of unsettling events that shake his isolation.",
+            "popularity": 5.881,
+            "poster_path": "/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg",
             "release_date": "2009-06-12",
             "title": "Moon",
             "video": false,
-            "vote_average": 7.568,
-            "vote_count": 5602
+            "vote_average": 7.567,
+            "vote_count": 6122
         },
         {
             "adult": false,
-            "backdrop_path": "/uBHeAB2Ug9ELBzkMyls8CUjzn4i.jpg",
+            "backdrop_path": "/x2wOlXuK4NzPDQ0OBZiJjNNOp6Y.jpg",
             "genre_ids": [
                 28,
-                878,
-                53
+                12,
+                878
             ],
-            "id": 64635,
+            "id": 861,
             "original_language": "en",
             "original_title": "Total Recall",
-            "overview": "Factory worker Doug Quaid takes a virtual mind-trip vacation with the Rekall company, opting for implanted memories of being a spy. When the procedure goes wrong, Quaid becomes a wanted man by the police and joins forces with a rebel fighter to stop the evil Chancellor Cohaagen.",
-            "popularity": 46.33,
-            "poster_path": "/fucmGeZYM4yzqJUnDTc4pKQNCej.jpg",
-            "release_date": "2012-08-02",
+            "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+            "popularity": 9.2474,
+            "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+            "release_date": "1990-06-01",
             "title": "Total Recall",
             "video": false,
-            "vote_average": 6.015,
-            "vote_count": 5397
+            "vote_average": 7.313,
+            "vote_count": 6296
         },
         {
             "adult": false,
-            "backdrop_path": "/c535NH6JGgeJtJu8CvUFYnwltf6.jpg",
+            "backdrop_path": "/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
             "genre_ids": [
                 16,
                 878
@@ -867,38 +868,38 @@
             "original_language": "fr",
             "original_title": "La Plan\u00e8te sauvage",
             "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
-            "popularity": 12.937,
+            "popularity": 1.6654,
             "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
             "release_date": "1973-12-01",
             "title": "Fantastic Planet",
             "video": false,
-            "vote_average": 7.649,
-            "vote_count": 947
+            "vote_average": 7.6,
+            "vote_count": 1073
         },
         {
             "adult": false,
-            "backdrop_path": "/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+            "backdrop_path": "/wfClZdRb1x4LZ8B73Y9RSn8XAPa.jpg",
             "genre_ids": [
-                10751,
                 16,
                 878,
-                12
+                10751,
+                18
             ],
             "id": 10386,
             "original_language": "en",
             "original_title": "The Iron Giant",
             "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
-            "popularity": 31.272,
+            "popularity": 6.6866,
             "poster_path": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
             "release_date": "1999-08-06",
             "title": "The Iron Giant",
             "video": false,
-            "vote_average": 7.946,
-            "vote_count": 5526
+            "vote_average": 7.9,
+            "vote_count": 6035
         },
         {
             "adult": false,
-            "backdrop_path": "/nG5zmbVeYlcDhckrPAe06fArywn.jpg",
+            "backdrop_path": "/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
             "genre_ids": [
                 10749,
                 878,
@@ -908,33 +909,33 @@
             "original_language": "en",
             "original_title": "Her",
             "overview": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
-            "popularity": 41.833,
-            "poster_path": "/lEIaL12hSkqqe83kgADkbUqEnvk.jpg",
+            "popularity": 13.1849,
+            "poster_path": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
             "release_date": "2013-12-18",
             "title": "Her",
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 14141
+            "vote_average": 7.841,
+            "vote_count": 15059
         },
         {
             "adult": false,
-            "backdrop_path": "/avjG5EPgWXyLvsUId6hEn0iqT4A.jpg",
+            "backdrop_path": "/jZv1u7uzpOE5JOc2MmrvPUZWoyb.jpg",
             "genre_ids": [
                 18,
                 878,
                 9648
             ],
-            "id": 2103,
-            "original_language": "en",
-            "original_title": "Solaris",
-            "overview": "A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
-            "popularity": 48.9,
-            "poster_path": "/drdrB1hEZmzFlK1xtW5HMxK3LUJ.jpg",
-            "release_date": "2002-11-27",
+            "id": 593,
+            "original_language": "ru",
+            "original_title": "\u0421\u043e\u043b\u044f\u0440\u0438\u0441",
+            "overview": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+            "popularity": 2.7047,
+            "poster_path": "/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
+            "release_date": "1972-03-20",
             "title": "Solaris",
             "video": false,
-            "vote_average": 5.909,
-            "vote_count": 1282
+            "vote_average": 7.8,
+            "vote_count": 1780
         },
         {
             "adult": false,
@@ -947,17 +948,17 @@
             "original_language": "en",
             "original_title": "Fantastic Voyage",
             "overview": "In order to save an assassinated scientist, a submarine and its crew are shrunk to microscopic size and injected into his bloodstream.",
-            "popularity": 29.171,
-            "poster_path": "/w0RCirMhbG8ZqB9nEybuo1SBONn.jpg",
+            "popularity": 1.3568,
+            "poster_path": "/hEWWLe1Lrk58gle3IKCnjBScfzO.jpg",
             "release_date": "1966-08-24",
             "title": "Fantastic Voyage",
             "video": false,
-            "vote_average": 6.672,
-            "vote_count": 433
+            "vote_average": 6.7,
+            "vote_count": 475
         },
         {
             "adult": false,
-            "backdrop_path": "/sh77GKl39mNwsGClpLxjErJk3Hj.jpg",
+            "backdrop_path": "/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
             "genre_ids": [
                 35,
                 878,
@@ -966,14 +967,14 @@
             "id": 926,
             "original_language": "en",
             "original_title": "Galaxy Quest",
-            "overview": "For four years, the courageous crew of the NSEA protector - \"Commander Peter Quincy Taggart\", \"Lt. Tawny Madison and \"Dr.Lazarus\" - set off on a thrilling and often dangerous mission in space...and then their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director and no clue, the actors must turn in the performances of their lives.",
-            "popularity": 41.558,
+            "overview": "For four years, the courageous crew of the NSEA Protector \u2014  Commander Peter Quincy Taggart, Lieutenant Tawny Madison, and Doctor Lazarus \u2014 set off on a thrilling and often dangerous mission in space ... until their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director, and no clue, the actors must turn in the performances of their lives.",
+            "popularity": 4.0835,
             "poster_path": "/fZXSwgZknp81vmciTb86rw0MejV.jpg",
             "release_date": "1999-12-25",
             "title": "Galaxy Quest",
             "video": false,
-            "vote_average": 7.062,
-            "vote_count": 2202
+            "vote_average": 7.082,
+            "vote_count": 2455
         },
         {
             "adult": false,
@@ -986,17 +987,17 @@
             "original_language": "en",
             "original_title": "Blade Runner 2049",
             "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-            "popularity": 65.321,
+            "popularity": 24.6829,
             "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
             "release_date": "2017-10-04",
             "title": "Blade Runner 2049",
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 13498
+            "vote_average": 7.589,
+            "vote_count": 14795
         },
         {
             "adult": false,
-            "backdrop_path": "/842AcW0eLEIagMTXLdbGVSsDHLh.jpg",
+            "backdrop_path": "/74Q8M90Tg2TsV3iKjoDpJ77WPMJ.jpg",
             "genre_ids": [
                 878,
                 28
@@ -1005,17 +1006,17 @@
             "original_language": "en",
             "original_title": "The War of the Worlds",
             "overview": "The residents of a small town are excited when a flaming meteor lands in the hills, until they discover it is the first of many transport devices from Mars bringing an army of invaders invincible to any man-made weapon, even the atomic bomb.",
-            "popularity": 20.792,
+            "popularity": 3.1271,
             "poster_path": "/gzc75Za4ArqfXIIr7STNnIE5rnA.jpg",
-            "release_date": "1953-08-13",
+            "release_date": "1953-04-03",
             "title": "The War of the Worlds",
             "video": false,
-            "vote_average": 6.815,
-            "vote_count": 611
+            "vote_average": 6.803,
+            "vote_count": 680
         },
         {
             "adult": false,
-            "backdrop_path": "/aXPCXYFzFzdveVVk1HjVf9fHUcn.jpg",
+            "backdrop_path": "/aJsO6ek1ax2qDU8qJzB0HKBMHyA.jpg",
             "genre_ids": [
                 878,
                 28
@@ -1023,18 +1024,18 @@
             "id": 1103,
             "original_language": "en",
             "original_title": "Escape from New York",
-            "overview": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
-            "popularity": 22.274,
-            "poster_path": "/yreqWiQ7IOkXWVB2Tz4LJIs7xqA.jpg",
+            "overview": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam free. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
+            "popularity": 4.9561,
+            "poster_path": "/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
             "release_date": "1981-05-23",
             "title": "Escape from New York",
             "video": false,
-            "vote_average": 7.071,
-            "vote_count": 3098
+            "vote_average": 7.049,
+            "vote_count": 3435
         },
         {
             "adult": false,
-            "backdrop_path": "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+            "backdrop_path": "/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
             "genre_ids": [
                 878,
                 28,
@@ -1044,17 +1045,17 @@
             "original_language": "en",
             "original_title": "Star Trek",
             "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
-            "popularity": 37.121,
-            "poster_path": "/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+            "popularity": 8.3679,
+            "poster_path": "/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg",
             "release_date": "2009-05-06",
             "title": "Star Trek",
             "video": false,
-            "vote_average": 7.43,
-            "vote_count": 9772
+            "vote_average": 7.4,
+            "vote_count": 10327
         },
         {
             "adult": false,
-            "backdrop_path": "/jEuwsmFS8JPzkDIhRL3B2BVYbU4.jpg",
+            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
             "genre_ids": [
                 12,
                 28,
@@ -1065,37 +1066,38 @@
             "original_language": "en",
             "original_title": "Mad Max 2",
             "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
-            "popularity": 36.679,
-            "poster_path": "/dhVekfpaCW3QavAwGYbaQig87Xc.jpg",
+            "popularity": 6.9109,
+            "poster_path": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
             "release_date": "1981-12-24",
             "title": "Mad Max 2",
             "video": false,
-            "vote_average": 7.395,
-            "vote_count": 3690
+            "vote_average": 7.386,
+            "vote_count": 4074
         },
         {
             "adult": false,
-            "backdrop_path": "/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
+            "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
             "genre_ids": [
                 878,
                 12,
+                18,
                 28
             ],
-            "id": 653346,
+            "id": 871,
             "original_language": "en",
-            "original_title": "Kingdom of the Planet of the Apes",
-            "overview": "Several generations following Caesar's reign, apes \u2013 now the dominant species \u2013 live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
-            "popularity": 358.525,
-            "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
-            "release_date": "2024-05-08",
-            "title": "Kingdom of the Planet of the Apes",
+            "original_title": "Planet of the Apes",
+            "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+            "popularity": 9.8819,
+            "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+            "release_date": "1968-02-07",
+            "title": "Planet of the Apes",
             "video": false,
-            "vote_average": 7.117,
-            "vote_count": 2996
+            "vote_average": 7.645,
+            "vote_count": 3852
         },
         {
             "adult": false,
-            "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+            "backdrop_path": "/otkJlfjB7zJ5h34FEIfemenMbCy.jpg",
             "genre_ids": [
                 878,
                 28,
@@ -1106,17 +1108,17 @@
             "original_language": "en",
             "original_title": "Predator",
             "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-            "popularity": 75.181,
-            "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+            "popularity": 17.225,
+            "poster_path": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
             "release_date": "1987-06-12",
             "title": "Predator",
             "video": false,
-            "vote_average": 7.533,
-            "vote_count": 7969
+            "vote_average": 7.544,
+            "vote_count": 8858
         },
         {
             "adult": false,
-            "backdrop_path": "/iBBrxUMwfEfF10kYclWuuaAhRnq.jpg",
+            "backdrop_path": "/qcLHMO01oECjbL8MUPRXsLOMFhx.jpg",
             "genre_ids": [
                 878,
                 27,
@@ -1126,13 +1128,13 @@
             "original_language": "en",
             "original_title": "Invasion of the Body Snatchers",
             "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
-            "popularity": 13.788,
+            "popularity": 2.2289,
             "poster_path": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
             "release_date": "1956-02-05",
             "title": "Invasion of the Body Snatchers",
             "video": false,
-            "vote_average": 7.467,
-            "vote_count": 1053
+            "vote_average": 7.459,
+            "vote_count": 1164
         },
         {
             "adult": false,
@@ -1144,19 +1146,19 @@
             ],
             "id": 110415,
             "original_language": "ko",
-            "original_title": "Snowpiercer",
-            "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer, a train that travels around the globe via a perpetual-motion engine.",
-            "popularity": 41.344,
-            "poster_path": "/nzccOvhrLGI0nvAknCEAk8bchD9.jpg",
+            "original_title": "\uc124\uad6d\uc5f4\ucc28",
+            "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
+            "popularity": 12.625,
+            "poster_path": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
             "release_date": "2013-08-01",
             "title": "Snowpiercer",
             "video": false,
-            "vote_average": 6.906,
-            "vote_count": 9426
+            "vote_average": 6.909,
+            "vote_count": 10235
         },
         {
             "adult": false,
-            "backdrop_path": "/iFW5ZSIkRQLcHCCUGGUqf3FLBia.jpg",
+            "backdrop_path": "/eBS1nvaQ7BMdsSlkoLyKapf0FEY.jpg",
             "genre_ids": [
                 27,
                 878,
@@ -1166,13 +1168,13 @@
             "original_language": "en",
             "original_title": "Videodrome",
             "overview": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
-            "popularity": 15.218,
+            "popularity": 3.0328,
             "poster_path": "/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
             "release_date": "1983-02-04",
             "title": "Videodrome",
             "video": false,
-            "vote_average": 7.276,
-            "vote_count": 2164
+            "vote_average": 7.256,
+            "vote_count": 2405
         },
         {
             "adult": false,
@@ -1184,18 +1186,18 @@
             "id": 11071,
             "original_language": "en",
             "original_title": "Them!",
-            "overview": "As a result of nuclear testing, gigantic, ferocious mutant ants  appear in the American desert southwest, and a father-daughter team of entomologists join forces with the state police officer who first discovers their existence, an FBI agent and, eventually, the US Army to  eradicate the menace, before it spreads across the continent \u2014 and the world.",
-            "popularity": 22.606,
+            "overview": "As a result of nuclear testing, gigantic, ferocious mutant ants appear in the American desert southwest, and a father-daughter team of entomologists join forces with the state police officer who first discovers their existence, an FBI agent and, eventually, the US Army to  eradicate the menace, before it spreads across the continent \u2014 and the world.",
+            "popularity": 7.5451,
             "poster_path": "/tP352STF6BvSROi8K3CMM799TVo.jpg",
             "release_date": "1954-06-16",
             "title": "Them!",
             "video": false,
-            "vote_average": 6.807,
-            "vote_count": 410
+            "vote_average": 6.836,
+            "vote_count": 452
         },
         {
             "adult": false,
-            "backdrop_path": "/p4CqWlfmU5FK2oWqbHVxyb6f57u.jpg",
+            "backdrop_path": "/iOUhnp01rP9Xr5QG66LMAKSDkYv.jpg",
             "genre_ids": [
                 18,
                 878,
@@ -1205,17 +1207,17 @@
             "original_language": "fr",
             "original_title": "Alphaville, une \u00e9trange aventure de Lemmy Caution",
             "overview": "Lemmy Caution is on a mission to eliminate Professor Von Braun, the creator of a malevolent computer that rules the city of Alphaville. Befriended by the scientist\u2019s daughter Natasha, Lemmy must unravel the mysteries of the strictly logical Alpha 60 and teach Natasha the meaning of the word \u201clove.\u201d",
-            "popularity": 10.578,
+            "popularity": 1.1466,
             "poster_path": "/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg",
             "release_date": "1965-05-05",
             "title": "Alphaville",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 527
+            "vote_average": 6.922,
+            "vote_count": 597
         },
         {
             "adult": false,
-            "backdrop_path": "/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+            "backdrop_path": "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
             "genre_ids": [
                 878,
                 28,
@@ -1225,13 +1227,13 @@
             "original_language": "en",
             "original_title": "Minority Report",
             "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
-            "popularity": 37.601,
-            "poster_path": "/qtgFcnwh9dAFLocsDk2ySDVS8UF.jpg",
+            "popularity": 7.5911,
+            "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
             "release_date": "2002-06-20",
             "title": "Minority Report",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 8602
+            "vote_average": 7.349,
+            "vote_count": 9401
         },
         {
             "adult": false,
@@ -1246,117 +1248,119 @@
             "original_language": "en",
             "original_title": "Avatar",
             "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-            "popularity": 118.621,
-            "poster_path": "/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
-            "release_date": "2009-12-15",
+            "popularity": 58.7174,
+            "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+            "release_date": "2009-12-16",
             "title": "Avatar",
             "video": false,
-            "vote_average": 7.582,
-            "vote_count": 31338
+            "vote_average": 7.6,
+            "vote_count": 33473
         },
         {
             "adult": false,
-            "backdrop_path": "/3kz6mLESBmdxAJwoHMS5YYfoWLE.jpg",
+            "backdrop_path": "/3sndNmvdF0R8AeyCmVoNv8LKtNy.jpg",
             "genre_ids": [
                 878,
                 12,
-                14
+                28,
+                53
             ],
             "id": 70160,
             "original_language": "en",
             "original_title": "The Hunger Games",
-            "overview": "Every year in the ruins of what was once North America, the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games.  Part twisted entertainment, part government intimidation tactic, the Hunger Games are a nationally televised event in which \u201cTributes\u201d must fight with one another until one survivor remains.  Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy.  If she\u2019s ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love. The world will be watching.",
-            "popularity": 33.428,
+            "overview": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister\u2019s place, setting the stage for a struggle of survival and defiance.",
+            "popularity": 8.8023,
             "poster_path": "/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
             "release_date": "2012-03-12",
             "title": "The Hunger Games",
             "video": false,
-            "vote_average": 7.21,
-            "vote_count": 21785
+            "vote_average": 7.221,
+            "vote_count": 23011
         },
         {
             "adult": false,
-            "backdrop_path": "/pIBZpX9H6U6Nk6gbyWTD4rFKEqq.jpg",
+            "backdrop_path": "/6kN5rkADuRtVw7kLD08JyQHZ5OB.jpg",
             "genre_ids": [
                 12,
                 878,
-                10751
+                14
             ],
             "id": 173,
             "original_language": "en",
             "original_title": "20,000 Leagues Under the Sea",
             "overview": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
-            "popularity": 26.086,
+            "popularity": 2.8752,
             "poster_path": "/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
             "release_date": "1954-12-23",
             "title": "20,000 Leagues Under the Sea",
             "video": false,
-            "vote_average": 7.041,
-            "vote_count": 866
+            "vote_average": 7.051,
+            "vote_count": 960
         },
         {
             "adult": false,
-            "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+            "backdrop_path": "/ga4JUb1dGnpesuztsGeMGMjj0fz.jpg",
             "genre_ids": [
                 878,
                 53,
-                80
+                80,
+                9648
             ],
             "id": 12101,
             "original_language": "en",
             "original_title": "Soylent Green",
             "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
-            "popularity": 18.69,
-            "poster_path": "/tIQVty3lbBzwuLemEDQic1Axfbd.jpg",
+            "popularity": 6.2803,
+            "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
             "release_date": "1973-04-18",
             "title": "Soylent Green",
             "video": false,
-            "vote_average": 6.943,
-            "vote_count": 1242
+            "vote_average": 6.9,
+            "vote_count": 1381
         },
         {
             "adult": false,
-            "backdrop_path": "/7JSE2pYFIMl3trxvnjlAwWhs5hS.jpg",
+            "backdrop_path": "/guOylbnmrrbylOcxuJ2xpnPR3Mz.jpg",
             "genre_ids": [
-                53,
                 878,
-                18,
+                53,
                 27
             ],
             "id": 20620,
             "original_language": "en",
             "original_title": "Seconds",
-            "overview": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity \u2013 one that comes with its own price.",
-            "popularity": 19.614,
+            "overview": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity; one that comes with its own price.",
+            "popularity": 4.4296,
             "poster_path": "/5G3q3OvulFTnFdiouaZdD8wjtIc.jpg",
             "release_date": "1966-10-05",
             "title": "Seconds",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 345
+            "vote_count": 418
         },
         {
             "adult": false,
-            "backdrop_path": "/ybQY0GgRrSx8hvH97MxOydQlfp1.jpg",
+            "backdrop_path": "/3k2DQBryXzaL7DoAtu6veWWluwt.jpg",
             "genre_ids": [
                 878,
-                28
+                28,
+                53
             ],
             "id": 8337,
             "original_language": "en",
             "original_title": "They Live",
-            "overview": "A lone drifter stumbles upon a harrowing discovery -- a unique pair of sunglasses that reveals that aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
-            "popularity": 21.054,
+            "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+            "popularity": 6.6069,
             "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
             "release_date": "1988-11-04",
             "title": "They Live",
             "video": false,
-            "vote_average": 7.295,
-            "vote_count": 2983
+            "vote_average": 7.297,
+            "vote_count": 3356
         },
         {
             "adult": false,
-            "backdrop_path": "/fbQX0aMu6RvMWnIUE3WFJ4ddP0K.jpg",
+            "backdrop_path": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
             "genre_ids": [
                 878,
                 53
@@ -1365,17 +1369,17 @@
             "original_language": "en",
             "original_title": "Predestination",
             "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
-            "popularity": 103.525,
+            "popularity": 5.6756,
             "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
             "release_date": "2014-08-28",
             "title": "Predestination",
             "video": false,
-            "vote_average": 7.435,
-            "vote_count": 6348
+            "vote_average": 7.418,
+            "vote_count": 6928
         },
         {
             "adult": false,
-            "backdrop_path": "/ivgNm4ICvwbrlV6crntR4F7lKgL.jpg",
+            "backdrop_path": "/4iJQItnH2qmV7fZVDGvdE4XyxcO.jpg",
             "genre_ids": [
                 27,
                 878,
@@ -1384,18 +1388,18 @@
             "id": 11542,
             "original_language": "en",
             "original_title": "Altered States",
-            "overview": "A research scientist explores the boundaries and frontiers of consciousness. Using sensory deprivation and hallucinogenic mixtures from native American shamans, he explores these altered states of consciousness and finds that memory, time, and perhaps reality itself are states of mind.",
-            "popularity": 9.737,
-            "poster_path": "/1iZBJcFJFupnxrSCwQIrtVgsrkA.jpg",
+            "overview": "A research scientist explores the boundaries and frontiers of human consciousness. Using sensory deprivation and hallucinogenic mixtures from Native American shamans, he explores these altered states of cognizance and finds that memory, time, and reality itself are states of mind.",
+            "popularity": 2.0462,
+            "poster_path": "/fsoaPN5SWYgZ4B7GG9nRNj33so.jpg",
             "release_date": "1980-12-25",
             "title": "Altered States",
             "video": false,
-            "vote_average": 6.688,
-            "vote_count": 642
+            "vote_average": 6.727,
+            "vote_count": 730
         },
         {
             "adult": false,
-            "backdrop_path": "/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+            "backdrop_path": "/6cCF0KMUO2QmrVsQFujkQduREXX.jpg",
             "genre_ids": [
                 53,
                 28,
@@ -1406,20 +1410,19 @@
             "original_language": "en",
             "original_title": "Rise of the Planet of the Apes",
             "overview": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
-            "popularity": 60.256,
-            "poster_path": "/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+            "popularity": 8.0468,
+            "poster_path": "/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
             "release_date": "2011-08-03",
             "title": "Rise of the Planet of the Apes",
             "video": false,
-            "vote_average": 7.327,
-            "vote_count": 11773
+            "vote_average": 7.339,
+            "vote_count": 12552
         },
         {
             "adult": false,
-            "backdrop_path": "/xLzkWj2C6zCWyFT8Z7tKKtfrwcR.jpg",
+            "backdrop_path": "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
             "genre_ids": [
                 12,
-                28,
                 53,
                 878
             ],
@@ -1427,17 +1430,17 @@
             "original_language": "en",
             "original_title": "The Abyss",
             "overview": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
-            "popularity": 20.805,
+            "popularity": 5.6115,
             "poster_path": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
             "release_date": "1989-08-09",
             "title": "The Abyss",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 2927
+            "vote_average": 7.335,
+            "vote_count": 3330
         },
         {
             "adult": false,
-            "backdrop_path": "/noHDKhzbwP6DfoaO2xRFLVrpX0N.jpg",
+            "backdrop_path": "/s2Cu1y9Al9RbwRU5blAH8wMCrBI.jpg",
             "genre_ids": [
                 53,
                 878,
@@ -1447,17 +1450,17 @@
             "original_language": "en",
             "original_title": "Source Code",
             "overview": "When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.",
-            "popularity": 27.554,
-            "poster_path": "/zXJe3nXCp7ggE3rLbhDx8jWZ4qn.jpg",
+            "popularity": 8.4684,
+            "poster_path": "/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
             "release_date": "2011-03-30",
             "title": "Source Code",
             "video": false,
-            "vote_average": 7.304,
-            "vote_count": 8214
+            "vote_average": 7.308,
+            "vote_count": 8923
         },
         {
             "adult": false,
-            "backdrop_path": "/fdrQusLbssk6WEpyZXVDmyRlylE.jpg",
+            "backdrop_path": "/do8idarfaUTxxwaarefTNA724Qj.jpg",
             "genre_ids": [
                 16,
                 878,
@@ -1467,17 +1470,17 @@
             "original_language": "en",
             "original_title": "A Scanner Darkly",
             "overview": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
-            "popularity": 13.275,
+            "popularity": 3.0492,
             "poster_path": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
             "release_date": "2006-07-07",
             "title": "A Scanner Darkly",
             "video": false,
-            "vote_average": 6.801,
-            "vote_count": 1719
+            "vote_average": 6.798,
+            "vote_count": 1891
         },
         {
             "adult": false,
-            "backdrop_path": "/cO5tOuyaW1WA3QaDuqps6HMGI81.jpg",
+            "backdrop_path": "/4pl165EUdvveHCr4J4YcHVA1MnD.jpg",
             "genre_ids": [
                 80,
                 28,
@@ -1486,34 +1489,33 @@
             "id": 9739,
             "original_language": "en",
             "original_title": "Demolition Man",
-            "overview": "Simon Phoenix, a violent criminal cryogenically frozen in 1996, escapes during a parole hearing in 2032 in the utopia of San Angeles. Police are incapable of dealing with his violent ways and turn to his captor, who had also been cryogenically frozen after being wrongfully accused of killing 30 innocent people while apprehending Phoenix.",
-            "popularity": 33.539,
+            "overview": "In 1996, brash L.A. detective John Spartan and maniac killer Simon Phoenix are both sentenced to decades in a cryogenic prison as punishment for a rescue mission gone wrong. When Phoenix escapes 36 years later to wreak havoc on the future, Spartan is awakened to capture his nemesis the old-fashioned way.",
+            "popularity": 7.3618,
             "poster_path": "/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
             "release_date": "1993-10-08",
             "title": "Demolition Man",
             "video": false,
-            "vote_average": 6.72,
-            "vote_count": 3624
+            "vote_average": 6.754,
+            "vote_count": 3999
         },
         {
             "adult": false,
-            "backdrop_path": "/7oy4miyq4WYYy0xtX6lbNVPrEsr.jpg",
+            "backdrop_path": "/gyC9u8GOeNwyKzvXHAOhTsfps5u.jpg",
             "genre_ids": [
                 18,
-                878,
-                53
+                878
             ],
-            "id": 401905,
+            "id": 1714,
             "original_language": "en",
             "original_title": "Fahrenheit 451",
-            "overview": "In an oppressive future, a 'fireman' whose duty is to destroy all books begins to question his task.",
-            "popularity": 10.632,
-            "poster_path": "/urH9H50gKbUK8U6qTVd89SLQPjx.jpg",
-            "release_date": "2018-05-12",
+            "overview": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as \u201cfiremen,\u201d to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation\u2026",
+            "popularity": 1.7628,
+            "poster_path": "/k2CTpexoS9MO9lKVFfnzwVdJuM.jpg",
+            "release_date": "1966-09-07",
             "title": "Fahrenheit 451",
             "video": false,
-            "vote_average": 5.421,
-            "vote_count": 836
+            "vote_average": 7.111,
+            "vote_count": 1047
         },
         {
             "adult": false,
@@ -1527,17 +1529,17 @@
             "original_language": "en",
             "original_title": "Idiocracy",
             "overview": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
-            "popularity": 33.446,
-            "poster_path": "/rKsiNxKjhWEwndOgWPs273oy9EZ.jpg",
+            "popularity": 9.6533,
+            "poster_path": "/k75tEyoPbPlfHSKakJBOR5dx1Dp.jpg",
             "release_date": "2006-09-01",
             "title": "Idiocracy",
             "video": false,
-            "vote_average": 6.344,
-            "vote_count": 2933
+            "vote_average": 6.367,
+            "vote_count": 3419
         },
         {
             "adult": false,
-            "backdrop_path": "/ig7qUy7drkEFZNCK7gi0hMn1WMN.jpg",
+            "backdrop_path": "/9X7Im1YuBhyHYVD8r7CAONPJR5k.jpg",
             "genre_ids": [
                 28,
                 878,
@@ -1547,13 +1549,13 @@
             "original_language": "en",
             "original_title": "Pacific Rim",
             "overview": "Using massive piloted robots to combat the alien threat, earth's survivors take the fight to the invading alien force lurking in the depths of the Pacific Ocean. Nearly defenseless in the face of the relentless enemy, the forces of mankind have no choice but to turn to two unlikely heroes who now stand as earth's final hope against the mounting apocalypse.",
-            "popularity": 59.408,
+            "popularity": 11.2848,
             "poster_path": "/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg",
             "release_date": "2013-07-11",
             "title": "Pacific Rim",
             "video": false,
-            "vote_average": 6.901,
-            "vote_count": 12295
+            "vote_average": 6.916,
+            "vote_count": 13122
         },
         {
             "adult": false,
@@ -1567,13 +1569,13 @@
             "original_language": "en",
             "original_title": "Donnie Darko",
             "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
-            "popularity": 35.921,
+            "popularity": 9.2604,
             "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
             "release_date": "2001-01-19",
             "title": "Donnie Darko",
             "video": false,
-            "vote_average": 7.778,
-            "vote_count": 12298
+            "vote_average": 7.8,
+            "vote_count": 13190
         },
         {
             "adult": false,
@@ -1582,23 +1584,24 @@
                 878,
                 12,
                 35,
-                14
+                14,
+                28
             ],
             "id": 8069,
             "original_language": "en",
             "original_title": "Barbarella",
             "overview": "In the far future, a highly sexual woman is tasked with finding and stopping the evil Durand-Durand. Along the way she encounters various unusual people.",
-            "popularity": 19.129,
-            "poster_path": "/kfaRSR3geV3I65icyHWBBEsE9u.jpg",
+            "popularity": 2.1032,
+            "poster_path": "/facTz5BZz4AkJal1FWgjYciekih.jpg",
             "release_date": "1968-10-10",
             "title": "Barbarella",
             "video": false,
-            "vote_average": 6.0,
-            "vote_count": 719
+            "vote_average": 5.996,
+            "vote_count": 809
         },
         {
             "adult": false,
-            "backdrop_path": "/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+            "backdrop_path": "/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -1608,13 +1611,13 @@
             "original_language": "en",
             "original_title": "Independence Day",
             "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
-            "popularity": 36.627,
+            "popularity": 9.6977,
             "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
             "release_date": "1996-06-25",
             "title": "Independence Day",
             "video": false,
-            "vote_average": 6.888,
-            "vote_count": 9472
+            "vote_average": 6.899,
+            "vote_count": 10206
         },
         {
             "adult": false,
@@ -1628,13 +1631,13 @@
             "original_language": "en",
             "original_title": "Bumblebee",
             "overview": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.",
-            "popularity": 32.155,
+            "popularity": 9.1911,
             "poster_path": "/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
-            "release_date": "2018-12-15",
+            "release_date": "2018-11-22",
             "title": "Bumblebee",
             "video": false,
-            "vote_average": 6.727,
-            "vote_count": 6031
+            "vote_average": 6.719,
+            "vote_count": 6515
         },
         {
             "adult": false,
@@ -1647,18 +1650,18 @@
             "id": 97,
             "original_language": "en",
             "original_title": "Tron",
-            "overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world...and becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
-            "popularity": 14.892,
-            "poster_path": "/zwSFEczP7AzqugAHHIX3zHniT0t.jpg",
+            "overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world and becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
+            "popularity": 5.7906,
+            "poster_path": "/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
             "release_date": "1982-07-09",
             "title": "Tron",
             "video": false,
-            "vote_average": 6.656,
-            "vote_count": 2256
+            "vote_average": 6.6,
+            "vote_count": 2657
         },
         {
             "adult": false,
-            "backdrop_path": "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+            "backdrop_path": "/o9puyKpayQoX8ikIaYtf2PfKv3.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -1669,13 +1672,13 @@
             "original_language": "en",
             "original_title": "Men in Black",
             "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
-            "popularity": 45.04,
+            "popularity": 9.2896,
             "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
             "release_date": "1997-07-02",
             "title": "Men in Black",
             "video": false,
-            "vote_average": 7.201,
-            "vote_count": 13624
+            "vote_average": 7.216,
+            "vote_count": 14585
         },
         {
             "adult": false,
@@ -1689,13 +1692,13 @@
             "original_language": "en",
             "original_title": "Cloverfield",
             "overview": "Five young New Yorkers throw their friend a going-away party the night that a monster the size of a skyscraper descends upon the city. Told from the point of view of their video camera, the film is a document of their attempt to survive the most surreal, horrifying event of their lives.",
-            "popularity": 31.487,
+            "popularity": 7.5118,
             "poster_path": "/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg",
             "release_date": "2008-01-15",
             "title": "Cloverfield",
             "video": false,
-            "vote_average": 6.691,
-            "vote_count": 6981
+            "vote_average": 6.705,
+            "vote_count": 7624
         },
         {
             "adult": false,
@@ -1708,13 +1711,13 @@
             "original_language": "en",
             "original_title": "The Fly",
             "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
-            "popularity": 33.778,
+            "popularity": 7.5153,
             "poster_path": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
             "release_date": "1986-08-15",
             "title": "The Fly",
             "video": false,
-            "vote_average": 7.41,
-            "vote_count": 4354
+            "vote_average": 7.427,
+            "vote_count": 4843
         },
         {
             "adult": false,
@@ -1727,13 +1730,13 @@
             "original_language": "en",
             "original_title": "The Man Who Fell to Earth",
             "overview": "Thomas Jerome Newton is an alien who has come to Earth in search of water to save his home planet. Aided by lawyer Oliver Farnsworth, Thomas uses his knowledge of advanced technology to create profitable inventions. While developing a method to transport water, Thomas meets Mary-Lou, a quiet hotel clerk, and begins to fall in love with her. Just as he is ready to leave Earth, Thomas is intercepted by the U.S. government, and his entire plan is threatened.",
-            "popularity": 19.119,
+            "popularity": 1.5074,
             "poster_path": "/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
             "release_date": "1976-03-18",
             "title": "The Man Who Fell to Earth",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 512
+            "vote_average": 6.442,
+            "vote_count": 574
         },
         {
             "adult": false,
@@ -1747,17 +1750,17 @@
             "original_language": "en",
             "original_title": "Under the Skin",
             "overview": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
-            "popularity": 23.843,
+            "popularity": 5.5345,
             "poster_path": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
             "release_date": "2014-03-14",
             "title": "Under the Skin",
             "video": false,
-            "vote_average": 6.132,
-            "vote_count": 3381
+            "vote_average": 6.1,
+            "vote_count": 3720
         },
         {
             "adult": false,
-            "backdrop_path": "/bmAzESah8IUNRQX5MqeyUrhE5Pr.jpg",
+            "backdrop_path": "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
             "genre_ids": [
                 9648,
                 878
@@ -1766,17 +1769,17 @@
             "original_language": "en",
             "original_title": "Dark City",
             "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
-            "popularity": 17.359,
+            "popularity": 6.4502,
             "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
             "release_date": "1998-02-27",
             "title": "Dark City",
             "video": false,
-            "vote_average": 7.327,
-            "vote_count": 2764
+            "vote_average": 7.334,
+            "vote_count": 3102
         },
         {
             "adult": false,
-            "backdrop_path": "/e1ujlWNpaoVCudNZDewCjMakBpt.jpg",
+            "backdrop_path": "/rYla2HuNYbuVU0ZhszkjtGDw3si.jpg",
             "genre_ids": [
                 878,
                 35,
@@ -1787,13 +1790,13 @@
             "original_language": "en",
             "original_title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
             "overview": "Adventurer/surgeon/rock musician Buckaroo Banzai and his band of men, the Hong Kong Cavaliers, take on evil alien invaders from the 8th dimension.",
-            "popularity": 27.112,
-            "poster_path": "/l9NDh3IYPAmSYjqMcxPfUh83Xwm.jpg",
+            "popularity": 3.7701,
+            "poster_path": "/jWZh2ChereoxKgTl3AmSAKNpnmO.jpg",
             "release_date": "1984-08-10",
             "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
             "video": false,
-            "vote_average": 6.018,
-            "vote_count": 418
+            "vote_average": 5.984,
+            "vote_count": 474
         },
         {
             "adult": false,
@@ -1805,18 +1808,18 @@
             "id": 26889,
             "original_language": "en",
             "original_title": "The Brother from Another Planet",
-            "overview": "An alien slave crash-lands in New York City while being pursued by two Men in Black bounty hunters. His attempt to find a place for himself on Earth parallels that of the immigrant experience.",
-            "popularity": 18.24,
+            "overview": "A mute alien with the appearance of a black human is chased by outer-space bounty hunters through the streets of Harlem.",
+            "popularity": 0.9333,
             "poster_path": "/woSsOJmx8lBD14wA4Jlmf4DrJXc.jpg",
             "release_date": "1984-09-07",
             "title": "The Brother from Another Planet",
             "video": false,
-            "vote_average": 6.6,
-            "vote_count": 81
+            "vote_average": 6.636,
+            "vote_count": 92
         },
         {
             "adult": false,
-            "backdrop_path": "/yeF9ewBnFp9d5nqdHMic4IAOqrs.jpg",
+            "backdrop_path": "/jUqDBi02CDjqrroC3Zl8hroBbSr.jpg",
             "genre_ids": [
                 28,
                 878
@@ -1825,17 +1828,17 @@
             "original_language": "en",
             "original_title": "Dredd",
             "overview": "In the future, America is a dystopian wasteland. The latest scourge is Ma-Ma, a prostitute-turned-drug pusher with a dangerous new drug and aims to take over the city. The only possibility of stopping her is an elite group of urban police called Judges, who combine the duties of judge, jury and executioner to deliver a brutal brand of swift justice. But even the top-ranking Judge, Dredd, discovers that taking down Ma-Ma isn\u2019t as easy as it seems in this explosive adaptation of the hugely popular comic series.",
-            "popularity": 17.833,
+            "popularity": 6.7371,
             "poster_path": "/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
             "release_date": "2012-09-07",
             "title": "Dredd",
             "video": false,
-            "vote_average": 6.832,
-            "vote_count": 4976
+            "vote_average": 6.857,
+            "vote_count": 5414
         },
         {
             "adult": false,
-            "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+            "backdrop_path": "/5EKplo61HbA5sMGAN0XAvzdo1MX.jpg",
             "genre_ids": [
                 28,
                 53,
@@ -1845,39 +1848,37 @@
             "original_language": "en",
             "original_title": "V for Vendetta",
             "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as \u201cV\u201d conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
-            "popularity": 61.33,
-            "poster_path": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+            "popularity": 9.4779,
+            "poster_path": "/piZOwjyk1g51oPHonc7zaQY3WOv.jpg",
             "release_date": "2006-02-23",
             "title": "V for Vendetta",
             "video": false,
             "vote_average": 7.897,
-            "vote_count": 14331
+            "vote_count": 15321
         },
         {
             "adult": false,
-            "backdrop_path": "/gEFe2joIQUopBmMPXOHPxuX2f4u.jpg",
+            "backdrop_path": "/bx1W729hyWQqNQoiq9LsX30FBf.jpg",
             "genre_ids": [
-                12,
-                14,
+                878,
                 28,
-                53,
-                878
+                12
             ],
             "id": 18,
-            "original_language": "en",
-            "original_title": "The Fifth Element",
+            "original_language": "fr",
+            "original_title": "Le Cinqui\u00e8me \u00c9l\u00e9ment",
             "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
-            "popularity": 59.731,
+            "popularity": 13.8999,
             "poster_path": "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
             "release_date": "1997-05-02",
             "title": "The Fifth Element",
             "video": false,
-            "vote_average": 7.553,
-            "vote_count": 10606
+            "vote_average": 7.563,
+            "vote_count": 11451
         },
         {
             "adult": false,
-            "backdrop_path": "/uceohbhT4QLNRzdLmOtVBXAzxlW.jpg",
+            "backdrop_path": "/zHkaKyt6eTqFpjUXWav0qdEbbye.jpg",
             "genre_ids": [
                 12,
                 28,
@@ -1887,18 +1888,18 @@
             "id": 563,
             "original_language": "en",
             "original_title": "Starship Troopers",
-            "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs\".",
-            "popularity": 70.01,
+            "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+            "popularity": 7.7081,
             "poster_path": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
             "release_date": "1997-11-07",
             "title": "Starship Troopers",
             "video": false,
-            "vote_average": 7.07,
-            "vote_count": 4835
+            "vote_average": 7.093,
+            "vote_count": 5339
         },
         {
             "adult": false,
-            "backdrop_path": "/xoPFmvBGycoksXIjUlbevFUYhXD.jpg",
+            "backdrop_path": "/5K5oPo1NJrAVUeaPzcXFH13Xplo.jpg",
             "genre_ids": [
                 35,
                 878
@@ -1907,17 +1908,17 @@
             "original_language": "en",
             "original_title": "Repo Man",
             "overview": "A down and out young punk gets a job working with a seasoned repo man, but what awaits him in his new career is a series of outlandish adventures revolving around aliens, the CIA, and a most wanted '64 Chevy.",
-            "popularity": 15.249,
-            "poster_path": "/4jqQWD1LJUNzCHS2S4MmglQ3lnh.jpg",
+            "popularity": 2.3814,
+            "poster_path": "/bjuu5UceuVUNUjnOC2fBzL3hZKC.jpg",
             "release_date": "1984-03-02",
             "title": "Repo Man",
             "video": false,
-            "vote_average": 6.628,
-            "vote_count": 595
+            "vote_average": 6.663,
+            "vote_count": 657
         },
         {
             "adult": false,
-            "backdrop_path": "/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+            "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
             "genre_ids": [
                 12,
                 28,
@@ -1927,17 +1928,17 @@
             "original_language": "en",
             "original_title": "Star Wars: The Force Awakens",
             "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
-            "popularity": 51.919,
+            "popularity": 13.0036,
             "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
             "release_date": "2015-12-15",
             "title": "Star Wars: The Force Awakens",
             "video": false,
-            "vote_average": 7.274,
-            "vote_count": 19218
+            "vote_average": 7.251,
+            "vote_count": 20291
         },
         {
             "adult": false,
-            "backdrop_path": "/roYyPiQDQKmIKUEhO912693tSja.jpg",
+            "backdrop_path": "/xvPsewFauNC5xZJxHGmtFN5htDh.jpg",
             "genre_ids": [
                 27,
                 18,
@@ -1947,17 +1948,17 @@
             "original_language": "en",
             "original_title": "A Quiet Place",
             "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
-            "popularity": 70.623,
+            "popularity": 11.3729,
             "poster_path": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
             "release_date": "2018-04-03",
             "title": "A Quiet Place",
             "video": false,
-            "vote_average": 7.403,
-            "vote_count": 14026
+            "vote_average": 7.393,
+            "vote_count": 15095
         },
         {
             "adult": false,
-            "backdrop_path": "/f8lQnoUG0UVK6xXOvfoP0alVJrW.jpg",
+            "backdrop_path": "/2RTEcrcjiFuNsfF5qVlD3VJ38Ru.jpg",
             "genre_ids": [
                 27,
                 18,
@@ -1967,17 +1968,17 @@
             "original_language": "ko",
             "original_title": "\uad34\ubb3c",
             "overview": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her.",
-            "popularity": 48.912,
-            "poster_path": "/dEDLY3KeghKFzks5nTDWdigVikr.jpg",
+            "popularity": 5.1775,
+            "poster_path": "/yuguCXRTJbxPGH3Ulm8WfKCq60t.jpg",
             "release_date": "2006-07-27",
             "title": "The Host",
             "video": false,
-            "vote_average": 6.981,
-            "vote_count": 2730
+            "vote_average": 6.975,
+            "vote_count": 3047
         },
         {
             "adult": false,
-            "backdrop_path": "/j0AZ67brlWze2Owv47z1E27LQQy.jpg",
+            "backdrop_path": "/lyHnFsWafILUlizalpCSikJT7Ui.jpg",
             "genre_ids": [
                 878,
                 27
@@ -1986,17 +1987,17 @@
             "original_language": "en",
             "original_title": "Invasion of the Body Snatchers",
             "overview": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
-            "popularity": 16.322,
-            "poster_path": "/5oNHdVo0vTsaC47Jv2Wb4eeo4V4.jpg",
+            "popularity": 4.3923,
+            "poster_path": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
             "release_date": "1978-12-20",
             "title": "Invasion of the Body Snatchers",
             "video": false,
             "vote_average": 7.2,
-            "vote_count": 1081
+            "vote_count": 1269
         },
         {
             "adult": false,
-            "backdrop_path": "/cYDzmKptAh4hu3SFuto0cZGNB86.jpg",
+            "backdrop_path": "/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
             "genre_ids": [
                 35,
                 28,
@@ -2006,13 +2007,13 @@
             "original_language": "en",
             "original_title": "The World's End",
             "overview": "Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind's only hope for survival.",
-            "popularity": 21.967,
+            "popularity": 5.6332,
             "poster_path": "/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg",
             "release_date": "2013-07-18",
             "title": "The World's End",
             "video": false,
-            "vote_average": 6.805,
-            "vote_count": 5334
+            "vote_average": 6.807,
+            "vote_count": 5763
         },
         {
             "adult": false,
@@ -2027,17 +2028,17 @@
             "original_language": "en",
             "original_title": "Star Trek: First Contact",
             "overview": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
-            "popularity": 23.597,
-            "poster_path": "/vrC1lkTktFQ4AqBfqf4PXoDDLcw.jpg",
+            "popularity": 4.0002,
+            "poster_path": "/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
             "release_date": "1996-11-22",
             "title": "Star Trek: First Contact",
             "video": false,
             "vote_average": 7.3,
-            "vote_count": 1732
+            "vote_count": 1910
         },
         {
             "adult": false,
-            "backdrop_path": "/dNqhHPG04rjDd9xy7q5biSlroMV.jpg",
+            "backdrop_path": "/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
             "genre_ids": [
                 28,
                 53,
@@ -2047,17 +2048,17 @@
             "original_language": "en",
             "original_title": "Upgrade",
             "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure \u2014 an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility \u2014 skills he uses to seek revenge against the thugs who destroyed his life.",
-            "popularity": 22.692,
-            "poster_path": "/5f28TXtvHioXirX2n1XH8EJ314v.jpg",
+            "popularity": 8.1124,
+            "poster_path": "/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
             "release_date": "2018-05-31",
             "title": "Upgrade",
             "video": false,
-            "vote_average": 7.494,
-            "vote_count": 4286
+            "vote_average": 7.5,
+            "vote_count": 4850
         },
         {
             "adult": false,
-            "backdrop_path": "/n78A4qGUpXbH0j9QsIKpc2thAv6.jpg",
+            "backdrop_path": "/ncYrkutA6Yd1Gmh8fLyGieWlqLv.jpg",
             "genre_ids": [
                 28,
                 35,
@@ -2067,33 +2068,32 @@
             "original_language": "en",
             "original_title": "Attack the Block",
             "overview": "A teen gang in a South London housing estate must team up with the other residents to protect their neighbourhood from a terrifying alien invasion.",
-            "popularity": 10.49,
+            "popularity": 1.8088,
             "poster_path": "/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg",
             "release_date": "2011-05-12",
             "title": "Attack the Block",
             "video": false,
-            "vote_average": 6.467,
-            "vote_count": 2027
+            "vote_average": 6.46,
+            "vote_count": 2211
         },
         {
             "adult": false,
-            "backdrop_path": "/fM9ODwfR7m8fI2g99M9WyhvqXtI.jpg",
+            "backdrop_path": "/tXPapfBPsbjcyAl6m3Rle5gtHOG.jpg",
             "genre_ids": [
                 878,
-                28,
                 18
             ],
             "id": 636,
             "original_language": "en",
             "original_title": "THX 1138",
             "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship.",
-            "popularity": 11.522,
-            "poster_path": "/25cQH5gZ60BiA5Y91HxoPpnFiY0.jpg",
+            "popularity": 2.998,
+            "poster_path": "/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
             "release_date": "1971-03-11",
             "title": "THX 1138",
             "video": false,
-            "vote_average": 6.439,
-            "vote_count": 933
+            "vote_average": 6.4,
+            "vote_count": 1026
         },
         {
             "adult": false,
@@ -2108,17 +2108,17 @@
             "original_language": "en",
             "original_title": "Turbo Kid",
             "overview": "In a post-apocalyptic wasteland, an orphaned teen must battle a ruthless warlord to save the girl of his dreams.",
-            "popularity": 8.895,
+            "popularity": 1.0164,
             "poster_path": "/ArUqADkwycYtNVuXSoSXVrdJ8iJ.jpg",
             "release_date": "2015-08-14",
             "title": "Turbo Kid",
             "video": false,
-            "vote_average": 6.531,
-            "vote_count": 691
+            "vote_average": 6.5,
+            "vote_count": 749
         },
         {
             "adult": false,
-            "backdrop_path": "/csGprKcRxt7SDpsrKiwxpgLdEsx.jpg",
+            "backdrop_path": "/3aGsZdB5ud6LmU9lppwTLh2fqH1.jpg",
             "genre_ids": [
                 878,
                 28,
@@ -2129,17 +2129,17 @@
             "original_language": "en",
             "original_title": "Serenity",
             "overview": "When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything \u2013 or anyone \u2013 to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.",
-            "popularity": 27.521,
+            "popularity": 6.4054,
             "poster_path": "/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
             "release_date": "2005-09-25",
             "title": "Serenity",
             "video": false,
-            "vote_average": 7.373,
-            "vote_count": 3443
+            "vote_average": 7.363,
+            "vote_count": 3780
         },
         {
             "adult": false,
-            "backdrop_path": "/6oXn0037WWw4fTCc3Qczof71lSp.jpg",
+            "backdrop_path": "/zfbuY4A9X5sTJ2bzTt84rtiDK9t.jpg",
             "genre_ids": [
                 16,
                 878,
@@ -2149,13 +2149,13 @@
             "original_language": "ja",
             "original_title": "\u30d1\u30d7\u30ea\u30ab",
             "overview": "When a machine that allows therapists to enter their patient's dreams is stolen, all hell breaks loose. Only a young female therapist can stop it and recover it before damage is done: Paprika.",
-            "popularity": 20.251,
+            "popularity": 6.3428,
             "poster_path": "/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
-            "release_date": "2006-10-21",
+            "release_date": "2006-10-01",
             "title": "Paprika",
             "video": false,
-            "vote_average": 7.81,
-            "vote_count": 2394
+            "vote_average": 7.813,
+            "vote_count": 2766
         },
         {
             "adult": false,
@@ -2168,18 +2168,18 @@
             "id": 1902,
             "original_language": "es",
             "original_title": "Abre los ojos",
-            "overview": "A very handsome man finds the love of his life, but he suffers an accident and needs to have his face rebuilt by surgery after it is severely disfigured.",
-            "popularity": 19.005,
-            "poster_path": "/orjSy9xEGI9jxrtodACH04gANmF.jpg",
+            "overview": "Handsome 25-year-old Cesar had it all -- a successful career, expensive cars, a swank bachelor's pad, and an endless string of beautiful and willing women -- until he is thrown into a strange psychological mystery after a car accident scars his face and lands him in prison.",
+            "popularity": 2.1225,
+            "poster_path": "/x6g4veF2EUZHEu6hrW8TfTTzjU0.jpg",
             "release_date": "1997-12-19",
             "title": "Open Your Eyes",
             "video": false,
-            "vote_average": 7.446,
-            "vote_count": 1018
+            "vote_average": 7.448,
+            "vote_count": 1154
         },
         {
             "adult": false,
-            "backdrop_path": "/9yXen3n0LOX4yfb1KTSQXmJovPN.jpg",
+            "backdrop_path": "/8tusF9xt8CeLzay3TDJBxnRweZF.jpg",
             "genre_ids": [
                 35,
                 878
@@ -2188,71 +2188,71 @@
             "original_language": "en",
             "original_title": "Dark Star",
             "overview": "A group of scientists are sent on a mission to destroy unstable planets. Twenty years into their mission, they have to battle their alien mascot as well as a \"sensitive\" and intelligent bombing device that starts to question the meaning of its existence.",
-            "popularity": 10.605,
+            "popularity": 4.0883,
             "poster_path": "/aiqLBiH0IWrog2Q78dZTT8Ad9Sp.jpg",
-            "release_date": "1974-04-01",
+            "release_date": "1974-03-30",
             "title": "Dark Star",
             "video": false,
-            "vote_average": 5.946,
-            "vote_count": 546
+            "vote_average": 5.98,
+            "vote_count": 625
         },
         {
             "adult": false,
-            "backdrop_path": "/igpM13I0oMcPZj0Y0hzmBWEKmBd.jpg",
+            "backdrop_path": "/nsiats0DJC2Kyu37ZHYIMGp7N3K.jpg",
             "genre_ids": [
                 878,
-                35
+                35,
+                53
             ],
             "id": 20980,
             "original_language": "en",
             "original_title": "Liquid Sky",
             "overview": "An alien creature invades New York's punk subculture in its search for an opiate released by the brain during an orgasm.",
-            "popularity": 23.742,
-            "poster_path": "/jbpP3bmiyDMmEussO9tDOrogsiI.jpg",
+            "popularity": 1.0003,
+            "poster_path": "/yMRvaqt0oUImW1Z91RXHTvkH6DE.jpg",
             "release_date": "1982-08-01",
             "title": "Liquid Sky",
             "video": false,
-            "vote_average": 5.79,
-            "vote_count": 112
+            "vote_average": 5.816,
+            "vote_count": 133
         },
         {
             "adult": false,
             "backdrop_path": "/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
             "genre_ids": [
-                18,
                 878,
-                53,
-                27
+                53
             ],
             "id": 1272,
             "original_language": "en",
             "original_title": "Sunshine",
             "overview": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun \u2014 but the mission fails. Seven years later, a new team is sent to finish the mission as mankind\u2019s last hope.",
-            "popularity": 30.943,
+            "popularity": 6.1971,
             "poster_path": "/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
             "release_date": "2007-04-05",
             "title": "Sunshine",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 3725
+            "vote_average": 6.963,
+            "vote_count": 4133
         },
         {
             "adult": false,
-            "backdrop_path": "/ws8eX1paKpgEVetOTg6OUlKtLXw.jpg",
+            "backdrop_path": "/3yq46OSqqCqh6nP36guN1WAwwVy.jpg",
             "genre_ids": [
-                878
+                878,
+                18
             ],
             "id": 16380,
             "original_language": "en",
             "original_title": "When Worlds Collide",
             "overview": "When a group of astronomers calculate a star is on a course to slam into Earth, a few days before, it's accompanying planet will first pass close enough to the Earth to cause havoc on land and sea. They set about building a rocket so a few selected individuals can escape to the planet.",
-            "popularity": 11.425,
-            "poster_path": "/xUd6NOABGlU3TSNP42toxWhmMQ3.jpg",
+            "popularity": 0.792,
+            "poster_path": "/zVBEXGxtnD83t0PfKm9uZbnpDbA.jpg",
             "release_date": "1951-09-14",
             "title": "When Worlds Collide",
             "video": false,
-            "vote_average": 6.3,
-            "vote_count": 175
+            "vote_average": 6.334,
+            "vote_count": 196
         },
         {
             "adult": false,
@@ -2265,17 +2265,17 @@
             "original_language": "en",
             "original_title": "The Day of the Triffids",
             "overview": "After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.",
-            "popularity": 49.119,
+            "popularity": 0.8794,
             "poster_path": "/x6LYwbOzBl606vMXZtd6apxhcaY.jpg",
             "release_date": "1963-04-24",
             "title": "The Day of the Triffids",
             "video": false,
-            "vote_average": 6.1,
-            "vote_count": 169
+            "vote_average": 6.085,
+            "vote_count": 188
         },
         {
             "adult": false,
-            "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+            "backdrop_path": "/2tQ0Uhav10ay7jOX6QoqvbtGljB.jpg",
             "genre_ids": [
                 18,
                 878,
@@ -2285,13 +2285,13 @@
             "original_language": "en",
             "original_title": "A.I. Artificial Intelligence",
             "overview": "David, a robotic boy\u2014the first of his kind programmed to love\u2014is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
-            "popularity": 54.4,
-            "poster_path": "/zxUhHQxKRbVLsaHR1V81SWYADOl.jpg",
+            "popularity": 7.7051,
+            "poster_path": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
             "release_date": "2001-06-29",
             "title": "A.I. Artificial Intelligence",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 6072
+            "vote_average": 7.1,
+            "vote_count": 6530
         },
         {
             "adult": false,
@@ -2305,17 +2305,17 @@
             "original_language": "en",
             "original_title": "A Boy and His Dog",
             "overview": "Set in the year 2024 in post-apocalyptic America, 18-year old Vic and his telepathic dog, Blood, are scavengers in the desolate wilderness ravaged by World War IV, where survivors must battle for food and shelter in the desert-like wasteland. Vic and Blood eke out a meager existence, foraging for food and fighting gangs of cutthroats.",
-            "popularity": 9.362,
+            "popularity": 1.1471,
             "poster_path": "/dMbkoFzD5sEQvEaqRsIh4pTBJVq.jpg",
             "release_date": "1975-03-23",
             "title": "A Boy and His Dog",
             "video": false,
-            "vote_average": 6.275,
-            "vote_count": 333
+            "vote_average": 6.259,
+            "vote_count": 370
         },
         {
             "adult": false,
-            "backdrop_path": "/mHPA8v6QhGRQIgU6xDPK0x2vddG.jpg",
+            "backdrop_path": "/obApq0Prmf740t0b3QoxoSxjYW1.jpg",
             "genre_ids": [
                 16,
                 878,
@@ -2327,13 +2327,13 @@
             "original_language": "en",
             "original_title": "Heavy Metal",
             "overview": "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-            "popularity": 15.029,
+            "popularity": 2.478,
             "poster_path": "/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
             "release_date": "1981-08-07",
             "title": "Heavy Metal",
             "video": false,
-            "vote_average": 6.488,
-            "vote_count": 691
+            "vote_average": 6.506,
+            "vote_count": 763
         },
         {
             "adult": false,
@@ -2347,14 +2347,14 @@
             "id": 281,
             "original_language": "en",
             "original_title": "Strange Days",
-            "overview": "Former policeman Lenny Nero has moved into a more lucrative trade: the illegal sale of virtual reality-like recordings that allow users to experience the emotions and past experiences of others. While they typically contain tawdry incidents, Nero is shocked when he receives one showing a murder.",
-            "popularity": 14.416,
+            "overview": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
+            "popularity": 3.8002,
             "poster_path": "/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
             "release_date": "1995-10-13",
             "title": "Strange Days",
             "video": false,
-            "vote_average": 7.001,
-            "vote_count": 1315
+            "vote_average": 7.011,
+            "vote_count": 1492
         },
         {
             "adult": false,
@@ -2368,13 +2368,13 @@
             "original_language": "en",
             "original_title": "Cube",
             "overview": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
-            "popularity": 19.139,
+            "popularity": 3.1292,
             "poster_path": "/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg",
-            "release_date": "1997-12-10",
+            "release_date": "1998-07-11",
             "title": "Cube",
             "video": false,
-            "vote_average": 6.807,
-            "vote_count": 4686
+            "vote_average": 6.812,
+            "vote_count": 5101
         },
         {
             "adult": false,
@@ -2387,17 +2387,17 @@
             "original_language": "en",
             "original_title": "Things to Come",
             "overview": "The story of a century: a decades-long second World War leaves plague and anarchy, then a rational state rebuilds civilization and attempts space travel.",
-            "popularity": 17.086,
-            "poster_path": "/AqDTWCGOogxtIVKa6RAOhOaHkS.jpg",
+            "popularity": 0.9905,
+            "poster_path": "/5mjLuKluuMzBiCKTA28Qa8TR1wc.jpg",
             "release_date": "1936-03-31",
             "title": "Things to Come",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 186
+            "vote_average": 6.5,
+            "vote_count": 210
         },
         {
             "adult": false,
-            "backdrop_path": "/aKpyszOe1taERPEqZJRtLF6D8YM.jpg",
+            "backdrop_path": "/xERUzq8ISc4G1SyXGYHwCh4PdtQ.jpg",
             "genre_ids": [
                 878,
                 27
@@ -2405,14 +2405,14 @@
             "id": 9538,
             "original_language": "en",
             "original_title": "Scanners",
-            "overview": "After a man with extraordinary\u2014and frighteningly destructive\u2014telepathic abilities is nabbed by agents from a mysterious rogue corporation, he discovers he is far from the only possessor of such strange powers, and that some of the other \u201cscanners\u201d have their minds set on world domination, while others are trying to stop them.",
-            "popularity": 10.801,
+            "overview": "After a man with extraordinary, and frighteningly destructive, telepathic abilities is nabbed by agents from a mysterious rogue corporation, he discovers he is far from the only possessor of such strange powers. Some of the other \u201cscanners\u201d have their minds set on world domination, while others are trying to stop them.",
+            "popularity": 2.5427,
             "poster_path": "/VTqLdveNXxGsIAZL5I4RliTTt7.jpg",
             "release_date": "1981-01-14",
             "title": "Scanners",
             "video": false,
-            "vote_average": 6.721,
-            "vote_count": 1168
+            "vote_average": 6.7,
+            "vote_count": 1312
         },
         {
             "adult": false,
@@ -2425,17 +2425,17 @@
             "original_language": "en",
             "original_title": "The Blob",
             "overview": "A drive-in favorite, this sci-fi classic follows teenagers Steve and his best girl, Jane, as they try to protect their hometown from a gelatinous alien life form that engulfs everything it touches. The first to discover the substance and live to tell about it, Steve and Jane witness the blob destroying an elderly man, then it growing to a terrifying size. But no one else has seen the goo, and policeman Dave refuses to believe the kids without proof.",
-            "popularity": 20.605,
+            "popularity": 1.6186,
             "poster_path": "/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg",
             "release_date": "1958-09-10",
             "title": "The Blob",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 595
+            "vote_average": 6.213,
+            "vote_count": 643
         },
         {
             "adult": false,
-            "backdrop_path": "/cCLR0sTF8OixOiRLEesoQqOfc29.jpg",
+            "backdrop_path": "/yJXAo8N60RaVC6pEuXUQ6wFBCCA.jpg",
             "genre_ids": [
                 28,
                 878
@@ -2444,13 +2444,13 @@
             "original_language": "en",
             "original_title": "Logan's Run",
             "overview": "In the 23rd century, inhabitants of a domed city freely experience all of life's pleasures \u2014 but no one is allowed to live past 30. Citizens can try for a chance at being \"renewed\" in a civic ceremony on their 30th birthday. Escape is the only other option.",
-            "popularity": 16.451,
+            "popularity": 3.3722,
             "poster_path": "/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg",
             "release_date": "1976-06-23",
             "title": "Logan's Run",
             "video": false,
-            "vote_average": 6.6,
-            "vote_count": 921
+            "vote_average": 6.597,
+            "vote_count": 1019
         },
         {
             "adult": false,
@@ -2465,17 +2465,17 @@
             "original_language": "en",
             "original_title": "The Fountain",
             "overview": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
-            "popularity": 18.738,
-            "poster_path": "/t18RxTAw8AW0V5f0bKHpezRaGa6.jpg",
+            "popularity": 3.476,
+            "poster_path": "/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
             "release_date": "2006-11-22",
             "title": "The Fountain",
             "video": false,
-            "vote_average": 6.929,
-            "vote_count": 2730
+            "vote_average": 6.905,
+            "vote_count": 3015
         },
         {
             "adult": false,
-            "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+            "backdrop_path": "/8mTHUXS3vwub5ZlovQkZ8veQUah.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -2485,13 +2485,13 @@
             "original_language": "en",
             "original_title": "Rogue One: A Star Wars Story",
             "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
-            "popularity": 28.203,
+            "popularity": 10.9478,
             "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
             "release_date": "2016-12-14",
             "title": "Rogue One: A Star Wars Story",
             "video": false,
-            "vote_average": 7.493,
-            "vote_count": 15109
+            "vote_average": 7.504,
+            "vote_count": 16148
         },
         {
             "adult": false,
@@ -2506,13 +2506,13 @@
             "original_language": "en",
             "original_title": "Star Trek III: The Search for Spock",
             "overview": "A surprise visit from Spock's father provides a startling revelation: McCoy is harboring Spock's living essence.",
-            "popularity": 14.501,
+            "popularity": 2.0462,
             "poster_path": "/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg",
             "release_date": "1984-06-01",
             "title": "Star Trek III: The Search for Spock",
             "video": false,
-            "vote_average": 6.6,
-            "vote_count": 1345
+            "vote_average": 6.587,
+            "vote_count": 1475
         },
         {
             "adult": false,
@@ -2526,17 +2526,17 @@
             "original_language": "ja",
             "original_title": "\u30b7\u30f3\u30fb\u30b4\u30b8\u30e9",
             "overview": "When a massive, gilled monster emerges from the deep and tears through the city, the government scrambles to save its citizens.  A rag-tag team of volunteers cuts through a web of red tape to uncover the monster's weakness and its mysterious ties to a foreign superpower.  But time is not on their side - the greatest catastrophe to ever befall the world is about to evolve right before their very eyes.",
-            "popularity": 20.963,
+            "popularity": 4.8418,
             "poster_path": "/jPNShaWZMpVF0iQ7j1dvTuZLD20.jpg",
             "release_date": "2016-07-29",
             "title": "Shin Godzilla",
             "video": false,
-            "vote_average": 7.182,
-            "vote_count": 1272
+            "vote_average": 7.211,
+            "vote_count": 1516
         },
         {
             "adult": false,
-            "backdrop_path": "/1FBByew9RnXQ2HFqf7b6EWkyzTP.jpg",
+            "backdrop_path": "/nDXRRMYubyKqudMGAq0Ro0hd7lA.jpg",
             "genre_ids": [
                 16,
                 878
@@ -2544,18 +2544,18 @@
             "id": 9606,
             "original_language": "ja",
             "original_title": "\u30e1\u30c8\u30ed\u30dd\u30ea\u30b9",
-            "overview": "Kenichi and his detective uncle, Shunsaku Ban, leave Japan to visit Metropolis, in search of the criminal, Dr. Laughton. However, when they finally find Dr. Laughton, Kenichi and Shunsaku find themselves seperated and plunged into the middle of a larger conspiracy. While Shunsaku searches for his nephew and explanations, Kenichi tries to protect Tima (a mysterious young girl), from Duke Red and his adopted son Rock, both of whom have very different reasons for wanting to find her.",
-            "popularity": 15.671,
-            "poster_path": "/tOehVz3MhBhzvpvizEnsC8Gylo1.jpg",
+            "overview": "In the midst of societal conflict in the futuristic city of Metropolis, Kenichi and his uncle Shunsaku Ban set out to uncover the mystery behind the first human-like robot, Tima.",
+            "popularity": 1.8329,
+            "poster_path": "/41WtqvaObaYE3RuqgBfQFPV3aV1.jpg",
             "release_date": "2001-05-26",
             "title": "Metropolis",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 458
+            "vote_average": 7.149,
+            "vote_count": 540
         },
         {
             "adult": false,
-            "backdrop_path": "/nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg",
+            "backdrop_path": "/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
             "genre_ids": [
                 12,
                 53,
@@ -2565,36 +2565,37 @@
             "original_language": "en",
             "original_title": "War of the Worlds",
             "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
-            "popularity": 55.102,
+            "popularity": 8.0957,
             "poster_path": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
             "release_date": "2005-06-28",
             "title": "War of the Worlds",
             "video": false,
-            "vote_average": 6.51,
-            "vote_count": 8282
+            "vote_average": 6.532,
+            "vote_count": 8968
         },
         {
             "adult": false,
             "backdrop_path": "/5QTwfS9vcr22Nl7PCcUro7dEMFq.jpg",
             "genre_ids": [
                 12,
-                878
+                878,
+                18
             ],
             "id": 811,
             "original_language": "en",
             "original_title": "Silent Running",
             "overview": "After the entire flora goes extinct, ecologist Lowell maintains a greenhouse aboard a space station for the future with his android companions. However, he rebels after being ordered to destroy the greenhouse in favor of carrying cargo, a decision that puts him at odds with everyone but his mechanical companions.",
-            "popularity": 9.64,
-            "poster_path": "/oWLdnBKgVVUd7DougF5pNuIkZZJ.jpg",
+            "popularity": 2.1104,
+            "poster_path": "/ahasZ5HILZHtlrl6cbXgpfk0y8H.jpg",
             "release_date": "1972-03-09",
             "title": "Silent Running",
             "video": false,
-            "vote_average": 6.417,
-            "vote_count": 556
+            "vote_average": 6.394,
+            "vote_count": 626
         },
         {
             "adult": false,
-            "backdrop_path": "/1JwLeunKPVPgcP2HpGWiAPvNlMN.jpg",
+            "backdrop_path": "/qV4zzpe4mfXnmFIOL6uugnUcM9R.jpg",
             "genre_ids": [
                 878,
                 28
@@ -2603,13 +2604,13 @@
             "original_language": "en",
             "original_title": "Rollerball",
             "overview": "In a corporate-controlled future, an ultra-violent sport known as Rollerball represents the world, and one of its powerful athletes is out to defy those who want him out of the game.",
-            "popularity": 10.249,
+            "popularity": 1.8303,
             "poster_path": "/cmcipEfexlhVLYQXqeSWp1YcsPY.jpg",
             "release_date": "1975-06-25",
             "title": "Rollerball",
             "video": false,
-            "vote_average": 6.238,
-            "vote_count": 520
+            "vote_average": 6.28,
+            "vote_count": 592
         },
         {
             "adult": false,
@@ -2621,14 +2622,14 @@
             "id": 10513,
             "original_language": "en",
             "original_title": "Plan 9 from Outer Space",
-            "overview": "In California, an old man grieves the loss of his wife and on the next day he also dies. However, the space soldier Eros and her mate Tanna use an electric device to resurrect them both and the strong Inspector Clay that was murdered by the couple. Their intention is not to conquest Earth but to stop mankind from developing the powerful bomb \u201cSolobonite\u201d that would threaten the universe. When the population of Hollywood and Washington DC sees flying saucers on the sky, a colonel, a police lieutenant, a commercial pilot, his wife and a policeman try to stop the aliens.",
-            "popularity": 10.526,
-            "poster_path": "/qbMfQbSK91D8nxSqRfMTkNGwmld.jpg",
-            "release_date": "1959-07-22",
+            "overview": "In California, an old man grieves the loss of his wife, and dies the day after she is buried. However, the space soldier Eros and his mate Tanna use an electric device to resurrect them both, alongside the strong Inspector Clay, who was murdered by the alien-controlled dead couple. When the populations of Hollywood and Washington DC see flying saucers on the sky, a colonel, a police lieutenant, a commercial pilot, his wife and a policeman try to stop the aliens.",
+            "popularity": 1.8541,
+            "poster_path": "/bmicZi7PvlnZ9rZqp6QXN2Db0pT.jpg",
+            "release_date": "1957-03-15",
             "title": "Plan 9 from Outer Space",
             "video": false,
             "vote_average": 4.199,
-            "vote_count": 533
+            "vote_count": 589
         },
         {
             "adult": false,
@@ -2642,17 +2643,17 @@
             "original_language": "en",
             "original_title": "Ready Player One",
             "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
-            "popularity": 51.971,
+            "popularity": 13.3481,
             "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
             "release_date": "2018-03-28",
             "title": "Ready Player One",
             "video": false,
-            "vote_average": 7.599,
-            "vote_count": 15456
+            "vote_average": 7.585,
+            "vote_count": 16605
         },
         {
             "adult": false,
-            "backdrop_path": "/lcCNS7vyofFpJV7fl92ipIdNmGi.jpg",
+            "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
             "genre_ids": [
                 28,
                 878,
@@ -2662,17 +2663,17 @@
             "original_language": "en",
             "original_title": "Alita: Battle Angel",
             "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
-            "popularity": 53.653,
+            "popularity": 11.1075,
             "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
             "release_date": "2019-01-31",
             "title": "Alita: Battle Angel",
             "video": false,
-            "vote_average": 7.238,
-            "vote_count": 9032
+            "vote_average": 7.244,
+            "vote_count": 9805
         },
         {
             "adult": false,
-            "backdrop_path": "/eU5fW21apU2CJYlmzJHoWo09GmE.jpg",
+            "backdrop_path": "/z9y41Biv1isRtErpt7Ecv01ru0W.jpg",
             "genre_ids": [
                 27,
                 35
@@ -2680,14 +2681,14 @@
             "id": 10776,
             "original_language": "en",
             "original_title": "Little Shop of Horrors",
-            "overview": "Seymour Krelborn is a nerdy orphan working at Mushnik's, a flower shop in urban Skid Row. He harbors a crush on fellow co-worker Audrey Fulquard, and is berated by Mr. Mushnik daily. One day Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for his supper.",
-            "popularity": 23.358,
+            "overview": "Seymour Krelborn is a nerdy orphan working at Mushnik's; a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for it\u2019s supper.",
+            "popularity": 4.2645,
             "poster_path": "/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
             "release_date": "1986-12-19",
             "title": "Little Shop of Horrors",
             "video": false,
-            "vote_average": 6.924,
-            "vote_count": 1416
+            "vote_average": 6.969,
+            "vote_count": 1591
         },
         {
             "adult": false,
@@ -2701,17 +2702,17 @@
             "original_language": "en",
             "original_title": "Flight of the Navigator",
             "overview": "12-year-old David is accidentally knocked out in the forest near his home, but when he awakens eight years have passed. His family is overjoyed to have him back, but is just as perplexed as he is that he hasn't aged. When a NASA scientist discovers a UFO nearby, David gets the chance to unravel the mystery and recover the life he lost.",
-            "popularity": 19.387,
+            "popularity": 2.5834,
             "poster_path": "/tdRgQWMximj0tL6OWu9kRTtePmI.jpg",
             "release_date": "1986-07-30",
             "title": "Flight of the Navigator",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 826
+            "vote_average": 6.949,
+            "vote_count": 919
         },
         {
             "adult": false,
-            "backdrop_path": "/8DTL9HCoQ1sfzyrCqDp1anRJtbN.jpg",
+            "backdrop_path": "/c1nCz7PEip3YeqT7R4I8Toc3FOw.jpg",
             "genre_ids": [
                 18,
                 878,
@@ -2721,13 +2722,13 @@
             "original_language": "en",
             "original_title": "The Congress",
             "overview": "An aging, out-of-work actress accepts one last job, though the consequences of her decision affect her in ways she didn't consider.",
-            "popularity": 9.217,
+            "popularity": 1.2735,
             "poster_path": "/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
             "release_date": "2013-07-03",
             "title": "The Congress",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 511
+            "vote_average": 6.405,
+            "vote_count": 566
         },
         {
             "adult": false,
@@ -2741,13 +2742,13 @@
             "original_language": "en",
             "original_title": "Contact",
             "overview": "A radio astronomer receives the first extraterrestrial radio signal ever picked up on Earth. As the world powers scramble to decipher the message and decide upon a course of action, she must make some difficult decisions between her beliefs, the truth, and reality.",
-            "popularity": 30.602,
+            "popularity": 7.7394,
             "poster_path": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
             "release_date": "1997-07-11",
             "title": "Contact",
             "video": false,
-            "vote_average": 7.427,
-            "vote_count": 4395
+            "vote_average": 7.438,
+            "vote_count": 4861
         },
         {
             "adult": false,
@@ -2760,17 +2761,17 @@
             "original_language": "en",
             "original_title": "Annihilation",
             "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
-            "popularity": 50.378,
-            "poster_path": "/1dRweZy8DxGDhJFqiOA4Ni3I1ie.jpg",
+            "popularity": 10.6535,
+            "poster_path": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
             "release_date": "2018-02-22",
             "title": "Annihilation",
             "video": false,
-            "vote_average": 6.42,
-            "vote_count": 8521
+            "vote_average": 6.438,
+            "vote_count": 9200
         },
         {
             "adult": false,
-            "backdrop_path": "/mIR2xM16XDa1ynU2XXeGAYZ8BgA.jpg",
+            "backdrop_path": "/eTzdSb3YCFZvyzicBalPJ9O0zzJ.jpg",
             "genre_ids": [
                 16,
                 14,
@@ -2779,14 +2780,14 @@
             "id": 16220,
             "original_language": "en",
             "original_title": "Wizards",
-            "overview": "After the death of his mother, the evil mutant wizard Blackwolf discovers some long-lost military technologies. Full of ego and ambition, Blackwolf claims his mother's throne, assembles an army and sets out to brainwash and conquer Earth. Meanwhile, Blackwolf's gentle twin brother, the bearded and sage Avatar, calls upon his own magical abilities to foil Blackwolf's plans for world domination -- even if it means destroying his own flesh and blood.",
-            "popularity": 12.409,
-            "poster_path": "/j6vnfriBL36OtnbXLhA5htk83rG.jpg",
+            "overview": "After the death of his mother, evil mutant wizard Blackwolf discovers long-lost military technologies. Full of ego and ambition, Blackwolf claims his mother's throne, assembles an army, and sets out to brainwash and conquer Earth. Meanwhile, Blackwolf's gentle twin brother, the bearded sage Avatar, calls upon his own magical abilities to foil Blackwolf's plans for world domination \u2014 even if it means eliminating his own flesh and blood.",
+            "popularity": 1.1584,
+            "poster_path": "/jeAxoYepnVirGe0H7pmwviSZYul.jpg",
             "release_date": "1977-02-09",
             "title": "Wizards",
             "video": false,
-            "vote_average": 6.1,
-            "vote_count": 200
+            "vote_average": 6.2,
+            "vote_count": 229
         },
         {
             "adult": false,
@@ -2800,17 +2801,17 @@
             "original_language": "en",
             "original_title": "Midnight Special",
             "overview": "A father and son go on the run after the dad learns his child possesses special powers.",
-            "popularity": 23.904,
+            "popularity": 3.3974,
             "poster_path": "/hgDRq1l4ATxwufWjILKsYtglbI6.jpg",
             "release_date": "2016-02-18",
             "title": "Midnight Special",
             "video": false,
-            "vote_average": 6.237,
-            "vote_count": 1857
+            "vote_average": 6.25,
+            "vote_count": 2005
         },
         {
             "adult": false,
-            "backdrop_path": "/5DU39tmUzbXtD6UXgm7iZqxpwoV.jpg",
+            "backdrop_path": "/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
             "genre_ids": [
                 35,
                 878,
@@ -2820,14 +2821,14 @@
             "id": 36685,
             "original_language": "en",
             "original_title": "The Rocky Horror Picture Show",
-            "overview": "Sweethearts Brad and Janet, stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter, a transvestite scientist. As their innocence is lost, Brad and Janet meet a houseful of wild characters, including a rocking biker and a creepy butler. Through elaborate dances and rock songs, Frank-N-Furter unveils his latest creation: a muscular man named 'Rocky'.",
-            "popularity": 35.504,
+            "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr. Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
+            "popularity": 4.8554,
             "poster_path": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
             "release_date": "1975-08-14",
             "title": "The Rocky Horror Picture Show",
             "video": false,
-            "vote_average": 7.458,
-            "vote_count": 2757
+            "vote_average": 7.44,
+            "vote_count": 3071
         },
         {
             "adult": false,
@@ -2839,18 +2840,18 @@
             "id": 220289,
             "original_language": "en",
             "original_title": "Coherence",
-            "overview": "On the night of an astronomical anomaly, eight friends at a dinner party experience a troubling chain of reality bending events.",
-            "popularity": 85.764,
+            "overview": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+            "popularity": 4.5424,
             "poster_path": "/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
-            "release_date": "2013-09-19",
+            "release_date": "2014-04-06",
             "title": "Coherence",
             "video": false,
-            "vote_average": 7.24,
-            "vote_count": 2857
+            "vote_average": 7.221,
+            "vote_count": 3283
         },
         {
             "adult": false,
-            "backdrop_path": "/zMlPAatS0X5kBVOSzdItp90pq8k.jpg",
+            "backdrop_path": "/bo5VJbds3oeMoj19GFnzBoUgjJS.jpg",
             "genre_ids": [
                 878,
                 18,
@@ -2860,17 +2861,17 @@
             "original_language": "en",
             "original_title": "High Life",
             "overview": "A father and his daughter struggle to survive in deep space where they live in isolation.",
-            "popularity": 19.135,
+            "popularity": 1.9459,
             "poster_path": "/ftRRIYNzpTDYeTznrAxgT5v1vJY.jpg",
             "release_date": "2018-09-26",
             "title": "High Life",
             "video": false,
-            "vote_average": 5.75,
-            "vote_count": 1073
+            "vote_average": 5.741,
+            "vote_count": 1197
         },
         {
             "adult": false,
-            "backdrop_path": "/iYGAJjtSBIhJodgvZ9k28rGtgyj.jpg",
+            "backdrop_path": "/m9K8LWrIuujCvYW9c7SgIOSOOj1.jpg",
             "genre_ids": [
                 12,
                 878,
@@ -2879,18 +2880,18 @@
             "id": 2362,
             "original_language": "en",
             "original_title": "Westworld",
-            "overview": "Delos is a futuristic amusement park that features themed worlds\u2014ancient Rome, Medieval times and the Old West\u2014populated by human-like androids. After two patrons have a run-in with a menacing gunslinger in West World, the androids at Delos all begin to malfunction, causing havoc throughout the park.",
-            "popularity": 28.161,
-            "poster_path": "/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg",
+            "overview": "Delos is a futuristic amusement park that features themed worlds populated by human-like androids. After two patrons have a run-in with a menacing gunslinger in West World, the androids at Delos all begin to malfunction, causing havoc throughout the park.",
+            "popularity": 7.0715,
+            "poster_path": "/1iHKPXT9Xjoz0YYZpZj67fw3mBC.jpg",
             "release_date": "1973-08-15",
             "title": "Westworld",
             "video": false,
-            "vote_average": 6.776,
-            "vote_count": 1271
+            "vote_average": 6.8,
+            "vote_count": 1412
         },
         {
             "adult": false,
-            "backdrop_path": "/AeDS2MKGFy6QcjgWbJBde0Ga6Hd.jpg",
+            "backdrop_path": "/duengnNbJdTdjR329SmAAJO4stC.jpg",
             "genre_ids": [
                 878,
                 18
@@ -2899,13 +2900,13 @@
             "original_language": "en",
             "original_title": "Ad Astra",
             "overview": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
-            "popularity": 12.127,
+            "popularity": 4.3878,
             "poster_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
             "release_date": "2019-09-17",
             "title": "Ad Astra",
             "video": false,
-            "vote_average": 6.111,
-            "vote_count": 6522
+            "vote_average": 6.123,
+            "vote_count": 7075
         },
         {
             "adult": false,
@@ -2918,17 +2919,17 @@
             "original_language": "es",
             "original_title": "Los cronocr\u00edmenes",
             "overview": "A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.",
-            "popularity": 11.688,
+            "popularity": 2.4212,
             "poster_path": "/zdxQRP7mzczMJBwKnv8MCPRq7rQ.jpg",
             "release_date": "2007-11-01",
             "title": "Timecrimes",
             "video": false,
-            "vote_average": 6.997,
-            "vote_count": 1239
+            "vote_average": 7.015,
+            "vote_count": 1396
         },
         {
             "adult": false,
-            "backdrop_path": "/zX0pEwk0zDnS85Nxl1hI6h6dfFu.jpg",
+            "backdrop_path": "/nvCMi8ZhH1Z8i9ZFHYrXBl8uBw0.jpg",
             "genre_ids": [
                 878,
                 27,
@@ -2938,17 +2939,17 @@
             "original_language": "en",
             "original_title": "The Endless",
             "overview": "Two brothers return to the cult they fled from years ago to discover that the group's beliefs may be more sane than they once thought.",
-            "popularity": 15.271,
-            "poster_path": "/49sb3kEZplzudQBhJDSt0mNJm4V.jpg",
+            "popularity": 2.7762,
+            "poster_path": "/uVHPBTLb6Sj1Eso9HzyBAOMRheM.jpg",
             "release_date": "2017-11-05",
             "title": "The Endless",
             "video": false,
-            "vote_average": 6.318,
-            "vote_count": 1065
+            "vote_average": 6.331,
+            "vote_count": 1246
         },
         {
             "adult": false,
-            "backdrop_path": "/bp2nxKuLqcVmMwa5wTsgO4tYm8p.jpg",
+            "backdrop_path": "/i3IOqOFdAdjw0ebQXkIevybkkNF.jpg",
             "genre_ids": [
                 12,
                 35,
@@ -2958,13 +2959,13 @@
             "original_language": "en",
             "original_title": "The Hitchhiker's Guide to the Galaxy",
             "overview": "Mere seconds before the Earth is to be demolished by an alien construction crew, Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of \"The Hitchhiker's Guide to the Galaxy.\"",
-            "popularity": 35.662,
+            "popularity": 4.268,
             "poster_path": "/yr9A3KGQlxBh3yW0cmglsr8aMIz.jpg",
             "release_date": "2005-04-28",
             "title": "The Hitchhiker's Guide to the Galaxy",
             "video": false,
-            "vote_average": 6.666,
-            "vote_count": 3811
+            "vote_average": 6.679,
+            "vote_count": 4145
         }
     ]
 }

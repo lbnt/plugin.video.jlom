@@ -1,0 +1,18 @@
+{
+    "type" : "folder_list",
+    "title" : "Romance",
+    "added" : "17/02/26",
+    "modified" : "17/02/26",
+    "folders" : [
+        {
+            "title" : "AFI - 100 years ... 100 Passions",
+            "id" : "AFI-100_years_100_passions",
+            "type" : "movie_list"
+        },
+        {
+            "title" : "Rotten Tomatoes - The 200 Best Romantic Comedies Of All Time",
+            "id" : "Rotten_Tomatoes-Best_romantic_comedies_of_all_time",
+            "type" : "movie_list"
+        }
+    ]
+}
